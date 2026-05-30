@@ -1,0 +1,251 @@
+Mindmap
+AI Image Generation and Advanced Rendering: A Comprehensive Guide
+
+AI Image Generation & Advanced Rendering
+<
+Core Concepts
+<
+Models & Architectures
+<
+Techniques & Methods
+<
+Prompting & Guidance
+<
+Artistic Styles & Genres
+<
+Challenges & Limitations
+<
+Applications & Industry Uses
+<
+Hyperrealism
+Photorealism
+Computational Photography
+Multimodal Learning
+<
+Zero-Shot Learning (ZSL)
+Self-Supervised Learning (SSL)
+Few-Shot Prompting
+Real-Time Rendering
+Aesthetics
+Visual Semiotics
+Design Thinking
+Conceptual Depth
+Generative Adversarial Networks (GANs)
+<
+Diffusion Models (DMs)
+<
+Variational Autoencoders (VAEs)
+<
+Transformers
+<
+Large Language Models (LLMs)
+<
+Neural Radiance Fields (NeRFs)
+<
+Gaussian Splatting (GS)
+<
+Convolutional Neural Networks (CNNs)
+<
+Image Enhancement
+<
+Rendering
+<
+Composition
+<
+Lighting
+<
+Texture & Material
+<
+Photography Techniques
+<
+AI-Driven Design
+<
+Computational Efficiency
+<
+Instructional Prompting
+Layered Prompt Structuring
+Iterative Refinement
+Prompt Weighting & Emphasis
+Negative Prompts
+Chain-of-Thought (CoT) Prompting
+Multi-modal Prompts
+<
+Contextual Clues
+Specificity and Detail
+Keywords & Modifiers
+Historical Art Movements
+<
+Modern & Futuristic Styles
+<
+Abstract & Conceptual
+<
+Photographic Styles
+<
+Horror Genres
+<
+Other Artistic Styles
+<
+Complex/Abstract Concepts
+Fine Details & Text Legibility
+Uncommon/Niche Subjects
+Controversial/Sensitive Content
+Ambiguous Prompts
+Conflicting Instructions
+Image-Prompt Mismatch
+Unexpected Artifacts/Distortions
+Inconsistent Results
+Copyright Issues
+<
+Marketing & Advertising
+E-commerce & Retail
+Gaming & Entertainment
+Architecture & Interior Design
+Fashion & Design
+Education & Publishing
+VR/AR/Metaverse Content
+3D Asset Creation
+Medical Imaging
+Art Restoration
+Cultural Heritage Documentation
+Language Learning Courses
+Input Fusion
+Cross-Modality Techniques
+Domain Adaptation
+StyleGAN
+ESRGAN
+DCGAN
+Pix2Pix
+Progressive Growing GANs
+Denoising Diffusion Probabilistic Models (DDPMs)
+Latent Diffusion Models (LDMs)
+Stable Diffusion
+DALL-E 2/3
+Imagen
+VQ-VAE
+Conditional VAEs
+Vision Transformer (ViT)
+Attention Mechanisms
+Cross-Attention
+ChatGPT
+GoogleBard
+GoogleGemini
+Mip-NeRF
+Instant-NGP
+3D Gaussian Splatting
+4D Gaussian Splatting
+U-Net
+Super-Resolution (SR)
+<
+Denoising
+<
+Deblurring
+Sharpening
+<
+HDR Imaging & Fusion
+<
+Color Grading & Harmonization
+Image Inpainting & Completion
+<
+Ray Tracing
+Volumetric Rendering
+Differentiable Rendering
+Physically Based Rendering (PBR)
+<
+Rule of Thirds
+Golden Ratio
+Leading Lines
+Negative Space
+Dynamic Cropping
+Layering Elements
+Three-Point Perspective
+Visual Echo
+Natural vs. Artificial Light
+Hard vs. Soft Light
+Three-Point Lighting
+Dynamic Lighting
+Volumetric Lighting
+Shadow Mapping
+Displacement Mapping
+Normal Mapping
+Procedural Textures
+Nano-Texturing
+Multi-Channel Texture Baking
+Depth of Field (DoF)
+<
+Long Exposure
+Macro Photography
+Double Exposure
+Aerial Imaging (Drone Photography)
+Panoramic Photography
+Time-Lapse Photography
+Cross-Polarization
+High-Speed Sync (HSS)
+Generative Design Algorithms
+Evolutionary Algorithms
+Texture Caching
+Sparse Matrices
+Multi-Threaded Processing
+Text Prompts
+Image Prompts
+Geometric Prompts
+Renaissance Art
+Impressionism
+Cubism
+Surrealism
+Fauvism
+Art Deco
+Baroque
+Romanticism
+Cyberpunk
+Steampunk
+Dieselpunk
+Retro-futurism
+Vaporwave
+Solarpunk
+Atompunk
+Abstract Expressionism
+Tachisme
+Minimalism
+Conceptual Photography
+Abstract Conceptual Photography
+Street Photography
+Portraiture
+Landscape Photography
+Fine Art Photography
+Product Photography
+Fashion Photography
+Wildlife Photography
+Architectural Photography
+Travel Photography
+Sports Photography
+Documentary Photography
+Gothic Horror
+Sci-Fi Horror
+Folk & Mythological Horror
+Anime/Manga
+Ukiyo-e
+Chibi-style
+Pixel Art
+Impasto
+Dry Brush
+Gouache
+Originality & Human Authorship
+Fair Use
+ESRGAN
+DLSS
+Multi-Scale Image Analysis
+Bilateral Filtering
+Luminance vs. Chrominance Noise Separation
+Edge-Aware Sharpening
+High-Pass Sharpening
+Tone Mapping
+HDR Reflections
+Multi-Dimensional Exposure Blending
+Mask-Guided Editing
+Depth Inpainting
+PBR Materials
+Subsurface Scattering (SSS)
+Fresnel Effects
+Shallow DoF
+Deep DoF
+Focus Stacking

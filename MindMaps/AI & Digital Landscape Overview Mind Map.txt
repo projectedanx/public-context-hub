@@ -1,0 +1,467 @@
+AI & Digital Landscape Overview
+<
+AI & Digital Landscape
+<
+AI System Failures & Mitigations
+<
+Prompt Engineering
+<
+AI Agents & Multi-Agent Systems (MAS)
+<
+AI in Creative Arts & Media
+<
+Digital Truth & Epistemology
+<
+AI in Writing & Content Creation
+<
+AI in Healthcare & Therapy
+<
+AI & Language/Semiotics
+<
+AI Infrastructure & Ecosystems
+<
+Robotics & Embodied AI
+<
+Environmental & Socio-Aesthetic Design
+<
+Australia's AI Ecosystem
+<
+Failure Types
+<
+Mitigation & Recovery
+<
+Concept & Evolution
+<
+Techniques
+<
+Challenges & Failures
+<
+Improving Prompts
+<
+Core Concepts
+<
+Architectures & Frameworks
+<
+Security & Risks
+<
+Applications & Impact
+<
+Open Source Agents
+<
+Image Generation
+<
+AI in Music & Audio
+<
+AI-Assisted Storytelling
+<
+Monetization Ecosystems
+<
+Evolution of Image Truth
+<
+Crisis of Trust
+<
+Addressing the Crisis
+<
+Bias in AI-Generated Images
+<
+Engagement & Quality
+<
+Advanced Formats (Depth & Innovation)
+<
+Prompting for Depth
+<
+Recommendations for Pipelines
+<
+Biolux-SDL Framework
+<
+Therapeutic Modalities
+<
+Data & Personalization
+<
+Ethical Considerations
+<
+Interfaces & Metaphors
+<
+Adjectives in Prompts
+<
+Symbolic Languages (STEM)
+<
+Semiotic AI Meaning Negotiation
+<
+Indigenous Textile Computation (Ethnomathematics)
+<
+English Word Origins (Linguistic Evolution)
+<
+Modular Intelligence Ecosystems (MIEs)
+<
+Orchestration Platforms
+<
+Data Management
+<
+Cloud & Hosting Scalability
+<
+AI Content Platforms
+<
+Hybrid Embodied AI
+<
+Action & Sensor Tokenization
+<
+Safety Mechanisms
+<
+Case Studies
+<
+Deployment Optimization
+<
+Wind Energy Infrastructure
+<
+Bio-inspired Design (Exoskeletons)
+<
+Bioluminescent Design (Luminous Logic)
+<
+Interface Aesthetics
+<
+Historical Infrastructure
+<
+Startup Landscape
+<
+Emerging Entrepreneurs
+<
+Government & Policy
+<
+International Partnerships
+<
+New Job Roles
+<
+Semantic Failures
+<
+Logical/Coherence Failures
+<
+Interaction/Systemic Failures
+<
+Physical/Sensory Failures
+<
+Structured Prompt Engineering
+<
+Architectural Robustness
+<
+Human-Centric Governance
+<
+AI Immune System Metaphor
+From Ad-hoc to Infrastructure
+Modular Cognitive Interface
+Prompts as Executable Specifications
+Prompt Compilers
+Chain-of-Thought (CoT)
+ReAct (Reason+Act) Prompting
+Retrieval-Augmented Generation (RAG)
+Recursive Prompting
+Persona Prompting
+Negative Prompting
+Context Injection
+Example Provision
+Token Weighting / Emphasis
+Multi-turn Conversational
+Meta-Prompting
+De-Flattening Archetype
+Dialectical AI
+Causal Tracing
+Comparative Analysis
+Narrative Arc Template
+ChronoSensory Templates
+Temporal Grammar
+Behavioral/Physiological Cues
+Lighting + Epoch Prompt Map
+Fluidic Language Code Snippets
+Ambiguity & Misinterpretation
+Semantic Drift
+Prompt Sensitivity/Instability
+Chaining Overload
+Role Misfit/Style Mismatch
+Cognitive Load (Hidden Labor)
+Intent Gap
+Bias Amplification
+Iterative Refinement
+Prompt Rewriting
+Prompt Template Libraries
+Failure Mode Catalog
+Self-Check Review
+Shift from Models to Agents
+Goal-Directed
+Tool Use
+Reasoning Modules
+Real-time Information
+Role-Based Orchestration
+Dynamic Adaptation
+Centralized vs. Distributed Control
+Compound AI Systems
+Human-AI Teaming (HAIT)
+LangChain
+AutoGen
+LangGraph (Stateful Agents)
+MetaGPT
+CrewAI
+Haystack
+Agent Spoofing/Impersonation
+Prompt Injection/Infection
+Malicious Code Injection
+Unauthorized System Modifications
+Pervasive Monitoring (Zero Trust Architecture)
+Principle of Least Privilege
+Multi-Agent Alignment Paradox
+Workforce RSI (Recursive Self-Improvement)
+Automated Website Management (Elicit)
+AI-Powered Code Concept Tutor
+Affiliate Marketing Agents
+Scientific Discovery & Ideation
+AI Co-Administration (WordPress)
+Collaboration & Contribution Models
+GitHub (OpenManus, OWL)
+Interoperability (AGNTCY)
+Rapid Innovation vs. Security/Ethics
+<
+Core Architectures
+<
+Techniques & Control
+<
+Quality & Fidelity
+<
+Ethical Concerns
+<
+User Experience
+Generative Platforms (Boomy, Mubert Playground)
+Royalty-Free Background Music
+Instant Creation & Distribution
+Brainstorming & Script Analysis
+Storyboard Generation
+Character Consistency
+4D Cinematic Continuity (Temporal, Emotional, Symbolic, Visual)
+Generative Narrative Lab
+Ephemeral AI Experience Provider (Live Performance, Interactive Installations)
+Algorithmic Suppression & Bias
+Direct Value Exchange (Tipping, Coaching)
+Experiential Curation
+Traditional Photography (Indexical)
+Photoshop Era (Malleable Image)
+Synthetic Age (Probabilistic Render)
+Liar's Dividend
+Cognitive Fatigue
+Disinformation Amplification
+Erosion of Social/Political Trust
+Provenance Tracking (C2PA)
+Warning Labels
+Socio-Technical Complementarity
+Cultural Sovereignty & Opt-Out
+Epistemic Justice (Decolonizing AI)
+Professional & Gender Stereotypes
+Algorithmic Amplification
+Affective Dissonance of Misrepresentation
+Homogenization of Indigenous Art
+Higher Engagement Metrics (Initial)
+Lower Perceived Quality
+Lack of Human Touch/Experience/Resonance
+Discrepancy in Metrics
+Dialectical AI Content
+Causal Chain Analysis
+Tool Walkthroughs & Comparisons
+Experiential Narratives
+Hybrid Workflows (AI Augmentation)
+Multi-turn Conversational Prompting
+Targeted Cognitive Actions
+Prompt Libraries
+Strategic Use of Negative Prompts
+Guiding AI's 'Thinking'
+Shift Focus from First Drafts
+Leverage AI for Research Assistance
+Data Analysis & Gap Identification
+Outline Generation
+Unified Architecture
+Symbolic, Multimodal Therapeutic OS
+Master Context Intent Layer (MCIL)
+State.Feedback Channel (Closed-Loop Affective Computing)
+Therapeutic Symbol Schema Layer (TSSL)
+Haptics (Pneumatic Actuators, CT Afferents)
+Sound (Binaural Beats, Isochronic Tones, Soundscapes)
+Light (Chromo-Luminance, Polyvagal Luminous Spectrum)
+Scent (Olfactory Habituation Management)
+Biometric Data (HRV, GSR, EEG)
+Affective Computing Engine
+Personalization Engine (Continuous Learning)
+Context-Aware Analysis with Confidence Bands
+Persuasive Technology (Manipulation Risk)
+Affective Computing (Bias Risk)
+Biometrics (Privacy Risk)
+Transparency & Explainability
+User Control & Fail-Safes
+Therapist Dashboard
+Patient Interface (Ambient Display)
+Clockwork Patient Metaphor (Cognitive Decline)
+Lanternfish Glyph Metaphor (Patient State)
+Vampire Squid Metaphor (Tiered Signaling)
+Precision vs. Padding
+Semantic Interpretation
+Stylistic & Tonal Modulation
+Information Gain
+Failure Sources (Ambiguity, Bias, Hallucination)
+Context-Dependent Meaning
+Tokenization Challenges
+Domain Leakage & Polysemy
+Strategies for Interpretation (Descriptive, Phonetic, LaTeX)
+Levels of AI Negotiation (Standard, Advanced)
+Dynamic Goal Adaptation
+Semiotic Frameworks for Interoperability (SIEF)
+Hidden Algorithms
+Symmetry, Recursion, Encoding
+Oral Knowledge Transmission
+Cultural Specificity & Decolonial Critique
+Ancient Greek Contributions
+Late Latin Influence
+Middle English (French, Old Norse)
+Old English (Anglo-Saxon) Resilience
+Proto-Indo-European Roots
+Semantic Shift & Doublets
+Systemic Understanding Imperative
+Interdependencies & Feedback Loops
+Cascading Failures
+Cognitive, Technical, Socio-Epistemic Modularity
+Human-AI Alignment Challenges
+Emergence Firewall
+Containment Kernel
+Airflow (Ecosystem Orchestrator)
+LangChain, AutoGen, Flowise, Haystack
+Composable Workflows
+Mem0 (Multi-level Memory Architecture)
+Episodic & Semantic Memory
+Error Classification Taxonomies
+Google Cloud
+Azure
+Vertical vs. Horizontal Scaling
+Autoscaling
+Performance across Social Media (X, FB, Pinterest, IG, LinkedIn)
+Platform Preferences (Semantic vs. Aesthetic)
+Disclosure Requirements
+LLM Integration with Robotic Control
+Unitree Robotics Frameworks
+Reinforcement Learning Experience
+Multimodal Dataset Creation
+Real-time Deployment (<100 ms latency)
+Vision-Language-Action (VLA) Tokenization
+Discretizing Joint Commands
+Unitree's Built-in Safety Controllers
+Guardrails
+PaLM-E (Google)
+RT-2 (DeepMind)
+OpenAI Robotics
+Model Quantization (4-bit, GGUF)
+Mixture of Experts (MoE)
+Socio-Aesthetic Impacts
+Landscape Harmony
+Bladeless & Low-Noise Concepts (Vortex Bladeless)
+Community Engagement & Benefit Sharing
+Integration with Ecological/Cultural Flows
+Addressing Social Resistance (Procedural Injustice, Inequity)
+Graceful Failure (Diabolical Ironclad Beetle)
+Information as Material Property
+Cooling Mechanisms (Spider Wasps)
+Fracture Toughness (Lobster)
+Predation (Anglerfish Lure)
+Defense (Vampire Squid Mucus)
+Intraspecific Communication (Humboldt Squid Patterns)
+Camouflage (Counter-illumination)
+Tiered Signaling
+Evolution (Skeuomorphism, Flat Design, Glassmorphism)
+Bento UI
+Minimalism
+Generative Design (AI-driven Layouts)
+Real-Time 3D
+Dark Mode
+Transatlantic Telegraph Cables
+Colonial Extraction (Gutta-percha, Copper)
+Marine Ecological Impacts
+Imperial Technopolitics (All Red Line)
+Infrastructure-as-Memory
+Parallels with Modern Internet Cables
+Early-Stage Dynamism (Pre-Seed to Series A)
+Global Ambitions
+Notable Examples (Leonardo.ai, Deeligence, Build Club, Relevance AI, Splash, Curious Thing AI)
+VC Funding & Government Initiatives
+New Generation (Under 35)
+Technical Innovation & Diverse Backgrounds
+Annie Liao (Build Club)
+Sam Zheng (Curious Thing AI)
+Responsible AI Use Policy
+Accountability & Transparency Statements
+Public Sector AI Skills Investment
+Government as AI User
+AUKUS (Defense AI)
+US & Australia (Critical & Emerging Technologies)
+Global Partnership on AI (GPAI)
+Quad AI-ENGAGE (Agriculture)
+University-Industry Link (Uni Sydney & Microsoft)
+Prompt Engineers (Marketing/Creative)
+AI Artists
+Specialized Skillsets
+Semantic Drift
+Hallucination/Confabulation
+Typological Drift
+Literal Misinterpretation
+Semantic Information Loss
+Narrative Collapse/Incoherence
+Causal Reasoning Failure
+Logic Divergence
+Paradox Absorption Limits
+Overalignment Collapse (Brittleness)
+Prompt Collapse/Sensitivity
+Misalignment
+Interface Assumption Failures
+Cognitive Interference
+Recursive Amplification Error
+Model Collapse
+Dependency Hell/API Instability
+Epistemic Value Loss
+Echo Chamber Feedback
+Anatomical/Geometric Implausibility
+Sensory-Causal Fidelity Failure
+Low-Entropy Prompting
+Iterative Refinement
+Ethical Prompt Engineering
+Constrained Prompting
+Semantic Alignment Mechanisms
+Entropy Caps/Management
+Causal Reasoning & Grounding
+Metacognitive Self-Auditing
+Provenance & Transparency (C2PA)
+Defense-in-Depth for Attacks
+Structured Latent Spaces
+Human-in-the-Loop (HITL)
+Epistemic Humility
+Adaptive Governance
+Empathy Literacy
+Proactive Failure Inoculation
+Innate Immunity (Adversarial Training)
+Adaptive Immunity (Monitoring & Retraining)
+Therapeutic Buffering
+Generative Adversarial Networks (GANs)
+Diffusion Models (LDMs, Stable Diffusion, Midjourney, DALL-E 3)
+Neural Radiance Fields (NeRFs)
+3D Gaussian Splatting (3DGS)
+Normalizing Flows (NFs)
+Transformers (Vision Transformers, Diffusion Transformers)
+Prompting (Textual, Hybrid)
+Inpainting & Editing
+Super-Resolution/Upscaling
+ControlNet (Compositional Control)
+LoRA (Cultural Specificity Fine-Tuning)
+Latent Space Disentanglement
+Physicality via Light/Texture/Tempo Cues
+Photorealism
+Sensory-Causal Fidelity
+Extreme Texture Fidelity (GigaGAN)
+Addressing Artifacts (Anatomical, Text, Compositional)
+Bias & Stereotyping
+Homogenization of Art (Indigenous Cultural Property)
+Low Collector Trust
+Authenticity Concerns
+Data Scraping/Copyright Infringement
+Cognitive Load & Friction
+Sensory Pressure
+Debugging Black Box Models

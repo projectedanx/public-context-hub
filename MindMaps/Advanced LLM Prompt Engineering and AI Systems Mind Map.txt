@@ -1,0 +1,109 @@
+Advanced LLM Prompt Engineering and AI Systems
+Advanced LLM Prompt Engineering & AI Systems (2025)
+<
+Prompt Engineering (PE) Fundamentals
+<
+LLM Limitations & Mitigation via PE
+<
+Gemini API & Tooling (Focus: Video/Context)
+<
+Cinematic Syntax & Semantic Programming (Veo/Gemini)
+<
+Definition & Importance
+<
+COSTAR Framework (Core Components)
+<
+Basic PE Practices
+<
+Advanced PE Techniques
+<
+LLM Limitations (Bugs)
+<
+Prompt Debugging & Guardrails
+<
+Testing & Evaluation
+<
+Long Context Capabilities
+<
+Context Caching (Optimization)
+<
+Veo 3 Video Generation
+<
+Built-in Tools (ADK/Gemini)
+<
+Structured Prompting Efficacy
+<
+Hierarchy of Control (CPI)
+<
+Optimal Director Prompt Principles
+<
+Future Gaps (Semantic Programming)
+<
+Crafting/refining input prompts
+Guides AI to accurate/useful responses
+Reduces errors & irrelevant output
+Bridges human intent & machine understanding
+Iterative process (tweak/test)
+Context (Background/Role-Playing)
+Objective (Detailed Task/Goal)
+Style (Writing persona, e.g., formal)
+Tone (Attitude, e.g., respectful, encouraging)
+Audience (Target reader/user)
+Response (Desired format/length/constraints)
+Clear, specific instructions
+Use Examples (Few-shot/One-shot/Zero-shot)
+Define Constraints (Length, Format, Style)
+Role-Playing Prompts (Context setting)
+Chain-of-Thought (CoT) Prompting (Step-by-step reasoning)
+Sequential Prompting (Prompt Chaining)
+Step-Back Prompting (Abstract fundamental principles first)
+Self-Critique and Refinement
+Hallucinations (False/nonsensical info)
+Drifting (Knowledge falls behind changing world)
+Bias (Reflects/amplifies stereotypes from training data)
+Limited Context Understanding (Nuance/sarcasm)
+Agentic Interpretation Drift (Lossy compression in multi-step workflows)
+Goal: Fix hallucinations, misinterpretation, inconsistency
+Method: Incremental Refinement & Iteration
+Technique: Intent Classification (for chatbots)
+Technique: Context Injection (e.g., Refund Policy)
+Technique: Reject unrelated/ambiguous questions
+Ethical/Safety Guardrails (Avoid bias, misinformation)
+Define Success Criteria (Accuracy, Relevance, Format, Ethics)
+Create Diverse Test Set (Include edge cases)
+Iterate and Refine (Adjust COSTAR elements)
+Monitoring in Production (Track user feedback/drift)
+Gemini 1.5 Flash: 1M tokens
+Gemini 1.5 Pro: 2M tokens
+Use Cases: Summarizing large corpuses, Many-shot in-context learning
+Multimodal: Video, Audio, Images (Natively understood)
+Implicit Caching (Gemini 2.5 models, auto-enabled, no cost guarantee)
+Explicit Caching (Manual, guarantees cost savings)
+Reduces cost for repetitive, large inputs (e.g., System Instructions, Video analysis)
+Min input tokens: 1,024 (Flash), 2,048 (Pro)
+State-of-the-art 8-second 720p video with native audio
+Max text input: 1,024 tokens
+Input Modalities: Text-to-Video, Image-to-Video
+Output: Video with audio (24fps)
+Google Search (Gemini 2+ only, requires displaying suggestions)
+Code Execution (Gemini 2+ only, Python/Java)
+Vertex AI Search (Private data grounding)
+BigQuery Toolset (SQL execution/metadata fetch)
+URL Context (Experimental, analyze up to 20 URLs)
+Limitation: Only one built-in tool per single agent/root agent
+JSON format has negligible 3% hallucination rate
+JSON/Hybrid formats mandate Cinematic Syntax (formal grammar)
+Provides Cognitive Scaffold (minimizes interpretive ambiguity)
+Outperforms Freeform Prose (28% hallucination rate)
+Highest Reliability (CPI 7-9): Technical/Physical parameters
+Examples: Camera control (shot, angle, movement, lens), Object Positioning, Technical Lighting
+Low Reliability (CPI 1.4): Abstract concepts ('mood', 'humor')
+Default to Structured JSON or Hybrid/Prefixed format
+Causal Translation (Abstract goals -> concrete, high-CPI instructions)
+Leverage Negative Prompts (Signal control against distortion/artifacts)
+Temporal Scaffolding (Context re-injection for long sequences)
+Modular State Preservation (JSON backbone for agentic workflows)
+Standardized Benchmarks for Semantic Control
+Controlling Abstract/Complex Relational Concepts (Causality, emotion)
+Full Causal Traceability (Generative debugging)
+Dynamic Prompt Scripts (Conditional statements, time-based events)

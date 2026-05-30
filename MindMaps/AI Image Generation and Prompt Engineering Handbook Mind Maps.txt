@@ -1,0 +1,265 @@
+Mind map
+AI Image Generation and Prompt Engineering Handbook
+AI Image Generation & Prompt Engineering
+<
+DALL-E 3 Capabilities
+<
+Prompt Engineering Techniques
+<
+Artistic Styles & Techniques
+<
+AI Models & Platforms
+<
+Advanced Image Rendering
+<
+Challenges & Limitations
+<
+Ethical & Responsible AI Use
+<
+Applications & Industries
+<
+AI in Text Generation & SMM
+<
+Future Research & Development
+<
+Advanced Features
+<
+User Interface Evolution
+<
+Output Quality Features
+<
+Simulates Microscopic Level
+Iterative Prompting
+<
+Clarity & Specificity
+<
+Step-by-Step Approach
+Role Assignment (AI Persona)
+Contextualization
+Negative Prompting
+Model Selection & Fine-tuning
+Prompt Chaining
+<
+Custom Visual Vocabulary
+Advanced Frameworks
+<
+Word Placement Importance
+Photography Techniques
+<
+Artistic Styles
+<
+Style Blending & Fusion
+<
+Special Effects & Visuals
+<
+Cross-Disciplinary Concepts
+<
+DALL-E 3
+<
+ChatGPT
+Google Gemini
+Adobe Firefly
+Leonardo AI
+Figma AI (Beta)
+Uizard
+Canva
+Stable Diffusion
+Midjourney
+Imagen
+Claude AI
+Photorealistic Rendering
+High-Fidelity Dimensional Keywords (HFDKs)
+Global Illumination Models
+Ray Tracing Techniques
+Displacement Mapping
+Normal Mapping
+Texture Synthesis
+Depth-Aware Modeling for 3D Spatial Coherence
+Dynamic Resolution Scaling
+Adaptive Texture Refinement Algorithms
+Fusion of Neural Rendering with Traditional CGI
+Procedural Generation of Materials & Textures
+Anisotropic Filtering
+NeRF-Voxel Hybrid Layering Strategy
+Neural Materials & Shading
+6D/7D Rendering
+Multi-Angle Shadow Coherence
+Interactive Feedback for Refinement
+Hierarchical Structure & Design Symmetry
+Pixel Density & Gradient Consistency
+Node-Based Texture Creation
+Multi-Scale Blending for Hyper-Macro Fusion
+Accuracy & Consistency Issues
+Bias & Representation
+Ethical Considerations (Copyright, Misrepresentation)
+Inconsistent Evaluation Approaches
+Limited Documentation of Technical Processing
+Difficulty with Complex Imaging Algorithms
+Computational Constraints (Token Limits)
+Semantic Drift
+Intent Gap
+Transparency & Disclosure
+Cultural Sensitivity
+Credit & Collaboration
+Copyright Laws & IP
+Privacy & Consent
+Avoiding Harmful Content
+Respecting Diversity
+Policy Development
+International Cooperation
+Minimizing Bias in Training Data
+Marketing & Advertising
+E-commerce & Retail
+Gaming & Entertainment
+Architecture & Interior Design
+Fashion & Design
+Education & Publishing
+Scientific & Industrial Implementations
+Textile Arts (Knitting, Weaving, Embroidery)
+Product Design
+Journalism (Photojournalism, News Stories)
+Social Change & Activism
+Idea Generation for Posts
+Trend Research
+Brainstorming Sessions
+Creating Content Strategies
+Managing Crisis Situations
+Website Content Generation
+Resume & Cover Letter Creation
+Interview Preparation
+Documentation & Debugging
+Translation
+Tabular Data Processing
+Coding Assistance
+Multi-Layer AI Processing for High-Fidelity Rendering
+AI-Based Iterative Refinement Loops (Self-Improving AI Art)
+Real-World AI-Assisted Engraving & Fabrication
+Advanced Conditional Logic & Dynamic Branching
+Architecture Improvements for Long-Term Context Retention
+Integration with Machine Learning Feedback Loops
+AI as Legal Persons
+Monitoring Reasoning Models for Misbehavior
+Model Context Protocol (MCP)
+Multi-Agent System Architecture
+Enhanced Photorealism & Image Quality
+Improved Complex Prompt Understanding
+Expanded Creative Possibilities
+Prompt Rewriting (GPT-4)
+Streamlined Prompt Input
+Visual Feedback & Iteration
+Image Editing Tools
+Improved Image Organization
+Advanced Rendering Techniques
+Enhanced Lighting & Shadows
+Improved Textures & Materials
+Better Composition & Perspective
+Refining based on Initial Outputs
+Cyclical Process
+Avoid Vague Instructions
+Provide Explicit Constraints
+Structured Input (JSON, Lists)
+Sequential Chaining
+Conditional Chaining
+Looping Chaining
+RACEF (Rephrase, Append, Contextualize, Examples, Follow-Up)
+CRISPE (Clarity, Relevance, Iteration, Specificity, Parameters, Examples)
+BAB (Before, After, Bridge) for Narrative
+Tree of Thought Framework
+RICE (Reach, Impact, Confidence, Effort)
+RELIC (Role, Emphasis, Limitation, Information, Challenge)
+Constitutional AI (CAI) for Code
+PALS (Promptcraft-Aware Linguistic Stack)
+Camera Lenses & Effects
+<
+Exposure & Motion
+<
+Lighting
+<
+Composition
+<
+Post-Processing (Sharpening, Noise Reduction)
+Photorealistic / Hyperrealism
+Impressionism
+Surrealism
+Cubism
+Baroque
+Renaissance
+Abstract Expressionism
+Pointillism
+Steampunk
+Cyberpunk
+Nanopunk
+Art Deco
+Japanese Woodblock Printing (Ukiyo-e)
+Pixel Art
+Watercolor
+Oil Painting
+Graphite Drawing
+Chiaroscuro
+Film Noir
+Moire Patterns
+Digital Glitch Art
+Spray Paint Art
+Primitivism
+Luminism
+Automatism
+Collagraphy
+Marbling
+Xylography
+Conceptual Art
+Combining Multiple Styles
+Genre Fusion
+Unexpected Combinations (e.g., Cyberpunk + Impressionism)
+Smoke & Fog Effects
+Water Effects (Splashes, Reflections, Underwater)
+Motion Simulation (Zoom Blur, Panning)
+Sun Stars & Lens Flare
+Holographic/XR & AR Aesthetic
+Vintage/Retro-Futurism/Analog Aesthetic
+Quantum Computing
+Bioinformatics
+Linguistics
+Multi-Sensory Imagery
+OpenAI Model
+Integration with ChatGPT Builder
+Compatibility with Graphic Design Software
+35mm Standard Lens
+50mm Prime Lens
+18mm Wide-Angle Lens
+Macro Lens
+Telephoto Lens
+Anamorphic Lenses
+Focal Length & Perspective Simulation
+Lens Distortion & Aberrations
+Shutter Speed (Fast for Freeze, Slow for Motion Blur)
+Aperture (Depth of Field)
+ISO
+Long Exposure
+Focus Stacking
+HDR (High Dynamic Range)
+High-Speed Sync Flash
+Panning Technique
+Natural Light (Golden Hour, Sunlight, Moonlight)
+Artificial Light (Studio, Neon, Streetlights, Candlight)
+Lighting Styles (Chiaroscuro, Rembrandt, Rim, Silhouette)
+Backlighting
+Dramatic Lighting
+Creative Lighting & Color Gels
+Low-Key Photography
+Global Illumination
+Ambient Occlusion
+Volumetric Light
+Light Decay & Falloff
+Ambient Light Coloration
+Rule of Thirds
+Leading Lines
+Symmetry & Patterns
+Golden Ratio
+Negative Space
+Framing
+Angles & Perspectives
+Visual Weight
+Overlapping Elements
+Atmospheric Perspective
+NotebookLM can be inaccurate; please double-check its responses.
+Reply ready.

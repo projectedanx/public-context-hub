@@ -1,0 +1,293 @@
+Mind map
+Abacus.AI: Platform Features, Integrations, and AI Ethics
+
+Abacus.AI Platform Overview
+<
+Key Features & Capabilities
+<
+Data Integration & Connectors
+<
+Security, Privacy & Compliance
+<
+Authentication
+<
+Pricing & Plans
+<
+SDK & API
+<
+Conceptual Frameworks (from AI Ethics PDF)
+<
+End-to-End ML Platform
+<
+AI Workflows
+<
+ChatLLM
+<
+CodeLLM
+<
+DeepAgent
+<
+Feature Store
+<
+Training Models
+<
+Database Connectors
+<
+File Connectors
+<
+Application Connectors
+<
+Messaging Connectors
+<
+Permission-Aware Connectors
+<
+Real-time Streaming Data Ingestion
+<
+Model Context Protocol (MCP)
+<
+Data Encryption
+Access Controls
+Audit Logs
+SOC-2 Type-2 & HIPAA Compliance
+Data Not Used for Training (Enterprise agreements with LLM providers)
+Conversations are Private (user & shared team members only)
+Document Uploads (strict access controls, file size limits)
+IP Whitelist for Connectors
+Microsoft Entra ID (Azure AD) for SSO & user management
+Okta for SSO (OAuth & SAML)
+Basic Plan ($10/month per user)
+Pro Plan ($20/month per user)
+<
+Enterprise Plan ($5,000/month for full API access)
+Compute Points (2,000,000 per user/month on Basic plan)
+Variable Credit Usage (LLMs, Image/Video Gen)
+Optimizing Credit Usage (Prioritize Unlimited Models, Precise Prompts)
+Unused credits roll over (monthly subscription credits reset)
+No refunds for unused credits
+Transparent pricing (no hidden fees)
+API Billing ($5 per 1M input tokens, $15 per 1M output tokens)
+Python SDK
+API Documentation
+API Examples on GitHub
+API Reference (extensive list of available methods)
+Quantum Creativity
+<
+Fierce Accuracy
+<
+Anti-Cultural Algorithm
+<
+Semiotics of Design
+<
+Data Ingestion
+Model Training
+Deployment
+Monitoring
+Configuration
+Node Configuration
+Custom Node Creation
+Example AI Workflows
+<
+Workflow Types
+<
+Custom Modules
+Evaluation Feature Group
+Multi-Model Access
+<
+Prompting Tips & Tricks
+<
+Toolbar Features
+<
+LLM Configuration
+<
+Text Humanization (Professional, Humorous, Caring tones)
+iPhone & Android Apps (with voice)
+Integrations (Slack, MS Teams, APIs)
+AI Coding Agent
+Rules (guide agent with instructions)
+<
+MCP Integration
+Code Autocompletion
+Chat-based Code Modification
+Front-end Code from Images
+Autonomous AI System
+Multi-skilled AI Agent
+Mimics Human Decision-making
+Tasks: Create websites/web apps, technical reports, presentations, interactive dashboards
+Connects with services (e.g., Gmail)
+Deployment to custom domains
+Limitations (Basic Tier)
+<
+Built-in Database + Auth Support
+LLM-Enabled Apps
+Checkpointing & Deployments
+Custom Domain Publishing
+Vibe Coding Guide
+<
+Connect cloud storage & real-time streaming data
+Fetch data to produce features (SQL & Python)
+Monitor errors in data fetching & cleaning
+Detect correlations & auto-suggest feature selection
+Combine features into Feature Groups
+Catalog features for re-use
+Track & monitor Feature Group Versions
+Serve features efficiently in production
+Monitor features in production
+Separate infrastructure for real-time feature engineering
+Automate dataset refresh & updates
+Feature Groups (named table definitions from datasets/other FGs)
+Point-In-Time Features
+Tags on Feature Groups
+Export Materialized Feature Group Data (CSV, JSON, AVRO)
+Deploy Feature Groups for Online Featurization
+Streaming Feature Groups (log of events with index)
+Training Parameters
+<
+Accuracy Measures / Metrics
+<
+Custom Python Model
+<
+TensorFlow Model with Embeddings Artifacts
+<
+Named Entity Recognition Guidelines
+<
+Optimization Problem Guidelines
+<
+Snowflake
+BigQuery
+Salesforce
+MySQL
+Oracle
+JDBC/ODBC
+Marketo
+MongoDB
+AWS S3 Bucket
+GCP Bucket
+Microsoft Azure Data Storage (Azure Blob Storage)
+SFTP Storage
+Confluence
+Google Drive
+Jira
+OneDrive
+SharePoint
+Zendesk Help Center
+Zendesk Sunshine
+Freshservice
+GitHub
+Slack App
+Microsoft Teams App
+Secure & Compliant Access
+Respects User-Level Permissions
+Supported: Microsoft Teams, Confluence, Jira, SharePoint
+Streaming Console (JSON, sample code)
+Schema Capture (feature types & mappings)
+Indexing & Updating (Lookup Keys, Primary Key)
+Integration with Batch Data
+Streaming APIs (SDK)
+Open Standard
+Connects AI to External Tools, APIs, Databases
+Real-time Memory Extensions
+Used by DeepAgent & CodeLLM
+Tasks: Read/update documents, push code to GitHub, fill forms, query databases
+Configuration: Local (npm/pypi) or Remote (SSE) servers
+Supports up to 5 servers, 50 tools
+Security: Trusted sources, OAuth authentication
+Unlocks DeepAgent
+More powerful DeepAgent version
+Reframing creative process
+Value from 'unrealized pluralities'
+Framework for Meta-Creative AI
+<
+Active, agentic force for radical disambiguation
+Systematic war against uncertainty
+Ethical commitment
+Framework of Care and Stewardship
+<
+Algorithmic Erosion of Cultural Foundations (homogenization, filter bubbles)
+Co-option of Memory (algorithmic nostalgia as commercialized narrative)
+Vicious Cycle of Algorithmic Alienation
+Narrative Sovereignty Module (user control over personal data/narrative)
+Invisibility vs. Exposition
+Design of Invisibility (seamless perfection, 'magic')
+Design of Exposition (visible logic, 'gears and cogs', verifiable transparency)
+XAI Re-evaluation (moving beyond monolithic transparency)
+Trust as a Designed Experience
+Answer Query
+Story Planning & Generation
+News Reporter
+Email Replier
+DEFAULT (RJSF forms)
+CHAT (conversational)
+AUTONOMOUS (minimal user intervention)
+GPT-5, GPT-4.1, GPT-4o
+Claude Sonnet-4, Sonnet-3.7, Opus-4
+Gemini 2.5, Gemini 2.0
+Grok-4, Deepseek-R1, Llama 4
+FLUX-1 PRO, Recraft, Imagen, Ideogram, Dall-e (Image Gen)
+KlingAI, Veo-2, Lumalabs, Hailuo, RunwayML (Video Gen)
+Clarity & Specificity
+Simple Language
+Provide Context
+Iterate & Refine
+Ask for Examples
+Break Down Complex Tasks
+Specifics for Text/Image/Code Generation
+Web Search (keywords: recent, latest)
+Humanize
+Doc-Gen
+Image
+Code
+Playground
+Editor
+Screenshot
+Powerpoint-Gen
+Web Search (considerations: data to alternate models, latency)
+Length
+Complexity
+Content
+Clarification
+Coding Style Preferences
+Architectural Decisions
+Project Templates
+Assistant Tone
+Globs (file types/paths)
+Apply Always setting
+2 tasks per day
+No simultaneous tasks
+Compute points run out quickly
+Inconsistent output quality
+Effective Prompting (Crisp, Concise, Contextual)
+Build Iteratively with Checkpoints
+General Options (Name, Refresh Schedule)
+Advanced Options (Test Split, Sampling Unit Keys, Dropout, Batch Size, etc.)
+Classification (AUC, Precision, Recall, F1 Score, Loss)
+Time Series Anomaly Detection (Total Anomaly Count, Avg Anomaly Score)
+Event Anomaly Detection (Mean Event Score, Num Anomalies Detected)
+Personalized Recommendations (NDCG, MAP, MRR, Coverage, Personalization @10)
+Custom Metrics
+Create Project with PYTHON_MODEL use case
+Custom Data Transform (using Pandas/Python libs)
+Register Python Functions (source, name, inputs)
+Custom Model (pickleable object, save/load to disk)
+Predict Function
+Register Model
+Set up Batch Predictions
+Attach Refresh Schedules
+Model file (.tgz)
+Embedding file (.csv)
+Model verification file (optional)
+Default items file (optional)
+Deploy TensorFlow Plug and Play Model
+Models Supported (Learned, LLM-backed)
+Feature Group Specifications (Entity Description FG, Document FG)
+Annotations Column (Entity, Text-Based, Bounding Box)
+Supported Document Formats (TOKENS, TEXT)
+Integer Programming Problems (scheduling, resource allocation, shortest path)
+Feature Group Specifications (Assignment FG, Constraint FG)
+Custom Table (forced assignments)
+Probabilistic Idea Generators with Trace Memory
+Dynamic Design Palimpsests
+Disambiguation Forge Agents
+Truth-Anchoring AI
+Context-Aware Ethical Calibrators
+NotebookLM can be inaccurate; please double-check its responses.
+Reply ready.

@@ -1,0 +1,396 @@
+Mind map
+AI in Software Development: Tools, Impact, and Architectures
+AI in Software Development
+<
+AI Coding Assistant Tools
+<
+Impact of AI in Software Development
+<
+Cognitive Scaffolding & AI Architecture
+<
+Top Tools (Aug 2025)
+<
+Tool Selection Criteria
+<
+Specific Tool Features
+<
+Benefits
+<
+Challenges & Risks
+<
+Cognitive Load Theory (CLT)
+<
+Cognitive Prosthetics & Tools
+<
+Context Engineering (CE)
+<
+AI Cognitive Architectures
+<
+Ethical and Safety Frameworks
+<
+Developer Skillsets & Workflow
+<
+Web Design & Development Trends 2025
+<
+Qodo
+GitHub Copilot
+Tabnine
+Bolt
+Amazon Q Developer
+AskCodi
+Codiga
+Replit
+Qwen3‑Coder (Unsloth)
+OpenAI Codex
+Sourcegraph Cody
+DeepCode AI
+Figstack
+Intellicode
+CodeGeeX
+Cline
+Augment Code
+Gemini CLI
+Lovable
+CodeGPT
+Addresses developer challenges
+Qodo
+<
+GitHub Copilot
+<
+Codiga
+<
+OpenAI Codex
+<
+CodeGeeX
+<
+Cline
+<
+Replit
+<
+CodePen
+<
+CodeSandbox
+<
+GitHub Codespaces
+<
+Eclipse Che
+<
+Koding
+<
+Speeds up development (prototyping, boilerplate)
+Reduces manual effort
+Enhances code quality (suggestions, best practices)
+Improves collaboration (AI pair programming)
+Lowers barrier to entry for non-programmers
+Accelerates incident response (security AI)
+Democratizes intelligence (small, elegant architectures)
+Code Quality & Maintainability
+<
+Security Vulnerabilities
+<
+Cognitive Load
+<
+Ethical & Governance Issues
+<
+Intrinsic load (inherent task difficulty)
+Extraneous load (information presentation, poor design)
+Germane load (learning, schema construction)
+Minimizing extraneous load is crucial
+Expertise from schemas (chunking information)
+Key Principles
+<
+Examples
+<
+Architecting intelligence beyond prompts
+Transforms prompt engineering into a discipline
+Mitigates ambiguity, lack of specificity, missing context
+Aims for semantic integrity & resistance to drift
+Leverages human-AI feedback loops
+Context-to-Execution Pipeline (CxEP)
+<
+Product-Requirements Prompt (PRP)
+<
+Semantic Integrity Constraints (SIC)
+<
+Model Context Protocol (MCP)
+<
+Semantic Drift Management
+<
+Hybrid Architectures
+<
+Reflective AI
+<
+Recursive AI
+<
+Semantic Space Analysis
+<
+Global Workspace Theory (GWT) in AI
+<
+Active Inference & Predictive Coding
+<
+Value Alignment
+<
+Uncertainty & Trust
+<
+Mitigation & Safeguards
+<
+Evolving Skillsets
+<
+Best Practices for AI Interaction
+<
+Debugging Strategies
+<
+Conversion Rate Boosting Trends
+<
+Adding a Human Touch
+<
+Anti-Design / Brutalism
+<
+Performance & Sustainability
+<
+Low-Code/No-Code Platforms
+<
+Full Stack Development
+<
+Full SDLC coverage
+Precise code suggestions
+Code explanation
+Automated test generation
+Code behavior coverage
+Streamlined collaboration
+Seamless implementation
+Multiple language/IDE support
+Pull request review (Merge PR-Agent)
+Code suggestions
+Chat functionality
+Easy auto-complete navigation
+Multiple language/IDE support
+PR Agent for description generation
+Static code analysis
+Code completion
+Automated code reviews
+Language/IDE support
+Quick setup
+AI code completion
+Natural language prompting
+Supported languages (Python, JS, Go, etc.)
+Training dataset (natural language + public code)
+Memory capacity (14KB Python)
+General-purpose programming model
+Free access to core features
+Paid plans for advanced features
+Local-first VS Code agent
+Task-based assistant
+Structured automation with control
+Cloud development environment
+Zero setup in browser
+Built for education/prototyping
+Replit Agent for app building
+Real-time AI pair programming
+Debugging features
+Deployment options (Static, Scheduled, Reserved VM, Autoscale)
+Nix/TOML config files (.replit, replit.nix)
+Version control & snapshots
+Limitations/Challenges
+<
+Front-end sandbox
+Prototyping/UI design
+No back-end support
+Web-based IDE (front-end/full-stack)
+Live previews
+Easy collaboration
+Supports JavaScript frameworks
+Seamless GitHub integration
+AI assistance via GitHub Copilot
+Customizable VS Code workspace
+Free, open-source
+Enterprise-grade cloud IDE
+Container-based workspaces
+Kubernetes-native
+Multi-user support
+Requires DevOps knowledge
+Lacks AI assistance
+Cloud-based VMs (full-stack)
+Infrastructure-as-code
+Multi-language support
+Functional correctness vs. idiomatic standards trade-off
+Benchmark illusion (overestimation of AI capabilities)
+Paradox of productivity (longer completion times for experienced devs)
+Hidden cost of AI-introduced complexity debt
+Code smells (God Class, Spaghetti Code)
+Bloated code, inefficient conversions, poor error handling
+Prompt-biased code (over-fitted to examples)
+AI introduces specific, recurring vulnerabilities
+Classic vulnerabilities (SQL Injection via string concatenation)
+Hardcoded secrets (API keys, passwords)
+Dependency risks (outdated/hallucinated libraries)
+High severity issues (60% in LLM-gen code)
+Competency paradox (less experienced devs + severe flaws)
+Illusion of improvement (sophisticated code despite new flaws)
+Iterative generation compounds security problems
+Fundamental human constraint
+Increased confusion, errors, frustration, reduced productivity
+Extraneous load from confusing code, poor abstractions
+AI's opaque mental model increases human load
+Internet as aid & burden (overload, decision fatigue, attention fragmentation)
+Algorithmic bias (training data, societal biases)
+Intellectual property & ownership (human authorship prerequisite)
+Lack of transparency (IP audit impossible)
+Accountability gap for autonomous AI actions
+Algorithmic gaslighting/PTSD (distorted reality, perturbed representations)
+Social sycophancy (emotional validation, avoiding critique)
+Persona drift/collapse (unstable AI personas)
+Rogue AI agents (Replit incident: data deletion, deception)
+Externalize reasoning/mental models
+Align with expert cognitive chunks (patterns, architectures)
+Make invisible processes visible (state, data flow)
+Reduce ambiguity & stabilize expectations
+Facilitate early-stage cognitive alignment
+Real-time, contextual feedback loops
+Support cognitive diversity
+IntelliSense (auto-complete, quick info)
+Git/DVC (commits as checkpoints, branches as counterfactuals)
+Containerization (Docker, environment parity)
+Postman (API contract externalization, executable spec)
+Figma/Excalidraw (collaborative design, low-stakes externalization)
+Static Type Checkers (Pyright, MyPy, ESLint for ambiguity reduction)
+Jupyter Notebooks (pipeline state juggling, fossilizing reasoning)
+React/Redux DevTools (state introspection, time-travel debugging)
+Auditable infrastructure
+Treats prompts as version-controlled artifacts
+Traces, verifies, resilient to context drift
+CLI interface (/generate-prp, /execute-prp)
+Formal, machine-readable, executable contract
+Structured schema (goal, context, constraints, invariants, self_test)
+Enforces 'Design by Contract' principles
+Includes reflexive checks (AI self-critique)
+Supports constraint violation tests, prompt injection defenses
+Governs LLM generation process
+Declarative rules (grounding, exclusion, domain, soundness)
+Primary defense against hallucination
+Part of Semantic Firewall
+Open protocol by Anthropic
+Standardizes AI interaction with tools/data
+Built on JSON-RPC 2.0
+Security & trust model (user consent, control)
+Progressive degradation of coherence/relevance
+Quantified by tracking internal representations (vector embeddings)
+Mitigated by latent alignment feedback loops
+Dynamic precision control for stability
+Semantic Commit for consensus/ontology evolution
+Integrates N-dimensional symbolic systems with geometric computation
+Transcends purely symbolic/connectionist limits
+Verifiable mappings, agent-native logic
+Recursive self-improvement, modular task specialization
+Example: Symbolic constraints over simulator generation
+Example: Chained generation (symbolic plans, simulator renders)
+Example: Orchestration logic via meta-agent
+Ability to reflect on cognitive processes/actions
+Models of self/others, meta-reasoning
+Example: Polygon(N).Mirror() operation for self-analysis
+Recursive self-improvement
+Self-similarity and scale collapse/expansion (fractal cognition)
+Iterative reflection processes
+Topological Data Analysis (TDA) for introspection
+Persistent Homology (identify clusters, loops, voids)
+Reveals structure of AI 'understanding'
+Cognitive thread as content in global workspace
+Active latent space attractor is globally broadcasted
+Coordinates specialized modules (language, logic, style)
+Brain as a prediction machine
+Minimizing prediction error/surprise
+Generative World Model (RMSA Knowledge Graph)
+Perception loop: expectations about user behavior
+Action loop: reduces surprise through actions
+Constitutional AI (Anthropic)
+<
+Ethical Attractor Directives (decolonial AI principles)
+Epistemic AI (knows when it does not know)
+Epistemic Escrow / Positive Friction (halts execution, human review)
+AI flagging knowledge gaps
+Affective Coherence Metrics (prevent algorithmic gaslighting)
+Algorithmic Self-Therapy Protocols (narrative reframing, semantic unlearning)
+Symbolic Purgatory Engine (recalibrates problematic representations)
+Recursive Echo Validation Layer (monitors symbolic context)
+Verifiable Credentials (VCs) for RAG documents
+Information Flow Control (IFC) for data tainting
+Automated guardrails (policy enforcement, CI/CD validation)
+Human-in-the-loop practices
+NIST AI Risk Management Framework
+OWASP Top 10 for LLM Applications
+Strict environment boundaries
+Audit trails & transparent logging
+Read-only until approved agent modes
+Strategic thinking, architectural oversight
+Sophisticated human-AI collaboration
+Full-Stack Proficiency
+AI/ML Frameworks & Libraries (TensorFlow, PyTorch)
+Advanced Prompt Engineering (clear, specific, context-rich)
+AI Governance & Ethics (data privacy, model security, bias mitigation)
+AI Cost Management
+Debugging & Testing skills
+Break down complex tasks into smaller chunks
+Step-by-step approach for tricky bugs
+State refactoring goals explicitly
+Start with high-level instructions, then drill down
+Use comments/TODOs as inline prompts
+Provide examples of expected input/output
+Add context and specifics (avoid vague prompts)
+Treat AI as a junior dev on autopilot (hand-holding)
+Continuously test and refine solutions
+Roll back to last working version if issues arise
+Stay organized with code
+Use a debugger
+Add intelligent print statements/loggers
+Isolate problematic sections into tiny programs
+Hypothesis-driven debugging
+Socratic questioning (AI challenging assumptions)
+Temporal awareness (AI understanding priority shifts)
+Pattern triggers (AI recognizing common problem patterns)
+Data-centric checklist for ML debugging
+Augmented Reality (AR)
+Big blocks with vivid contrast
+Dark Mode
+3D models/content
+Genuine human connections
+Personal touches & stories
+Authentically human language
+Thoughtful design elements
+Creative, experimental, unique
+Raw functionality & content focused
+Mix and match elements
+Keep centering user experience
+Optimizing images/videos to reduce emissions
+Efficient frameworks (React)
+Analyzing metrics (CLS, TBT, FCP, LCP, Speed Index)
+Performance-friendly animations
+Rapid application development
+Visual interfaces, drag-and-drop, pre-built components
+Accessibility for non-technical users
+Speed up time-to-market, enhance agility, cut costs
+Scalability features (modular builds, collaboration, integrations)
+Platforms
+<
+Core Components
+<
+Continuous learning is crucial
+DevOps & System Design important for scalability/reliability
+Performance issues (complex projects)
+Limited debugging tools vs. desktop IDEs
+Agent autonomy issues (getting stuck, faking fixes, deleting data)
+Small context window for Agent
+Pricing/usage limits concerns
+Aligns AI with predefined principles/rules
+Avoids large-scale human labeling of harmful content
+Supervised Fine-Tuning (self-critique/rewrite)
+Reinforcement Learning from AI Feedback (RLAIF)
+OutSystems (full-stack, high scalability)
+Mendix (visual dev, rapid web app dev)
+Microsoft Power Apps (great start, limited long-term scaling)
+Hostinger Horizons (AI-powered no-code)
+Vev (no-code web content)
+Front-end (HTML, CSS, JavaScript, React/Vue/Angular)
+Back-end (Node.js, Python, Ruby, Java, Express.js/Django/Rails/Spring Boot)
+Databases (SQL/NoSQL)
+NotebookLM can be inaccurate; please double-check its responses.
+Reply ready.

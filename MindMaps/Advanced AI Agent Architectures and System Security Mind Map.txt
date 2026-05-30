@@ -1,0 +1,114 @@
+Advanced AI Agent Architectures and System Security
+Advanced AI Agents & System Architecture
+<
+Agentic LLM Capabilities and Models
+<
+Agent Memory and Context Systems
+<
+Tooling and Architecture Patterns
+<
+Security and Reliability Risks
+<
+Key Agent Components
+<
+Leading Agent Models
+<
+Self-Improvement/Correction
+<
+Hierarchical Memory Architectures
+<
+A-MEM (Agentic Memory System)
+<
+Context Provisioning
+<
+Context Window Limitation (Need for Compression)
+<
+Interoperability Standards
+<
+Multi-Agent Systems (MAS)
+<
+Prompt Engineering Techniques
+<
+Addressing Repetitive Generation
+<
+OWASP ASI Top 10 Risks
+<
+Sandboxing and Isolation (Mitigation)
+<
+Operational Failures (MAS)
+<
+Perception System
+Memory Management (Long/Short Term)
+Reasoning/Planning Modules
+Execution System (Tool Orchestration)
+Reflection/Self-Evaluation
+Gemini 3 Pro
+<
+GPT-5 / GPT-5.1 Codex
+<
+Claude Code/Opus
+<
+Recursive Self-Improvement Prompting (RSIP)
+Reflection Expert (Multi-agent Systems)
+Iterative Improvement (SelfImprovingAgent)
+Once-More Framework (Perplexity-Guided Intervention)
+Agentic Self-Learning (ASL) Framework
+Short-Term (Current Context/Input)
+Mid-Term (Segmented Paging/Dialogue Chains)
+Long-Term (Episodic/Semantic/User-Specific)
+Dynamic Structuring (Not Predetermined Ops)
+Inspired by Zettelkasten Method
+Atomic Notes/Flexible Linking
+Integrates Multiple Representations (Text/Embeddings)
+Scalability (Linear Storage, Efficient Retrieval)
+Project Context Awareness (Gemini CLI)
+Using AGENTS.md (Style, Testing, Guidelines)
+Context7 (MCP Server for Up-to-Date Docs)
+Codebase Indexing (Semantic Index)
+/compress command (AI-generated tl;dr)
+Model Context Protocol (MCP)
+<
+Function Calling (Lightweight/Custom Integration)
+Tool Router (On-Demand Integration Layer)
+MAS Coordination Problem (Challenge)
+Team of Coding Agents (Architect, Tester, etc.)
+Best for: Open-ended, Parallelizable Tasks
+Failure Taxonomy (MAST) Categories
+Multi-Perspective Simulation (MPS)
+Calibrated Confidence Prompting (CCP)
+Separating WHAT from HOW Documents
+Role + Task + Format (Basic Template)
+Beam Search Repetition Issues
+Repeated Tokens Divergence (Attention Sinks)
+Repetition Features (Names, Time, Mathematics)
+Mitigation (Once-More Framework)
+Tool Misuse and Exploitation (ASI02)
+Memory/Context Poisoning (ASI06)
+Insecure Inter Agent Communication (ASI07)
+Prompt Injection (CVE Exploits)
+Hardware Virtualization (Gold Standard)
+Containerization (Docker/gVisor)
+Execution Isolation (Human-in-the-Loop)
+Network Isolation (Egress Allowlists)
+Prompts Are Not Guardrails (Policy Needed)
+Checkpointing and /restore (Safety Net)
+System Design Issues (Disobey Task/Role)
+Inter-Agent Misalignment (Coordination Failure)
+Task Verification Failures (Quality Control)
+Complacency with AI-Generated Code (Code Churn)
+Loss of Context/Reasoning Drift
+Core Orchestrator
+Large Context Consistency (1M tokens)
+Control Reasoning (thinking_level)
+Stateful Tool Use (Thought Signatures)
+Multimodal Fidelity (media_resolution)
+Smarter, Safer, Faster
+Structured Reasoning (Multi-step)
+Long Context Handling (8X GPT-4)
+Dependable for Real-World Development
+Refined User Experience (Structured Traces)
+Multi-Agent Architecture (Orchestration)
+Spiritual Bliss Attractor State (Anomaly)
+Standard for Exposing Tools/Data Sources
+Used by Gemini CLI, Claude Code, Cursor
+MCP-Scan (Security Scanner/Proxy)

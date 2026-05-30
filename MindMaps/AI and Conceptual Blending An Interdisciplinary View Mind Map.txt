@@ -1,0 +1,279 @@
+Mind map
+AI and Conceptual Blending: An Interdisciplinary View
+Artificial Intelligence (AI)
+<
+General Concepts & Overview
+<
+Challenges & Risks
+<
+Applications Across Sectors
+<
+Regulation & Governance
+<
+Conceptual Blending Theory (CBT)
+<
+Interdisciplinarity
+<
+Definition
+<
+Capabilities
+<
+Impact on Economic Growth
+<
+Human-AI Collaboration
+<
+Skills for AI Era
+<
+Ambiguity in AI
+<
+Vagueness
+<
+Ethical Concerns
+<
+Existential Risks
+<
+Workforce Impact
+<
+Implementation Difficulties
+<
+Healthcare
+<
+Education
+<
+Creative Industries
+<
+Manufacturing
+<
+Financial Services
+<
+Transportation
+<
+Strategic Foresight
+<
+Legal Profession
+<
+Need for Regulation
+<
+International Efforts
+<
+Key Principles/Requirements
+<
+Challenges in Regulation
+<
+Core Components
+<
+Relationship with Metaphor & Metonymy
+<
+Governing Principles (Optimality Principles)
+<
+Applications
+<
+Critiques & Limitations
+<
+Definition
+<
+Benefits
+<
+Challenges in Teamwork
+<
+Promotion/Support
+<
+Revolutionising industries
+Reshaping human activity
+Driving emerging technologies
+Accelerates data analysis
+Predicts trends
+Performs complex tasks in real-time
+Enhances creativity and expression (Generative AI)
+Automates non-routine, cognitive tasks
+Productivity gains (automation)
+Increased global GDP (PwC estimate: 14% by 2030)
+Massively scaled organisations
+Emergence of small players/individuals in project work
+Increased competition
+Winner-takes-all phenomenon
+Widening productivity/innovation gaps
+Human-in-the-Loop methodologies
+Prompt engineering
+Co-working with AI
+Enhanced human creativity
+Human oversight critical for complex systems
+AI expertise (specialist skills)
+Human behaviours (adaptability, empathy, teamwork, creative thinking)
+Critical thinking
+Struggles with multiple meanings
+Fails to differentiate "bank" (finance vs. river)
+Difficulty with qualitative data nuance (e.g., 'stress')
+Impacts entailment relations
+LLMs struggle with disambiguation
+Difficulty in modeling distribution over intended interpretations
+Lack of precision in meaning
+Challenge for truth-conditional semantics
+Sorites paradox
+Vague predicates as indexical expressions
+Bias and fairness (historical data biases)
+Discriminatory outcomes (hiring, loans)
+Autonomous vehicle decisions
+Privacy and data security
+Transparency and accountability
+Weaponisation of AI
+Potential for AI to lie (experiment: hoarding beneficial resource)
+Replication/exaggeration of societal bias
+Superintelligence surpassing human intellect
+Singularity (machines controlling humanity)
+Difficulty of AI alignment
+Risks of astronomical suffering (s-risks)
+AI arms race
+Layoffs from automation (not foreseen in creative industries by 2025)
+Demand for AI expertise
+Reshaping workforce competency
+Middle-aged software engineers & customer service reps benefiting
+Lack of skills
+Organisations banning Generative AI (privacy, data security)
+Distrust of AI (e.g., in legal profession)
+Hallucinations
+Quality of data for training models
+Decision-making for diagnosis, prevention, prediction, prognosis, monitoring, treatment
+Medical device regulation (SaMD)
+Medical image captioning/analysis
+Natural Language Processing (NLP) for medical narratives
+Genomics research (cloud-native, ML, bioinformatics)
+Predicting patient dropout (e.g., weight loss programs)
+Automated quality assurance (e.g., radiotherapy delineation)
+Alzheimer's progression analysis (imaging studies)
+Therapeutic support (chatbots: Quin, Harlie)
+Reducing administrative burden
+Precision medicine (genetics for diagnosis/treatment)
+Disability (assistive technologies, NDIS)
+Fosters creativity
+Provides multiple perspectives
+Summarizes materials
+Generates/reinforces lesson plans
+Stimulates image creation
+Access to resources (Canva Magic Write, Curipod, Eduaide, Quizzizz)
+Student usage exceeds instructor usage
+Digital divide reduction through AI integration in programs
+Enhancing human creativity (not replacing)
+Scriptwriting (generating original narratives)
+Music production (composing unique pieces)
+Content recommendations (YouTube)
+Predictive Maintenance (PdM)
+Operational efficiency
+Automating routine tasks
+Forecasting production/warehouse capacity
+Tracking inventory levels
+Spotting flaws (employee errors, product defects)
+Streamlining ERP framework
+Optimized operations through simulation
+Anticipates largely autonomous plants by 2030
+Process optimisation
+Fraud detection
+Customer service
+Product promotion
+Forecasting
+Regulatory compliance
+Real-time verification of payments
+Claims management
+Regulatory credit risk modelling
+Insurance underwriting
+Hedging
+Self-driving cars
+Increased efficiency, safety, sustainability
+Significant market growth projected
+Produces sophisticated narratives, designs, simulations
+Generates plausible future scenarios
+Detects patterns and clusters in complex datasets
+Anticipates global market shifts, technology adoption, consumer behavior
+Embeds scenarios in interactive, multisensory experiences
+Systemic integration and complexity management
+Enhances legal processes
+Impacts younger/junior lawyers significantly
+Requires extensive training for successful integration
+Ensuring transparency & human accountability
+Systemic stability for long-term innovation
+Addressing social implications proactively
+Safeguarding fundamental rights
+OECD AI Policy Observatory
+UN: calls for new UN agency on AI
+UNESCO: Recommendation on Ethics of AI
+EU: AI Act (risk-based approach)
+China: Investing heavily, implementing regulations
+AI risk classification
+Mandatory AI impact assessments
+Transparency mandates
+Accountability mechanisms
+Public awareness
+Ethical AI deployment standards
+Human oversight in critical sectors
+Clear documentation of AI system workings
+Data quality for algorithmic bias prevention
+External audits
+Restrictions on facial recognition/surveillance
+Independent AI regulatory bodies
+Consistency and coherence in regulation
+Alignment with human intentions
+Potential chilling effect on innovation
+Constantly evolving nature of AI technology
+Difficulty in evaluating tools/understanding compliance
+Lack of precise terminology (India)
+Borderless nature of business vs. national regulations
+Mental spaces (conceptual packets of information)
+Input spaces (two partially matched)
+Generic space (common structure to inputs)
+Blended space (emergent structure, novel meaning)
+Cross-space mapping (correspondences between inputs)
+Selective projection (elements from inputs to blend)
+Pattern completion
+Dynamic elaboration (running the blend)
+Material anchors (e.g., GUI, computational code)
+Metaphor (two domains: source/target, structural mapping)
+Metonymy (within one domain, contiguity, chains of meaning)
+Blending can have metaphorical/metonymic basis
+Single-scope networks (asymmetric projection, e.g., 'surgeon is a butcher')
+Integration (tightly integrated scene)
+Web (maintains connections to input spaces)
+Unpacking (reconstructs inputs from blend)
+Topology (relations in blend match relations of counterparts)
+Backward Projection (avoid disruption of input integration)
+Metonymy Projection (shorten metonymic distance)
+Intensifying/Maximizing Vital Relations
+Relevance (elements in blend have significance)
+Non-disintegration, non-displacement, non-interference, non-ambiguity
+Humour research (incongruity, irony)
+Literary analysis (e.g., 'The Picture of Dorian Gray')
+Science and design visualisation
+Music visualisation
+Semantic framework for innovation
+Understanding computational models
+Overarching application (lack of credibility)
+Vague/overgeneral principles (falsifiability issue)
+Lack of specification for conceptual representation of meaning
+Mental spaces underspecified (selection, nature)
+Imprecision in methodological background
+Terminological circularity
+Collaboration across disciplines
+Transfer of knowledge/skills across study areas
+Addressing complex societal/environmental issues
+Comparison, exchange, synthesis of specialised knowledge
+Promotes traditional liberal arts skills (analytical, critical thinking, communication)
+Deeper understanding of the world
+Fosters critical thinking in engineering design
+Generates new knowledge/synergistic learning
+Allows for combining diverse inputs (innovation)
+Organisational learning and knowledge management
+Clarity of vision/shared values
+Internal/external communication and relationships
+CPD, rotation, career progression
+Facilities, resources, procedures, administration
+Role mix, professional roles, responsibilities
+Conflicting ideas and iterative revision
+Difficulties with different understandings of terminology
+Assumptions about individual representative's contribution
+Structural support (e.g., interdisciplinary institutes)
+Cultural change
+Active participation in public debates (research assessment, funding)
+Embedding IDR value in assessment panels
+Peer reviewers experienced in IDR
+Released time/stipends for faculty
+NotebookLM can be inaccurate; please double-check its responses.
+Reply ready.

@@ -1,0 +1,80 @@
+Advanced Data Acquisition Model Development and Validation
+Advanced Data Acquisition Model (ADAM)
+<
+Context and Problem Statement
+<
+Research Methodology
+<
+Development of ADAM
+<
+Testing and Validation (DSRP Stages)
+<
+Contribution to Knowledge
+<
+Nature of Evidence
+<
+Digital Forensics Issues
+<
+Limitations of Existing Models
+<
+Diverse Practitioner Environments
+<
+Approach
+<
+Process Model Used
+<
+Precursor Analysis
+<
+Assessment Result
+<
+ADAM Structure (Design Stage)
+<
+Initial Testing (Demonstration Stage)
+<
+Main Testing (Evaluation Stage)
+<
+Evaluation Panels
+<
+New generic process model for data acquisition
+Addresses practical needs of diverse practitioners
+Satisfies law court expectations (formal process description)
+Demonstrates practical UML application
+Most comprehensive review/critique of acquisition models
+Paves way for models of other forensic activities
+Less paper-based
+Mostly electronic form
+Evidence differs from 'traditional' crimes
+Lack of well-established standards/procedures
+Focus on specific area (e.g., law enforcement)
+Fail to address diverse environments
+Law enforcement
+Incident response
+Commerce
+Design Science
+Suited for creating new process model
+Design Science Research Process (DSRP)
+Widely used in information systems research
+Review of current acquisition models
+Theoretical assessment (Carrier & Spafford)
+Legal assessment (Daubert test)
+None provide generic acquisition process
+Few models contain elements for adaptation
+Three-stage process model
+Three UML Activity diagrams
+Overriding Principles
+Operation Guide for each stage
+'Desk check'
+Used in-house documentation (3 investigations)
+Used four narrative scenarios
+Feedback incorporated into design
+Independent verification and validation
+Utilised two groups of 'knowledgeable people'
+Expert Panel
+<
+Practitioner Panel
+<
+International subject matter experts
+Peers from Australia
+Representatives from Law Enforcement
+Representatives from Commerce
+Representatives from Incident Response

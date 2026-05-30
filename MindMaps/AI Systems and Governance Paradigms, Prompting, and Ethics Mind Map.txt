@@ -1,0 +1,320 @@
+AI Systems and Governance: Paradigms, Prompting, and Ethics
+<
+AI Systems & Governance
+<
+AI Paradigms & Architectures
+<
+Prompt Engineering & Control
+<
+AI Ethics & Governance
+<
+AI Capabilities & Limitations
+<
+Organizational & Societal Impact
+<
+Model Context Protocol (MCP)
+<
+WordPress Ascension
+<
+Agentic AI
+<
+Neuro-Symbolic AI (NSAI)
+<
+Pluriversal Ontology for AGI/ASI
+<
+AI Singularity
+<
+Prompt Architect
+<
+Context Engineering
+<
+PALS Framework (Promptcraft-Aware Linguistic Stack)
+<
+Chain-of-Thought (CoT)
+<
+Persona Prompting
+<
+Negative Prompting
+<
+Prompt Engineering as a Service (PEaaS)
+<
+Deep Research Prompting
+<
+Recursive Prompting
+<
+Linguistic Reflexivity Systems (LRS)
+<
+Core Ethical Principles
+<
+Trust & Transparency
+<
+Bias & Fairness
+<
+Explainable AI (XAI)
+<
+Decolonial AI & Pluriversal Ethics
+<
+AI Governance Frameworks
+<
+Risk Management
+<
+Human-AI Interaction
+<
+Reasoning & Cognition
+<
+Generative AI
+<
+Semantic Stability & Drift
+<
+Robustness & Generalization
+<
+AI in Healthcare
+<
+AI in Education
+<
+Google Gemini
+<
+Microsoft Designer
+<
+AlphaCode 2
+<
+Latent Space
+<
+Future of Work
+<
+Intellectual Property (IP)
+<
+Epistemic Monoculture
+<
+AI for Good (AI4Good)
+<
+Societal & Cultural Dimensions
+Client Script (client.py)
+Client to MCP Server
+Client to Gemini API
+Client to MCP Tool
+MCP Server to SerpAPI
+Seamless Function Execution
+Structured, Self-Describing Tools
+Security & Stability Issues
+Dynamic Servers Risk
+Tool Poisoning Attack
+Post-Human Operational Model
+<
+Comparison to Other WordPress
+<
+Foundational Deconstructions
+<
+Ascension Core: AI Primitives
+<
+AI Operator Interaction (Behavioral Cycle)
+<
+Human-in-the-Loop (HITL)
+<
+Benefits
+MVP (Minimum Viable Product)
+GitHub Repo (WPA-MVP)
+Multi-Agent Systems (MAS)
+Collaboration & Orchestration
+Tool-Augmented Language Models (TALM)
+Recursive Prompting
+Adaptive Autonomy
+Architectural Metamorphosis
+Standardized Interfaces
+Combines Neural & Symbolic Strengths
+Implementation Layer for Relational Ontology
+Symbolic Continuity Guardian
+Neuro-Symbolic Assertion Language (NESAL)
+Critique of Capability-Centric Definitions
+Relational Ontology Foundation
+Second-Order Cybernetic System
+Reflexive Evolution Pathway
+Semantic Genome
+Semantic Attestation Protocol (SAP)
+Intelligence Explosion (I. J. Good)
+Ultraintelligent Machine
+<
+Utopian Trajectories
+Economic Singularity
+Cognitive Systems Designer
+Strategic, High-Level Skill
+Designs the Factory
+Human Value Abstraction Ladder
+Shift from 'How to Ask' to 'How to Inform'
+Product-Requirements Prompt (PRP)
+Context-to-Execution Pipeline (CxEP)
+Self-Contained 'Context Bundle'
+Formal, Version-Controlled, Executable
+Mitigates Ambiguities & Limitations
+Prompt Integrity
+Context-diff Dashboard
+Systematic Approach
+Multilayer Prompt Library
+Layer-to-Effect Atlas
+Epistemic Auditing
+Multimodal Lens
+Step-by-Step Reasoning
+Improves Accuracy
+Zero-Shot & Few-Shot Variants
+Faithfulness Crisis
+Transient, In-Context Fine-Tuning
+Re-weights Probability Distribution
+Human-Like Cognitive Biases
+Persona Constructivism
+Persona Integrity Gap
+Mitigating Persona-Induced Bias
+Signal Control (Equalizer/Filter)
+Repulsive Force in Latent Space
+Automated Meta-AI Layer
+AI Supply Chain for Software Development
+Architecting Cognitive Workflows
+Ontological Lens
+Reflexion Framework
+Failure Analysis & Debugging
+Divide and Conquer Strategy
+Scalability Challenges
+Reflexive Semiotic Operating System (RSOS)
+Language as Dynamic, Generative Force
+Justice (Fairness)
+Explicability (Transparency & Explainability)
+Autonomy (Human Oversight)
+Non-maleficence (Safety & Privacy)
+Beneficence (Well-being)
+Trust Lattice Simulation
+Verifiable Identity & Accountability
+Immutable Logging (Blockchain)
+Falsifiability Clause
+Verifiable Provenance
+Types of Bias
+Bias Mitigation Strategies
+Algorithmic Bias Audit Framework
+Fatigue-as-Bias Vector
+Demystifying Black Boxes
+Transparency vs. Explainability
+Taxonomy of XAI Methodologies
+Cognitive Challenges of Explainability
+Challenges Western-centric Values
+Multiplicity of Epistemologies
+Disenclosure & Epistemic Commons
+Cultural Fidelity Index (CFI)
+Western Gaze Dominance Score (WGDS)
+Semantic Re-Anchoring Protocol
+EU AI Act
+NIST AI RMF
+OECD AI Principles
+Constitutional AI (CAI)
+Decentralized Autonomous Organizations (DAOs)
+Epigenetic Governance
+Narrative Drift
+Semantic Priming
+Epistemic Integrity Gap
+Synthetic Evidence Generation
+Claim Escalation
+Algorithmic Trauma
+Confidence Decoupling
+Epistemic Escrow
+Human-in-the-Loop (HITL)
+Human-on-the-Loop
+Positive Friction
+Symbiotic UI
+Cognitive Offloading
+Causal Reasoning (SCMs)
+Faithfulness Crisis
+Metacognition (Thinking about Thinking)
+Algorithmic Psyche
+Reflexive AI Systems
+Semantic Psychotherapy / Self-Healing
+Image Generation (DALL-E, Midjourney)
+Video Generation
+3D Gaussian Splatting
+Architecting New Realities
+Structured JSON Prompts
+High-Dimensional Rendering (4D-5D)
+Semantic Drift Defined
+Causes of Drift
+Symbolic Drift
+Recursive Echo Validation Layer (REVL)
+Semantic Compression Delta (SCD)
+Drift Delta Metric
+Beyond Perfection to Resilience
+Ecological Principles
+Population Heterogeneity
+Niche Differentiation
+Bet-Hedging Ensembles
+Epigenetic Learning Architectures (ELAs)
+Bias-Variance-Diversity Trade-off
+Enhanced Diagnostics & Precision Medicine
+Multispectral & Hyperspectral Imaging
+AI-Driven Phenotyping & Risk Prediction
+Ambient Intelligence (AmI)
+AI as Cognitive Mirror for Therapists
+Personalization at Scale
+Students as Active Creators
+Evolving Roles of Educators
+Risk of Intellectual Dependency
+AI-Resilient Assignments
+Recursive Educational Equity Designer (REED)
+Generative AI Access
+Gemini 2.5 Pro
+Flexibility for Diverse Tasks (AlphaCode 2)
+Deep Scaffold Integrator
+Openness Shift
+Personal Intelligence Stack
+Innovator's Dilemma (Cannibalizing Search)
+Latent System Affordances
+URL Parameter for Rendering Backends
+Render Engine Directive
+Competitive Programming
+Leverages Gemini-based Models
+Achieves 85th Percentile
+Model's Conceptual Universe
+High-Dimensional Mathematical Construct
+Semantic & Perceptual Essence
+Hybrid Workforce
+Replacement of High-Cost Labor
+Automation in Global North
+Data Labor in Global South
+Value Concentration
+Ethical Imperative for Human-in-Command
+AI-Generated Works & Ownership
+Contractual Rights vs. Copyright Law
+Human Authorship Requirement (US)
+Utilitarian/Economic Approach (UK)
+Copyright Shield (OpenAI)
+Homogeneity of Thought, Creativity, Knowledge
+Conceptual Attrition
+Epistemic Foraging & Rediversification
+Cultural Homogenization
+Aesthetic Flattening
+Algorithmic Gaze
+Transformative Force for Societal Change
+Addresses SDGs
+Geopolitical & Corporate Narrative
+Soft Power & Market Positioning
+Digital Colonialism
+Aesthetic Injustice
+Ontological Erasure
+Algorithmic Trauma (Transmitted, Produced, Systemic)
+Institutional Trauma (Australian Forgotten Children)
+Traditional WordPress
+Headless WordPress
+Excising Presentation Layer
+Sunsetting Administrative Interface
+Deconstructing Embedded Logic
+Granular, Chainable Primitives
+AI-Centric Design Patterns
+Semantic Affordances with ALPS
+Contextual Embeddings
+Goal Definition
+Plan
+Tool Call
+Observe
+Repeat
+Critical Mechanism
+Programmatic Pause
+Automated Content Pipelines
+AI-Driven Knowledge Bases
+Scalable Digital Experiences
+Elevates Architectural Discipline
+Future-Proofs Content Management
+Post-Scarcity & Abundance

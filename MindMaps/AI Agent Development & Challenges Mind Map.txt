@@ -1,0 +1,239 @@
+Mind map
+Gemini CLI: Agent Development and Challenges
+AI Agent Development & Challenges
+<
+Gemini CLI
+<
+AI Agent Concepts & Architectures
+<
+Challenges in AI Agent Systems
+<
+Security & Compliance
+<
+Organizations & Entities
+<
+Key Features & Integrations
+<
+Configuration Hierarchy
+<
+GEMINI.md
+<
+Custom Slash Commands
+<
+Model Selection & Usage
+<
+Safety & Reliability Features
+<
+Challenges
+<
+Use Cases
+<
+Model Context Protocol (MCP)
+<
+Agent Interaction Patterns
+<
+ReAct Framework (Reason and Act)
+<
+Context Engineering
+<
+Shared Mental Models (SMMs)
+<
+Architectural Principles for Resilient AI
+<
+Epistemic Fragility
+<
+Semantic Misalignment
+<
+Cognitive Debt
+<
+Provenance Gap
+<
+AI Code Generation Challenges
+<
+Extensible AI Ethics & Guardrails
+<
+Free Tier AI Reliability Risks
+<
+Sandboxing & Secure Execution (Docker, micro-VMs)
+Workload Identity Federation (WIF) for CI/CD
+Policy-as-Code (PaC)
+Proactive Security Extensions (/security:analyze)
+Provenance Framework for AI Supply Chain
+CLI Version Pinning (gemini_cli_version)
+Paid API Keys for Production (Data Privacy)
+Telemetry Disabled (usageStatisticsEnabled: false)
+Approved Tooling & Context Control (whitelisting, fileFiltering, excludeTools)
+Runtime Assurance (RTA) for operational safety
+Google / Google Cloud / Gemini
+Anthropic (Claude Code, CAI)
+OpenAI (GPT models, Codeex)
+GitHub / GitHub Actions / GitHub Next
+W3C (PROV-DM, DIDs, VCs)
+OpenSSF (AI provenance schema)
+Tracebit (Gemini CLI vulnerability discovery)
+Replit
+Terminal-based AI Coding Partner
+IDE Integration (VS Code Companion)
+GitHub Actions Integration (Beta)
+Model Context Protocol (MCP) Support
+Configuration & Memory Management (GEMINI.md)
+Slash Commands & Customization
+Sandbox Mode
+Model Access (Ultra, Pro, Nano)
+Voice & Audio Interaction
+Command-Line Flags
+Environment Variables (.env)
+System-level Overrides
+Project-level Configuration (.gemini/settings.json)
+User-level Configuration (~/.gemini/settings.json)
+System-level Defaults
+Hardcoded Application Defaults
+Project-Specific Memory/Master Prompt
+Contains Instructions & Guidelines
+Verification Mandates
+Contextual Awareness
+/init & /memory add Commands
+Defined in .toml files
+Encapsulate Workflows
+Benefits: Reusability, Consistency, Efficiency
+Multimodal Integration
+Gemini 2.5 Pro (complex tasks)
+Gemini 2.5 Flash (speed, cost-efficiency)
+Free Tier Reliability Risks
+Paid API Keys for Production
+Sandbox Mode
+Checkpointing & /restore
+Automatic Loop Detection
+Context Control & Filtering
+Proactive Security Scanning (/security:analyze)
+Local File Shadowing Conflict (.env)
+Vague Prompts & Insufficient Context
+Generate Static Pages (landing pages, dashboards)
+Build Web Apps (database, auth, APIs)
+Create Mobile Apps (voice notes)
+Code Review
+Summarize Code Changes
+Write Tests
+Refactor Code
+Generate Documentation (/docs:generate)
+Create Release Notes (/release:notes)
+Purpose: Bridge fractured landscape
+Key Features: Dynamic Tool Discovery, Structured Communication, Enhanced Security, Extensibility
+Limitations (Initial Design)
+<
+Comparison to Other Protocols
+<
+Iterative Human-in-the-Loop (HITL)
+Reusable Prompts
+Sub-Agent Pattern
+Wrapper MCP Server
+Full Application
+Iterative Feedback Loop
+Thought (Reasoning)
+Action (Tool Invocation)
+Observation (Tool Output)
+Strategic system-level design of AI's information ecosystem
+Product-Requirements Prompts (PRPs)
+Executable Context Bundles (CxB)
+Cognitive cohesion for multi-agent systems
+Components: Task, Equipment, Team Interaction, Team Member Models
+Correlated with Team Performance
+Antifragility (improving from errors)
+Modularity & Decentralization (Microservices)
+Redundancy & Replication
+Proactive Monitoring & Self-Healing
+Flaw in 'Verify' step of ReAct loops
+Causes
+<
+Mitigation Strategies
+<
+Agents lack shared understanding
+Manifestations
+<
+Solutions
+<
+Implicit long-term cost of human mental effort
+Manifestations
+<
+Caused by: Semantic ambiguities, Context conflicts, Unpredictable behavior
+Lack of verifiable records for AI-generated code
+Challenges
+<
+Addressing the Gap (Multi-layered Framework)
+<
+Security Risks (bugs, vulnerabilities, prompt injection)
+Quality Issues (hallucinations, suboptimal solutions)
+Unpredictable & Non-Deterministic Outputs
+Opaque Reasoning Paths
+Constitution Translation Problem (principle to machine-enforceable rules)
+Semantic Ambiguity (vague virtues to brittle rules)
+Cultural Mismatch (AI Colonialism)
+Framing Effect (phrasing dictates adherence)
+Architecting Extensible Guardrails
+<
+Threat Model of AI Plugins & Extensions
+<
+Volatile Usage Limits
+Silent Model Downgrades (Pro to Flash)
+Algorithmic Non-Determinism
+Provider-Induced Instability (API Contract Erosion)
+Implications for Production
+<
+Statelessness
+Static Discovery
+Master-Servant Model
+Google's A2A (Agent-to-Agent): Peer-to-Peer, Stateful, Dynamic Discovery
+IBM's ACP (Agent Communication Protocol): Hybrid, Semantic, Session-Aware
+Prompt Injection & Jailbreaking
+Misinterpretation & Hallucination
+Lack of Transparency & Explainability
+Unpredictable & Erratic Behavior
+Security & Privacy Concerns
+Explicit Configuration (Verification Mandates)
+Epistemic Escrow (Automated 'second opinion')
+Advanced Technical Fortification
+<
+Context Conflict & Cognitive Debt
+Concept-to-Code Decay
+Structural/Representational Mismatch
+Distributed State Management Challenges
+Interpretive Heterogeneity
+Context Engineering
+Structured Prompts & Formal Lexicons
+Retrieval-Augmented Generation (RAG)
+Semantic Integrity Constraints (SICs)
+Drift Monitoring & Detection
+Human-in-the-Loop (HITL) & Interactive Clarification
+Hybrid Neuro-Symbolic Architectures
+Shared Mental Models (SMMs)
+SagaLLM Framework
+Multitask Training
+Verified Semantic Caches
+Increased Cognitive Load
+Cognitive Dissonance
+Atrophy of Skills
+Debugging Emergent Chaos
+Erosion of Trust
+Regulatory Compliance
+Intellectual Property Protection
+Scientific & Research Integrity
+Debugging & Root Cause Analysis
+AI Supply Chain Attacks
+Erosion of Developer Trust
+Data-Level Provenance (W3C PROV & PROV-AGENT)
+Process Integrity (SLSA for AI)
+Cryptographic Identity & Attestation (DIDs & VCs)
+Policy-as-Code (PaC) Foundation
+Extensible Interfaces (plugins, APIs, CLIs)
+Excessive Permissions & Data Exfiltration
+Prompt Injection & DOM Manipulation
+Supply Chain Attacks
+Progressive Malicious Behavior
+Latent Bugs
+Unpredictable Performance & Quality
+Increased Debugging Complexity
+Erosion of Trust
+Data Privacy Risks
+Grammar-Constrained Decoding
+Mutation Testing
+

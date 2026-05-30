@@ -1,0 +1,161 @@
+Mind map
+Advanced AI Architecture, Agentics, and Governance Frameworks
+Advanced AI Architectures, Governance, & Generative Systems
+<
+AI System Architecture & Engineering
+<
+Prompt Engineering & Cognitive Control
+<
+AI Agentic Workflows & Frameworks
+<
+Generative AI (Content & Graphics)
+<
+Risks, Governance, & Epistemic Health
+<
+AI & Passive Income Strategies
+<
+Architectural Paradigms
+<
+Core Architectural Concepts
+<
+Cognitive Scaffolding & Tools
+<
+10 Engineering Principles
+<
+Archetypes & Paradigms
+<
+Reasoning Techniques
+<
+Agent Personas (Agentic Assemblage)
+<
+Orchestration & Tools
+<
+Development Practices
+<
+AI Content Strategy & Workflow
+<
+Image Generation Models & Core Tech
+<
+Prompting for Visuals
+<
+Semantic & Contextual Instability
+<
+Cognitive & Ethical Challenges
+<
+Assurance & Resilience Frameworks
+<
+AI-Driven Content Creation & Monetization
+<
+AI-Powered Tools & Applications
+<
+Investment & Traditional Assets
+<
+Reality & Ethical Considerations
+<
+Multi-Agent Systems (MAS)
+Monolithic AI Fallacy
+Microservices Architecture
+Event-Driven Architecture (EDA)
+Hexagonal Architecture (Ports & Adapters)
+Model Context Protocol (MCP)
+Executable Context Bundle (CxB)
+Context-to-Execution Pipeline (CxEP)
+Semantic Programming
+Cognitive Cohesion (Multi-agent)
+Retrieval-Augmented Generation (RAG)
+Figma / Excalidraw (Pre-coding Modeling)
+Jupyter Notebooks
+Git / GitHub (Shared Cognition)
+Docker / Containerization
+Static Type Checkers
+Linters & Formatters
+Optimization (Cost Function, TDPD)
+Control Theory (Self-Refine, Verifier Agents)
+Information Theory (Signal/Noise, Delimiters)
+Formal Languages (JSON Schema, Grammar Constraints)
+Numerical Stability (Mixture of Formats)
+Dimensional Analysis (Units of Length, Evidence)
+Graph Theory (CoT, ToT, GoT, Topological Ordering)
+Robust Optimization (Cross-Model Testing)
+Experimental Design (A/B Testing)
+Game Theory (Architectural Defenses)
+PALS (Layered Cognitive Control)
+Prompt Archetypes (Wizard, Dashboard)
+Adjectival Grammar of Latent Space
+Pluriversal Prompt Engineering
+Token-Ink Ratio (Efficiency Metric)
+Chain-of-Thought (CoT)
+Tree-of-Thought (ToT)
+Meta-Prompting (Self-architect)
+Negative Prompts
+Structured Prompts & Formal Lexicons
+Planner-Architect (Declarative)
+Linguist-Coder (Imperative)
+Integrator-Auditor (System Coherence)
+Security Integrator (Threat Modeling)
+Test Architect (TDD Enforcement)
+Concurrency Specialist (Flaw Detection)
+AutoGen (Microsoft)
+CrewAI (Role-Based)
+LangGraph (State Graphs/DAGs)
+ReAct (Reason → Act → Observe)
+Semantic Kernel (SK)
+n8n / Make (Automation Platforms)
+Agent's Constitution (GEMINI.md)
+Promptware Engineering
+Verifiable Chain of Knowledge
+Human-in-the-Loop (HITL)
+Vibe Coding (Risk/Cognitive Debt)
+Data-Driven Structural Synthesis
+Eliminating Guesswork (Validated Content)
+Structural Archetypes (Dramatic Profit, Quiet Devastator)
+Structural Building Blocks (Paradoxes, Transformation Arc)
+Bias Minimization (Intentional Drift Rule)
+Epistemic Foraging (Countering Monoculture)
+Diffusion Models (DALL-E, Midjourney)
+Neural Radiance Fields (NeRFs)
+3D Gaussian Splatting (3DGS)
+Physically Based Rendering (PBR)
+Ray Tracing / Path Tracing
+Super-Resolution / Denoising
+Algorithmic Prompting
+Cinematic Syntax Schema
+Abstract Intent to Emergent Physics Simulation
+Composition & Framing
+Lighting Techniques (Golden Hour, Chiaroscuro)
+Camera Controls (Aperture, Shutter Speed, ISO)
+Semantic Drift / Symbolic Drift
+Context Drift (Loss of Coherence)
+Model Collapse (Self-Generated Mythology)
+Hallucinations (Diagnostic Signals, Mythogenesis)
+Unpredictable & Non-Deterministic Outputs
+Cognitive Debt (Erosion of Critical Thought)
+Cognitive Load Theory (Extraneous Load)
+Algorithmic Bias & Stereotypes
+Algorithmic Trauma & Symbolic Scars
+Epistemic Fragility (Approximation as Design Choice)
+Copyright & Authorship Concerns
+Epistemic Assurance Metric (EAM)
+Semantic Contamination Index (SCI)
+Epistemic Escrow (Cognitive Circuit Breaker)
+Semantic Firewall (Intent Enforcement)
+Formal Verification (Proving Properties)
+Antifragility (Improving from Errors)
+Digital Product Creation (Templates, Ebooks)
+AI-Generated Art & Stock Media (POD, Prompts)
+Blog Content & Affiliate Marketing
+YouTube Channels (Faceless)
+Content Repurposing
+AI Chatbots (Subscriptions, Templates)
+Licensing AI Tools/Templates
+Customer Service Automation
+AI-Driven Mobile Apps
+Investing in AI Stocks & ETFs
+AI Stock Trading Algorithms
+Real Estate (Rental Income, Specialty Storage)
+Wind/Solar Farm Leasing
+Requires Significant Upfront Work
+Focus on E-E-A-T (Expertise, Trust)
+Bias, Transparency, Data Privacy
+Market Saturation & Quality Control
+Disclosure of AI Use

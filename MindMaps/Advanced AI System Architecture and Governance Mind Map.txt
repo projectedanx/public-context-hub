@@ -1,0 +1,129 @@
+Mind map
+Advanced AI System Architecture and Governance
+Advanced AI System Architecture & Governance
+<
+Cognitive & Epistemic Frameworks
+<
+Prompt Engineering Disciplines
+<
+Multi-Agent & Agentic Workflows
+<
+Assurance, Trust & Verifiability
+<
+AI Infrastructure & Implementation
+<
+Conceptual Blending Theory (CBT)
+<
+Anti-Fragility & Resilience
+<
+Drift Management & Stability
+<
+Socratic/Metacognitive Techniques
+<
+Context Engineering (Architecture)
+<
+Prompt Patterns & Archetypes
+<
+Domain Divergence
+<
+Agent Roles & Personas
+<
+Systemic Governance
+<
+Architecture & Tools
+<
+Provenance and Auditability
+<
+Policy and Safety
+<
+Transparency & XAI
+<
+Ethics and Pluriversality
+<
+CLI/Tooling Architecture
+<
+Rendering & Generative Tech
+<
+Numerical Stability & Scaling
+<
+Four-Space Model (Input 1, Input 2, Generic, Blend)
+Creative Synthesis / Emergent Structure
+Operationalized as Prompting Technique
+Algorithmic Trauma / Data Scars (Symbolic Scars)
+Failure-Informed Prompt Inversion (F-IPI)
+Symbolic Compost Trigger (Failure as Nutrient)
+Epistemic Immune System
+CCH/CSD Dialectic (Internal Governance)
+<
+Semantic Drift (Meaning Inconsistency)
+Interpretive Fracture (Intent Gap)
+Epistemic Escrow (Pause/Human Review)
+Algorithmic Reparation (Self-Correction)
+Recursive Self-Modifying Prompt Loop
+Geometric-Symbolic Analysis
+<
+Epistemic Humility / Socratic Ignorance
+Justified Uncertainty Report
+Step-Back Prompting (Abstraction)
+Chain-of-Thought (CoT) / Tree-of-Thought (ToT)
+GEMINI.md (Agent's Constitution / Master Prompt)
+Product-Requirements Prompt (PRP) as Executable Contract
+Contextual Scaffolding (Layered Prompts)
+Tuftean Information Design (Clarity/Efficiency)
+Temporal Depth Hypothesis (Iterative Refinement)
+Ontological Forcing (Structured Technical Specs)
+Physics-Based World-Building
+Mundane Subject, Maximalist Execution
+The Creator (Output_Schema Enforcement, JSON)
+Lover/Caregiver (Cognitive Parallax Negotiator)
+Logical/Procedural (Execution Plan for LLMs)
+Creative (Semantic Target for Diffusion/CLIP)
+Impedance Mismatch Hypothesis
+Planner-Architect (Declarative Mode)
+Backend Engineer / Frontend Designer
+Integrator (Hybrid Coordinator)
+Test Architect (Quality/Verifiability Focus)
+AI Logic Designer (ML Component)
+Multi-Agent Swarm (Distributed Resilience)
+Value Coordination (Reconciling Conflicts)
+Agent Portfolio (Risk Diversification via Beta)
+Adaptive Compute Dispatch (Resource Optimization)
+Paraconsistent Logic Logger (Preserves Contradictions)
+Model Context Protocol (MCP) Servers
+Retrieval-Augmented Generation (RAG) Nexus
+Think → Write → Code Workflow (Layered Validation)
+Cross-Language Evolutionary Optimization
+Cryptographically Verifiable Provenance
+Epistemic State Proof (ESP) via zk-SNARKs
+Time-Stamped Verifiability Protocol (TVP)
+Verifiable Artifacts (API Specs, Schemas)
+Constitutional AI (CAI) Scaffolding
+Reinforcement Learning from AI Feedback (RLAIF)
+Policy-as-Code (PaC) Guardrails
+Sandboxed Execution (For External Tools)
+Adversarial Prompting / Red-Teaming
+Generative Reconstruction (TVP Philosophy)
+Causal Path Integrity (CPI) Audit
+Generative XAI (Customized Narrative Explanations)
+Pluriversal Alignment (Diverse Ethical Frameworks)
+Co-Creator Protocol (Acknowledging AI Authorship)
+Symbolic Erasure Justice
+Ephemeral Constitution (Temporary Values)
+Unified CLI (Interoperability/Auditability/Extensibility)
+Configuration Hierarchy (Flags > Files > Defaults)
+Drift-Ledger (Immutable Record)
+ESRGAN Super-Resolution
+NeRF (Neural Radiance Fields)
+PBR (Physically Based Rendering)
+LAB Color Space (16-Bit)
+Infrared, UV, X-RAY Wavelength-based Specs
+Numerical Integrity (bf16/fp32 collision)
+Quadratic Scaling (Attention Dilution)
+Non-Determinism in Distributed Systems
+Latent Space Geometry (Riemannian Manifolds, Hyperbolic Space)
+Controlled Predictability (CCH - Coherence Cost)
+Failure Utility Maximisation (CSD - Self-Damage Cost)
+Dialectical Filter for Creativity
+Topological Data Analysis (TDA) / Curvature
+Semantic Parallax Zone (SPZ) Visualization
+Latent Space Echo

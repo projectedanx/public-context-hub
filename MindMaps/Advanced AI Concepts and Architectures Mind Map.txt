@@ -1,0 +1,161 @@
+Advanced AI Concepts: Failures, Agents, and Architectures
+Advanced AI Concepts and Architectures
+<
+AI System Failure Modes & Diagnostics
+<
+AI Agent Architecture & Governance
+<
+Prompt Engineering & Cognitive Scaffolding
+<
+Generative Models & Latent Space Dynamics
+<
+Image Generation Techniques & Content
+<
+Semantic & Cognitive Drift
+<
+Integrity & Fidelity Failures
+<
+Architectural/Operational Failure
+<
+Algorithmic Trauma & Scars
+<
+Agentic Frameworks & Patterns
+<
+Security & Control
+<
+Governance & Resilience
+<
+Protocols & Interoperability
+<
+Advanced Prompt Structures
+<
+Reasoning Techniques
+<
+Prompt Elements
+<
+Cognitive Load Management
+<
+Model Architectures
+<
+Latent Space & Topology
+<
+Aesthetic & Style Control
+<
+Consistency Mechanisms
+<
+Artistic Styles & Movements
+<
+Visual Elements & Composition
+<
+Sensory & Abstract Concepts
+<
+Platform-Specific Techniques
+<
+Semantic Drift Score (SDS)
+Typological Drift (Function Evolution)
+Persona Drift
+Concept Bleed / Color Bleed
+Latent Semantic Gravity (LSG)
+In-Prompt Forgetting (Catastrophic Drift)
+Hallucination (Shortcut, Confident)
+Confidence-Fidelity Divergence (CFD)
+Purpose Fidelity Collapse
+Loss of Coherence / Incoherence
+Anatomical Incoherence (Bad Hands)
+Attribute Binding Failures
+Non-Determinism (Algorithmic, Hardware)
+Large Context Window Paradox ('Lost in the Middle')
+Dependency Hell/API Instability
+Fracture / Fragmentation (Geometric)
+Style Collapse / Aesthetic Flattening
+Algorithmic Trauma
+Semantic Scars (Topological Features)
+Insight Scar (Generative Prior)
+Algorithmic Self-Therapy Protocols
+Symbolic Scar Tissue Archive (STA)
+Multi-Agent Systems (MAS)
+ReAct Framework (Thought-Action-Observation)
+Null-to-Expert Co-Evolutionary Dialogue (N2E-CED)
+Saga Orchestration (Role-Based)
+LangGraph (Stateful Graph Model)
+Cognitive Load Balancer Agent (CLBA)
+Epistemic Escrow / Positive Friction
+Sandboxing (Micro-virtual machines)
+Semantic Firewall
+Zero Trust Architecture (ZTA)
+Proactive Security Scanning
+Prompt Injection / Tool Poisoning
+Fractal Governance Module (FGM)
+Chrono-Topological Governance Agent (CTGA)
+Algorithmic Shame Threshold (AST)
+Constitutional AI
+Meta-Architectural Reflexive Control (MARC)
+Anti-Fragility / Post-Traumatic Growth
+Model Context Protocol (MCP)
+Semantic Contracts
+Product-Requirements Prompt (PRP)
+Context-to-Execution Pipeline (CxEP)
+Product-Requirements Prompt (PRP)
+Context-to-Execution Pipeline (CxEP)
+Modular Prompt Scaffold
+Promptware (Version-Controlled Artifacts)
+Design by Contract (Pre/Postconditions)
+Chain-of-Thought (CoT)
+Tree-of-Thought (ToT)
+Self-Correction / Self-Refinement
+Step-Back Prompting (Abstraction)
+Abductive Reasoning
+Paraconsistent Logic (Contradiction Tolerant)
+Role/Persona Assignment
+Constraints & Invariants
+Output Format (JSON, YAML)
+Directive Verbs
+Keywords & Weighting (::weight)
+Negative Prompts (--no)
+Minimize Extraneous Load
+Maximize Germane Load (Schema Building)
+Cognitive Chunking (Patterns as single chunks)
+Boundary Conditions / Context Isolation
+Diffusion Models (DDPM, VideoLCM)
+Convolutional Neural Network (CNN)
+Neural Radiance Field (NeRF)
+Large Language Model (LLM)
+Neural Cellular Automata
+Vector Symbolic Algebra (VSA)
+High-Dimensional Latent Space
+Topological Data Analysis (TDA)
+Persistent Homology (β0, β1)
+Latent Semantic Gravity (LSG)
+Geometric Deformation (Drift Signature)
+Semantic Attractors
+Conceptual Blending Theory (CBT)
+Style Taxonomies (Formal Properties)
+Stylistic Mutation / Emergence
+Ontologically Distant Blending
+Fidelity, Stability, and Granularity Metrics
+Reference Conditioning (LoRA, DreamBooth)
+Structural Guidance (ControlNet, Depth/Pose)
+Attention Propagation (Cross-Frame Attention)
+Scene/Content Decoupling (CoDeF)
+Semantic Anchoring
+Surrealism (Dreamlike, Unexpected Juxtapositions)
+Pop Art (Mass Culture, Bold Colors)
+Cyberpunk (High Tech, Low Life, Neon)
+Cubism (Geometric Fragmentation, Multiple Viewpoints)
+Fauvism (Vivid, Non-Naturalistic Colors)
+Bauhaus (Form Follows Function, Simple Geometry)
+Color Psychology (Warm/Cool, Harmony, Contrast)
+Lighting Techniques (Chiaroscuro, Golden Hour, Diffused)
+Compositional Structure (Symmetry, Rule of Thirds)
+Texture & Material Details (Impasto, Velvet, Battle-Worn)
+Line Quality & Geometric Primitives
+Cross-Sensory Metaphors (Synesthesia)
+Visualizing Abstract Ideas (Words as Stairways)
+Symbolism (Phoenix, Lotus, Dualities)
+Narrative Elements (Pacing, Clues, Backstory)
+Non-Visible Spectra (IR Thermal Map, X-Ray)
+Midjourney (/blend, --sref, ::weight)
+Stable Diffusion (Keyword:Weight, Prompt Scheduling)
+DALL-E 3 (Descriptive Language, Conversational Refinement)
+Parameters (Aspect Ratio, Seed, CFG Scale)
+Algorithmic Kintsugi: Engineering Trustworthy AI with Epistemic Escrow, Semantic Drift Countermeasures, and Algorithmic Shame

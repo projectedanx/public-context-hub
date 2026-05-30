@@ -1,0 +1,190 @@
+Mindmap
+AI System Architecture & Governance: Core Concepts & Strategies
+AI System Architecture & Governance
+<
+Core Concepts
+<
+Architectural Components & Strategies
+<
+Risks & Challenges
+<
+Human-AI Collaboration
+<
+Context, Intent & Ethics Engineering (CIEE)
+Model Context Protocol (MCP)
+<
+Prompt Engineering
+<
+Neuro-Symbolic AI (NSAI)
+<
+Epistemic Escrow
+<
+Algorithmic Trauma
+<
+Algorithmic Reparation
+<
+Pluriversal Alignment
+<
+Semantic Drift
+<
+Cognitive Operating System
+<
+Metacognitive Reflexivity
+<
+Context-to-Execution Pipeline (CxEP)
+<
+Recursive Echo Validation Layer (REVL)
+<
+Semantic Genome
+<
+Topological Data Analysis (TDA)
+<
+Scar Tissue Archive (STA)
+<
+Prompt-Integrity Framework (PIF)
+<
+Multi-Agent Systems (MAS)
+<
+Normalization Techniques
+<
+Traceability & Auditability
+<
+Prompt Architectures
+<
+Refusal Gestures
+<
+Automated Claim Tagging
+<
+Hallucinations
+<
+Bias & Epistemic Injustice
+<
+Accountability Vacuum
+<
+Cognitive Over-trust
+<
+Opacity & Explainability
+<
+Contextual Amnesia
+<
+Ethical Overfitting
+<
+Cognitive Collaboration
+<
+Human-in-the-Loop (HITL)
+<
+Reflexive Prompting
+<
+Epistemic Architecture Role
+<
+Standardized Connection
+Bridging LLM & APIs
+Tool Discovery
+Beyond Simple Instructions
+Meta-Instructional Architecture
+Prompt as Executable Contract
+Automated Prompt Engineering (APE)
+Prompt Architect
+Neural & Symbolic Strengths
+Propositional Probes
+Differentiable Logic Layers
+Formal Verification
+Cognitive Circuit Breaker
+Confidence-Fidelity Divergence (CFD)
+Human-in-the-Loop (HITL) Oversight
+Ensures Accountability
+Systemic Damage
+Transmitted Trauma
+Produced Trauma
+Systemic Trauma
+Semantic Scars
+Alter State Space Topology
+Heal Trauma
+Narrative Re-weaving
+Semantic Unlearning
+Multiple Worldviews
+Decolonial AI
+Indigenous Data Sovereignty (IDSov)
+Anti-Colonial Filter
+Degradation of Coherence/Relevance
+Narrative Drift
+Chronotopological Drift
+Typological Drift
+Model Collapse
+Drift Detection Mechanisms
+Integrated Suite of Tools
+Orchestrates Tasks
+Personalized Knowledge
+AI Self-Auditing
+Learns from Failures
+Adapts Architectures
+Formalized Artifacts (PRP)
+Executes Specifications
+Combats Context Loss
+Maintains Semantic Integrity
+Detects Drift Echo Phenomena (REP)
+Symbolic Re-binding Protocols
+Foundational Principles
+Constitutional Framework
+Ontological Priors
+Maps Shape of Meaning
+Detects Semantic Rupture
+Identifies Topological Deformations
+Persistent Homology
+Spectral Chrono-Topological Signature (SCTS)
+Logs Symbolic Scars
+Prevents Algorithmic Trauma
+Generative Priors from Failures
+Linguistic Lenses
+Detects Semantic Drift
+Ensures Coherence
+Decentralized Control
+Emergent Collective Behavior
+Agentic Frameworks (LangChain, CrewAI, MetaGPT)
+Batch Normalization
+Layer Normalization
+RMSNorm
+HybridNorm
+Verifiable Audit Trail (VAT)
+Immutable Logging (DLT/Blockchain)
+Computational Historiography
+Provenance Tracing
+Chain-of-Thought (CoT)
+Tree-of-Thought (ToT)
+Reflexion
+Self-Consistency
+Modular Prompts
+Explicit Refusal of Harmful Actions
+Ethical Alignment Indicator
+Factual, Hypothetical, Simulated
+Epistemic Origin Transparency
+Fabricated Information
+Nonsensical Output
+Misinterpretation of Prompts
+Algorithmic Inheritance
+Promptual Colonialism
+Aesthetic Flattening
+Marginalization of Non-Dominant Knowledge
+Representation Bias
+Diffusion of Responsibility
+Difficulty Assigning Liability
+Anthropomorphization of AI
+Exploitation of Human Biases
+Black Box Problem
+Inherent Complexity of LLMs
+Statelessness of LLMs
+Information Loss
+Value Lock-in
+Loss of Adaptability to New Contexts
+AI as Cognitive Partner
+Reduces Human Cognitive Load
+Socratic Dialogue
+Oversight & Intervention
+Ethical Alignment
+Quality Control
+AI Self-Assessment
+Productive Friction
+Cultivates Metacognitive Sensitivity
+Designing Foundational Conditions
+Ethical & Cultural Encoding
+Semantic Terraformer

@@ -1,0 +1,99 @@
+AI Content Engine Strategy
+AI-Augmented Content Ecosystem
+<
+Core Content Strategy (High Output)
+<
+Idea Generation & Validation
+<
+LLM/AI Workflow for Content Creation
+<
+Daily Routine & Execution
+<
+Visual Assets & Media
+<
+Base Content
+<
+Content Flow/Repurposing
+<
+Philosophy
+<
+Twitter (X) as Litmus Test
+<
+Newsletter Ideas (Source)
+<
+Improving Idea Quality
+<
+Structure & Emulation
+<
+Research & Augmentation
+<
+Content Generation Prompts (3 Key Prompts)
+<
+Reverse Engineering High-Performing Content (Advanced LLM Use)
+<
+Morning routine (Shower, Walk)
+2 Hours dedicated to writing daily
+Finish one section of newsletter
+Finish 3 social posts
+Schedule/Post social content
+One day per week: Record YouTube video (Pass to editor)
+Focus on Writing Constraint (Ideas over Visuals)
+Visuals can be a 'crutch' for weaker ideas
+Occasionally use visuals for Instagram/Newsletter (Infographics, Animations)
+Visuals act as good pattern interrupts initially
+High Idea Density negates need for extensive visuals
+Weekly Newsletter (Baseline)
+2-3 Social Media Posts Daily (Written)
+Write Twitter (X) First (280 char limit)
+Easily transfers to other platforms
+Posts to Threads, LinkedIn, Instagram (Image)
+Turns into Real Scripts (Reels, TikToks, Shorts)
+Newsletter outlines YouTube Videos/Podcasts
+Algorithms based on Human Psychology
+Focus on Idea Density & Novel Perspectives
+Produce One Amazing Thing Weekly (Focus)
+Consistency across platforms is key
+Avoid becoming a trend follower
+Validated idea on X extended to other mediums
+Post spin-offs from high-follower posts (Growth)
+Balance core successful ideas (30%) with experimentation
+Top performing previous Tweet (Expansion)
+Existing viral YouTube video in niche (Take topic/angle, write own perspective)
+Maintain an Idea Document/List
+Keep a Swipe File of good ideas
+Synthesizing ideas defines brand/worldview
+Become a ruthless notetaker
+Use tools (SuperX/Tweet HunterX) to find top tweets
+Refine writing style by reading admired accounts
+Practice: Exchange structure, keep idea
+Practice: Exchange idea, keep structure
+Use LLMs (Claude, ChatGPT, Gemini 2.5)
+LLMs pull from YouTube videos or PDFs (Time saving)
+6 hours of video -> 1000 words (Summary)
+Ideation with LLM (Find similarities, missing points)
+LLM provides 'firepower' for outline/writing
+YouTube Title Generator
+<
+Deep Post Generator / Content Ideas Generator
+<
+General Content Idea Generation
+<
+Ask LLM to break down structure and psychology of a post/landing page
+Example: Break down tweet into Hook, Pain, Payoff, Insight
+Combine 3+ broken-down examples into a 'Guide' (e.g., Anatomy of Viral Posts)
+Ask LLM: 'What context do you need from me?' (Identify required inputs)
+Create a Prompt Generator Prompt (SOP for Prompt Creation)
+<
+Example: Offer Creation Guide (Use expert context, e.g., Alex Hormozi)
+Trained on 15 best titles
+Pulls key points from newsletter
+Spits out 20-30 psychologically patterned titles
+Deconstructs newsletter into 5 compelling post ideas
+Generates core paradoxes, quotes, transformation arcs, problems
+Provides building blocks/pieces of ideas, not finished tweets
+Generates 60 ideas based on successful tweet types
+Types: Harsh life advice, counterintuitive truths, pain points, wisdom
+Starting point for ideas (Faster idea generation)
+Two Phases: Context Gathering (Interview), Post Writing (Output)
+Ensures output aligns with user voice/style (Context is King)
+NotebookLM can be inaccurate; please double-check its responses.

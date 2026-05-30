@@ -1,0 +1,88 @@
+Mind map
+AI Reasoning, Cognitive Models, and Cyber Threat Defence.
+Advanced AI Techniques and Cyber/Cognitive Contexts
+<
+Large Language Models (LLMs) & Reasoning
+<
+Conceptual Theories of Meaning
+<
+Global Cyber Threat Landscape
+<
+Augmentation and Hybrid Techniques
+<
+Limitations and Challenges
+<
+Conceptual Metaphor Theory (CMT)
+<
+Conceptual Blending Theory (CBT)
+<
+The Cybercrime Economy (CaaS)
+<
+Adversary Tactics and Automation
+<
+Defense and Resilience Strategies
+<
+Retrieval-Augmented Generation (RAG)
+<
+Chain-of-Thought (CoT) Reasoning
+<
+Hallucination (rewarded guessing)
+<
+Lack of Common Sense Reasoning (e.g., WinoGrande)
+Pragmatic Deficiencies (cultural/situational context)
+Transparency (Black Box models)
+Future Directions (Architecture)
+<
+Core: Systematic Cross-Domain Mapping (Source-Target)
+Types: Structural, Ontological, Orientational
+Examples: TIME IS MONEY, LIFE IS A JOURNEY
+Critique: Lack of systematic research/empirical data
+Core: Conceptual Integration Network
+Four Mental Spaces
+<
+Processes: Composition, Completion, Elaboration
+Applications: Idioms (damaged goods), Counterfactuals
+Advantages: Context-dependent meaning, unpacking mechanism
+Industrialization of Crime (RaaS)
+Global Cost: $10.5 Trillion (2025 projection)
+Key Components
+<
+AI Weaponization (Deepfakes, FraudGPT, Vishing)
+Surge in Automated Reconnaissance (36,000 scans/sec)
+Initial Access: Shift to Multi-Stage Attack Chains (e.g., ClickFix)
+Targeting Systems of National Significance
+Insider Threats (Nation-state proxies)
+Cyber-Physical Resilience
+AI-Powered Defense and Detection
+Australian Cyber Security Strategy (2023–2030 Goals)
+<
+Quantum Technologies Readiness (SFI, CNSSP-15)
+Solves hallucination/out-of-date data
+Provides domain-specific answers
+Advanced RAG Techniques
+<
+Key RAG Variants
+<
+Explicit intermediate steps
+Improves accuracy (math/logic)
+Emergent ability (scales with model size)
+Integration Example: CoT-RAG
+Mitigation: CriticGPT, modifying evaluation scores
+Focus on World Models (LeCun)
+Focus on Controllable AI (Sutskever)
+Input Space (specific situation)
+Generic Space (common structure)
+Blend Space (emergent structure)
+Cross-Space Mapping (counterparts)
+Access Brokers (monetize stolen data)
+Infostealer MaaS (Lumma, RedLine, Vidar)
+Money Laundering (Virtual Currencies, Cash-Intensive Businesses)
+Protected Critical Infrastructure
+Sovereign Cyber Capabilities
+Resilient Region and Global Leadership
+Hybrid Search (BM25 + Vectors)
+GraphRAG (Knowledge Graph Retrieval)
+Query Understanding (HyDE)
+CoRAG (Chain-of-Retrieval)
+RAT (Retrieval Augmented Thoughts)
+UniRAG (Unified Framework)

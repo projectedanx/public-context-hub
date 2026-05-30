@@ -1,0 +1,176 @@
+AI Image Generation Prompts and Styles Handbook
+AI Image Generation: Prompts, Styles, and Trends
+<
+Understanding Prompts
+<
+Artistic Styles (30 Examples)
+<
+Image Trend Concepts (AI Focus)
+<
+Themed Prompt Examples (Domain Specific)
+<
+Core Process
+<
+Essential Elements (15 Items)
+<
+Top Components (Detailed Refinement)
+<
+Best Practices
+<
+Realistic/Photography
+<
+Classical Movements
+<
+Specific Art Movements
+<
+Digital/Modern Styles
+<
+Traditional Media
+<
+Advanced Rendering/Techniques
+<
+Transformation and Fusion
+<
+Abstract and Surrealism
+<
+Conceptual Exploration
+<
+Locomotives (Chrome & Gold)
+<
+Family and Love
+<
+Gaming Trends
+<
+Dragon Ball Z
+<
+Horror (Green & Pink Clown)
+<
+Natural Beauty
+<
+AI training on datasets
+<
+AI interprets text prompt
+<
+Subject (Main Focus)
+Action or Pose
+Setting or Background
+Lighting (Type and Direction)
+Color Palette or Scheme
+Mood or Atmosphere
+Composition (Arrangement)
+Perspective or Camera Angle
+Time of Day
+Weather (Atmospheric Conditions)
+Style (Artistic Technique)
+Texture (Surface Qualities)
+Scale (Size Relationships)
+Details (Specific Attributes)
+Materials (What objects are made of)
+Facial Expression
+Clothing or Accessories
+Time Period or Era
+Depth of Field
+Cultural or Historical Context
+Symbolism or Metaphors
+Contrasting Elements
+Motion or Movement
+Reflections or Shadows
+Negative Space
+Focal Point
+Secondary Characters or Objects
+Environmental Elements (Flora/Fauna)
+Architectural Features
+Special Effects (Glow, Mist)
+Text or Typography
+Frame or Border Design
+Be Specific and Detailed
+Use Descriptive Language
+Combine Multiple Elements
+Experiment with Styles
+Consider Composition
+Play with Contrasts (e.g., flower/concrete)
+Use References (Artists, Movements)
+Iterate and Refine Prompt
+Explore Negative Prompts
+Stay Current with Tool Features
+Photorealistic
+Hyperrealistic
+Macro Photography
+Film Noir
+Tilt-shift
+Impressionist
+Expressionist
+Surrealist
+Abstract
+Minimalist
+Cubist
+Baroque
+Renaissance
+Gothic
+Bauhaus
+Pop Art
+Art Nouveau
+Art Deco
+Ukiyo-e
+Digital Art
+Futuristic
+Steampunk
+Cyberpunk
+Vaporwave
+Retro/Vintage
+Anime/Manga
+Cartoon
+Pixel Art
+Watercolor
+Oil Painting
+Charcoal Sketch
+Pencil Drawing
+Hyper-realistic portrait (with 'tells')
+Impossible Materials ('liquid metal wood')
+Detailed Texture Study
+Infinite Zoom Effect
+Prompt Engineering Showcase
+Style Transfer Time Travel (Historical Photos)
+Style Reimagining (Van Gogh as Street Art)
+Evolution Series (Photorealistic to Abstract)
+Art Movement Fusion (Dali, Picasso, Mondrian)
+Composite Artwork (Multiple AI Models)
+Contrasting Concepts Merge ('prompt battle')
+Escher-inspired Impossible Architecture
+Deep Dream Surrealist Landscape
+AI Self-Portrait (Abstract/Surreal)
+Visualizing Idiomatic Expressions ('AI misinterpretations')
+Visual Oxymoron Gallery
+Triptych of 'AI Imagination' (Human vs. AI View)
+AI-Generated Movie Still (Non-existent film)
+Miniature World inside Terrarium (Impossible cohesion)
+Infographic on AI Art Evolution
+Cross-Section of Imaginary Planet
+Art Deco (Gold Filigree, Sunburst, Peacock Tail)
+Steampunk (Pipe Organ Fusion, Gears)
+Futuristic (Organic Lines, Bioluminescent Energy)
+Fantastical (Mobile City, Dragon Shape)
+Surreal (Golden Portal, Möbius Strips)
+Generational Progression (Seasons, Spiral Staircase)
+Symbolism (Heart-shaped Tree, Glowing Thread)
+Magical Realism (Bustling Kitchen, Enchanted Mirror)
+Narrative (Tapestry of Family Life)
+Hardware (Next-gen VR, Haptic Gloves, Gaming PC components)
+Infographics/Data (Cloud Gaming Rise, Player Habits)
+Futuristic/AR (Cyberpunk Gamer Neural Interface, AR Cityscape)
+Crossovers/Concepts (Elden Ring/BotW, Gaming Fatigue)
+Design Exploration (AI-generated Fighters, Graphic Modes Triptych)
+Character Portraits (Vegeta Super Saiyan Blue, Hyperrealistic)
+Style Mashups (Ukiyo-e Roshi, Art Deco Namek, Steampunk Gravity Chamber)
+Aesthetics (Chibi, Cyberpunk Frieza's Ship, Vaporwave Buu)
+Conceptual (Surrealist Fusion Dance, Minimalist Tournament Poster)
+Hyper-realistic (Sinister Smile, Eerie Light)
+Aesthetic Styles (Film Noir Shadow, Cubist Fragmentation)
+Gothic/Dark Fantasy (Decrepit Merry-Go-Round)
+Surreal/Disturbing (Clown Eye Reflection, Makeup Transformation)
+Macro/Still Life (Dewdrop on Spider Web, Iridescent Objects)
+Landscape (Northern Lights, Minimalist Rock Garden)
+Figurative (Art Nouveau Mother Nature, Vermeer Portrait)
+Abstract/Surreal (Abstract Music, Inner Beauty Galaxy)
+Images and descriptions
+Generates image based on relationships

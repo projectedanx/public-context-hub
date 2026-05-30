@@ -1,0 +1,234 @@
+Mind map
+AI Content Creation: Models, Prompting, and Future Directions
+AI Content Creation: Models, Prompting, and Future Directions
+<
+Core Models & Mechanisms
+<
+Prompt Engineering
+<
+Challenges & Limitations
+<
+Future Directions & Solutions
+<
+Diffusion Models
+<
+Generative Adversarial Networks (GANs)
+<
+Neural Radiance Fields (NeRFs)
+<
+Transformers
+<
+Fundamental Principles
+<
+Prompting Techniques
+<
+Text-Based Prompts
+<
+Advanced Prompt Paradigms
+<
+Visual/Parameter-Based Control
+<
+Prompt Elements for Image Generation
+<
+Intent Gap: Human vs. AI Interpretation
+Algorithmic Failures & Artifacts
+<
+Bias & Homogenization
+<
+Ethical, Legal & Societal Implications
+<
+Computational Limitations (e.g., resources, time)
+<
+AI System Development
+<
+Ethical AI Governance
+<
+Applications & Benefits
+<
+Mechanism: Denoising Process
+Examples: DALL·E, Stable Diffusion, Midjourney
+Strengths
+<
+Components
+<
+Applications
+<
+Mechanism: Generator & Discriminator 'Game'
+Strengths: Sharp, high-res images, fast generation
+Limitations: Training instability, mode collapse, less control
+Volumetric geometry & coarse appearance modeling
+HoloForensic-NeRF: Sparse & damaged inputs
+Fourier Light Field Modeling
+Automates photogrammetry
+Hybrid with 2D Diffusion & 3DGS
+GPT (Generative Pre-trained Transformer)
+Attention Mechanisms
+Specificity & Detail
+Iterative Refinement
+Semantic Compression
+Keyword Combinations
+Short Phrases & Keywords
+Role Scaffolding
+Instruction Layering
+Chain-of-Thought (CoT)
+Tree-of-Thoughts (ToT)
+Retrieval-Augmented Generation (RAG)
+Negative Prompts
+Prompt Weighting/Interpolation
+Multi-Prompting (::)
+Contextual Prompting
+Heuristic Prompting
+Ensemble Prompting
+Analogical Prompting
+Anticipatory Prompts
+Simple Prefix/Cloze Prompts
+Open/Close Question Prompts
+Socratic Prompts
+Encouragement Prompts
+Specificity & Detail
+Iterative Refinement
+Semantic Compression
+Keyword Combinations
+Short Phrases & Keywords
+Iterative Prompting Framework
+Architectural Logic
+Dynamic Latent Augmentation ('Phantom Dimensions')
+Semantic Tuning Fork & High-Friction Prompts
+Fertile Glitch & Controlled Anomaly
+Logic-of-Thought (LoT) Prompting
+Meta-prompting
+Agentic Prompt Optimization
+Emotion Prompting
+ControlNet (pose, depth, edge maps)
+LoRA Fine-Tuning
+Hypernetwork
+Seed Control
+CFG Scale
+Denoising Strength
+Subject Description
+Artistic Style/Movement
+<
+Composition
+<
+Lighting
+<
+Color
+<
+Texture
+<
+Camera/Photography Techniques
+<
+Anatomical & Physical Implausibilities (e.g., extra fingers, twisted limbs)
+Typographical Errors/Text Rendering Issues
+Mode Collapse (limited diversity)
+Semantic Decay/Drift
+Compositional Failures (e.g., incorrect attribute binding, flawed spatial arrangements)
+Texture Overload & Saturation Bleed ('Muddy' output)
+Style Collapse (overwhelming descriptors)
+Geometric Inaccuracies
+Hallucinations
+JPEG Artifacts (blocking, pixelation)
+Algorithmic Bias (gender, race, stereotypes)
+Westernization/Sexualization of specific groups
+Content Homogenization (lack of originality, creativity, emotional depth)
+Hidden Systemic Bias
+Aesthetic Colonialism & Cultural Misuse
+Symbolic Drift (aestheticization, commodification, decontextualization)
+Authorship & Ownership (blurred lines, human involvement for copyright)
+Training Data Copyright Infringement
+Style Mimicry & 'Style Scraping'
+Provenance & Attribution (difficulty tracing influence)
+Misinformation & Malicious Use (deepfakes, harmful content)
+'AI Slop' (low quality, unwanted content)
+Right of Publicity (digital replicas)
+Disruption of Traditional Workflows
+Environmental Impact (computational power, energy consumption)
+Algorithmic Uncertainty (undermining trust in visual evidence)
+Token Limits
+Memory Issues / Long Loops
+Slow Response Times
+Limited Server Access
+Multimodal & Adaptive Systems
+Cross-Modal Synthesis (visual from non-visual data)
+Adaptive Rendering (neuromorphic tone mapping)
+Hybrid Rendering Pipelines (NeRFs/3DGS + traditional graphics)
+Autonomous Prompt Engineering
+Plausibility Oracle Agent
+Structured Output (e.g., Material Definition Language)
+Unified Architectures (image understanding, generation, editing)
+Proactive Responsibility & Traceability
+Human-in-the-Loop Workflows
+Symbolic Integrity Metrics
+Culturally Inclusive Dataset Design
+Opt-in Data Contribution Frameworks
+Critical AI Literacy
+Debiasing Techniques (prompt-based, systemic)
+Digital Watermarking & Provenance Standards (C2PA, SynthID)
+Chained Self-Audits
+Ethical Sourcing of Training Data
+Efficiency & Productivity
+Personalization
+Rapid Prototyping & Exploration
+Democratization of Creation
+Translation of Emotion & Abstract Concepts
+Bridging Disciplines
+Augmentation of Workflows
+Game Development (procedural generation, dynamic narratives)
+Healthcare Diagnostics
+Energy & Sustainability Optimization
+Virtual Fashion
+Interactive Designs
+High-fidelity
+Flexible
+Complex data
+Natural language prompts
+U-Net
+Cross-attention
+Images
+Audio
+Video
+3D objects
+Artist Names (e.g., Van Gogh, H.R. Giger)
+Movements (e.g., Cubism, Impressionism, Bauhaus, Surrealism, Cyberpunk, Pointillism, Fauvism)
+Visual Descriptors (e.g., swirling brushstrokes, vibrant colors, minimalist, geometric)
+Medium/Technique (e.g., oil painting, watercolor, digital art, 3D render, impasto, glitch art)
+Retro Styles (e.g., Vaporwave/90's, Atompunk, Dieselpunk, Clockpunk)
+Fantasy Storybook Style
+Classic Comic Book Style
+Rule of Thirds
+Golden Ratio
+Leading Lines/Diagonals
+Framing within a Frame
+Figure-to-Ground Contrast
+Filling the Frame
+Dominant Eye Placement
+Symmetry & Asymmetry
+Negative Space
+Depth & Perspective (foreground interest, overlapping elements, atmospheric perspective)
+Visual Balance
+Rhythm & Repetition
+Viewpoints (e.g., bird's-eye view, close-up, wide angle)
+Types: Key, Fill, Rim Light, Backlighting
+Qualities: Chiaroscuro, Golden Hour, Soft Light, Dramatic Lighting, Neon Glow, Volumetric Lighting
+Effects: Sun stars, Lens flare, Shadows
+Palettes: Muted tones, Vibrant neon, Earth tones, Jewel tones, Monochromatic, Complementary, Analogous, Triadic, Tetradic
+Temperature: Warm colors (reds, oranges, yellows), Cool colors (blues, greens, purples)
+Grading/Filters: Cinematic, Vintage, Color Overlay
+Saturated vs. Desaturated
+Cultural Context
+Smooth, Rough, Grainy, Glitchy, Metallic
+Hyperrealistic, Micro-textures, Fractal details
+Subsurface Scattering
+Nano-Texturing
+Microdithering
+Nano Grain Overlay
+Lens Type (e.g., 35mm, 50mm, 85mm, telephoto, wide-angle, macro, anamorphic, fisheye)
+Aperture (f/stop, Depth of Field)
+Shutter Speed (fast, slow, long exposure, motion blur, rolling shutter, HSS, bulb mode)
+ISO
+Specialty Cameras (e.g., Large Format, Drone/Aerial, X-ray crystallography, Electron Microscopy, Confocal Microscopy, Infrared)
+HDR/Bracketing
+Focus Stacking
+Double Exposure/Composite
+Time-Lapse
+NotebookLM can be inaccurate; please double-check its responses.

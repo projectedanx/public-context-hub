@@ -1,0 +1,115 @@
+Agent Operating System (AgentOS) Architecture
+<
+Foundational Philosophy: Physics of Agency
+<
+Module 1: The Entropic Sieve (Intake Valve)
+<
+Module 2: The Dialectical Engine (Combustion Chamber)
+<
+Module 3: Montage (Transmission System)
+<
+Module 4: The Drift Monitor (Governor / Immune System)
+<
+System Integration & Artifacts
+<
+Transition from Stochastic Experimentation to Deterministic Systems
+Conceptualized as a Thermodynamic Machine
+Fundamental Function: Entropy Conversion
+<
+System Goal: Homeostasis
+<
+Function: Measures Thermodynamic 'Temperature' (Ambiguity)
+Primary Goal: Complexity Routing (Maxwell's Demon)
+Request Entropy ($H_R$) Dimensions
+<
+Metric: Fuzzy Complexity Score (FuzzyEn Adaptation)
+Operational Mechanisms
+<
+Routing Destinations
+<
+Function: System 2 Cognitive Core (Operationalizing Reason)
+Rejects Chain of Thought (CoT) confirmation bias
+Core Mechanism: Hegelian Meta-Cycle
+<
+5-Phase Protocol (State Machine)
+<
+Epistemic Metrics
+<
+Self-Modification: Inject Provocateur Prompt if $D_{div} < 0.2$ (Echo Chamber)
+Artifact: CONSTITUTION.md (Defines Value Hierarchy / Prime Directive)
+Function: Kinetic Linearization (Operationalizing Execution)
+Protocol: RAMP (Reliable Agentic Mission Protocol)
+Core Output: Directed Acyclic Graph (DAG) of Atomic Tasks
+<
+2 Phases of RAMP
+<
+Operational Metric: Backtrack Index ($I_{bt}$)
+<
+Artifact: TOOLS_REGISTRY.json (Includes Thermodynamic Attributes: Cost, Latency, Side-Effect)
+Function: Operationalizing Safety (Addresses Entropy of Time)
+Independent Observer (Checks input/output against baseline)
+Drift Causes
+<
+Monitoring Mechanics (Measuring Semantic Divergence)
+<
+Canary Protocol
+<
+Data Flow Topology
+<
+Minimal Persistent State Artifacts
+<
+System Physics Visualization (Dashboard)
+<
+Converts High-Entropy Intent (Ambiguous Request)
+Into Low-Entropy Action (Precise Execution)
+Antifragile Agents
+Resilience to Agent Rot / Model Degradation
+Syntactic Complexity ($C_{syn}$)
+Semantic Ambiguity ($A_{sem}$)
+Domain Variance ($V_{dom}$)
+Rephrasing Normalizer (Mitigates Syntactic Induction Failure)
+Bayesian Trust (Spawns lightweight parallel inference threads)
+Routing Matrix (Defines Low/Medium/High Entropy Paths)
+Low Entropy: Montage (Kinetic, SLM, < 500 ms)
+High Entropy: Dialectical Engine (Reasoning Frontier, 30-120 seconds)
+Thesis + Antithesis → Synthesis
+Seeks Friction (Epistemic Fracture)
+Phase 1: Elicit (Define Conflict)
+Phase 2: Diverge (Multi-Persona Instantiation)
+Phase 3: Ground (Evidence Anchoring / RAG Citation)
+Phase 4: Synthesize (Judge reviews conflict)
+Phase 5: Hermeneutic Loop (Recursion if $A_{sem}$ remains high)
+Divergence Score ($D_{div}$) (Target: 0.4 < D < 0.7)
+Synthesis Confidence ($C_{syn}$)
+Enforces deterministic state machine
+Phase 1: The Blueprint (Planner)
+<
+Phase 2: The Loop (Executor)
+<
+Measures Re-Plan Events / Total Missions
+High $I_{bt}$ signals hallucinating capabilities
+Model Drift (Provider updates weights)
+Data Drift (RAG corpus changes)
+Concept Drift (Meaning evolution)
+Cosine Drift ($D_{cos}$) (Immediate Check vs. BASELINE_EMBEDDINGS)
+Veto Trigger ($Z > 3.0$ Z-score)
+Wasserstein Distribution Shift ($W_d$) (Detects systemic rot)
+Injects standardized 'Canary Questions' stochastically
+Failure triggers Circuit Breaker (Agent takes itself offline)
+Ingress -> Immune Check (Drift Monitor)
+Immune Check -> Thermodynamic Sort (Sieve)
+Routing to Dialectic or Montage
+Montage/Execution (Continuous Drift Check on tool output)
+CONSTITUTION.md (Dialectical Rules)
+ROUTER_CONFIG.json (Sieve Thresholds)
+DRIFT_CONFIG.json (Safety Sensitivity)
+TOOLS_REGISTRY.json (Tool Schemas & Costs)
+BASELINE_EMBEDDINGS.bin (Gold Standard Vectors)
+Entropy Gauge ($H_R$)
+Friction Meter ($D_{div}$)
+Kinetic Efficiency ($I_{bt}$)
+Drift Radar (Output scatter plot)
+Output: JSON ExecutionGraph
+Enforces Verification-Aware Planning (verification_criteria field)
+Iterates steps based on criteria
+Local Repair on failure / throws EscalationEvent

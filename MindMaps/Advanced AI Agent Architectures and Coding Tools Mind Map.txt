@@ -1,0 +1,126 @@
+Mind map
+Advanced AI Agent Architectures and Coding Tools
+Advanced AI Agent Architectures and Coding Tools
+<
+Gemini CLI Ecosystem & Use Cases
+<
+AI Coding Assistant Landscape
+<
+Cognitive Architecture and Alignment
+<
+AI Systems and Cognitive Load
+<
+Multi-Agent System (MAS) Failures
+<
+Core Features & Capabilities
+<
+Configuration & Optimization
+<
+Development & Reliability Challenges
+<
+Top Tools (Aug 2025)
+<
+Current Use Patterns & Gaps
+<
+Qodo Pros (Example Tool)
+<
+Context Engineering (CE2.0)
+<
+Agentic Safety and Governance
+<
+Agent Communication Standards
+<
+Conceptual Blending Theory (CBT)
+<
+Cognitive Load Theory (CLT)
+<
+AI as Cognitive Extension
+<
+Mitigation Strategies
+<
+Failure Modes
+<
+Systemic Risks
+<
+Architectural Solutions
+<
+Gemini 2.5 Pro/Flash Models
+Large Context Window (1M tokens)
+Multimodality (image, video, text)
+ReAct Loop (Reasoning and Acting)
+Agentic Workflows & Automation
+Templating System
+Batch & Parallel Processing
+MCP Server Integration (Tools/APIs)
+Tiered Settings (User, Project, System)
+Explicit Model Selection (-m flag)
+Sandboxing (--sandbox) for security
+Context Control (GEMINI.md, .geminiignore)
+Checkpointing for Rollback (/restore)
+RAG for Factual Grounding
+Multi-Key Rotation & Proxy Support
+Low Temperature (0) for Determinism
+Silent Downgrade (Free Tier Non-Determinism)
+Extraneous Cognitive Load
+Semantic Drift & Misinterpretation
+Inconsistent Outputs
+File Shadowing Conflict (.env loading)
+In-Editor Diffing & Approval (VSCode, Cursor)
+Qodo (Full SDLC Coverage)
+GitHub Copilot
+Tabnine
+Warp (AI-powered shell commands)
+Amazon Q Developer
+OpenAI Codex
+Cursor (VS Code Integration)
+Augments Productivity (Boilerplate, Completion)
+Gaps: System Design, Proactive Maintenance, Complex Debugging
+Failure Modes: Outdated Knowledge, Security Vulnerabilities, Hallucinations (Non-Existent APIs)
+Full SDLC Coverage (Gen, Cover, Merge)
+Precise Code Suggestions
+Code Explanation
+Automated Test Generation
+Pull Request Review (Merge PR-Agent)
+Shift from Prompt Crafting to Discipline
+Context-to-Execution Pipeline (CxEP)
+Product-Requirements Prompt (PRP) as Executable Contract
+Semantic Anchors (JSON, Structured Data)
+Tuftean Design (Maximize Data-Ink Ratio)
+Formal Verification (FV) for highest assurance
+Epistemic Escrow (Pause for Review on Low Confidence)
+Prompt Flow Integrity (PFI) Framework (Isolates Untrusted Data)
+Symbolic Scar Registry (SSR) (Active learning from 'Algorithmic Trauma')
+Constitutional AI (Policy-as-Code Guardrails)
+Model Context Protocol (MCP) (Tools/Data exposure)
+Foundational ACLs (KQML, FIPA-ACL)
+Zero Trust Principle (SEPAO Framework)
+Semantic Misalignment (Meaning-level failures)
+Core Mechanism: Compression of Vital Relations (Time, Space, Identity)
+Generates Emergent Structure/Meaning
+Reduces Cognitive Load on Agent/Human
+Design Patterns as Compressed Blends
+Intrinsic Load (Task Difficulty)
+Extraneous Load (Tool Design Friction)
+Germane Load (Useful Learning)
+Goal: Reduce Extraneous Load
+Extended Mind Thesis (EMT) (Cognition beyond the brain)
+AI as Cognitive Prosthetic
+Risks: Over-reliance (Skill Atrophy), Abstraction Inversion
+Chunk Alignment (Tools operate on expert-level concepts)
+Positive Friction (Forces critical human engagement)
+Process-Oriented Support (Facilitates forward reasoning)
+Explainable AI (XAI) (Transparency and Auditability)
+Error Amplification (Chained Reasoning)
+Semantic Drift (Divergence of shared meaning)
+Policy Brittleness (Lack of Contextual Awareness)
+Hallucination/Incorrect Reasoning
+Tool Integration Errors
+Failure Cascades (Non-local, emergent errors)
+Positive Feedback Loops (Self-amplifying failures)
+Swarm Attacks (Resource Exhaustion)
+Collusion/Manipulation
+Sequential Orchestration (Deterministic State Transfer)
+Agent Personas (Specialized roles and division of labor)
+Hybrid Architectures (KG-Enhanced Embeddings)
+Verifiable AI Supply Chains (Provenance Tracking)
+Beyond the Chatbot: Gemini CLI, Cognitive Debt, and the Architecture of Autonomous AI Agents

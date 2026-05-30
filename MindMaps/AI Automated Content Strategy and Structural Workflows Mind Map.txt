@@ -1,0 +1,91 @@
+Mind map
+AI Automated Content Strategy and Structural Workflows
+AI Automated Content Creation and Strategic Workflows
+<
+Data-Driven Structural Synthesis (Novel Workflow)
+<
+Structural Building Blocks (Reusable IP)
+<
+AI Content Archetypes (Named Post Structures)
+<
+Systematic Biases in AI Workflows
+<
+Bias Minimization Strategies (Intentional Drift)
+<
+Core Strategy: Intentional Drift
+<
+Methodology Phases
+<
+Paradoxes and Counterintuitive Truths (Stop the scroll)
+Transformation Arc (Problem state to Solved state)
+Core Problems / Pain Points (Audience dissatisfaction)
+Action Steps (Clear, actionable guidance)
+Key Examples (Case studies/scenarios)
+Aspirational Statements (Desired future state)
+Hooks and Call to Action (CTA)
+Patient Observer Post
+<
+Dramatic Profit Post
+<
+Quiet Devastator Post
+<
+Performance and Structural Conformity Bias (Obvious)
+<
+Arbitrage and Niche Exclusion Bias (Less Obvious)
+<
+Iterative Convergence Bias (Latent/Anti-Novelty Trap)
+<
+Structural Mutation (Conformity Bias Countermeasure)
+<
+Excellence Sourcing (Arbitrage Bias Countermeasure)
+<
+Cognitive Load Budget Allocation (Convergence Bias Countermeasure)
+<
+Shift from Improvisational Posting
+Leverage External Performance Data
+Goal: Establish Structural Authority
+Data Collection and Validation
+<
+Deep Structural Analysis & Archetype Synthesis (Concept Blending Theory)
+<
+Controlled Iterative Generation
+<
+Focus on enduring struggle/success
+Elements: Hook, Pain/Struggle, Payoff, Insight/Warning
+Narrative centered on rapid transformation
+Components: Transformation arc, problems, aspirational statements
+Uses provocative statements/drastic change mandates
+Structure: Provocative Thesis, Purge List, Promise, Elite Few, Permission
+Bias toward existing high performers
+Reliance on historical validation (Temporal Anchoring)
+Structural Mimesis (Adherence to Archetypes)
+Stylistic Homogeneity (e.g., forbidding M-dashes, corporate jargon)
+Bias against saturated/stable markets
+Location Preference (Tier 2/3 cities)
+Arbitrage Filter (High demand + Negative sentiment)
+Bias toward Media Asset Creation (Lead Gen model)
+Optimization for certainty/low cognitive load
+Forces convergence on 'local maximum' of performance
+Produces 'better version of the old thing'
+Erodes exposure to failure necessary for discovery
+Deconstructive Mandate (Identify crucial blocks)
+Intentional Drift Rule (Replace validated block with unvalidated)
+Broaden Source Context (Low social velocity data)
+Dual Validation Sourcing (Arbitrage + Excellence data)
+Value Spectrum Blending (Media output + Operational blueprints)
+Protected Experimentation Slot (e.g., 10% for high risk)
+Blind Conceptual Blending (Outside-niche concepts)
+Mandate publishing high-risk outputs
+Scrape 20-30 YouTube videos/top X posts
+Focus on high degree of engagement (velocity)
+Transcription and context aggregation
+Integrate creator's own high-performing posts (Brand Voice)
+Deconstruct successful content into reusable IP
+Identify Universal Building Blocks (Structural Mimesis)
+Synthesize Named Archetypes (Validated Blueprints)
+LLM acts as controlled deployment agent
+Tightly constrained by structural findings
+Focus on generating components (reduces cognitive load)
+Guarantees structural efficacy (10x or 50x resonance probability)
+NotebookLM can be inaccurate; please double-check its responses.
+Reply ready.

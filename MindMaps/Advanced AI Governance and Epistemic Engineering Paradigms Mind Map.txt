@@ -1,0 +1,109 @@
+Mind map
+Advanced AI Governance and Epistemic Engineering Paradigms
+Advanced AI Governance & Epistemic Engineering Paradigms
+<
+Verifiable Cognition Stack (VCS) Architecture
+<
+Core Prompting Techniques & Patterns
+<
+Interdisciplinary Synthesis & Metaphors
+<
+Latent Space & Generative Geometry
+<
+Contractual Layer (The Law)
+<
+Economic Layer (The Treasury)
+<
+Immunological Layer (The Resilience)
+<
+Procedural Layer (The Workflow)
+<
+Attestation Layer (The Proof)
+<
+Semantic Layer (The Coherence)
+<
+Conceptual Blending Theory (CBT)
+<
+Antifragility & Self-Correction
+<
+Governance & Control Patterns
+<
+Optimization & Refinement
+<
+Biological Metaphors (System-as-Organism)
+<
+Software & DevOps
+<
+Economics & Governance
+<
+Philosophical & Cognitive
+<
+Non-Euclidean Geometries
+<
+Latent Space Properties
+<
+Geometric Grounding Protocol (GGP)
+<
+Constitutional Cognition (GEMINI.md)
+Verifiable Cognitive Contract
+Constitutional Code Review (CCR)
+Cognitive Econometrics
+Cost of Coherence Overhead (CCH)
+Cost of Structural Discovery (CSD)
+Value Score of Confidence (VSC)
+<
+Antifragile Cognition
+Symbolic Scar Registry (STA)
+Algorithmic Reparation (FIPI)
+Epistemic Escrow Protocol (EEP)
+Cognition-as-Configuration (CaC)
+Cognitive Division of Labor Protocol (CDLP)
+Think → Act → Verify Cycle (Separation of Powers)
+Verifiable Provenance (VCs)
+Verifiable Epistemic Honesty (VEH)
+Chain of Legibility
+Semantic Refractoriness Protocol (SRP)
+Semantic Integrity Constraints (SICs)
+Input Spaces
+<
+Synthesis Goal (Emergent Structure)
+CBT Prompt Framework
+The Antifragile Loop (FIPI)
+Learning through Algorithmic Trauma
+Adversarial Simulation & Hardening (ASH)
+Metaphor-as-Specification
+Cognition-as-Configuration (CaC)
+The Geometric Prompt
+Input-Process-Output (IPO) Control
+Evolutionary Refinement Prompt
+Metric-Driven Generative Ratcheting
+Architectural Senescence
+Symbolic Scars (Algorithmic Trauma)
+Epistemic Immunologist
+Antifragile Exoskeleton Protocol (AEP)
+Shift Left Verification
+Constitutional Code Review (GitOps)
+Model-View-Controller (MVC) Prompt Structure
+AI Decentralized Autonomous Organization (DAO)
+Portfolio Management Theory (CSD/CCH)
+Public Choice Theory (Agent Self-Interest)
+Metaphorical Rent (Measurable Grounding)
+Hegelian Dialectic (Dialectical Synthesis)
+Cognitive Isomorphism Protocol (CIP)
+Ephemeral Constitution
+Spherical Space (Positive Curvature, Bounded)
+<
+Hyperbolic Space (Negative Curvature)
+<
+Continuity & Completeness
+Geodesic Pathfinding (Semantic Shortcuts)
+Latent Variables (Factors of Variation)
+Geometric Alignment for Semantic Coherence
+Spatial UI/UX Principles
+Quality Index (Pull)
+Cognitive Load Index (Push)
+Thesis Domain
+Antithesis Domain
+Models Cyclical Data
+Prevents Degeneracy Issues
+Models Hierarchical Data

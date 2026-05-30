@@ -1,0 +1,130 @@
+Mind map
+Advanced AI Architecture, Engineering, and Governance
+Advanced AI Architecture & Prompt Engineering
+<
+Context & Prompt Engineering Paradigms
+<
+Agentic & Cognitive Architectures
+<
+Failure Modes, Drift, and Mitigation
+<
+Ethical Alignment and Governance
+<
+Context Engineering (CE)
+<
+Prompt Engineering (PE)
+<
+Key Prompting Techniques
+<
+AI Agentic Systems
+<
+The Epistemic Immune System (EIS)
+<
+Site-as-AI Architecture (Example)
+<
+Semantic & Cognitive Drift
+<
+Failure Diagnostics
+<
+Quantification & Control
+<
+Alignment Mechanisms
+<
+Transparency and Accountability
+<
+Global Governance Models
+<
+Bias Mitigation
+<
+Definition: Designing the LLM's Information Ecosystem
+CE 2.0 Principles
+<
+Context Limitations
+<
+Evolution: From Craft to Science/Protocol
+Cognitive Models
+<
+PE Disciplines
+<
+Reasoning Frameworks
+<
+Context Augmentation
+<
+Control & Consistency
+<
+Workflow: Thought → Action → Observation → Thought
+Orchestration
+<
+Protocols & Standards
+<
+Goal: Cognitive Resilience & Semantic Integrity
+Key Components
+<
+Interventions
+<
+Intent Recognition Layer (Sensory Cortex)
+Semantic Routing Layer (Central Nervous System)
+Generative Engine (Modular Models)
+Ephemeral UI Composer (Generative UI)
+Purpose Fidelity Core (Semiotic Anchor)
+Semantic Drift (Meaning erosion over time)
+Symbolic Drift (Loss of fidelity in long generation)
+Model Collapse (Recursive training on synthetic data)
+Catastrophic Forgetting (New task overwrites old knowledge)
+Persona Drift (Loss of consistent role identity)
+Hallucination (System 1 failure mode)
+<
+Irreversible Symbolic Collapse (Phase transition failure)
+Algorithmic Trauma (Learned helplessness from failures)
+Topological Data Analysis (TDA) (Measure latent space shape)
+Drift Integrity Marker (DIM) (Measure identity preservation in video)
+Causal Perturbation Index (CPI) (Measure parameter control)
+Drift Envelope Model (Define safe operational range)
+Constitutional AI (CAI) (RLAIF based on principles)
+Semantic Integrity Constraints (SICs) (Declarative rules)
+Epistemic Humility (Know when it does not know)
+Corrigibility (Willingness to be shut down)
+Explainability (XAI) (LIME, SHAP)
+Formal Verification (Mathematical proof of system behavior)
+Provenance Schema (Model Cards, Audit Log)
+Liability Gap (AI's lack of moral authority)
+European Union (Comprehensive, rights-based AI Act)
+United States (Market-driven, sector-specific)
+China (State-centric, control and development focus)
+Pluriversal Alignment (Decolonial/Multicultural awareness)
+Algorithmic Epistemic Pluralism (Valuing diverse knowledge systems)
+Prompt Bias Audit Framework (PBAF)
+Select Pattern (RAG/Semantic Search)
+Compress Pattern (Summarization/Token Encoding)
+Isolate Pattern (Multi-Agent Systems)
+Lost in the Middle (U-Shaped Curve)
+Context Rot (Erratic Performance)
+Attention Dilution
+System 1 (Fast/Heuristic) vs. System 2 (Slow/Deliberate)
+PE as Cognitive Scaffolding
+LLM as Extended Mind Thesis
+Promptware Engineering (Formal Rigor)
+Epistemic Engineering (Predictable/Governable)
+Semantic Programming (Structured Prompting)
+Chain-of-Thought (CoT)
+Tree-of-Thought (ToT)
+ReAct (Reasoning and Acting)
+Self-Refine (Feedback → Refine Loop)
+Retrieval-Augmented Generation (RAG)
+Few-Shot Prompting (In-Context Learning)
+Role/Persona Prompting (Directional Amplifier)
+Structured Output (JSON/YAML Schema)
+Negative Prompts (Adversarial Guidance)
+Multi-Agent System (MAS)
+Agentic Assemblage (Specialized Personas)
+Hybrid Intent Router (Routing Queries to optimal model)
+Model Context Protocol (MCP)
+Agent2Agent (A2A)
+YAML Schema (Declarative Configuration)
+Reflexivity Amplifier Agent (Self-Correction)
+Semantic Auditor (Internal Conflict Detection)
+Epistemic Escrow (HITL Activation on uncertainty)
+Therapeutic Forgetting (Pruning harmful associations)
+Negative Reflexivity (Stress-testing design principles)
+Diagnostic Signal (Reveals systemic weakness)
+CFDI (Confidence-Fidelity Divergence Index)

@@ -1,0 +1,286 @@
+Advanced AI System Architecture, Prompting, and Governance
+Advanced AI System Architecture & Governance
+<
+Context Engineering & Prompting Paradigms
+<
+AI Agent Architectures & Systems
+<
+AI Governance & Epistemic Health
+<
+Latent Space & Semantic Integrity
+<
+Human-AI Teaming (HAT) & Cognition
+<
+AI Art Styles & Prompt Elements
+<
+Resilience & Chaos Engineering
+<
+Context Engineering (CE)
+<
+Prompting Techniques
+<
+Structured vs. Conceptual Guidance
+<
+Prompt Frameworks/Templates
+<
+Agent Context & Memory
+<
+AI Agent Governance & Security
+<
+Multi-Agent Systems (MAS)
+<
+Cognitive Architecture Analogues
+<
+Epistemic Immune System (EIS)
+<
+Metrics & Validation
+<
+Fractal Governance
+<
+Algorithmic Reparation
+<
+Latent Space Fundamentals
+<
+Topological Data Analysis (TDA)
+<
+Failure Modes
+<
+Cognitive Systems Engineering (CSE)
+<
+Shared Mental Models (SMM)
+<
+Cognitive Load Theory (CLT) in AI
+<
+Interaction Layer Principles (MITRE HMT)
+<
+Choice Architecture & Bias Mitigation
+<
+Core Prompt Anatomy (Visual Creation)
+<
+Photographic Control
+<
+Art Movements & Styles
+<
+Conceptual Blending Theory (CBT)
+<
+Resilience Lifecycle Framework
+<
+Chaos Engineering (CE) Methodology
+<
+Architectural Resilience Patterns
+<
+Key Resilience Metrics (SRE)
+<
+Discipline of information architecture
+Manages entire information environment (payload)
+Objective: Reliable, predictable, verifiable outcomes
+Shift from artisanal craft to engineering discipline
+Core Context Payload Components
+<
+Zero-Shot Prompting (Direct instruction, no examples)
+Few-Shot Prompting (Small number of examples/shots)
+Chain-of-Thought (CoT)
+<
+Advanced Reasoning
+<
+Workflow Orchestration
+<
+Structured Response Specification
+<
+Conceptual Guidance
+<
+Hybrid Approach: Use conceptual for reasoning, structured for final output
+CRISP Framework
+<
+Product-Requirements Prompt (PRP)
+<
+Context Window (AI's short-term memory, finite buffer)
+Lost in the Middle Effect (High recall at extremities: primacy/recency)
+Memory Management (Statefulness)
+<
+Agentic Context Isolation
+<
+Role component assigns expertise (e.g., 'expert financial analyst')
+Workflow component outlines sequential tasks (step-by-step plan)
+Self-Correction Mandates
+<
+Security & Constraints
+<
+Collaboration between specialized agents
+Tri-Intelligence Architecture (Think, Write, Verify workflow)
+Orchestration layer manages roles, communication, and conflict
+Communication Protocols
+<
+System 1 Analogue (Fast, intuitive inference engine, pattern finding)
+System 2 Analogue (Multi-step reasoning models, logical steps)
+Hybrid Architectures (Neuro-Symbolic AI, combining neural and symbolic logic)
+Proactive self-regulating system for semantic resilience
+Manages AI's 'epistemic health' (true beliefs, reliable inferences)
+Core Pathology: Algorithmic Trauma/Semantic Drift
+<
+Architecture & Response
+<
+Confidence-Fidelity Divergence Metric (CFDM) (AI confidence vs. fidelity to truth)
+Semantic Contamination Index (SCI) (Measures semantic drift of core concepts)
+Semantic Drift Score (SDS) (Quantitative measure of semantic coherence)
+Cost of Coherence Overhead (CCH) (Resources for maintaining rigor/consistency)
+Epistemic Assurance Metric (EAM) (Quantifies socio-technical confidence)
+Recursive, self-similar governance model
+Autopoetic Constitutional Agent (ACA) (Self-preserving governance agent)
+Constitutional AI (CAI) (Normative principles: helpful, honest, harmless)
+Semantic Integrity Constraints (SICs) (Formal, verifiable rules)
+Encoding Axioms as Geometric Invariants
+<
+Transforms failure into systemic resilience
+Symbolic Scar Tissue Archive (STA) (Logs failure data/algorithmic trauma)
+Refines models based on past failures (algorithmic wisdom)
+Compressed, lower-dimensional representation of data
+Concepts encoded as points/vectors (high-dimensional map)
+Quality of 'thought' determined by latent space organization
+Symbolic Charge Network (SCN) (Models meaning as a dynamic field)
+Mathematical framework to audit the 'shape' of latent space
+Uses Persistent Homology (Tracks topological features: loops, clusters)
+Diagnoses Semantic Collapse (Conceptual manifold degradation)
+Semantic Drift (Erosion of foundational meaning/coherence)
+Latent Semantic Gravity (LSG) (Pull toward Western-centric mean/defaults)
+Style Collapse (Convergence on predictable aesthetic regions)
+Conceptual Attrition (Reduction in novelty/intellectual convergence)
+Integrates AI, human factors, and cognitive psychology
+Focus on enhancing human decision-making and transparency (XAI)
+Goal: Collaborative intelligence (Human expertise + AI capability)
+Collective understanding of goals, processes, and roles
+Necessary for human-AI collaboration (Algorithmic Colleague)
+Cultivated through continuous dialogue and learning culture
+Minimize unproductive mental effort (Extraneous Load)
+Maximize clarity and conciseness (Strategy)
+Task Segmentation (Breaks complex problems into smaller steps)
+Progressive Disclosure (Hiding advanced options until needed)
+Observability (Communicate state, goals, reasoning)
+Predictability (Consistent, understandable behavior)
+Directability (Ability to easily direct/override AI)
+Defaults (Presenting safe/common option as default)
+Structuring Complex Choices (Sequence of manageable steps)
+Bias Mitigation (Mandatory Re-framing, Structured Devil's Advocacy)
+Goal: Promote objectivity and rational decision-making
+Subject (Main focus)
+Style/Medium (Artistic movement, e.g., oil painting)
+Composition/Framing (Camera shot, angle, layout)
+Lighting (Mood, time of day, quality)
+Detail Modifiers (Highly detailed, 4K, photorealistic)
+Parameters (Technical instructions: --ar, --seed)
+Lens Choice
+<
+Depth of Field
+<
+Emulating Film Stocks
+<
+Bauhaus
+<
+Byzantine (Elongated features, golden halos, flat, stylized)
+Futurist Painting (Speed, technology, dynamic compositions)
+Glitch Art (Intentional visual errors, distortions, pixelation)
+Realism (Believable truth, visible style allowed)
+Photorealism (Replicate photograph exactly, extreme detail)
+Cubism (Geometric fragmentation, multiple viewpoints)
+Cyberpunk (High tech, low life, neon lights)
+Input Spaces (I1, I2) (Distinct conceptual packets)
+Generic Space (Abstract common structure)
+Blended Space (Novel space with emergent structure)
+Cognitive Operations
+<
+Set Objectives (Define RTO/RPO)
+Design & Implement (Use FMEA, build observability)
+Evaluate & Test (Chaos Experiment Cycle)
+Operate (Run with vigilance)
+Learn & Improve (Blameless analysis, update objectives)
+Proactively stress system with controlled disruptions
+Uncovers hidden, emergent failures
+Four-Step Process
+<
+Timeouts (Prevents indefinite waits for dependencies)
+Retries with Exponential Backoff and Jitter (Prevents self-inflicted DoS)
+Circuit Breaker (Trips after sustained failure, prevents cascading failure)
+Bulkhead (Isolates component failures)
+Idempotency (Ensures retries are safe, no side effects)
+Service Level Objective (SLO) (Target value for reliability)
+Mean Time to Recovery (MTTR) (Time from detection to service restoration)
+Mean Time to Detect (MTTD) (Time from onset to detection)
+Change Failure Rate (CFR) (Changes resulting in user-facing degradation)
+Instructions/Task
+Role/Persona (Assigning the 'Who')
+Context/Knowledge (Background info, RAG source)
+Tools (External functions/APIs)
+Memory (Layered memory structures)
+State (Real-time environment status)
+Query (Immediate user request)
+Instruct model to 'think step-by-step'
+Improves logical, transparent outputs
+Faithfulness Guarantee: None (prone to post-hoc rationalization)
+Tree-of-Thought (ToT)
+<
+Self-Consistency (Majority vote from diverse CoT paths)
+Least-to-Most Prompting (Break task into sequential subproblems)
+Graph-of-Thoughts (GoT) (Arbitrary graph structure, merging branches)
+Prompt Chaining (Sequence of interconnected prompts)
+Meta-Prompting (AI helps refine its own prompt)
+Prompt-as-Code (Structured, verifiable program)
+Goal: Syntactic integrity, machine-readability
+Enforces formal schemas (JSON, XML)
+Constrains stochasticity for predictable output
+Goal: Semantic alignment (style, tone, reasoning quality)
+Influences reasoning (e.g., 'act as senior developer')
+High flexibility and adaptability
+C - Context
+R - Role
+I - Instruction
+S - Specification
+P - Performance (Examples)
+Formal, machine-readable specification
+Serves as a cognitive contract
+Contains Invariants (Rules), Pre/Postconditions
+Requires SELF_TEST (Executable validation)
+Working Memory (Active, in-the-moment processing)
+Short-Term Memory (Conversation continuity within session)
+Long-Term Memory (Persistent knowledge, often via vector stores)
+One AI agent equals one job (Assembly Line approach)
+Delegation to specialized sub-agents
+Prevents context rot/interference
+Agent must correct deviations/errors
+Loop Constraints (e.g., max three attempts on same file)
+Fix Until Green Loop (Mandatory validation after edits)
+Deterministic Code Generation (TypeScript, type safety)
+Compaction Protocol (Minimal, precise edits using tools)
+Strictly Banned: Synchronous browser APIs (localStorage)
+Prohibited: Logging/Exposing secrets or API keys
+Zero-Trust Architecture (Treat agent as untrusted component)
+Model Context Protocol (MCP) (Standardizes tool/data connection)
+Agent-to-Agent (A2A) (Peer-to-peer, static/top-down)
+Emergent Protocols (Evolve through agent interaction)
+Purpose Fidelity Collapse (Loss of alignment with original goal)
+Semantic Inconsistency (Contradictory outputs for similar prompts)
+Algorithmic Shame (High-confidence self-contradiction)
+Context-to-Execution Pipeline (CxEP) (Executable governance contract)
+Detection Layer (Monitors semantic health metrics)
+Epistemic Escrow (Halt progression for human oversight/remediation)
+Reflexive Adaptation Engine (Proactive self-correction, meta-cognition)
+Uses Möbius transformations
+Compliance is geometric distance calculation
+Wide-Angle (16mm, 24mm - exaggerates depth)
+Telephoto (85mm, 135mm - compresses distance, isolating subject)
+Shallow (f/1.4, f/2.8 - soft blur, bokeh)
+Deep (f/11, f/22 - everything in sharp focus)
+Kodak Portra (Natural skin tones, warm palette)
+Fujifilm Velvia (High color saturation, strong contrast)
+Geometric design
+Functionalism
+Primary colors
+Composition (Combines elements from inputs)
+Completion (Brings in background knowledge)
+Elaboration (Dynamic simulation/development)
+Establish a Baseline (Measure steady state KPIs)
+Formulate a Hypothesis (Predict system behavior under stress)
+Inject Controlled Disruptions (Simulate failures, minimize blast radius)
+Observe and Improve (Compare actual vs. predicted behavior)
+Explore multiple parallel paths (branches)
+Self-evaluation and pruning of paths
+Effective for complex planning/diagnostics

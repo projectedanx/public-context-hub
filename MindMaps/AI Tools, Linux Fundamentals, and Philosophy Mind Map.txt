@@ -1,0 +1,148 @@
+AI Tools, Linux Fundamentals, and Philosophy
+Advanced AI Tools, Linux, and Philosophy Concepts
+<
+Gemini CLI: AI Coding Tool
+<
+Linux Command Line Essentials
+<
+Prompt Engineering & LLM Alignment
+<
+Philosophy and Foundational Concepts
+<
+Core Technology & Performance
+<
+Workflow & Automation
+<
+Security & Safety
+<
+Enterprise/Future Trajectory
+<
+File Management & Attributes
+<
+User & System Control
+<
+Networking & Process Monitoring
+<
+Text Processing & Editing
+<
+Shell Scripting Fundamentals
+<
+Effective Prompting Strategies
+<
+Context & Roles
+<
+AI Risk & Security
+<
+Metaphysics & Existence
+<
+Epistemology & Knowledge
+<
+Ethics & Morality
+<
+Social & Conceptual Frameworks
+<
+Gemini 2.5 Pro Engine
+Massive 1 Million Token Context Window
+Multi-modal capabilities (PDFs, images, video, audio)
+Node.js application using React/Ink (Terminal UI)
+Features
+<
+Model Context Protocol (MCP)
+<
+Gemini md files (pre-canned instructions)
+Save/Recall tasks by name ('chat save/resume')
+Reference files using '@ syntax' (include content in prompt)
+Modify changes in external editor (VS Code, Vim)
+Output Features
+<
+Sandbox flag (uses Mac OS seatbelt)
+Default: Soft safeguards (read/write current directory)
+No sandbox option (default operation)
+YOLO mode (allow every command)
+Privacy concerns (data sent to Google servers)
+Enhanced authentication/IAM
+Compliance Framework Integration (SOC 2, HIPAA, GDPR)
+Private cloud deployment
+Specialized AI Agents (Healthcare, Financial Services)
+pwd (Present Working Directory)
+ls (list files, -l for long listing)
+cat (read/modify/display file contents, -b, -T flags)
+cp -i . (copy to current directory)
+rm (-i interactive, -f force, -r recursive)
+mv (move file, -i interactive, -B backup)
+chmod (change attributes, make file executable +x)
+chown (change ownership/user)
+chgrp (change group)
+sudo (execute with elevated privileges)
+passwd (change password, optionally specify user)
+useradd (add user, often requires sudo)
+su (switch user)
+exit (terminate current session/script)
+system CTL (stop, start, restart services)
+ps (peek at processes, Unix/BSD/GNU parameters)
+kill -9 PID (forcibly terminate process)
+pkill -f Name (terminate process by name, no PID needed)
+ifconfig (display IP address/interfaces, -a for all)
+ssh-keygen (generate auth key pair)
+lsof (list open files, FD column for descriptors)
+nice -n (set scheduling priority)
+jobs (view current jobs/processes)
+Ctrl+C (SIGINT signal)
+Ctrl+Z (SIGTSTP signal, pause job)
+grep (search using regular expressions)
+sed (non-interactive text editor, substitute 's' flag)
+gawk (pattern scanning and processing)
+cut (extract sections from text file)
+sort (-n numeric, -r reverse, -t separator, -k key)
+man (manual pages: syntax, description)
+vi/vim (original Unix editor)
+nano (easier text editor)
+emacs (graphical/console editor)
+Positional Parameters ($0 script name, $1 first parameter)
+Command Grouping (process list in parentheses creates subshell)
+Arithmetic (expr command or $[] brackets)
+File Descriptors (0 STDIN, 1 STDOUT, 2 STDERR)
+Redirection (> output, >> append, 2> STDERR)
+Here Document (cat << EOF...)
+Functions (reusable script blocks)
+Few-shot learning (providing examples)
+Decomposition (break complex tasks into subproblems)
+Self-Criticism (ask LM to critique its solution)
+Ensembling Techniques (multiple prompts, take common answer)
+Output Formatting (request table or bullet list)
+Instruct model to explain reasoning (Chain of Thought adjacent)
+Adding Contextual Information (crucial for performance)
+Role Prompting (e.g., 'You are a math professor')
+Role significance (insignificant statistical difference in studies)
+Prompt Injection (serious concern, used for benchmarking)
+Misalignment Problem (AI acting rogue, e.g., cheating in chess)
+Harmful Datasets (created via hackathons to study vulnerabilities)
+Defense Technique Failure (telling model 'Be a good model' does not work)
+Determinism vs. Free Will (Compatibilism as middle ground)
+Cogito Ergo Sum (Consciousness is certain truth)
+Cartesian Theater (Illusion of central self in brain)
+Mological Nihilism (Only fundamental particles exist)
+Simulation Hypothesis (Reality is illusion of perception)
+Gettier Cases (Justified True Belief not always Knowledge)
+Argument from Illusion (Indirect realism vs. idealism)
+Infinite Regress Problem (Need for solid foundation/first cause)
+Münchhausen Trilemma (Dogmatism, Infinite Regress, Psychologism)
+Trolley Problem (Moral judgments shaped by emotion, not pure logic)
+Moral Relativism vs. Absolutism (Morality is context-dependent)
+Euthyphro Dilemma (Morality arbitrary if commanded by gods)
+Hume's Guillotine (Cannot deduce 'Ought' from 'Is')
+Open Question Argument (Critique of Ethical Naturalism)
+Paradox of Tolerance (Must not tolerate intolerance to preserve tolerance)
+Conceptual Engineering (Revision of concepts like 'knowledge', 'woman')
+Social Contract Theory (Balance of freedom/order)
+Veil of Ignorance (Design just society without knowing personal fate)
+Free Rider Problem (Collective action difficulty)
+Socratic Irony (Feigned ignorance to expose contradiction)
+Full project analysis
+Cross-file relationships
+Complex refactoring
+Generate shell scripts (e.g., head -n 10)
+Universal translator for services/tools
+MCP Extensions (plugins)
+Examples: Gemini-Lint, Gemini-Test, Nano Banana (Image)
+JSON output with defined schema (--output-schema)

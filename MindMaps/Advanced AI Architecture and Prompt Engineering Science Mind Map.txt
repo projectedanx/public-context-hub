@@ -1,0 +1,77 @@
+Advanced AI Architecture and Prompt Engineering Science
+Advanced AI Architecture & Prompting
+<
+I. Prompt Engineering Science
+<
+II. Sovereign Cognitive OS Architecture
+<
+III. Agent Orchestration & Protocol
+<
+IV. Core Prompting Techniques
+<
+V. Linguistic Control & Security
+<
+Paradigm Shift & Definition
+<
+Optimization & Evaluation
+<
+Cognitive Control Techniques
+<
+Layered Architecture & Governance
+<
+Trust & Safety Kernel
+<
+Epistemic Design & Diversity
+<
+Agent Persona Management
+<
+Formal Architectures & Logic Patterns
+<
+Protocols & Debugging
+<
+Advanced Reasoning Structures
+<
+Structural Frameworks & Archetypes
+<
+Semantic and Linguistic Precision
+<
+Prompt Security & Mitigation
+<
+From Art to Rigorous Discipline
+Prompt as Configuration/Source Code
+LLM as Probabilistic Executable
+Token Efficiency (Signal-to-Noise)
+Ambiguity Elimination
+Empirical Prompt Science (A/B Testing)
+System 2 Reasoning (CoT, ToT Protocols)
+Generative Taxonomies & Latent Space Activation
+Teleology and Purpose Definition
+Software Stack and Context Broker
+Agent Definition and Governance
+Immutable Safety Core Rules
+Emergence Firewall and Regulation
+Attractor Pruning
+Resisting Epistemic Monoculture
+Pluriversal Prompting
+Epistemic Immune Systems
+Domain Expert Personas
+Meta-Prompt Router and Orchestrator
+Preventing Persona Drift
+Conductor-Expert Pattern
+Monadic/Rheological Patterns (Adaptivity)
+Meta-Prompt Functors
+Agent-to-Agent Communication Protocols (A2A)
+Capability Discovery and Registries
+Managing Technical Debt and Tracing
+Chain, Tree, and Graph of Thought (CoT, ToT, GoT)
+Step-Back and Rephrase and Respond (RaR)
+Recursive and Counterfactual Exploration
+Creative (SPARK) and Triage (CARE) Mnemonics
+Analyst (RODES) and Technical (RASCEF) Archetypes
+Typological Stack and Lens-Driven Analysis
+Semantic Anchors & Latent Space Traversal
+Constraint and Structural Words
+Handling Symbolic Language (STEM) Challenges
+Prompt Injection (Direct/Indirect)
+Control-Flow Hijacking/Prompt Malware
+Mitigation Strategies (Sandboxing, Sanitizers)

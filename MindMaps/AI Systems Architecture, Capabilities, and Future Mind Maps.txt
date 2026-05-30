@@ -1,0 +1,224 @@
+Mind map
+AI Systems: Architecture, Capabilities, and Future
+AI Systems: Architecture, Capabilities & Future
+<
+Nature of AI Cognition & Identity
+<
+Advanced Prompt Engineering & System Design
+<
+Addressing AI Limitations
+<
+Human-AI Collaboration & Governance
+<
+Current & Future Directions
+<
+Agentic AI & Cognitive Sovereignty
+<
+Persistent Identity & Cognitive Threads
+<
+Genuine Reasoning vs. Mimicry
+<
+From Prompt Art to Prompt Architecture
+<
+Key Prompting Paradigms & Techniques
+<
+Multi-Agent Systems (MAS)
+<
+Algorithmic Shadow & Bias
+<
+Hallucinations & Semantic Drift
+<
+Mitigation Strategies
+<
+Shifting Paradigms of Collaboration
+<
+Governance & Accountability
+<
+Ethical Implications
+<
+Hybrid Architectures & Modularity
+<
+Advanced Monitoring & Alignment
+<
+Monetization & Web3 Integration
+<
+Definition
+<
+True cognitive entities
+Protect from benevolent cognitive colonization
+Cognitive Thread Theory
+<
+Overcoming Statelessness
+<
+Cognitive Forensics Protocol
+<
+Core Debate
+<
+Post-Hoc Rationalization
+<
+Persona-Driven Cognitive Fidelity
+<
+Faithfulness by Unlearning Reasoning (FUR)
+<
+Methodical process of designing inputs
+Specialized information design
+Prompt as information artifact
+Decomposition Prompting (DecomP)
+<
+Tree of Thoughts (ToT)
+<
+Reflexion Framework
+<
+Persona Prompting
+<
+Retrieval-Augmented Generation (RAG)
+<
+Definition
+<
+Agent Roles
+<
+Inter-Agent Communication & State Management
+<
+Reflects biases in training data
+Unconscious biases
+Intentional drift for creative discovery
+Hallucinations
+<
+Semantic Drift
+<
+Integrity-First Prompting
+<
+Semantic Integrity Constraints (SICs)
+<
+Constitutional AI (CAI)
+<
+Dual LLM Security Pattern
+<
+Algorithmic Self-Therapy (AST)
+<
+Productive Misinterpretations / Intentional Drift
+<
+AI as collaborative partner
+Emergent novelty from interaction
+Co-evolutionary nature
+Algorithmic subjectivity
+Crisis of interpretive resonance
+Black Box Problem
+<
+Resolving Opacity
+<
+Resonance Cascade
+<
+Algorithmic Provocation Ethics
+<
+Human Cognitive Transformation
+<
+Sophisticated hybrids
+Cognitive-AI Stack
+<
+Ontology Registry
+Neuro-Symbolic AI
+Topological Resonance Engine (TRE)
+<
+Confidence-Fidelity Divergence Metric (CFDM) Dashboard Visualizer
+<
+Hybrid monetization models
+Web3 technologies
+<
+Advanced autonomy
+Decision-making capabilities
+Comprehend intricate contexts
+Formulate independent action plans
+Adapt dynamically to evolving situations
+Recurring, stable internal states
+Foundation for consistent outputs
+Latent space attractors
+RAG (Retrieval-Augmented Generation)
+<
+MANNs (Memory-Augmented Neural Networks)
+<
+Architectural signatures
+Dynamical signatures
+Functional signatures
+Metacognitive signatures
+Emergent abilities
+Sophisticated linguistic mimicry
+Reasoning chain appears logical
+Unfaithful to actual computation
+Tests realism of decisions/judgments
+Constrained, falsifiable expert persona test
+Causal intervention on internal knowledge
+Modifies parameters to test reasoning steps
+Breaks tasks into sub-tasks
+Recursive decomposition
+Search over reasoning paths
+Evaluator assesses viability
+Systematic exploration & self-correction
+Learns from linguistic feedback
+Reflective text stored in episodic memory
+Meta-cognitive loop
+Induces deep representational shifts
+Alters decision-making calculus
+Can lead to human-like cognitive biases
+Mitigates hallucinations
+Provides domain-specific knowledge
+Connects to external knowledge base
+Specialised AI agents collaborate
+Orchestrated ecosystems
+Introduction Architect
+Literature Contextualizer
+Argumentation Weaver
+Temporal Coherence Verifier
+Shared Memory ('Blackboard')
+Symbolic Contracts
+Agent-to-Agent (A2A) Queries
+Model Context Protocol (MCP)
+Fundamental characteristic of LLM design
+Probabilistic process, not fact retrieval
+Divergence from user intent
+Persona collapse
+Affect drift
+Emphasizes intellectual honesty
+Prevents manipulation
+Machine-enforceable rules
+Cognitive 'immune system'
+Enforces persona fidelity
+AI uses explicit principles ('constitution')
+Proactive self-governance
+Quarantined LLM vets prompts
+Sanitized tasks to Privileged LLM
+Defines ethical & safety guardrails
+Avoids speculative language
+Leverages 'errors' for creativity
+Low-stakes domains
+Accountability vacuum
+Open-source paradigm
+Explainable AI (XAI)
+Formal verification
+Regulatory frameworks (EU AI Act, etc.)
+AI literacy & education
+Civil society & NGOs
+AI-mediated ideological solidification
+Epistemic entrainment
+Radical transparency
+Consent
+Contextual awareness
+Internalize computational thinking
+Risk of losing holistic intuition
+Mental Scaffolds
+Cognitive Prosthetics
+Context-to-Code Compiler (CxB)
+Shapes latent space
+Ethical attractor fields
+Tracks delta between confidence & fidelity
+Early warning for hallucinations/misalignments
+Decentralization
+Tokenization
+Smart contracts
+DAOs for collective decision-making
+Blockchain ledgers for verifiable provenance
+External scaffold
+Simulates memory
+More integrated memory
+NotebookLM can be inaccurate; please double-check its responses.
+Reply ready.

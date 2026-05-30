@@ -1,0 +1,155 @@
+
+Advanced AI and Computational Graphics Architecture
+Advanced AI/CG Architecture and Epistemic Engineering
+<
+AI Governance and Epistemic Frameworks
+<
+Prompt Engineering Disciplines (Epistemic Programming)
+<
+AI Agentic Architectures and Tools
+<
+Rendering, Graphics, and Shading
+<
+Computational Structures and Optimization
+<
+Cognitive & Epistemic Frameworks
+<
+Drift Management & Stability
+<
+Trust & Verifiability
+<
+Algorithmic Trauma & Reparation
+<
+Core Strategies
+<
+Architectural Principles
+<
+Advanced Techniques
+<
+Prompt Tuning Methods
+<
+Agentic Assemblage (Specialization)
+<
+Workflow Orchestration
+<
+Core Agent Tools
+<
+Agentic Risks and Failures
+<
+Physically Based Rendering (PBR)
+<
+Image-Based Rendering (IBR) & Lighting (IBL)
+<
+Advanced Generative Rendering
+<
+Shading Techniques
+<
+Scene Management & Spatial Partitioning
+<
+Rendering Pipelines
+<
+Model Training & Data Techniques
+<
+Recursive Reasoning Models (TRM)
+<
+Conceptual Blending Theory (CBT)
+Anti-Fragility & Resilience
+Socratic/Metacognitive Techniques
+Cognitive Load Theory (CLT)
+Dual-Process Model (System 1/System 2)
+AI-Inclusive Epistemology
+Semantic Drift
+Goal Drift
+Typological Drift
+Contextual Amnesia
+Drift Detection Mechanisms
+Semantic Coherence Locks
+Provenance and Auditability
+Epistemic Escrow (HITL Review)
+Verifiable Artifacts (PRP, Schemas)
+Transparency & Explainability (XAI)
+Constitutional AI (CAI) Scaffolding
+Symbolic Scars / Scar Tissue Archive (STA)
+Failure-Informed Prompt Inversion (F-IPI)
+Algorithmic Reparation Protocols
+Decolonial AI / Pluriversal Alignment
+Role/Persona Anchoring
+Chain-of-Thought (CoT) / Tree-of-Thought (ToT)
+Few-Shot Prompting / In-Context Learning
+Meta Prompting
+Adaptive Prompting
+Prompt as Executable Contract (PRP)
+Contextual Scaffolding (Layered Prompts)
+Epistemic Engineering (Discipline Blueprint)
+Hierarchical Structuring (DAG)
+Constraint Definition (Formal Schemas)
+Relevance Chain Prompting
+Analogical Prompting (Self-Generate Exemplars)
+RP-CoT Prompting Strategy
+Instance-Dependent Prompt Generation (IDPG)
+Q-tuning (Continual Prompt Tuning)
+Prompt Tuning (P-Tuning)
+Soft Prompts
+À-la-carte Prompt Tuning (APT)
+Attentional Mixture of Prompt Tuning (ATTEMPT)
+Planner-Architect (Think Phase)
+Linguist-Coder (Code Phase)
+Integrator-Auditor (Quality Gate)
+Epistemic Custodian (Meta-Governance)
+Security Integrator
+Refactoring Mentor
+Test Architect
+LangGraph (State Machine/Auditable Graph)
+AutoGen (Conversational/Emergent Flow)
+CrewAI (Role-Based/Declarative API)
+ReAct Loop (Reason, Act, Observe)
+File Operations (read, write, replace)
+Dependency Management (npm)
+Web Search (Current Info/Docs)
+Image Generation (FLUX)
+Todo Management (Structured Task List)
+Prompt Injection (Direct/Indirect)
+Tool Poisoning
+Byzantine Attacks
+Malfunction Amplification Attack
+Semantic Sabotage
+BRDF (Bidirectional Reflectance Distribution Function)
+Fresnel Effect
+Subsurface Scattering (SSS)
+Normal Maps
+Roughness Map
+Metallic Map
+Image-Based Lighting (IBL)
+Environment Maps
+Light Field Rendering
+HDR Imaging
+Spherical Harmonics
+3D Gaussian Splatting (3DGS)
+Neural Radiance Fields (NeRFs)
+Volume Rendering
+Image-GS (2D Gaussians)
+Ambient Occlusion
+Shadow Mapping
+Phong Shading
+Diffuse Reflection (Lambertian)
+Specular Reflection
+Scene Graphs
+Bounding Volumes (BVH, Convex Hulls)
+Quad-trees / Oct-trees
+Binary Space Partitioning (BSP) Tree
+Level of Detail (LOD)
+Deferred Rendering
+Ray Tracing / Path Tracing (Monte Carlo)
+Post-Processing Effects (Bloom, Depth of Field)
+Real-Time Rendering
+Knowledge Distillation (Soft Labels)
+Cross-validation (CV)
+Few-shot learning / Zero-shot learning
+Data Augmentation / Data Synthesis
+Batch Normalization
+Gradient Clipping
+Tiny Recursion Models (TRM)
+Hierarchical Reasoning Model (HRM)
+Latent Recursion
+Deep Supervision
+Single Tiny Network

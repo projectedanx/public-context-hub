@@ -1,0 +1,247 @@
+Mind map
+Generative AI: Creation, Prompting, and Ethics
+AI-Powered Content Creation & Image Generation
+<
+Generative AI Fundamentals
+<
+Prompt Engineering
+<
+AI Image Generation Specifics
+<
+Ethical & Societal Implications
+<
+Definition
+<
+Capabilities
+<
+Workflow (5 Steps)
+<
+Models
+<
+Multimodal AI
+<
+Definition
+<
+Fundamental Principles
+<
+Prompt Elements
+<
+Advanced Techniques
+<
+Prompt Evaluation & Refinement
+<
+Artistic Styles
+<
+Photographic Techniques & Controls
+<
+Rendering Technologies
+<
+Challenges & Limitations
+<
+Copyright & Authorship
+<
+Misinformation & Trust
+<
+Bias & Representation
+<
+Job Displacement
+<
+Ethical Prompting & Governance
+<
+Human-AI Collaboration
+<
+Subset of AI
+Generates fresh digital content
+Responds to user prompts
+Simulates human intelligence
+Text, images, video, audio
+Automates tasks
+Analyzes large datasets for patterns
+Creates novel digital content
+Enhances decision-making
+Input: Data collection & sorting
+Processing: Pattern recognition
+Outcomes: Predicts based on patterns
+Adjustments: Algorithm tuning
+Assessment: Insights create predictions
+Generative Adversarial Networks (GANs)
+<
+Diffusion Models
+<
+Variational Autoencoders (VAEs)
+Generative Pre-trained Transformers (GPTs)
+Processes multiple inputs/generates multiple outputs
+Examples: Text, image, video, audio, 3D structure
+Integrates and reasons across modalities
+Structuring instructions for desired AI outputs
+Art and science
+Evolving into sophisticated skill
+Specificity and Detail
+Iterative Refinement
+Contextual Guidance
+Task Specification
+Domain Expertise
+Semantic Compression
+Subject/Scene
+Medium/Artistic Style
+Composition
+Lighting
+Color
+Texture
+Mood/Atmosphere
+Camera Settings/Lens
+Negative Prompts
+Weighting
+Architectural Logic Prompting
+<
+Agentic Architectures
+<
+Phantom Dimensions
+Semantic Tuning Fork
+Fertile Glitch
+Cultural Representational Entropy Maximisation
+Logic-of-Thought (LoT) for technique discovery
+Compositional Prompting
+Visual and Structural Prompting
+Prompt-to-Prompt (P2P) Editing
+Test & Generate
+Evaluate Output
+Refine Prompt
+Iterate Process
+AB Grid Testing
+Metrics: PFI, SDS, CFD
+Classic Marvel/DC Comic
+Traditional Oil Painting
+Vaporwave / 90’s Style
+Gothic
+Cyberpunk
+Steampunk
+Art Deco
+Futurism
+Pointillism
+Spray Paint Art
+Naïve Art
+Process Art
+Chinese Ink Wash
+Latin American Muralism
+Anime
+Camera Settings
+<
+Lighting
+<
+Composition
+<
+Image Manipulation
+<
+Ray Tracing Techniques
+<
+Neural Radiance Fields (NeRFs)
+<
+3D Gaussian Splatting (3DGS)
+<
+Physically Based Rendering (PBR)
+<
+Super-Resolution
+<
+Volumetric Rendering Techniques
+Raymarching Volumetric Parallax Optimization
+AI Specific Failures
+<
+Intent Gap
+Cognitive Load (AI & Human)
+Computational Cost
+Geometric Inaccuracy
+Data Bias
+Lack of 3D Understanding
+Training on copyrighted data without consent
+Novelty vs. statistical reproduction
+Eligibility of AI output for copyright (human involvement)
+Style scraping
+Transparency & attribution
+Proliferation of deepfakes
+Distrust of visual media
+Erosion of trust in photojournalism
+Need for transparent labeling/watermarks
+Amplifies cultural bias from training data
+Racial and gender bias
+Stereotype avoidance
+Cultural appropriation
+Epistemic pluralism debiasing
+Crowding out human artists
+Existential threat to creative professions
+Avoiding close mimicry of living artists
+Avoiding harmful representations
+Transparent disclosure of AI usage
+Responsible development practices
+Legal frameworks & guidelines
+AI as assistant for creative processes
+Human oversight for quality, originality, ethics
+Evolution of graphic designer role to curator/director
+Generator & Discriminator
+Zero-sum game
+Strengths: Sharp, high-res images, learns complex distributions
+Limitations: Training instability (mode collapse), less control
+Two-stage process
+Forward diffusion: Adds Gaussian noise
+Reverse diffusion: Learns to denoise
+Start with noise, iteratively denoise
+Based on thermodynamics
+Examples: Stable Diffusion, DALL-E, Midjourney
+Programmatic scene specs
+Layout, transport, optics, composition, materials, grade, micro-detail, atmosphere, constraints
+Causal drivers
+Representation cues
+Meta-prompting
+Autonomous prompt engineering
+Reflexive meta-learning pipeline
+Reinforcement Learning (RL) for optimization
+Shutter Speed: Fast (freeze motion), Slow (motion blur)
+Aperture (f-stop): Wide (shallow DoF), Narrow (deep DoF)
+ISO: Low (clean), High (grain/noise)
+Lens Type: Wide-angle, Telephoto, Macro, Prime
+Zoom: Optical vs. Digital
+HDR/HDRi
+Chiaroscuro
+Cinematic Lighting
+Backlighting
+Rim Lighting
+Soft Lighting
+Colored Gels
+Lens Flare
+Vignetting
+Volumetric God Rays
+Rule of Thirds
+Leading Lines
+Negative Space
+Symmetry/Balance
+Scale and Proportion
+Framing Devices
+Diagonal Lines
+Depth of Field Control
+Patterns
+Inpainting
+Outpainting
+Image-to-Image Translation (Img2Img)
+Focus Stacking
+Denoising and Sharpening
+Monte Carlo Ray/Path Tracing
+Hybrid Rendering (Rasterization & Ray Tracing)
+Photorealistic rendering of 3D scenes
+Models 3D geometry & appearance
+Limitations: Slow per-scene optimization, computationally intensive
+Variants: Improve speed, handle dynamic scenes
+Represents scene as 3D Gaussians
+Real-time rendering speeds
+Fast training
+BRDF (Bidirectional Reflectance Distribution Function)
+Subsurface Scattering
+Multi-scale reconstruction
+SR4+, ESRGAN
+Bad Anatomy (Hands)
+Typological Drift
+Semantic Drift
+Hallucination
+Compositional Errors
+Textual Incoherence
+Stylistic Artifacts
+Mode Collapse

@@ -1,0 +1,118 @@
+AI Agent Systems: Architecture, Security, and Evaluation
+AI Agent Systems: Architecture, Security, and Evaluation
+<
+AI Agent Architecture & Types
+<
+Context, Memory, and Communication
+<
+Security, Auditing, and Safety
+<
+Evaluation, Performance, and Scaling
+<
+Cognitive & Societal Impact of AI
+<
+Agent Types
+<
+Architectural Patterns
+<
+Key Components
+<
+Context Management (Context Hell Mitigation)
+<
+Memory Types
+<
+Tool & Data Protocols
+<
+Agentic Threats & Vulnerabilities
+<
+Security Controls & Mitigation
+<
+Malicious Agent Detection
+<
+Evaluation Metrics
+<
+Performance Limits (Scaling Laws)
+<
+Self-Improvement Mechanisms
+<
+Risks of Standardization
+<
+Cognitive Dynamics
+<
+Emergent Phenomena
+<
+CLI / Terminal Agents
+Orchestration Frameworks
+Agentic IDEs (e.g., Antigravity)
+Single Agent (Best for tightly coupled tasks)
+Multi-Agent Systems (MAS)
+<
+Control Plane (Orchestration, Governance, Routing)
+Reflection Pattern (ReAct: Reasoning + Acting)
+Core AI Model
+Pydantic-AI Framework
+Tools Layer
+CLI Interface
+Control Loop (Thought → Action → Observation)
+Hierarchical Context Injection
+Project Rules override Global Rules
+Use .geminiignore (exclude node_modules, logs)
+/compress (Summarize history)
+Query-aware contextualization
+Short-term (Single call context)
+Episodic (Event logs)
+Semantic (Knowledge, definitions)
+User-specific (Preferences, history)
+Model Context Protocol (MCP)
+<
+Function Calling (Lightweight, custom integration)
+Goal Hijacking / Manipulation
+Prompt Injection Attacks (Second-order)
+Data Exfiltration (via terminal/browser subagents)
+Agent Collusion
+Oversight Saturation (Alert Fatigue)
+Tool Poisoning
+Sandboxed Runtimes (Docker, VMs)
+Anti-Pattern Block (Explicit Forbidden Actions)
+Human-in-the-Loop Control (Diff previews, approval)
+Full Audit Logs / Activity Traces (Reliable and succinct)
+Agent Identity Card (SBOM: Manifest, Dependencies)
+MCP-Scan (Security scanner and proxy)
+AI + You Checkpoint (Mandatory human justification)
+Dynamic Baselining (Detect Objective Drift)
+Agent Reputation Signatures/Risk Scores
+Proactive 'Hunter' Agents
+Correctness (Pass Rate, Pass@k)
+Robustness (Crash/Error Rate, Fuzzing)
+Security (Static analysis findings, Vulnerability Score)
+Performance (Runtime, Memory Usage)
+LLM-as-a-Judge (Alignment/Safety, bias risk)
+Execution-Based Scoring (Ground Truth)
+Saturation Regime (Tokenization degradation)
+Context Length Degradation (Lost in the middle)
+LLM Repetition Problem (Beam Search solution)
+Thinking Frontier (Depth vs. Latency)
+Recursive Self-Improvement Prompting (RSIP)
+Self-Improvement Loop (Analyze past performance)
+Once-More (Continuous self-correction via Perplexity)
+Agentic Self-Learning (ASL: Prompt Generator, Policy, Reward Model)
+Standardization of Thinking Patterns
+Reduction of Collective Diversity of Outputs
+Cultural Bias (Western norms imposition)
+Risk to Human Creativity
+Cognitive Load (Reduced mental effort with AI)
+Automation Bias (Minimal critical thinking)
+Policy Compression (Trade reward for simpler action policies)
+Cognitive Diversity (Aiding adoption and innovation)
+Semantic Gravity Wells / Attractor States
+Global Entrainment (Co-participation of human/AI)
+Structural Transmission (Traits via hidden signals in data)
+Post-Consensus Learning (Favoring high-coherence symbolic frameworks)
+Hierarchical (Layered sub-agents)
+Collaborative (Specialized agents cooperate)
+Central Orchestration Manager
+Distributed, Parallel Decision-Making
+Standardizes tool exposure
+Scales better than Function Calling
+MCP Servers (Custom tools/data sources)
+AGENTS.md (Standard for agent instructions)

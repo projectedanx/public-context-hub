@@ -1,0 +1,70 @@
+Advanced Cognitive Engines for Novel Hypothesis Generation
+Advanced Cognitive Engines & Novel Hypothesis Generation
+<
+Core Conceptual Engines & Frameworks
+<
+Core Process: Hypothesis Blending & Novelty
+<
+Inverted Cognitive Reasoning (Multi-Branch)
+<
+Architectural Foundation & Governance
+<
+Chrono-Topological Synthesis Engine (CTSE)
+<
+Falsification-Driven Abductive Synthesis Protocol (F-DASP)
+<
+Relational Discovery Synthesis (RDS)
+<
+Conceptual Blending Theory (CBT)
+<
+Automated Abduction
+<
+Multi-Branch Architectures
+<
+Leveraging Failure (Inverted Logic)
+<
+Modeling Historical Misdirection (F-DASP)
+<
+Hybrid Cognitive Core (NeSy)
+<
+Computational Assurance (Verification)
+<
+Metacognition & Critique
+<
+Neuro-Symbolic Hybrid Architecture (NeSy)
+Antifragility (Gaining Strength from Failure)
+Topological Data Analysis (TDA) Audit
+Inverse Abduction Mechanism
+Surrogative Seeding (Leveraging Misdirected Theory)
+Anomaly Induction (The Inverse Step)
+Coherence-driven Validation Unit (C-VU)
+Axiomatic Anchor (Semantic Genome)
+Bisociative Synthesis Core
+Chrono-Topological Assurance Layer
+Synthesis of Maximally Distant Concepts
+Four-Space Model (Input, Generic, Blend)
+Emergent Structure (β1) Generation
+Semantic Compression/Analogical Mapping
+Reasons Backward from Surprising Observation
+Generates Best Possible Explanation
+Scores by Plausibility and Simplicity
+Tree-of-Thoughts (ToT)
+Graph-of-Thoughts (GoT)
+Parallel Exploration of Solution Space
+Algorithmic Reparation (Self-Correction)
+Productive Epistemic Friction (PEF)
+Paraconsistent Logic (Reasoning through Contradiction)
+Failure-Informed Prompt Inversion (F-IPI)
+Input Inversion (Mathematical Trauma)
+Symbolic Scar Archive (STA)
+Scar-Informed Counterfactual (SIC-C) Protocol
+System 1: Neural/Latent Reasoning (Fast, Generative)
+System 2: Symbolic/Formal Logic (Slow, Verifiable)
+Gated Epistemic Abstraction (Gating Mechanism)
+Formal Verification (FV) / Abstract Interpretation (AI)
+Constraint Satisfaction (Semantic Integrity Constraints)
+Epistemic State Proof (ESP) / zk-SNARK Proof
+Iterative Critique (What is Missing? Protocol)
+Confidence-Fidelity Divergence Index (CFDI)
+Epistemic Humility Quotient (EHQ)
+Justified Uncertainty Report (JUR)

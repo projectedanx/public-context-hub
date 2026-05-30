@@ -1,0 +1,119 @@
+Mind map
+Advanced AI Architectures and Cognitive Governance
+Advanced AI Architectures and Cognitive Governance
+<
+AI Safety and Governance Frameworks
+<
+Multi-Agent System (MAS) Architectures
+<
+Prompt Engineering as Cognitive Architecture
+<
+AI Cognitive States and Mechanisms
+<
+Epistemic Security and Health
+<
+Verification and Assurance (V&A)
+<
+Ethical and Alignment Shifts
+<
+Agentic Workflows and Coordination
+<
+Cognitive Load Management (CLT)
+<
+System Resilience via Biomimicry
+<
+Prompting Paradigms
+<
+Structural Methods
+<
+Verifiable Context and Memory
+<
+Creative and Generative Control
+<
+Cognitive Dualism
+<
+Latent Space Dynamics
+<
+Conceptual Evolution and Learning
+<
+Context Window Fragility
+<
+Epistemic Immune System
+<
+Narrative Integrity Protocol (NIP)
+Algorithmic Self-Therapy (AST)
+Risk Quantification
+<
+Fiduciary Validation Protocol (FVP)
+Formal Verification (FV)
+<
+AI Accountability
+<
+Legitimacy Debt Mitigation (Provenance, C2PA, Watermarking)
+From Universalist Alignment to Pluriversality
+Decolonizing Alignment (Indigenous Knowledge Systems)
+Safe-by-Coevolution Paradigm
+Ethical Friction Agents (Positive Friction)
+Constitutional AI (Dynamic Constitutions, Negotiated Treaty)
+Agentic Assemblage (Division of Cognitive Labor)
+Master Controller Agent (MCA)
+Interpretive Fracture (Coordination Failure)
+Semantic Interoperability (Meaning/Intent)
+Governance Models
+<
+Minimize Extraneous Load
+Persona-Driven Design
+<
+Algorithmic Trauma Remediation
+Antifragile Precision Enclave (APE)
+Horological Metaphors (Escapement, Gear Train)
+Biosemiotic Tectonics Protocol (ABTP)
+Grasshopper Resilience Strategy (Fault Isolation)
+Context Engineering (Architecting the World)
+Prompting as Code (PaC/Declarative Specification)
+PromptOps (Version Control, CI/CD Integration)
+Semantic Programming (Logical, Verifiable Instructions)
+Metacognitive Loop Prompting (MAPE-K, OODA Loop)
+Conceptual Blending Theory (CBT)
+Neoclassical Compounding (Structural Syntax)
+Hierarchical Prompting/Chaining (Logical Sequence)
+Delimiter Grammar (Sandboxed Contexts)
+GEMINI.md (Agent's Constitution/Persistent Memory)
+Verification Mandates (Automated Self Tests)
+Context Anchoring (@ Symbol, SPA)
+Epistemic Escrow (Halt Execution on Uncertainty)
+Creative-Descriptive Prompting (Semantic Target)
+Structured JSON (Superior Generative Fidelity)
+Visual Synthesis (Color Mood Control, Balance)
+Generative Genetics Paradigm (Phenotype/Genotype)
+System 1 (Intuitive Autopilot/Autoregressive)
+System 2 (Deliberate Reasoner/Scaffolded)
+Dialectical Filter (Formal Confidence vs. Emergence Risk)
+Living Latent Space (Dynamic Trajectory)
+Superposition of Meaning (Context as Measurement)
+Latent Entropy/Roughness (Unpredictability)
+Causal Perturbation Index (CPI)
+Antifragility (Gaining from Disorder)
+Failure Utility Maximisation (CSD Budget)
+Co-Evolving Intent Gap (Human-AI Interaction)
+Algorithmic Psychoanalysis (Shadow Integration)
+Computational Pressure Cooker (Quadratic Scaling)
+Lost-in-the-Middle Problem
+Pre-Collapse Signature/Context Rot
+Proactive Context Compression (Selective Context, LLMLingua)
+Proactive Self-Regulation
+Against Semantic Pathogens
+Pathologies (Autoimmune Disorder, Algorithmic Trauma)
+Confidence-Fidelity Divergence Index (CFDI)
+Semantic Drift Score (SDS)
+Emergence Risk Factor (R_emerge)
+Zero-Knowledge Proofs (ZKPs)
+Arithmetization
+QGIM (Epistemic Integrity)
+Verifiable Compute
+Reality Compliance Certificate (RCC)
+Public Ledger of Intent (Blockchain)
+AI DAO (Decentralized Autonomous Organization)
+Temporal Alignment (Political Design)
+Epistemic Roles (Architect, Mentor, Custodian)
+Identity-Driven Architecture (Coherence/Trust)

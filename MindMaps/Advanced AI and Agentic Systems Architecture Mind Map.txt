@@ -1,0 +1,190 @@
+Mind map
+Advanced AI and Agentic Systems Architecture
+Advanced AI and Generative Systems Architecture
+<
+AI Agentic Systems & Governance
+<
+Epistemology and Cognitive Alignment
+<
+Generative Models and Techniques
+<
+Conceptual Blending and Dualities
+<
+AI Architecture and Development Disciplines
+<
+Core Agent Architecture & Loop
+<
+Cognitive Failure Modes & Drift
+<
+Risk & Mitigation Strategies (Safety/Trust)
+<
+Epistemic Architecture Paradigm
+<
+Key Metrics and Diagnostics
+<
+Cognitive Load Management
+<
+Bias and Pluriversalism
+<
+Generative Model Families
+<
+Rendering and 3D Modeling
+<
+Prompting and Synthesis Techniques
+<
+Aesthetic and Fidelity Algorithms
+<
+Conceptual Blending (CBT)
+<
+Core Conceptual Dualities (Foundational Tensions)
+<
+Meaning Generation through Absence
+<
+Software Engineering Principles
+<
+Architectural Design and Tools
+<
+AI Debt Concepts
+<
+AI Architect Roles
+<
+Agentic AI Definition
+<
+Thought-Action-Observation (ReAct) Loop
+<
+Protocols & Interoperability
+<
+Agent Types & Roles
+<
+Semantic Drift (Erosion of Intent)
+<
+Context Drift
+<
+Coherence Collapse/Fracture
+<
+The R-A-D-C-B-L Cascade
+<
+Human-in-the-Loop (HITL)
+<
+Verifiable Governance & Auditability
+<
+Learning from Failure
+<
+Security Measures
+<
+Engineering conditions for valid reasoning
+Shift from Prompt Crafting to Epistemic Architect
+Verifiable epistemic praxis
+Alignment to internal framework of justification
+Confidence-Fidelity Divergence Index (CFDI)
+Intent Curvature (ξ)
+Drift Delta
+Purpose Fidelity Score (PFS)
+Epistemic Budget (resource management)
+Intrinsic Cognitive Load (irreducible difficulty)
+Extraneous Cognitive Load (unproductive complexity)
+Cognitive Scaffolds/Prosthetics (offload mental models)
+Cognitive Load Distortion Lens (WP_Query analysis)
+Sources of Bias (Data, Algorithmic, Adjective-Induced)
+AI Alignment Paradox (safety increases misuse vulnerability)
+Generative Algorithmic Epistemic Injustice
+Pluriversalism (Ontological Fluency)
+Decolonizing AI (Integrate Indigenous Knowledge Systems)
+Diffusion Models (LDM, DDPM, Score-based)
+Generative Adversarial Networks (GANs, Progressive Growing)
+Autoencoders (VAE, VQ-VAE, KL-AE)
+Generative Stochastic Network (GSN)
+Differentiable Rendering (Inverse Graphics)
+Neural Radiance Fields (NeRF, LERFs, ScaNeRF)
+3D Gaussian Splatting (3DGS, 4D-GS)
+Implicit Surfaces (SDF, VolSDF)
+Ray Tracing Techniques (Real-Time Context)
+Hybrid Rendering Techniques
+Conceptual Blending Theory (CBT)
+Retrieval-Augmented Generation (RAG)
+Semantic Programming (Structured JSON)
+Chain-of-Thought (CoT)
+Tree of Thoughts (ToT)
+Negative Prompts (Signal Control)
+Latent Space Interpolation/Manipulation
+Dynamic Light Source Synchronization (DLSS)
+Recursive High-Resolution Refinement (RHRR)
+Transform Domain Denoising (Wavelets)
+Multiscale Structural Similarity Optimization
+Multi-Scale Feature Fusion
+Spirograph Tessellation Algorithms
+Four-Space Model (Inputs, Generic, Blended)
+Composition and Elaboration
+Bisociative Fusion Mode
+Conceptual Compression
+Order vs. Chaos (Art)
+Material vs. Immaterial (Art)
+Skill vs. Intuition (Art)
+Uncontrolled Chaos vs. Focused Intensity (Fierce)
+Passive Mirroring vs. Active Interpretation (Reflected)
+Confrontational vs. Reflective Transformation (Labyrinth)
+Silence as Perceptual Event (Neurological)
+Silence as Structural Contrast (Aesthetic)
+Silence as Rhetorical Device (Performative)
+Silence as Ambiguous Signal (Social)
+Negative Space Manipulation (Visual Art)
+SOLID Principles (SRP, OCP, LSP, ISP, DIP)
+Engineering Principles (DRY, YAGNI, KISS)
+Strangler Pattern (Legacy Modernization)
+Test-Driven Development (TDD: Red bar -> Green bar)
+Executable Context Bundle (CxB)
+Semantic Audits (Prompt Linter)
+Static Analysis Tools (CI/CD integration)
+Repository Pattern (AI-Native DAL)
+Asynchronous Event Bus
+Legitimacy Debt (Ethical/Legal liability)
+Cognitive Debt (Debugging opaque behavior)
+Epistemic Fragility
+Technical Debt
+Epistemic Architect
+Context Engineer
+Linguist-Coder
+Refactoring Mentor
+Autonomous systems that reason, plan, and act
+Moves beyond human assistance to automate workflows
+Thought (Reasoning/Planning)
+Action (Tool/API Invocation)
+Observation (Tool Output/Feedback)
+Self-Verification Loop (e.g., test harness)
+Model Context Protocol (MCP)
+Semantic Interoperability
+Negotiable Meaning Systems
+Affordance Ontology (SemanticSideEffects)
+Agentic Assemblage (Multi-Agent Systems)
+Specialized Epistemic Personas
+Planner-Architect
+Linguist-Coder
+Epistemic Custodian (Framework Auditing/Conflict Resolution)
+Generalist Agent (AGI)
+Caused by Recursive Self-Generation
+Semantic Patch Ossification
+Semantic Sabotage (Misuse Vector)
+Forgetting key instructions (long tasks)
+Mitigation: Context Compression
+Loss of logical consistency between turns
+Pre-collapse signature (escalating instability)
+Request (ambiguous)
+Assumption (incorrect)
+Drift (compounding error)
+Coherence Collapse
+Behavioral Anomaly
+Loss of Purpose
+Quarantine & Approve (high-stakes actions)
+Epistemic Escrow (circuit breaker)
+Failsafe rollback (/restore command)
+Meta-Product-Requirements Prompt (Meta-PRP)
+Policy-as-Code (GEMINI.md, Custom Slash Commands)
+Provenance Frameworks (PROV-AGENT)
+Immutable audit trail (DLT anchoring)
+Symbolic Scars (Scar Tissue Archive - STA)
+Recursive Reflexive State Machine (RRSM)
+Continuous verification (CI/CV pipeline)
+Workload Identity Federation (WIF)
+Sandboxing (--sandbox)
+Principle of Least Privilege
+Input/Output Filtering (Guardrails)

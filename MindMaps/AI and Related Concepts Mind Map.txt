@@ -1,0 +1,536 @@
+Mindmap
+AI and Related Concepts: A Comprehensive Overview
+AI and Related Concepts
+<
+Artificial Intelligence (AI)
+<
+Data and Analytics
+<
+Linguistics and Language
+<
+Astronomy and Physics
+<
+Computer Science and Development
+<
+Cognitive Science and Psychology
+<
+Miscellaneous
+<
+AI Agents
+<
+Prompt Engineering
+<
+Generative AI
+<
+Large Language Models (LLMs)
+<
+AI in Search
+<
+Deepfakes
+<
+Data Analysis
+<
+Business Intelligence (BI)
+<
+Data Privacy
+<
+Market Trend Analysis
+<
+Time Series Forecasting
+<
+Language
+<
+Linguistic Relativity (Sapir–Whorf Hypothesis)
+<
+Counterfactual Explanations for Text Classifiers
+<
+Natural Language Processing (NLP)
+<
+Contrastive Linguistics & Translation Studies
+<
+Semantics/Pragmatics Debate
+<
+Astronomical Techniques
+<
+Quantum Physics
+<
+Quantum Linguistics (New Field)
+<
+DNA and Language Analogy
+<
+Astrology
+<
+Software Development
+<
+DIY Electronics
+<
+Cybersecurity
+<
+Web Development (WordPress)
+<
+Memory
+<
+Perception and Reality
+<
+DIY (Do It Yourself)
+<
+Historical Events
+<
+Definition: Task-focused, integrated into IDEs, APIs, CI/CD
+Role: Virtual teammates, assist/automate SDLC
+Components
+<
+Adaptation/Improvement
+<
+Use Cases
+<
+Frameworks
+<
+Best Practices
+<
+Definition: Crafting input text to guide LLM behavior
+Purpose: Elicit desired responses, enhance user experience, spark creativity
+Importance: Crucial for maximizing AI effectiveness/accessibility
+Process
+<
+Prompt Elements
+<
+Techniques
+<
+Challenges
+<
+Tools
+<
+Applications
+<
+Capabilities
+<
+Risks
+<
+Ethical Considerations
+<
+Applications
+<
+Characteristics
+<
+Interaction
+<
+Models/Platforms
+<
+Cognitive Biases
+<
+NLP Dominance
+<
+AI Overviews (successful launch)
+AI Mode (end-to-end AI Search experience)
+<
+Creation: GAN models, Faceswap-GAN
+Detection: Binary classification problem
+Challenges: Limited fake video datasets, high error rates for some methods
+Impact: Erodes trust in media, disinformation, hate speech, political tension
+Definition: Extracting meaningful information from datasets
+Techniques
+<
+Challenges
+<
+Solutions for Data Challenges
+<
+Tools/Languages: R, Python, SAS, KNIME
+Focus: Descriptive/diagnostic analytics
+Purpose: Unveil insights into past data trends/performances
+Output: Financial dashboards, reports, charts, diagrams
+Collaboration: With business users/subject matter experts
+Concerns: Big Data, transparency, biased decisions, personal data exposure
+Regulations: GDPR, CCPA, PIPL
+Strategies for Compliance
+<
+Ethical Sourcing of Data
+Data Ownership
+Purpose: Proactive decisions, enhance customer engagement, strengthen market position
+Types
+<
+Process
+<
+Tools: Attest platform
+Methods: Based on demand history, capturing patterns, extrapolation
+Applicability: Shorter-term forecasting (<= 18 months)
+Data Needs: 3+ years for good, 5+ years for great forecast (to separate trends/seasonality)
+Forecasting with Limited Data
+<
+Key Ingredients: High-level forecast, low-level plan
+Splitting data: Monthly to daily/half-hourly (not simple division)
+Validation: Back to business for assumptions
+Complicated entity
+Closely linked to meaning
+Expressed by limited sounds
+Mathematical nature
+Grammar as computer algorithm
+Phonemes, syllables, codes
+Language shapes thought
+Different cultural metaphors
+Contextual nature of words
+Debate: Language affecting thought efficiency vs. wider insight
+Methods
+<
+Common Generation Methods
+<
+Evaluation Metrics
+<
+Terminology Clarification
+<
+Core tasks: Part-of-speech tagging, word sense disambiguation
+Applications by Industry: Finance (information mining), Healthcare (analysis of records/research)
+Interconnected disciplines
+Corpus-based approach (computerized language corpora)
+Translation equivalence as tertium comparationis
+Benefits: Translator training, tool development, assessment, lexicography, terminological purposes
+Minimalists: Grammar provides all meaning
+Contextualists: Semantic representation enriched by extralinguistic context
+Challenges static communication model
+Human factor in utterance interpretation
+Influence of physical/situational factors
+Observational Methods
+<
+Telescopes: Optical, Radio, Space, Kepler
+Ontology: Realm of non-material forms
+Consciousness: Cosmic property, interacts with quantum reality
+Wholeness: Seemingly separated things connected instantaneously (nonlocality)
+Wave function collapse (influenced by consciousness)
+Study: How linguistic structures interact with quantum systems
+Interdisciplinary: Linguistics, quantum physics, information theory, cognitive science
+Hypothesis: Linguistic structures influence quantum measurements/reality
+Quantum language models (words as quantum states)
+Genetic code as language (metaphorical, not literal)
+DNA: Physically encoded, information storage/transmission
+Language: Semantic/syntactic systems, abstractness, symbolic representation
+DNA origami (creating 3D nanostructures)
+Language Game: Words/numbers used in various ways, follow unique rules
+Astrological Text: Vagueness, ambiguity, metaphor, symbolism
+Barnum effect (accepting vague predictions)
+Philosophical approach (exploring less conventional thinking)
+Claims lack scientific foundations
+Evolution driven by AI
+AI automates complex coding tasks
+Focus shifts to architectural planning, integration, product management
+Building IOT devices
+Computer peripherals
+Roadmap for beginners
+Google Dorking/Hacking
+<
+Command Prompt Commands
+<
+Windows Terminal: History commands
+Speed Optimization
+<
+Customization: Themes, Plugins
+Database Optimization (WP-Optimize)
+Security: Backups, trusted host
+Monetization: Third-party tools
+Types (Explicit/Declarative)
+<
+Implicit/Nondeclarative Memory
+Short-Term Memory
+<
+Working Memory
+<
+Interdependence of Episodic & Semantic Memory
+Memory Formation/Retrieval: Recall, Recognize, Relearn
+Choking under pressure (disruption of procedural memory)
+Mnemonic Strategies (e.g., cumulative rehearsal)
+Inner vision: Brain constructs reality, not eyes
+Simulation: Human brain as advanced computer
+Non-physical, simulated world
+Motivation: Save time/money, personal touch
+Categories: Home improvement, electronics, plumbing, woodworking, music (punk fanzines, screen printing)
+Resources: Books, websites
+Safety first (shut off water, wear PPE)
+When to call a professional (extensive damage, mold, major blockages)
+Lesser Known Events: Teachers looking for figures, World War 2
+Forgetting in History: Loss of collective memory
+Restorative History: Collaborates with communities to investigate harms
+Goal initialization/planning
+Model-based reflex agents (memory, internal model)
+Tool utilization
+Memory (long-term, past interactions)
+Learns from interactions
+Refines reasoning
+Adjusts behavior
+Reinforcement learning
+Dynamic fine-tuning
+Software Development
+<
+Enterprise chatbots/virtual assistants
+Intelligent process automation
+AI-enhanced productivity tools
+Personalized content recommendation systems
+Semantic search
+Automating research
+Data analysis
+Complex problem-solving
+LangChain
+PromptFlow
+Semantic Kernel
+Atomic Agents
+CrewAI
+AutoGen (Microsoft)
+RASA
+Activity logs (transparency)
+Implement interruptibility
+Choosing a model (Gemini, GPT, Claude, open source)
+Contextualization (setting the stage)
+Clear/detailed instructions
+Specific output format (JSON, XML, bullet points)
+Iterative refinement (follow-up questions, continuous adjustment)
+Error handling
+Context/Input
+Instructions
+Examples (few-shot, edge cases)
+Dynamic values (parameters)
+Temperature (randomness)
+Top-K / Top-P (token sampling)
+Zero-shot prompting
+Few-shot prompting (1-10 examples)
+Chain-of-Thought (CoT)
+<
+Meta Prompting
+Self-Consistency
+Generate Knowledge Prompting
+Prompt Chaining
+<
+Tree-of-Thoughts (ToT)
+<
+Retrieval Augmented Generation (RAG)
+Automatic Reasoning and Tool-use
+Automatic Prompt Engineer
+Active-Prompt
+Directional Stimulus Prompting
+Program-Aided Language Models
+ReAct (Reasoning and Action planning)
+<
+Reflexion
+Multimodal CoT
+Graph Prompting
+Maieutic Prompting
+<
+Least-to-most prompting
+Self-refine prompting
+Persona Patterns (assigning roles)
+<
+Psychological/Linguistic Priming (specific language cues)
+Knowledge Enhancement (fixed prefix)
+Tail Generation Pattern (repeat Y/ask for X at end)
+Game Pattern (create game around X, define rules)
+Cognitive Biases (in prompts, affect reliability)
+Lack of clarity/precision leads to poor results
+Overly complex phrasing
+Vague requests
+Token limits
+Context window limitations
+Prompt Builder
+Athina IDE
+Kiln (desktop app for fine-tuning)
+FlowGPT (optimized prompt templates)
+AI Prompt Genius
+ChatGPT Pro (Deep Research)
+Text summarization
+Information extraction
+Question answering
+Text classification
+Language/code translation
+Code generation
+Code documentation/reasoning
+Brainstorming/Ideation
+Thesis generation
+Flashcard generation
+Schedule generation
+SMART goal generation
+Generating data/synthetic datasets
+Analyzing output structure/latency/token usage
+Generating creative prompts
+Medical education/patient materials
+Image generation
+Video generation
+Music generation
+Simulate, predict, reconstruct
+Automate complex tasks
+Generate plausible text outputs
+Instruction-following
+Textual understanding
+Hallucinations (false/nonsensical information)
+Bias (from training data/algorithm architecture)
+Quality concerns (low-quality/non-functional code)
+Privacy concerns (reconstructing personal data)
+Misuse (fabricating data)
+Compromised evidence, misleading outcomes
+Over-reliance on single chain of thought (potential flaws)
+Fairness
+Accountability (liability for biased decisions)
+Transparency (how information is handled)
+Inclusivity
+Bias mitigation strategies
+Strict regulatory compliance (GDPR, HIPAA, PIPL)
+Human oversight/intervention
+Human-centric AI (sociocultural complexity, comprehensible explanations)
+Forensic Data Analysis
+<
+Software Development Life Cycle (SDLC)
+<
+Creative workflows (design, music, art)
+Academic uses (bibliography generation)
+Trained on massive datasets
+Generate plausible 'next words'
+Limited knowledge based on training timeframe
+Susceptible to hallucinations (inventing facts)
+Context window (max input tokens)
+Token limits (max output tokens)
+Respond with sequence of tokens
+Effectiveness depends on context/instructions
+Parameter sensitivity (temperature)
+ChatGPT (OpenAI)
+Claude 3 (Anthropic)
+Google Gemini (Vertex AI)
+Gemma (Google)
+LLaMA / LLaMA2 (Meta)
+Mistral 7B / Mistral Large / Mixtral
+Phi-2
+Grok-1
+DeepSeek
+Perplexity Pro
+User-generated cognitive biases alter LLM reliability
+Confirmation bias
+Availability bias
+Impact on accuracy (observed drop)
+Deep learning models
+Sequence-to-sequence (seq2seq) models
+Advanced reasoning
+Multimodality
+Follow-up questions
+Helpful links to web
+Statistical analysis
+Machine learning
+Pattern analysis (uncovering hidden structures)
+Outlier analysis (identify, remove, or investigate)
+Predictive modeling (forecasting future outcomes)
+Noisy data (errors, outliers, inconsistencies)
+Incomplete data (missing values)
+Model overfitting (due to noisy data)
+Instrumental signatures (astronomy)
+Noise and errors (astronomy)
+Model assumptions (astronomy)
+Data cleaning
+Feature engineering
+Regularization techniques
+Proper model evaluation
+Data imputation (filling missing values)
+<
+Outlier detection (Grubbs' Test, IQR-based)
+Data augmentation (increases dataset size/diversity)
+Ensemble methods
+Privacy-preserving AI techniques
+Robust data governance frameworks
+Leveraging technology for automation
+Embedding privacy in AI development
+Dynamic authentication (for AI agents)
+Differential privacy
+Encryption (advanced techniques)
+Homomorphic encryption
+Blockchain applications
+Consumer trends (behavior, preferences, purchasing)
+Historical trends (identify patterns over time)
+Define actionable goal
+Analyze historical data
+No historical data
+Limited/incomplete information
+New service/channel in established organization
+Manual generation (human annotator)
+Joint learning-based generation (end-to-end model)
+Identify and then generate (two-stage: pinpoint, substitute)
+LLMs prompting (direct creation via prompting)
+Semantic editing (word substitutes, antonyms)
+Syntactic editing (language parsers, customized rules)
+Validity (prediction change)
+Proximity (minimal modification)
+Diversity (generate varied CFEs)
+Fluency (resemblance to human writing)
+<
+Model Preservation (MP)
+Adversarial Example vs. CFE (deceive human vs. change human/model prediction)
+Style Transfer vs. CFE (revise style vs. minimal perturbation)
+Photometry (brightness measurement)
+Spectroscopy (matter/EM radiation interaction)
+Interferometry (combines signals for high resolution)
+Transit method (exoplanet detection)
+Gravitational lensing (exoplanet detection)
+Adaptive optics (corrects atmospheric distortions)
+Radial velocity method
+Direct imaging methods
+Microlensing (exoplanet detection, dark matter search)
+Definition: Advanced search operators to uncover info
+Purpose: Identify vulnerabilities, hidden panels, exposed credentials
+Legal technique
+Operators: site:, inurl:, filetype:, intext:
+netstat (network statistics)
+tzutil (time zone utility)
+ver (OS version)
+Importance: User experience, SEO, conversions, brand image
+Tips
+<
+Tools: Seahawk Website Speed Test, Google PageSpeed Insights, GTMetrix, Pingdom
+Episodic memory (experiences, events)
+Semantic memory (general world knowledge, facts, concepts)
+Neural firing patterns
+Contamination from rehearsal
+Underpins cognitive development, learning, education
+Used to plan/carry out behavior
+Multiple components (verbal-phonological, visual-spatial, central executive, episodic buffer)
+Correlates with intellectual aptitudes/fluid intelligence
+Depends on ability to control attention
+Auto-generate API test scripts
+Automate API documentation
+Frontend builder
+Test writer
+API integrator
+Bug detection
+Code quality improvement
+Explaining reasoning step-by-step
+Self-consistency (multiple CoT outputs, majority answer)
+Pretended CoT (fixed prefix)
+Breaking complex tasks into subtasks
+Benefits: Accuracy, clarity, context retention
+Self-correction chain
+Extends CoT, multiple reasoning paths simultaneously
+Explores different solutions
+Effective for complex problem-solving, strategic planning
+Replicates human cognitive processes
+Interleaves reasoning traces and task-specific actions
+Benefits: Reduced hallucinations, improved interpretability, external knowledge integration
+Evolution of maieutic principles applied to AI
+Techniques: Open-ended questions, wait time, validate responses, create connections, guide learning
+Enhances coherence and task-focused output
+Example: 'Act as a data analyst'
+Filling data gaps (GANs)
+Modeling cyberattack scenarios
+Predictive analytics for threat detection
+Evidence reconstruction
+Fraud detection (real-time analysis)
+Customer data protection (encryption, biometrics)
+Code generation
+Designing/prototyping new features
+Streamlining requirement development
+Fast-tracking testing
+Improving bug detection
+Boosting code quality
+Expectation-Maximization (EM)
+Multiple Imputation (MI)
+<
+Mean/Median imputation
+Last Observation Carried Forward (LOCF)
+Human raters (cohesiveness, readability, grammar)
+Automated (likelihood, perplexity score)
+High-performance hosting (CPU, RAM, Storage, Networking)
+Image optimization (WebP, JPEG, PNG formats)
+Caching (Browser, Server-side)
+Code minification/optimization (CSS, JavaScript, HTML)
+Regular maintenance (updates)
+Replaces missing values with plausible set
+Overcomes underestimation of standard errors

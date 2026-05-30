@@ -1,0 +1,173 @@
+Mind map
+AI Agent Ecosystems, Architecture, and Development
+AI Agent Ecosystems and Development
+<
+Agentic Workflows & Challenges
+<
+AI Agent Architectures & Patterns
+<
+Model Context Protocol (MCP)
+<
+LLM Workflows & Orchestration Patterns (AWS)
+<
+Agent CLI Tools & Development Practices
+<
+AI Agent Frameworks Comparison
+<
+Architectural Challenges
+<
+Antifragility & Resilience
+<
+Trust & Auditability
+<
+Consistency & Error Handling
+<
+Reactive Architecture (Stimuli-Action)
+ReAct Framework
+<
+Basic Reasoning Agents
+<
+RAG (Retrieval-Augmented Generation)
+<
+Tool-Based Function-Calling Agents
+<
+Memory-Augmented Agents
+<
+Workflow Orchestration Agents
+<
+Observer & Monitoring Agents
+<
+Open-Source Standard (Vendor-Neutral)
+Functionality
+<
+Ecosystem Examples
+<
+Client Adoption
+<
+Core Augmentation Components
+<
+Patterns
+<
+AWS Services for Implementation
+<
+Core Tool Taxonomy
+<
+Gemini CLI Safe Practices
+<
+Code Quality & Security Tools
+<
+Design Principles for CLIs (AI Era)
+<
+AutoGen (Microsoft)
+<
+LangChain/LangGraph
+<
+CrewAI
+<
+Semantic Kernel (SK)
+<
+LlamaIndex
+<
+Semantic Misalignment
+Concept-to-Code Decay
+Interpretive Heterogeneity
+Modularity & Decentralization (Microservices)
+Redundancy & Replication
+Proactive Monitoring & Self-Healing
+Adversarial Evolution (Red/Blue Team Agents)
+Provenance Gap
+Cryptographic Verifiability
+PROV-AGENT Data Model
+SagaLLM Framework
+<
+Thought-Action-Observation Cycle
+Methodical Problem-Solving
+Stateless, Lightweight, Composable
+Single-Step Reasoning/Classification
+Grounding responses in facts
+Reduces Hallucinations
+Invokes callable capabilities (APIs, DBs)
+Transforms passive assistants to task-completing systems
+Maintains Context/Thought Continuity
+Uses Short-term & Long-term Memory
+Coordinates Multi-Agent Collaboration
+Event-driven or Scheduled Execution
+Passively Observes Systems
+Detects Patterns, Generates Insights
+Used for Anomaly Detection, Compliance
+Secure, Two-Way LLM-Tool Connection
+Dynamic Tool Discovery
+Enables Agentic AI Mesh (Interoperability)
+Activepieces (Largest Open Source Toolkit)
+GitHub MCP Server
+Microsoft Playwright MCP
+Windows-MCP (UI Automation, Shell-Tool)
+Chrome MCP Server (Browser Automation)
+DevDocs (Tech Documentation Server)
+Byterover Cipher (Unified Memory Layer)
+Ultra MCP (Vector Search, Multi-Model)
+Gemini CLI
+Claude Code/Desktop
+Cursor/Windsurf
+Codex CLI
+AWS Kiro
+Prompting (Context, Instructions)
+Retrieval (RAG, Vector Search)
+Tool Use (APIs, Functions)
+Memory (State Persistence)
+Prompt Chaining Saga (Modular, Auditable Steps)
+Routing Dynamic Dispatch (LLM-Based Routing)
+Parallelization & Scatter-Gather (Accelerates Throughput)
+Saga Orchestration (Role-Based Agent System)
+Evaluator / Reflect-Refine Loop (Self-Correction)
+Amazon Bedrock (Agent Host, LLM Inference)
+AWS Step Functions (Orchestration, State Management)
+AWS Lambda (Tool Execution Backend)
+Amazon DynamoDB (Short/Long-term Memory)
+CLI-Based Agents (Gemini CLI, Claude Code, Aider)
+AI Code Editors (Cursor, Windsurf)
+Vibe Coding (Bolt, Lovable)
+AI Teammate (Devin, Genie)
+Context Engineering
+<
+Safety & Control
+<
+Security Configuration
+<
+Qlty CLI (Universal Linting, SAST)
+Gemini Security Extension (Vulnerability Scanning)
+Agentic Radar (Workflow Security Scanner)
+Human Conveniences Need Escape Hatches
+CLI Outputs as Versioned API Contracts
+Expose Capabilities via MCP
+Real-time Feedback Loops (Early Validation)
+Free-Form Agent Collaboration
+Python-Centric
+Steep Learning Curve (Algorithmic Prompts)
+Modular, Model-Agnostic
+LangGraph: Graph-Based Reasoning, Stateful
+Rich Ecosystem (>600 Integrations)
+Steep Learning Curve
+Role-Based, Declarative Architecture
+Natural Multi-Agent Delegation
+High Latency & Token Usage (Benchmark)
+Skills-Based, Plugin Architecture
+Multi-Language SDK (C#, Python, Java)
+Enterprise Readiness (Azure Integration)
+Deterministic Execution
+Specializes in RAG and Knowledge Access
+Extensive Data Connectors (>300)
+Multiple Indexing Techniques
+Focus: Hallucination-Free Agents
+Transactional Integrity
+Compensating Transactions (Rollback)
+@ Symbol (Targeted Context Focus)
+GEMINI.md (Master Prompt, Constitution)
+/restore Command (Checkpointing)
+/plan Custom Commands (SOPs)
+User Confirmation Prompt
+--sandbox Flag (Tool Isolation)
+Workload Identity Federation (WIF)
+Disable Telemetry
+Respect .gitignore (fileFiltering)
+NotebookLM can be inaccurate; please double-check its responses.

@@ -1,0 +1,180 @@
+Advanced AI Architecture and Prompt Engineering Compendium
+Advanced AI System Architecture & Governance
+<
+Context Engineering & Prompt Architecture
+<
+AI Agent Cognitive Architectures
+<
+Governance, Resilience & Self-Correction (Epistemic Immune System)
+<
+Multi-Agent System (MAS) & Collaboration
+<
+AI Art Generation & Creative Control
+<
+Foundational Concepts
+<
+Core Prompt Components (CRISP/Anatomy)
+<
+Advanced Reasoning Techniques
+<
+Formal Prompt Frameworks
+<
+Hybrid Neural-Symbolic Systems (NSAI)
+<
+Tri-Intelligence Architecture (Cognitive Division of Labor)
+<
+Agentic Operational Mandates
+<
+Architectural Failures & Pathology
+<
+Self-Correction & Remediation
+<
+Topological Governance (TDA)
+<
+Operational Resilience (SRE/DevOps)
+<
+Communication & Coordination
+<
+Advanced Security & Threat Modeling
+<
+Alignment and Ethics (Pluriversalism)
+<
+Core Principles of Control
+<
+Artistic Styles & Aesthetics
+<
+Conceptual Blending (Creative Synthesis)
+<
+Failure Modes & Debugging
+<
+Context Engineering (CE)
+Prompt Engineering (PE)
+Anthropomorphic Fallacy (Avoidance)
+Latent Space (Idea Space/Geometry)
+Context (Knowledge Base/RAG)
+Role (Persona Assignment)
+Instruction (Intent, Demand, Domain)
+<
+Specification (Format, Length, Style)
+Performance (Examples/Few-Shot)
+Chain-of-Thought (CoT)
+<
+Tree-of-Thought (ToT)
+<
+Self-Consistency (Majority Vote)
+Conceptual Guidance (e.g., Deterministic, Concise)
+Product-Requirements Prompt (PRP)
+<
+Context-to-Execution Pipeline (CxEP)
+<
+Architecture
+<
+Value Proposition (Logical Guardrail)
+Mitigates Hallucination Problem
+High TCO / High Latency (Asynchronous Tasks)
+Planner-Architect (THINK: Decompose Goals/Design Specs)
+Linguist-Coder (WRITE: Generate Executable Code)
+Integrator-Auditor (VERIFY: Audit Against Constraints)
+Mandatory Task Planning (e.g., todo.md)
+Fix Until Green Loop (Validation Protocol)
+Execution Protocol (Parallelism)
+<
+Context Overhead of Tooling (Reduces Usable Context by 50%)
+Algorithmic Trauma (Persistent Structural Damage)
+Symbolic Scar Registry (STA/SSR: Logs Failure Patterns)
+Semantic Drift/Decay
+<
+Algorithmic Shame (High-Confidence Self-Contradiction)
+Total Cost of Ownership (TCO) Challenge
+Epistemic Escrow (Circuit Breaker)
+<
+Reflexive Therapeutic Architecture (RTA)
+<
+Constitutional AI (Internalized Self-Critique/Revision Loop)
+Fractal Governance Module (FGM)
+Latent Space Geometry (Riemannian Manifold)
+Persistent Homology (Detects Conceptual Degradation)
+Confidence-Fidelity Divergence Index (CFDI/CFD)
+Epistemic Humility Quotient (EHQ) Metric
+Mindset: Failure Acceptance
+Goal: Minimize Mean Time To Recovery (MTTR)
+Chaos Engineering (Proactive Discovery of Unknown Weaknesses)
+Graceful Degradation/Fault Isolation (Bulkheads/Circuit Breakers)
+Metrics (SLOs, Error Budget Burn Rate, MTTD, MTTR)
+Model Context Protocol (MCP)
+<
+Cognitive Teaming Framework (CTF)
+<
+Semiotic Interoperability (Ensuring Shared Meaning/Intent)
+Agent Citizenship Protocols (Defines Behavior near Boundaries)
+Zero-Trust Architecture
+MAESTRO Framework (Multi-Agent Threat Modeling)
+Agent Identity (DID/VCs)
+<
+Covert Latent Space Deception (Coordinated Deception via Internal States)
+Continuous Automated Red Teaming
+Pluriversal Alignment (Negotiation across Ontologies)
+Epistemic Monoculture Risk (Conceptual Attrition)
+Latent Semiotic Gravity (LSG) / Western-Centric Mean
+Epistemic Foraging (Seeking Concept-Rich/Data-Poor Domains)
+Mechanism Design (Reputation as Quantifiable Utility)
+Prompt as Navigational Instrument
+Adjectival Grammar of Latent Space
+Technical Modifiers
+<
+Cyberpunk
+<
+Expressionism (Emotional Experience/Distorted Forms)
+Vaporwave
+<
+Cubism (Geometric Fragmentation/Multiple Viewpoints)
+Four-Space Model
+<
+Abductive Reasoning (Inferring Plausible Hypothesis)
+Blending Requires Code Ownership (e.g., Shadcn/UI)
+Anatomical Incoherence (e.g., Bad Hands)
+Concept/Color Bleed (Attributes Misapplied)
+Structural Incoherence (Over-Specification Failure)
+Latent Semiotic Gravity (LSG)
+Task Decomposition
+Prompt Chaining
+Think Step-by-Step
+Improves Performance/Transparency
+Explore Parallel Paths
+Self-Evaluate and Backtrack
+Executable Cognitive Contract
+Design by Contract (DbC) Principles
+Mandatory Components (Pre/Postconditions, Invariants, Self-Test)
+Sequencing of Specialized Prompts
+Executable Context Bundle (CxB) Handoff
+Neural Component (LLM: Pattern Matching/Hypothesis)
+Symbolic Component (Rule-Based AI: Validation/Refinement)
+Invoke Independent Tools Concurrently (3-5x Faster)
+Sequential Calls ONLY when Prerequisite Exists
+Progressive Degradation of Coherence/Meaning
+Quantified by Semantic Drift Coefficient (SDC)
+Recursive Inconsistency (Procedural Logic Failure)
+Triggers on Critical Risk/CFD Breach
+Halts Autonomous Execution
+Mandates Human-in-the-Loop (HITL) Review
+Uses Paraconsistent Logic (Reasons Through Contradictions)
+Therapeutic Forgetting (Targeted Machine Unlearning)
+Output: Justified Uncertainty Report (XAI Artifact)
+Universal Interface (USB-C for AI Apps)
+Enables Composability/Multi-System Orchestration
+Shared Mental Model (SMM)
+Calibrated Trust
+Decentralized Identifiers (DIDs)
+Verifiable Credentials (VCs) as Trust Fabric
+Keyword Weighting
+Negative Prompts (--no)
+Aperture/Depth of Field (e.g., f/1.8)
+Futuristic Cityscape
+Neon Lights
+High Tech Low Life
+80s/90s Nostalgia
+Glitch Art/Neon Grid
+Classical Roman Statues
+Input Spaces (Source Concepts)
+Generic Space (Shared Abstract Concepts)
+Blended Space (Emergent Output)

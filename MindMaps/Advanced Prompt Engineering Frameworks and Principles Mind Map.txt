@@ -1,0 +1,94 @@
+Advanced Prompt Engineering: Frameworks and Principles
+Advanced Prompt Engineering Frameworks and Principles
+<
+Core Prompting Techniques
+<
+Advanced/Agentic Prompting Architectures
+<
+Prompt Security and Consistency (Guardrails)
+<
+Contextual Alignment and Epistemic Risk
+<
+Basic Structure/Components (CO-STAR)
+<
+Demonstration / Priming
+<
+Task-Specific Prompts / Functions
+<
+Meta-Prompting (Self-Optimization)
+<
+Iterative/Reflective Techniques
+<
+Structured Output & Verification
+<
+Mitigating Prompt Injection/Hallucination
+<
+KERNEL/PRISM Principles (Consistency)
+<
+Dual Modes of Prompting (Logic vs. Probability)
+<
+Semantic Entropy (Risk Signal)
+<
+AI/Epistemic Injustice and Coloniality
+<
+Context (C): Background/Scenario
+Objective (O): Clear Goal/Task
+Style (S): Persona/Role/Expertise
+Tone (T): Desired Voice (e.g., Humorous)
+Audience (A): Target Reader
+Response (R): Format/Length/Constraints
+Few-Shot Prompting: Specific Examples (Problem, Solution)
+Zero-Shot Prompting: No Examples (Relies on Pre-training)
+Role Prompting (Persona Anchoring): Assign specific role (e.g., Financial Analyst)
+Rewriting (Correction, Translation, Enhancement)
+Extracting (Specific data points)
+Clustering (Grouping similar items)
+Classifying (Labeling into categories, e.g., Sentiment)
+Summarizing (Condensing text/reports)
+Generating (Content, Code, MCQs)
+Definition: LLM crafts or refines its own prompt/instructions
+Focus: Structural template (the 'How') over content (the 'What')
+Distinction from CoT: Defines the steps, not just 'think step by step'
+Architectural Layers
+<
+Chain-of-Thought (CoT): Explicit step-by-step reasoning
+ReAct: Reasoning and Acting synergized
+Reflection/Self-Refine: Iteratively refining output based on internal/external feedback
+Refusal Breaker: LLM rewrites question if refused
+Question Refinement: LLM suggests better version of prompt
+Reinforced Prompt Optimization (RPO): Iterative prompt update based on natural language feedback (TD error)
+Template Pattern: Ensures precise output format (e.g., URL, JSON, XML)
+Add Clear Syntax: Using punctuation, headings, or markup (e.g., XML tags) to guide parsing
+Specify Output Structure: Enforces consistency (e.g., tabular, tuple structure)
+Evals: Systematic prompt test cases and metrics
+Output Automater Pattern: Generates automation artifacts (scripts/code blocks)
+Teach Attack Detection: Explicit instructions on common attack patterns
+Use <thinking> and <answer> Tags: Separates internal reasoning from final output
+Salted Sequence Tags: Wrap instructions in unique tags for isolation
+Give the Model an 'Out' (Escape Hatches): Instructing model to admit uncertainty instead of guessing
+Specifying Output Structure with Citations: Forces grounding (reduces fabrication risk)
+RAG (Retrieval-Augmented Generation): Incorporates external, domain-specific context (prevents outdated/fabricated reliance)
+Keep it Simple (K): One clear goal
+Easy to Verify (E): Clear success criteria (e.g., 'include 3 code examples')
+Reproducible Results (R): Avoid temporal references, use specific versions
+Narrow Scope (N): One prompt = one goal (split complex tasks)
+Explicit Constraints (E): Tell AI what NOT to do ('No external libraries')
+Logical Structure (L): Context -> Task -> Constraints -> Format
+Mode A: THE CRYSTAL (Low Entropy)
+<
+Mode B: THE CLOUD (High Entropy)
+<
+Convergent Tasks (Factual): High Entropy ≈ Higher Error / Hallucination Risk
+Divergent Tasks (Creative): High Entropy ≈ Creative Divergence (Desirable)
+Self-Healing Agent: Monitors entropy at each step; adaptive temperature modulation
+The Assumption Fallacy: Unconscious embedding of developer worldviews/biases into prompts
+Testimonial Injustice: AI output pitted against human testimony, causing credibility deficit
+Generative Hermeneutical Erasure: Algorithmic hermeneutical injustice, conceptual loss due to LLM output dominated by WEIRD data (Western/Analytic thinking)
+AI in Colonial Matrix of Power: Reinforces economic, labour, and knowledge production imbalances (Western-centrism)
+Orchestration Layer (Conductor): Planning, verification, decomposition
+Execution Layer (Experts): Focused, isolated sub-task solving
+Tool Integration Layer (External Tools)
+Trigger: Exact syntax, factual retrieval (deterministic)
+Protocol: Tuftean Minimalism (High signal-to-token ratio, zero fluff)
+Trigger: Synthesis, nuance, ideation (probabilistic)
+Protocol: Vygotsky Scaffolding (Redundancy, conversational warmth)

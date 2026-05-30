@@ -1,0 +1,444 @@
+Mind map
+AI Landscape: Creation, Prompting, and Systems
+AI Content Creation
+<
+AI Blogging
+<
+AI Prompt Engineering
+<
+AI Image Generation
+<
+AI Agent Systems
+<
+LLM Capabilities & Limitations
+<
+Recursive Intelligence Systems
+<
+AI in CMS Administration
+<
+Language and NLP Concepts
+<
+Challenges
+<
+Saturated Blog Archetypes
+<
+Alternative Approaches for Depth
+<
+Key Factors for Depth
+<
+AI Content Engagement Paradox
+<
+Fundamentals
+<
+Adjectives in Prompts
+<
+Deep Research Prompting
+<
+Multimodal Prompting
+<
+Prompt Engineering as Epistemic Design Discipline
+Core Generative Architectures
+<
+Techniques & Models
+<
+Datasets
+<
+Applications
+<
+Ethical & Societal Impact
+<
+Prompt Parameters (DALL-E 3 Example)
+<
+Aesthetics in Interface Design
+<
+Definition & Attributes
+<
+Multi-Agent Systems (MAS)
+<
+Communication Protocols
+<
+Semiotic Interoperability
+<
+Security & Governance
+<
+Failure Modes
+<
+Workflows & Tools
+<
+Capabilities
+<
+Limitations
+<
+Symbol Interpretation
+<
+Mitigation Techniques
+<
+Polyfunctional Design
+Knowledge Web (Distributed State Management)
+Modular Intelligence Ecosystem
+Adaptive API Contracts & Interfaces
+Mapping Cognitive & Data Dependencies (Interdependency Map)
+Recursive Failure Modes
+<
+Mitigation Strategies
+<
+Managing Cognitive Load
+Adaptive Governance
+Content as Cognitive Encoding
+Evaluating Semantic Coherence
+Value Beyond ROI (Epistemic Utility, Resilience)
+System Reflexivity (Meta-tooling, Debugging)
+Focus: Automating Operational Tasks
+Dominant Platform: WordPress
+Key Applications
+<
+Integration Strategies
+<
+Challenges
+<
+Operational Patterns
+<
+Grammatical Elements
+<
+NLP Processing
+<
+Challenges in NLP
+<
+English Word Origins
+<
+Homogeneity & Superficiality
+Template Exhaustion
+Pattern Replication (LLMs)
+Simplistic User Prompts
+Limitations of Templates
+Struggles with Deep Expertise
+Novel Synthesis
+Complex Ethical Considerations
+Top X Listicle
+Ultimate/Comprehensive Guide
+Basic How-To Guide
+X Best Tools/Products Listicle
+Beginner's Introduction
+Myth vs. Fact (Basic)
+Checklist Post
+Industry News Summary (Rehash)
+Quote Roundup
+"Why Choose Us" Post
+Simple Event Recap
+Generic Pillar Page Intro
+Mistakes to Avoid Listicle
+Socratic Drift
+<
+Causal Traceback
+<
+Multi-Agent Interviews
+<
+Cross-Domain Juxtaposition
+<
+Data-Driven Narrative
+<
+Experienced-Authored Content (AI Assisted)
+<
+Hybrid Human-AI Workflows
+Sophisticated Prompt Engineering
+Redefine Success Metrics (Value > Volume)
+High Surface-Level Engagement Possible
+Potential Disconnect with Knowledge Value
+Art & Science of Designing Inputs
+Guides LLMs to Desired Outputs
+Zero-shot Prompting
+Few-shot Prompting
+Prompt Multiplicity (Sensitivity)
+Prompt Chaining
+Critical Role in LLM Cognition
+Shape Semantic Interpretation
+Influence Cognitive Processes
+Calibrate Stylistic Output
+Types of Adjectives
+<
+Syntactic Functions
+<
+Adjectives as Failure Catalysts
+<
+Best Practices for Adjectives
+<
+Adjectives in Advanced Systems
+<
+Purpose: Exploration & Discovery
+Exert Epistemic Control
+Meta-Cognition Lens
+Prompt Design Archetypes
+<
+Advanced Techniques
+<
+Common Failure Modes
+<
+Visual Prompting (Bounding Boxes, Annotations)
+Feature Embeddings (CNNs for images, Wav2Vec2 for audio)
+Code & API Integration
+Text Prompt Interfaces
+Voice Command Interfaces
+Generative Adversarial Networks (GANs)
+<
+Diffusion Models (DMs)
+<
+Transformers (ViTs)
+<
+Flow-based Models
+Neural Radiance Fields (NeRFs)
+Low-Rank Adaptation (LoRA)
+<
+ESRGAN (Super-Resolution)
+VQGAN-CLIP (Text-to-Image Steering)
+LAION (Web-scraped, Massive)
+COCO (Common Objects in Context, Benchmarking)
+Common Crawl (Foundational Source for LAION)
+Challenges
+<
+Scientific Visualization
+Education (e.g., EON-XR)
+AI-Assisted Visual Storytelling
+Virtual Production
+Extended Reality (XR) Interfaces
+Commercial Photography
+Reality Question
+<
+Copyright & Authorship
+<
+Bias Amplification
+Commodification of Art
+Creative Augmentation vs. Replacement
+Core Style (e.g., --v 6 for high-detail)
+Negative Prompting (--no text, --no people)
+Composition & Layout (Aspect Ratio)
+Image Style (Natural, Vivid)
+Shift towards Complexity & Dynamism
+Glassmorphism
+Animated Gradients
+Real-Time 3D & Spatial UI
+Generative AI Patterns
+Software System
+Perceives Environment
+Processes Information
+Acts Autonomously
+Goal-orientation
+Rationality
+Interaction Capabilities
+Multiple Interacting Agents
+Enables Collaboration
+Challenges: Alignment, Communication, Coordination
+FIPA-ACL (Foundation for Intelligent Physical Agents)
+<
+Model Context Protocol (MCP) (Anthropic)
+<
+Agent-to-Agent (A2A) Protocol (Google)
+<
+Agent Communication Protocol (ACP) (IBM/BeeAI)
+API-centric Integration
+Shared Understanding of Meaning, Intent, Consequences
+Levels: Technical, Semantic, Pragmatic
+Approaches: Ontology-based, Meaning Negotiation, Conversational Grounding
+Challenges: Semantic Drift, Ontology Evolution, Trust, Conflict Resolution
+Expanded Attack Surface
+Threat Modeling (STRIDE, MAESTRO)
+Authentication (PKI, Digital Signatures)
+Authorization (RBAC, ABAC)
+Observability & Logging
+Trust Management
+Governance Frameworks (Norm Emergence)
+Inter-agent Misalignment
+Prompt Injection (Adversarial)
+Specification & System Design Failures
+Task Decomposition & Planning Errors
+Communication Protocol Failures
+Black Box Nature of LLMs
+Hybrid Human-AI Workflows
+Prompt as Infrastructure/Promptware Engineering
+Low-Code/No-Code (LCNC) Platforms
+Traditional Software Engineering (SWE)
+Reasoning (Mathematical, Commonsense, Logical)
+Knowledge Storage & Retrieval (RAG)
+Multilingual Capabilities
+Code Understanding & Generation
+Dialogue Systems
+Hallucination (Factually Incorrect Content)
+Challenges with Special Character Languages (STEM Symbols)
+Polysemy & Semantic Collapse
+Shallow Grounding
+Prompt Entropy Tolerance
+Prompt-Output Coherence Drift
+Algorithmic Friction
+Typological Semiotics Lens
+Domain Leakage (Misapplication of Meaning)
+Tokenization Challenges
+Embedding Space Representation
+Attention Mechanisms
+Symbolic vs. Descriptive Prompts
+Rendering vs. Comprehension
+Hallucination Mitigation (Semantic Enrichment, Formal Methods)
+Symbol-aware Tokenization
+Context-enhanced Embeddings
+Neuro-Symbolic Integration
+Domain-specific Fine-tuning
+External Tools
+Infinite Loops
+Feedback Amplification
+Catastrophic Forgetting
+Content Misrepresentation
+Interface Contract Violation
+Circuit Breakers
+Damping Mechanisms
+External Validation
+Rate Limiting/Throttling
+Reflexive Monitoring
+SEO Optimization
+Security Monitoring
+Workflow Automation
+Development & Design (Page Builders, Code Snippets)
+Plugin Model (Dominant)
+Core Feature Integration (Less Common)
+API/Webhook/Third-Party Integrations
+Local AI Servers (Emerging)
+Integration Complexity (APIs, Plugins)
+Security Vulnerabilities (File Uploads)
+Data Privacy Compliance (GDPR, CCPA)
+Human Oversight Required
+Lack of Transparency/Feedback Loops
+Proprietary Model Opacity
+Instruction-Driven (Explicit Commands)
+Co-Creative (Assistants in Workflows)
+Proactive (Continuous Analysis)
+Adjectives
+Numerals
+Particles
+Phrasal Nouns
+Phrases (NP, VP, AdjP, AdvP, PP)
+Pluralia Tantum
+Postpositions
+Prepositions
+Pronouns
+Proper Nouns (Toponyms, Eponyms)
+Quantifiers
+Singularia Tantum
+Uncountable Nouns
+Verbal Nouns
+Tokenization
+Part-of-Speech (POS) Tagging
+Parsing
+Named Entity Recognition (NER)
+Coreference Resolution
+Relation Extraction
+Semantic Representation (Embeddings, Graphs)
+Ambiguity (Lexical, Syntactic, Semantic)
+Context & World Knowledge Dependency
+Scope Ambiguity (Quantifiers)
+Countability Modeling
+Greek Influences
+<
+Latin Influences
+<
+Old Norse Influences (Middle English)
+<
+Norman French Influences (Middle English)
+<
+Engagement: AI Thinking Out Loud
+Knowledge: Models Critical Thinking
+Engagement: Visualize Causal Chain
+Knowledge: Profound Contextual Understanding
+Structural Strategy: Define Agents & Roles
+Tone: Conversational, Dynamic
+Core Function: Connect Disparate Fields
+Engagement: Visualizations are Central
+Knowledge: Makes Complex Data Accessible
+Human-driven Core
+AI for Structure, Polish, Consistency
+Descriptive/Qualitative (Vague vs. Specific)
+Limiting (Determiners)
+Comparative/Superlative
+Numerical
+Proper
+Absolute
+Participle
+Compound
+Attributive (before noun)
+Predicative (after verb)
+Ambiguity & Misinterpretation
+<
+Bias Propagation & Amplification
+Hallucinations
+<
+Redundancy & Padding
+Prompt Sensitivity
+Prioritize Specificity over Vagueness
+Use Conciseness
+Avoid Redundancy
+Test & Iterate
+Consider Audience & Purpose
+System Messages (AI Personality/Constraints)
+Prompt Chaining (Transformations)
+Prompt Tuning
+Cognitive Operators
+Typological Stack (Persona)
+Constraint-Directed Inquiry
+Counterfactual Exploration
+Lens-Driven Analysis
+Chain-of-Thought (CoT)
+ReAct (Reason+Act)
+Retrieval-Augmented Generation (RAG)
+Self-Refinement / Reflexive Techniques
+Step-Back Prompting
+Vagueness/Lack of Specificity
+Insufficient Context
+Over-Complexity/Lack of Decomposition
+Poor Role/Persona Definition
+Ignoring Audience & Purpose
+Leading Questions/Prompt Bias
+Generator & Discriminator
+High Detail & Realism
+Challenges: Training Stability, Diversity (Mode Collapse)
+Superior Stability & Diversity
+Image Quality
+Challenges: Slower Inference, High Computational Demands
+Adapted from NLP
+Image as Sequence of Patches
+Self-attention for Long-range Dependencies
+Parameter-Efficient Fine-Tuning (PEFT)
+Reduces Trainable Parameters
+Bias
+Copyright
+Privacy
+Accessibility & Cost
+Synthetic Media/Deepfakes
+Misinformation & Disinformation
+Impact on Trust & Evidence
+AI-generated Output Copyrightability
+Training Data Legality
+Legal-technical Gap
+Speech Act Theory
+Standardizes Message Structure
+Agent-to-Tool Communication
+JSON-RPC 2.0, HTTP/SSE
+Tools, Resources, Prompts
+Agent-to-Agent Communication
+Standard Web Technologies
+Agent Cards for Capability Discovery
+Via Latin (butter, olive, priest)
+Direct Borrowing (democracy, echo, atom, philosophy)
+Neologisms (science, nature, arts, culture)
+Government, Parliament, Public Life
+Law, Military, Religion
+Learning, Culture, Abstract Concepts
+Grammatical Borrowing (they, them, their, are)
+Phonological Influence (/sk/ words)
+Government, Law, Military
+Religion, Cuisine, Fashion
+Arts, Learning, Culture
+Lexical (Polysemy)
+Syntactic
+Subjective/Evaluative
+Vagueness & Underspecification
+Overly Evocative/Figurative
+Conflicting/Contradictory
+Implying Non-existent Properties
+NotebookLM can be inaccurate; please double-check its responses.
+Reply ready.

@@ -1,0 +1,402 @@
+Mindmap
+AI Systems, Architectures, and Applications: A Comprehensive Overview
+AI Systems and Architectures
+<
+Generative AI Models
+<
+AI Agents & Agentic AI
+<
+Prompt Engineering
+<
+AI Ethics and Governance
+<
+AI in Visual Media & Graphics
+<
+AI Cognitive Frameworks & Architectures
+<
+Human-AI Interaction
+<
+Domain Specific Applications
+<
+Language & Symbolism
+<
+Large Language Models (LLMs)
+<
+Diffusion Models
+<
+Generative Adversarial Networks (GANs)
+<
+Latent Space
+<
+AI Agent: single-entity, goal-directed, minimal human intervention
+Agentic AI: multi-agent orchestration, automates workflows
+Components: LLM, external tools, reasoning modules, real-time info
+Examples: AutoGPT, Cognosys
+Frameworks: ReAct, LangChain, DSPy, CrewAI, AutoGen
+Architectures
+<
+Challenges & Risks
+<
+Governance & Control
+<
+Art and science of crafting instructions for AI
+Bridges human intent and machine comprehension
+Techniques
+<
+Challenges
+<
+Prompt as Infrastructure
+<
+Impact on Creative Domains
+<
+Key Ethical Principles
+<
+Failure Modes & Risks
+<
+Governance Frameworks
+<
+Mitigation & Solutions
+<
+Societal Impact
+<
+Image Generation
+<
+Rendering Techniques
+<
+Animation
+<
+Post-Processing & Enhancement
+<
+Challenges & Artifacts
+<
+Creative Applications
+<
+Visual Grammar & Composition
+<
+Semantic Integrity
+<
+Metacognition & Self-Correction
+<
+Memory Systems
+<
+Learning & Adaptation
+<
+Causal Reasoning
+<
+Decentralized Intelligence
+<
+Theoretic Frameworks
+<
+Interface Design
+<
+Trust & Collaboration
+<
+Cognitive & Emotional Aspects
+<
+Semiotics & Meaning-Making
+<
+Healthcare & Therapeutics
+<
+Web & Content Management
+<
+Financial Services
+<
+Creative & Cultural Industries
+<
+Engineering & Design
+<
+Programming & Software Development
+<
+English Word Origins
+<
+Special Characters & Symbols
+<
+Metaphor & Analogy
+<
+Indigenous Knowledge Systems
+<
+Semiotic Interoperability
+<
+Non-autonomous, input-driven
+Lack internal states, memory, goals
+Cognitive raw material
+Failure Modes
+<
+Mitigation & Improvement
+<
+Iterative denoising process
+U-Net architecture
+Text conditioning via CLIP embeddings
+Latent Diffusion Models (LDMs)
+Samplers (Euler, Heun, LMS, DPM++)
+Generator & Discriminator
+High fidelity & realism
+Image super-resolution (ESRGAN)
+Style transfer (CycleGAN)
+High-dimensional embedding space
+Conceptual representation
+Semantic navigation
+Topological Data Analysis (TDA)
+Attractor landscapes
+Latent ethical attractors
+Cultural/Aesthetic Bias
+Modular and Multi-Agent Systems (MAS)
+Decentralized Intelligence
+Nested Agency
+Coordination overhead
+Semantic drift across agents
+Bias amplification (Echo Reinforcement)
+Alignment collapse
+Loss of analytical specialization (Role Bleed)
+Epistemic Lock-in
+Misinformation & Misuse
+Job Displacement
+Vulnerabilities (security, data privacy)
+Meta-governance frameworks
+Epistemic Escrow
+Semantic Circuit Breakers
+Constitutional AI (CAI)
+Reflexivity Amplifier Agent (RAA)
+Ontological Reconciliation Agents
+Dynamic Ontological Negotiation
+Decentralized Autonomous Organizations (DAOs)
+Human-in-the-Loop (HITL) processes
+Semantic Drift Monitor Agents (SDMAs)
+Neuro-Symbolic Interpreters (NSIs)
+Chain-of-Thought (CoT)
+Tree-of-Thought (ToT)
+Persona Prompting (role-based)
+Decomposition Prompting (DecomP)
+Retrieval-Augmented Generation (RAG)
+Meta-Prompting
+Few-shot learning
+Adjective architectures (specification/constraint)
+Multi-modal prompting
+Failure-Informed Prompt Inversion
+Negative Prompting
+Keyword Weighting
+Iterative Refinement
+Ambiguity and vagueness
+Cognitive load (user & AI)
+Prompt collapse
+Semantic drift
+Bias amplification
+Hallucination triggers
+Token budget constraints
+Prompt-model boundary volatility
+Promptware engineering
+Prompt Version Control
+Prompt Ecosystems/Marketplaces
+Prompt Chaining (complex workflows)
+Aesthetic control (style, mood, composition)
+Productive delusion/controlled hallucination
+Playful failure in AI art generation
+Addressing aesthetic uncanny valley
+Transparency and explainability (XAI)
+Accountability
+Fairness and bias mitigation
+User autonomy and control
+Privacy and data security
+Responsible development
+Algorithmic trauma/scarring
+Generative algorithmic epistemic injustice
+Testimonial injustice (stereotypes)
+Hermeneutical ignorance (bias in interpretation)
+Digital colonialism/cultural flattening
+Affective dissonance (fluent but flawed advice)
+Semantic alignment failure
+Computational costs of ethical alignment
+Risk-based AI regulatory framework (Australia)
+Voluntary AI Ethical Framework (Australia)
+Decentralized Governance Protocol for Epistemic Escrow (DGPEE)
+Constitutional AI (CAI)
+Meta-Reflexive Governance Layer
+Formal Metacognitive Calculus (FMC)
+Dynamic truth-utility frontier
+Pluriversal ethics (viseśa-dharma)
+Metacognition & Self-Correction
+Epistemic Escrow
+Semantic Circuit Breakers
+Failure inoculation/Algorithmic scar tissue
+Unlearning techniques (e.g., UNLEARN)
+Ontological reconciliation agents
+Agonistic interfaces
+Content Authenticity Initiative (C2PA)
+Symbolic Erasure Justice
+Financial inclusion
+Wealth management (robo-advisors)
+Human-AI collaboration
+Labor displacement (task/role automation)
+Copyright and authorship challenges
+Text-to-Image Synthesis
+Image-to-Image Translation (Img2Img)
+ControlNet (structural guidance)
+3D Gaussian Splatting (3DGS)
+Neural Radiance Fields (NeRFs)
+Super-resolution (SR) techniques
+Deepfakes and synthetic media
+Rasterization (geometry-driven, fast)
+Ray Tracing (physics-driven, thorough)
+Hybrid Rendering (rasterization + ray tracing)
+Physically Based Shading (PBR)
+Microfacet BRDF models
+Global Illumination (GI)
+Volume Rendering
+Voxel Rendering
+Light Field Imaging (LF)
+Keyframe animation
+Motion capture
+Physics simulations
+Superpixel segmentation
+High Dynamic Range (HDR) imaging
+Tone Mapping Operators (TMOs)
+Fusion Masks (weight maps)
+Denoising
+Hallucinated causality
+Emotional misinterpretation/incoherence
+Aesthetic Uncanny Valley
+Floaters/blobby appearance (3DGS)
+Ghosting (HDR)
+Image realism collapse
+JPEG compression artifacts
+AI art generation
+Conceptual photography
+Visual storytelling & temporal fidelity
+Digital painting vs. brushless painting
+Glitch art
+Composition techniques (Golden Ratio, leading lines, negative space)
+Lighting and atmospheric effects
+Color theory
+Texture analysis (CNNs)
+Camera hardware simulation (aperture, ISO, shutter speed)
+Semantic drift
+Semantic collapse
+Chrono-Topological Semantic Invariance (CTSI)
+Thermodynamic Ontology of Semantic Phase Transitions
+Purpose fidelity
+Neuro-Symbolic AI (NSAI)
+Symbol grounding problem
+Self-monitoring, self-diagnose failures
+Reflexivity Amplifier Agent (RAA)
+Epistemic humility
+Algorithmic wisdom
+Productive delusion/controlled hallucination
+Algorithmic self-deception
+Episodic and semantic memories
+Palimpsest AI Memory (layered inscription)
+Temporal Erasure Gradient (TEG)
+Catastrophic forgetting
+Fossilized cognition
+Continual Learning (CL)
+Feedback loops
+Plasticity-stability dilemma
+Failure inoculation/Algorithmic scar tissue
+Cross-immunity
+Distinguishing correlation from causation
+Robust causal understanding and inference
+Temporal Causal Oscilloscope
+Causal Priority Boost
+Modular and Multi-Agent Systems (MAS)
+Swarm intelligence
+Biomimicry (e.g., honeybee waggle dance, insect nanostructures)
+Xenolinguistics (cross-Umwelt meaning negotiation)
+Holistic Context-Aware Synaptic Bridging (HCASB)
+Semantic Parallax Zones (SPZs)
+Cognitio Emergens (co-evolutionary knowledge creation)
+Attractor Landscape of Semantic Drift
+Thermodynamic Ontology of Semantic Phase Transitions
+Adaptive interfaces
+Cognitive scaffolding
+Dual-interface design (user/admin)
+Transparency and explainability (XAI)
+UI/UX for therapeutic systems (Biolux-SDL)
+Aesthetic evolution in UI (3D, motion, vibrant color)
+Addressing accessibility challenges (e.g., minimalism contrast)
+Building trust and accountability
+Human-in-the-Loop (HITL)
+Addressing illusion of simplicity
+Shared responsibility for ethical outcomes
+Managing cognitive load
+Positive/semiotic friction
+Contextual empathy
+Emotional prompting
+Affective dissonance
+Simulated memory loss and forgetting
+Maladaptive daydreaming (AU fanfiction)
+Inter-semiotic translation
+Symbolic fidelity
+Cultural interpretation
+Ritualized AI interaction
+Biolux Sensory Domain-Specific Language (SDL)
+Multi-Modal Cognitive Interface Layer (MCIL)
+Sync.Clock (temporal coordination of stimuli)
+Affective Haptics & Embodied Cognition
+Osmic Protocol (scent delivery)
+Biometric Adaptation (biofeedback)
+WordPress AI Administration
+SEO & Content Optimization (AI-driven)
+Token Gating (NFT access)
+Headless CMS + AI convergence
+AI-native website architecture
+Financial inclusion
+Robo-advisors
+Algorithmic trade verification
+Decentralized Governance Protocol for Epistemic Escrow (DGPEE)
+AI art monetization ecosystems
+AI curation
+Digital art communities (DeviantArt)
+Alternate Universe (AU) fanfiction
+Visual heritage research
+Biomimicry for novel material design
+Computational modeling (FEA)
+Wind turbine aesthetics & integration
+Undersea infrastructure (telegraph cables)
+AI for routine coding tasks
+System design & critical thinking
+Debugging intricate issues
+AI assistance gaps (logical reasoning, architecture, context)
+Old English (Germanic bedrock)
+Latin borrowings (early, ecclesiastical, scholarly)
+Old Norse (everyday vocabulary, grammar)
+Norman French (government, law, high culture)
+Greek (scientific, technical, philosophical terms)
+Tokenization (Byte Pair Encoding)
+Domain leakage & polysemy
+Contextual embeddings
+Strategies for interpretation (descriptive, phonetic, LaTeX)
+Metaphor collapse vectors
+Metaphoric atavism
+Bridging source and target domains
+Semiotics of culture
+Oral traditions & storytelling (Dreamtime narratives)
+Khipu (tactile, visual, kinesthetic medium)
+Symbolic flattening & epistemicide
+Managing probabilistic, multi-layered information
+Physical, lexical, syntactic, semantic, pragmatic, social levels
+Bridging neural & symbolic AI
+Dynamic alignment & negotiation
+Semantic Drift
+Hallucination
+Bias
+Sycophancy
+Overalignment
+Amnesia
+Prompt Collapse
+Last 10% Integration Failure
+Logical Inaccuracies
+Security Vulnerabilities
+Insufficient Edge Case Handling
+Prompt Engineering
+Retrieval-Augmented Generation (RAG)
+Chain-of-Thought (CoT) Prompting
+Tree-of-Thought (ToT) / Graph-of-Thoughts (GoT)
+Self-Consistency
+Self-Refine/Reflexion
+Meta-Prompting
+Constraint-based Generation
+Multi-modal Integration
+Neuro-Symbolic AI (NSAI)
+Formal Ontologies/Knowledge Graphs
+Token Budget Management
+Feedback & Explanation Mechanisms
+Adversarial Defenses

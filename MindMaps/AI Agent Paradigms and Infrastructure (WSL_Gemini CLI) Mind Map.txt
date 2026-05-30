@@ -1,0 +1,138 @@
+AI Agents, Coding Paradigms, and Automation Audit
+<
+AI Agent Paradigms and Infrastructure (WSL/Gemini CLI)
+<
+AI Agent Coding Workflows
+<
+AI Agent Frameworks & Tools
+<
+WSL (Windows Subsystem for Linux) Configuration
+<
+Human Agency and Automation Audit (WORKBank)
+<
+Vibe Coding (Intuition-Driven)
+<
+Agentic Coding (Autonomous Systems)
+<
+Hybrid Workflows and Future Trends
+<
+Agentic Frameworks Tested (TELUS)
+<
+Gemini CLI (Command Line Interface)
+<
+Core Function & Versions
+<
+Configuration Files
+<
+Performance and Issues (Dev Tools)
+<
+Goal: Assess worker desire/capability for AI agent automation/augmentation
+Human Agency Scale (HAS, H1-H5)
+<
+Automation Desire Findings
+<
+Desire-Capability Landscape (4 Zones)
+<
+Shift in Core Human Skills
+<
+Core Philosophy: Human-AI co-creation, intuitive partnership
+AI Autonomy: Low to Moderate (responsive assistant)
+Developer Role: Director, Co-Pilot, Prompter (active in micro-tasks)
+Interaction: Highly conversational, iterative prompt-response cycles
+Task Scope: Component-level (functions, UI elements, small refactoring)
+Execution: Human-managed, external IDE/sandbox
+Validation: Manual review, testing; AI assists in fixing errors when prompted
+Fundamental Skills Shift (Developer Focus)
+<
+Core Philosophy: AI as autonomous or semi-autonomous executor
+AI Autonomy: Moderate to High (proactive execution)
+Developer Role: Architect, Project Manager, Supervisor (defines goals/constraints)
+Interaction: Goal delegation, monitoring; strategic human check-ins
+Task Scope: Feature-level, application-level (e.g., auth, migrations, test suite generation)
+Execution: Embedded/sandboxed runtime environment
+Validation: Autonomous test synthesis, execution, self-correction, rollback
+Key Capabilities
+<
+Ideal Scenarios: Legacy modernization, CI/CD, regression bug fixing, security auditing
+Convergence: Fusing conversational ideation (Vibe) with autonomous execution (Agentic)
+Trustworthy Autonomy (Future Focus)
+<
+Multi-Agent Collaboration
+<
+Memory and Context Persistence
+<
+Recommended: PydanticAI, Smolagents, LlamaIndex (production-ready)
+Heavy/Complex: Autogen, LangGraph, CrewAI
+Evaluation Criteria: Developer Experience, Features, Maturity
+Smolagents noted as easiest setup, close to pure Python
+Core Function: Revolutionary AI-Powered CLI for developers
+Key Capabilities
+<
+Configuration and Usage
+<
+Model Context Protocol (MCP)
+<
+Allows Linux environment in Windows without full VM overhead
+WSL 1: Compatibility layer (implements Linux system calls)
+WSL 2: Real Linux kernel in lightweight Hyper-V VM (full syscall compatibility, improved I/O)
+wsl.conf: Per-distro settings (location: /etc/wsl.conf)
+<
+.wslconfig: Global settings (location: %UserProfile%\.wslconfig)
+<
+Key Criticism: Slow disk I/O performance
+Symptom: npm/Yarn operations extremely slow when files are in Windows mounted folders (/mnt/c)
+Workaround/Fix: Move project files to Linux home directory (~ or /home/username/)
+Fixing Issues: wsl --shutdown (fast restart for WSL 2 config changes)
+Known Issue: Gemini CLI access failure to /mnt/c via symlinks
+H1: AI handles task entirely (Automation focus)
+H3: Equal Partnership (Human-Agent collaboration/Augmentation focus)
+H5: Essential Human Involvement (AI cannot function without continuous human input)
+Finding: H3 is dominant desired level (45.2% of occupations)
+Finding: Workers generally prefer higher human agency than experts deem feasible
+46.1% of tasks show positive desire for automation (Aw(t) > 3)
+Primary Motivation: Freeing up time for high-value work (69.38% of cases)
+Resistance Concerns: Lack of trust (45%), Fear of job replacement (23%), Loss of human qualities
+Sectors with Low Desire: Arts, Designs, and Media (17.1% positive desire)
+Automation 'Green Light': High Desire, High Capability
+R&D Opportunity Zone: High Desire, Low Capability (needs breakthroughs)
+Automation 'Red Light': Low Desire, High Capability (potential friction)
+Low Priority Zone: Low Desire, Low Capability
+Trend: Shifting from Information Processing (e.g., Analyzing Information) to Interpersonal Competence (e.g., Interpersonal Communication)
+Thinking (Strategic Problem Formulation)
+Framework (Architectural Awareness)
+Checkpoints (Version Control/Git)
+Debugging (Collaborative Error Resolution)
+Context (High-quality information provision)
+Interpret High-Level Goals
+Plan and Decompose Tasks (AI-led)
+Utilize Tools and Resources (autonomously)
+Self-Reflection and Correction
+Explainable Logs and Diffs
+Runtime Policies and Sandboxes (Zero-Trust)
+Regulatory Compliance
+Specialized Sub-Agents (Planner, Tester, Reviewer)
+Task Graph Orchestration
+Shared Language/Protocol
+Long-Term Retrieval-Augmented Memory
+Bug History Learning
+Massive 1 Million Token Context Window (Gemini 2.5 Pro)
+Multimodal AI Processing (Text, Media, PDF, Web)
+Code Execution (with --code-exec flag)
+Agentic Coding
+Authentication: Google Account, API Key (Unpaid/Paid), Vertex AI
+Quotas (Free Tier): 1000 requests/day (Google login), 250 requests/day (API key, Flash model only)
+Commands (Examples)
+<
+Open standard for connecting AI models to tools/services
+Components: Resources, Tools, Prompts, Servers
+Management Command: /mcp
+Sections: automount, network, interop, user, boot
+Example Setting: [boot] systemd=true (requires WSL 0.67.6+)
+Applies only to WSL 2 distributions (VM settings)
+Sections: [wsl2]
+Configures: memory, processors, swap, kernel, networkingMode
+/clear (Ctrl+L)
+/compress (summarize context)
+/restore (undo file edits/checkpointing)
+!<shell_command> (execute system shell command)
+/memory (manage instructional context via GEMINI.md)

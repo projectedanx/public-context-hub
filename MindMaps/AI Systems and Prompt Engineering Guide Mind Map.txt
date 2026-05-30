@@ -1,0 +1,213 @@
+Mind map
+AI Systems and Prompt Engineering Guide
+AI Systems & Prompt Engineering
+<
+Prompt Engineering Fundamentals
+<
+Advanced Prompting Techniques
+<
+AI System Architectures & Models
+<
+Challenges & Failure Modes
+<
+Mitigation & Solutions
+<
+Applications & Impact
+<
+Key Concepts & Metrics
+<
+Definition & Evolution
+<
+Core Principles
+<
+Adjective Role in Prompts
+<
+General Techniques
+<
+Prompt Design Archetypes for Depth
+<
+Prompt Schemas (Emotion-Structure Mapping)
+<
+Core Generative Architectures (Image)
+<
+Multi-Agent Systems (MAS)
+<
+Modular AI Architecture
+<
+Prompt-Related Failures
+<
+AI System Failures
+<
+Symbol Ambiguity (STEM)
+<
+Prompt Engineering Strategies
+<
+System-Level Approaches
+<
+Specific Domain Solutions
+<
+AI Blogging & Content Creation
+<
+AI Image Generation
+<
+Advertising & Marketing
+<
+CMS Administration
+<
+Multi-Modal & Sensory Experience Generation
+<
+Prompting Concepts
+<
+Evaluation Metrics
+<
+Interoperability Concepts
+<
+Art & Science of Designing Inputs
+Guide LLMs to Desired Outputs
+Beyond Simple Instruction
+Shift to Cognitive Interface
+Clarity & Specificity
+Context Provision
+Structured Reasoning Steps
+Avoiding Vagueness
+Epistemic Control
+Shape Semantic Interpretation
+Influence Cognitive Processes
+Calibrate Stylistic Output
+Specificity vs. Padding
+Typology of Adjectives
+<
+Zero-Shot Prompting
+Few-Shot Prompting
+Chain-of-Thought (CoT)
+ReAct (Reason + Act)
+Retrieval-Augmented Generation (RAG)
+Prompt Chaining
+Self-Refinement/Reflexive Techniques
+Step-Back Prompting
+Typological Stack (Interpreted)
+Constraint-Directed Inquiry
+Lens-Driven Analysis
+Counterfactual Exploration
+Hypothesis Generation
+Iterative Investigation Cycle
+Direct Key-Value Mapping
+Conditional Logic (Pseudo-code)
+Gradient Mapping
+Mood Tiling' Grammar Rules
+Generative Adversarial Networks (GANs)
+<
+Diffusion Models (DMs)
+<
+Transformers (Vision Transformers - ViTs)
+<
+Variational Autoencoders (VAEs)
+<
+Neural Radiance Fields (NeRFs)
+Autonomous Agents Collaborate
+Task Decomposition
+Inter-Agent Communication
+Emergent Behavior
+Prompt Alignment Challenges
+Independent, Reusable Components
+Encapsulation & Loose Coupling
+Adaptive API Contracts
+Knowledge Web / Graph Database
+Ambiguity & Misinterpretation
+<
+Bias Propagation & Amplification
+<
+Hallucinations
+<
+Redundancy & Padding
+Prompt Sensitivity
+Role Misfit/Style Mismatch
+Over-Complexity/Lack of Decomposition
+Model Collapse
+Semantic Drift/Meaning Evolution
+Inter-Agent Misalignment
+Data Bias
+Lack of Depth/Personal Experience
+Unresponsive to Instructions
+Security Vulnerabilities (e.g., Prompt Injection)
+Polysemy Across Domains
+Domain Leakage
+Tokenization Fragmentation
+Shallow Grounding
+Prioritize Specificity
+Structured Prompting (Archetypes)
+Meta-Prompting (Self-Evaluation)
+Prompt Rewriting/Refinement
+Negative Prompts
+Ontology-Backed Prompting
+Hybrid Human-AI Workflows
+Data Diversification & Auditing
+Bias Detection & Mitigation Algorithms
+Neuro-Symbolic Integration
+Robust Observability & Logging
+Adaptive Governance Frameworks
+For Symbols: Symbol-Aware Tokenization, Context-Enhanced Embeddings
+For Narrative: Explicit Temporal Grammar, State Tracking Mechanisms
+For AI Blogging: High-Leverage Approaches (Socratic Drift, Causal Traceback)
+For Ad Copy: Modular Prompt Architecture, LENS-based Evaluation
+Increased Efficiency & Scale
+Addressing Homogeneity/Superficiality
+Moving Beyond Template Exhaustion
+Cultivating Informational Depth
+Scientific Visualization
+Education
+AI-Assisted Visual Storytelling
+Virtual Production & XR
+Digital Art & Photography
+LLM-Generated Ad Copy
+Emotive Leverage
+Syntactic Pattern Influence
+Semantic Compression
+SEO Optimization
+Security Monitoring
+Workflow Automation
+Development & Design Tools
+Cross-Modal Sensory Experiences
+Emotional Granularity (Micro-Moods)
+Non-Anthropocentric Architectures
+Prompt Engineering
+Deep Research Prompting
+Cognitive Emulation
+Epistemic Control
+System Design
+FID (Fréchet Inception Distance)
+Ad Copy: CTR, Conversion Rate, CPA, ROAS, Engagement Rate
+AI-Specific: Sentiment Analysis, Clarity Score, CTA Precision, Persuasiveness
+Visual Reflexivity: Semantic Drift, Failure Propagation, Module Entropy
+Semiotic Interoperability
+Negotiable Meaning Systems
+Symbol Grounding Problem
+Model Context Protocol (MCP)
+Agent-to-Agent (A2A) Protocol
+Descriptive/Qualitative
+Limiting (Determiners)
+Comparative/Superlative
+Evaluative/Subjective (High Ambiguity)
+Generator vs. Discriminator
+High Detail/Realism
+Training Stability Issues
+Conditional GANs (cGANs)
+ESRGAN (Super-Resolution)
+Noise Removal Process
+Superior Stability & Diversity
+Slower Inference
+DDPM Breakthrough
+Adapted from NLP
+Image as Patches
+Self-Attention Mechanism
+Learns Latent Distribution
+Image/Data Generation
+Lexical (Polysemy)
+Syntactic
+Subjective/Evaluative
+Vagueness/Underspecification
+Stereotypical Associations
+Socio-Demographic Modifiers
+Plausible but Nonsensical Output
+Semantic Blending
+Conflicting Descriptors

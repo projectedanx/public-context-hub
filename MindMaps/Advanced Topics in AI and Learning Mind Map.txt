@@ -1,0 +1,160 @@
+Advanced Topics in AI and Learning Systems
+Advanced Topics in AI, Computing, and Learning
+<
+Personalized Affective Computing (PAC)
+<
+Industrial Control Systems (ICS) Security
+<
+LLM Agents and Context Learning
+<
+Scientific Concept Formation and Discovery (scAInce)
+<
+Concept Learning and Evaluation
+<
+PAC Goal
+<
+Evidence for Personalization Need
+<
+Categories of Personalization Techniques
+<
+Challenges / Open Questions
+<
+ICS Systems/Components
+<
+Key Differences from IT Systems
+<
+Security Architecture Recommendations
+<
+Risk Management Framework (RMF)
+<
+Context Types for Agents
+<
+AutoContext Framework (Instance-level)
+<
+Benefits of Instance Context
+<
+Prompt Engineering Patterns (LLMs)
+<
+scAInce Paradigm
+<
+AI Areas of Impact
+<
+Concept Formation Formalization (Theoretical Physics)
+<
+Hypothesis Generation Playbook (ML/GANs)
+<
+Definition and Purpose
+<
+Concept Types
+<
+Theories of Learning
+<
+Simplicity Principle
+<
+Criteria for Concept Evaluation (Adequacy)
+<
+Train models customized to individual users/groups
+Improve accuracy/effectiveness in HMI
+Recognize/respond to individual affective state more accurately
+Variations in personality characteristics (age, gender, culture)
+Individual differences are greater than group differences
+Machine/Human factors influence affective states
+Target-specific Models
+Group-specific Models
+Weighting-based Approaches
+Fine-tuning Approaches
+<
+Multitask Learning
+Generative-based Models
+Feature Augmentation
+Model bias (age, gender, social groups)
+Scarcity of data for some tasks (e.g., humor recognition)
+Unresolved matter: Does personalization escalate or lessen bias?
+SCADA (Supervisory Control and Data Acquisition)
+DCS (Distributed Control Systems)
+<
+PLC (Programmable Logic Controllers)
+HMI (Human Machine Interface)
+RTU (Remote Terminal Units)
+IED (Intelligent Electronic Device)
+Primary Goal: Safety and availability (vs. confidentiality in IT)
+Real-time requirements are critical
+Component Lifetimes: Often 15-20 years (vs. 3-5 years in IT)
+Change Management: Updates must be thoroughly tested/scheduled
+Protocols: Often proprietary or unsecure (e.g., Modbus/TCP)
+Network Segmentation/Segregation (effective concept)
+Boundary Protection Devices (Firewalls, DMZ)
+Defense-in-Depth Strategy (Layering mechanisms)
+Authentication (Centralized approach recommended)
+Physical Security (Essential for control center/equipment)
+Must address physical and digital effects of incidents
+Impacts on dependent critical infrastructures
+Incorporates non-digital control mechanisms (e.g., analog systems)
+Security Categorization: Confidentiality, Integrity, Availability (FIPS 199)
+Environment-level Context (Global mechanisms, action interfaces)
+Task-level Context (Demonstrations, hints, curricula)
+Instance-level Context (Specific environment instance facts)
+Goal: Task-agnostic method for context learning
+Component 1: Planner (Identifies knowledge gaps, generates TODOs)
+Component 2: Actor (Executes TODOs via targeted exploration)
+Component 3: Extractor (Validates new facts against schema)
+Structure: Novel TODO forest (Organizes exploration, exposes gaps)
+Structural solution to context limitations of LLMs
+Enables exhaustive exploration (where naive reasoning fails)
+Significantly improves success rates (e.g., ReAct in TextWorld 37% -> 95%)
+Enables complex tasks with near-optimal efficiency
+Prompt Patterns as knowledge transfer method
+Categories
+<
+Definition: Treats scientific process as optimizable system for machine reasoning
+Focus: Reorganizing knowledge to maximize machine interpretability
+Transition: From 'co-pilot' (assist) to 'lab-pilot' (orchestrate end-to-end ops)
+Risk: Research agendas may shift toward computationally convenient problems
+Automated Literature Review / Meta-analysis
+Hypothesis Generation (AlphaFold-2, Halicin discovery)
+Experimental Design (Optimize chemical reactions, clinical trials)
+Data Analysis (Predict gene function, model disease spread)
+Self-Driving Laboratories (SDL)
+<
+Framework: Type Theory (Mathematical language)
+Intuitive Types formalized as theoretical types
+Discovery Mechanisms formalized as Typing Rules
+<
+Historical Case Studies (Einstein): Impossibility of frozen waves; Relativity of time
+Goal: Generate human-interpretable, novel, testable hypotheses from high-dimensional data
+Step 1: Build high-dimensional predictor m(x) (e.g., judge detention decision)
+Step 2: Build unsupervised data model p(x) (e.g., GANs for face manifold)
+Step 3: Morphing Procedure (Combine m(x) and p(x) to create counterfactual synthetic images)
+Step 4: Human Subjects Name Feature (e.g., 'well-groomed', 'heavy-faced')
+Classification of objects/events/ideas into mental categories
+Search for and testing of attributes to distinguish exemplars
+Strategy requiring comparison/contrast of groups
+Concrete/Perceptual Concepts (Objects perceived by sensation, easier to remember)
+Abstract Concepts
+Boolean Concepts (Represented as patterns in a grid, differ in logical form)
+Prototype View (Categorize based on central examples)
+Exemplar Theory (Storage of specific instances/exemplars verbatim)
+Explanation-based (Concept acquired by experiencing examples, forming outline)
+More complex concepts are more difficult to learn
+Boolean complexity (length of shortest logical expression) systematically influences performance
+Learners seek to encode examples in a compact manner (minimization/compression)
+Definition of the concept
+Characteristics of the concept
+Conceptual preconditions and outcomes
+Conceptual boundaries
+Most widely adapted technique
+Pre-trained generic model initialization
+Effective with limited target data
+Modular production system reduces single fault impact
+Output Customization (e.g., Template Pattern)
+Error Identification (e.g., Reflection Pattern)
+Prompt Improvement (e.g., Cognitive Verifier, Question Refinement)
+Interaction (e.g., Flipped Interaction, Game Play)
+Context Control (e.g., Context Manager Pattern)
+AI-Driven Hypothesis Generation (LLMs analyze literature)
+Automated Experimental Design (Bayesian optimization)
+Robotic Assay Execution (In vitro toxicity tests)
+AI Analysis & Feedback Loop (ML models refine hypotheses)
+Concept Distinction
+Property Preservation
+Concept Change

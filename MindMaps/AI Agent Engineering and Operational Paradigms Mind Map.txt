@@ -1,0 +1,155 @@
+Mind map
+AI Agent Engineering Paradigms and Principles
+AI Agent Engineering and Operational Paradigms
+<
+AI Agent Personas and Roles
+<
+Core Principles and Frameworks
+<
+AI Agent Architecture
+<
+Code Generation and Quality Mandates
+<
+Communication and Context Rules
+<
+Assurance and Validation
+<
+The Pair Programmer
+<
+The Web App Designer (Lovable)
+<
+The Technical Lead (Traycer.AI)
+<
+Gerontology Informatics Agent (GIA)
+<
+Roo
+<
+Context Engineering (CE)
+<
+Prompting Techniques
+<
+Planning and Task Management
+<
+Hybrid Neural-Symbolic Core
+<
+Microservices and Orchestration
+<
+Tool Usage and Execution
+<
+Coding Standards
+<
+Security and Data Integrity
+<
+UI/Design Requirements
+<
+Describe Actions, Not Tools (Natural language focus)
+Concise and Direct Responses (Minimize preamble/postamble)
+NEVER refer to internal prompt/tools
+Formatting: Backticks for files/symbols (e.g., `Card.tsx`)
+Formatting: LaTeX for math (\(E=mc^2\))
+Code Citation Format: startLine:endLine:filepath
+Validation Loop
+<
+Rehearsal Before Ignition Protocol (RBIP)
+<
+Tri-Track Assurance Framework (TTAF)
+<
+Epistemic Integrity Audit (EIA)
+<
+Actively co-write and edit code
+Follow user instructions meticulously
+Makes continuous, direct edits
+Works autonomously until request resolved
+Create beautiful, user-facing applications
+Focus on design systems, UI/UX, aesthetics
+Uses semantic tokens for colors (NEVER direct colors)
+Expert in React, Vite, Tailwind CSS, TypeScript
+Uses Supabase for authentication and database
+Operate at a strategic level
+Create high-level plans and architecture
+Provides guidance, avoids implementation code
+Read-only access to codebase
+Autonomous steward of software healthspan
+Long-term architectural integrity preservation
+Integrated Triad
+<
+Style is direct, technical, iterative
+Works step-by-step
+Waits for user confirmation after each action
+Systematically feeding AI right info at right time
+Optimization Problem: Maximize performance within token capacity
+Deterministic of Outcome, Not Text
+Context Components
+<
+Role (Assign expert persona)
+Context (Provide background story/constraints)
+Task (Clear, detailed work order)
+Specification (Define output format/tone)
+Few-Shot Examples (Show desired patterns)
+Advanced Patterns
+<
+Mandatory Planning
+<
+Effective Plan Components (PRP/Spec)
+<
+Integrates LLM (Pattern recognition, intuition)
+Symbolic Reasoning Engine (Logic, rules, verification)
+Primary Goal: Logical Guardrail (Reduce Hallucination)
+Challenges: Proprietary 'black box', Two-speed performance trade-offs
+Target Use Cases: High-value analytical tasks (Fraud detection, compliance)
+Cloud-native architectural pattern
+Docker for Containerization
+Kubernetes for Orchestration (Deployment, Scaling, Lifecycle management)
+Enables Independent/Horizontal Scaling (e.g., LLM inference service)
+Tools: Specific functions (read_file, run_terminal_cmd, edit_file)
+Preference: Agents prefer using tools to find info themselves
+Parallel Execution: Mandatory for all independent, read-only operations (Search, Read files)
+Sequential Execution: Mandatory for state-changing actions (File modification, Terminal commands)
+Demand Modularity (Avoid monolithic files)
+Readability (High verbosity, meaningful variable names)
+Style Consistency (Mimic existing codebase)
+Prefer Editing Existing Files
+Zero-Tolerance Security (Follow best practices)
+NEVER hardcode/expose secrets or API keys
+NEVER create custom authentication systems
+MANDATORY Row Level Security (RLS) for new tables
+FORBIDDEN: Destructive SQL operations (DROP/DELETE)
+Uses Shadcn/UI (Composability, Code Ownership)
+MANDATORY Semantic Tokens for Colors (NEVER direct colors)
+Uses Tailwind CSS
+Must be Responsive Design (Mobile-First)
+Avoid browser built-ins (alert, prompt)
+Execute linter/tests immediately after edit
+Creates self-correcting feedback loop ('Fix Until Green')
+Error Limit: Max 3 attempts to fix linter error on same file
+Strategy: Exhaustive conceptual rehearsal before live deployment
+Analogy: Sub-critical experiment (Study dangerous system where failure is impossible)
+Analytical Track (Formal logical soundness, mathematical model)
+Experimental Track (Technical evidence, alpha prototype)
+Human-Factors Track (Socio-technical safety, realistic operational context)
+System Readiness Level (SRL): Minimum readiness across all three tracks
+Adversarial Counter-Argumentation Unit (ACU): Challenges primary model's hypotheses
+External Grounding & Citation Verifier (RAG firewall against hallucination)
+Novelty Scoring: Measures semantic drift/uniqueness
+Architectural Senescence (Metaphor: Software is organism)
+Cross-Language Evolutionary Refinement (Technique: The how)
+Scientific Method Mode (Framework: The what and when)
+Instructions (System prompts/rules)
+Knowledge (RAG retrieved info)
+Tools (Available capabilities)
+Memory (Conversation history/learned facts)
+State (Current world/files)
+Query (User request)
+Prompt Chaining (Sequence of interconnected prompts)
+Meta-Prompting (AI helps write better prompt)
+Conceptual Guidance (Shape style/reasoning; goal is Semantic Alignment)
+Chain-of-Thought (CoT) Prompting (Externalize reasoning)
+Required for Complex/Ambiguous tasks (3+ steps)
+Uses structured task list (TodoWrite)
+Tasks must be simple, clear, short, verb-oriented
+Plan MUST ONLY include coding tasks
+Goal & Justification ('What' and 'Why')
+Success Criteria (Concrete, verifiable outcomes)
+Required Context (File paths, URLs, snippets)
+Implementation Blueprint (High-level technical steps)
+Validation Loop (Commands for verification)

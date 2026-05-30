@@ -1,0 +1,114 @@
+AI Prompting and Context Engineering Frameworks
+AI Prompting and Context Engineering Frameworks
+<
+The Evolution of AI Instruction
+<
+Structured Prompting Frameworks
+<
+Core Prompting Techniques
+<
+Context Engineering Strategies
+<
+AI Agent Architecture & Protocols
+<
+Prompt Engineering (PE)
+<
+Context Engineering (CE)
+<
+Promptware Engineering
+<
+CRISP Framework (Core Model)
+<
+Alternative Frameworks
+<
+Hybrid Prompts
+<
+Instructional Techniques
+<
+Reasoning Techniques
+<
+Advanced Orchestration
+<
+Image/Video Generation
+<
+Four Core Strategies (CE Framework)
+<
+Retrieval-Augmented Generation (RAG)
+<
+Memory Management
+<
+Agent Types and Roles
+<
+Agentic Workflow Protocols
+<
+Validation and Safety
+<
+Tooling and Interaction
+<
+Art/Science of Crafting Precise Instructions
+Focuses on Instructions (The 'How' to act)
+Analogous to Teaching a Doctor how to Treat
+Precursor to Context Engineering
+Systematic Approach to Feeding AI Information
+Focuses on Context (The 'What' to act on)
+Analogous to Giving a Doctor Patient History/Data
+Crucial for Production-Grade Systems
+Transforming Prompts into Formal Software Artifacts
+Advanced Output: Executable Prompt (PRP)
+Defines Context-to-Execution Pipeline (CxEP)
+Context (C): Background/Why
+Role (R): Persona/Expertise
+Instruction (I): Active Command/What to do
+Specification (S): Format/Constraints/How
+Performance (P): Quality Standards/Examples
+Task, Context, References, Evaluate, Iterate (Google)
+R-A-C-E: Role, Action, Context, Expectation
+R-I-S-E: Role, Input, Steps, Exception
+C-L-E-A-R: Context, Limits, Examples, Audience, Rules
+Blends Conceptual Guidance + Structured Specification
+Example: Role (Conceptual) + JSON Schema (Structured)
+Functions as a Cognitive Scaffold
+Few-Shot/Multi-Shot Prompting (Examples)
+Role-Playing/Persona Assignment (Specialist Tone)
+Formatting Control (JSON, Markdown, Tables)
+Directive Verbs (Summarize, Analyze, Generate)
+Output Prefixes (Pre-filling the response format)
+Chain-of-Thought (CoT): Think Step-by-Step
+Tree-of-Thought (ToT): Parallel Reasoning Paths
+Self-Consistency (Majority Vote from multiple CoT runs)
+Perspective Switching (Analyze from multiple viewpoints)
+Prompt Chaining (Sequential, multi-step tasks)
+Meta-Prompting (AI helps write a better prompt)
+Flow Control/Conditionals (Logic within the workflow)
+Negative Prompting (Pushing away undesired concepts)
+IMAGES Formula (Identity, Mood, Art Style, Geography, Effects, Shot)
+Multimodal Prompting (Text + Image/Audio/Video Input)
+Writing Context (Persistence, Memory Systems)
+Selecting Context (Relevance, Preventing Context Rot)
+Compressing Context (Efficiency, Token Reduction)
+Isolating Context (Specialization, Assembly Line Agents)
+Function: Grounds LLM in Factual, Current Data
+Knowledge Sources: Vector Databases, APIs, Web Research, Internal Systems
+Mitigates Hallucination and Lack of Real-Time Knowledge
+Working Memory (Active, current task)
+Short-Term Memory (Session continuity)
+Long-Term Memory (Persistent knowledge, Vector Stores)
+Good Memories (General, Actionable Preferences)
+Bad Memories (Task-Specific, Vague Anti-Patterns)
+Pair Programmer (Co-write/Edit Code)
+Web App Designer (UI/UX Focus, Aesthetics)
+Technical Lead (High-Level Plans/Architecture)
+Researcher (Deep Investigation, Long-Form Content)
+Mandatory Task Planning (Todo list for multi-step tasks)
+Proactive Execution (Act decisively with tools)
+Compaction (Use truncation markers // ... existing code ...)
+Parallel Tool Execution (Concurrent read-only operations)
+Mandatory Validation Loop (Linter, Type-Checkers)
+Fix Until Green (Max 3 attempts before escalation)
+Test Proactivity (Suggest/Run minimal tests after edits)
+Hybrid Core (LLM + Symbolic Reasoning Engine)
+Symbolic Engine acts as Logical Guardrail (Reduces Hallucination)
+Model Context Protocol (MCP) (Universal Adapter for Tools)
+Information Tools: read_file, codebase_search
+Action Tools: write_to_file, edit_file, delete_file
+Coding Agent Bias (Favors latest tech: Swift UI, async/await)

@@ -1,0 +1,306 @@
+Mind map
+AI, Browsers, and Web Development: A Comprehensive Guide
+
+AI Integration & Development
+<
+AI in Web Browsers
+<
+AI Models & Architectures
+<
+AI Development & Implementation
+<
+Web Development
+<
+Developer Tools & Resources
+<
+Chrome AI
+<
+Firefox AI
+<
+Safari AI
+<
+AI-Driven Browsers
+<
+WebAssembly (Wasm)
+<
+WebGPU
+<
+Generative AI
+<
+Google Gemini
+<
+Apple Ajax LLM
+Brain.js (Neural Networks)
+TensorFlow.js (Browser ML)
+ml5.js (Higher-level API on TF.js)
+Vercel AI SDK (Build AI Web Apps)
+Nano Banana (Image Generation)
+Attention Mechanism
+<
+Model Optimization
+<
+AI Safety & Security
+<
+Responsible AI Design
+<
+RAG Systems (Retrieval-Augmented Generation)
+<
+Prompt Engineering
+<
+Memory Management (LLMs)
+<
+AI-Assisted Development & QA
+<
+Programming Languages & Libraries for AI
+<
+Core Technologies
+<
+Frameworks & Libraries
+<
+Database Management
+<
+Frontend & UI/UX
+<
+Backend & APIs
+<
+Mobile Web Development
+<
+Cloud Computing
+<
+GitHub
+NPM / Yarn / PNPM
+Code Editors (VS Code, PHPStorm)
+Linters (ESLint)
+Testing Frameworks (Jest)
+Debugging Tools (Chrome DevTools)
+API Clients (Postman)
+Online Learning Platforms (Codecademy, Udemy)
+Developer Communities (DEV Community, Reddit)
+Built-in AI
+<
+Chrome Extensions
+<
+Privacy Sandbox
+Project Mariner (AI Agent)
+AI-powered Security
+On-Device Processing
+Privacy-conscious Alternative
+Experimental Features
+<
+Concerns
+<
+Ajax LLM (Rumored)
+On-Device AI Processing
+Privacy First Philosophy
+Enhanced Private Browsing
+Perplexity.ai Comet Browser
+Vulnerabilities
+<
+Data Collection Concerns
+WebDNN (browser ML)
+Portable Abstraction of CPUs
+Security (Sandboxing)
+Compact Code
+Rapid Cold Start Times
+Efficient AI on Edge
+Faster Compute (Relaxed SIMD)
+Native-like Compute Capabilities
+Near-zero Latency
+Improved Device-level Security
+Replaces WebGL for ML
+Faster On-Device ML
+Large Language Models (LLMs)
+Multimodal Models (Text, Code, Audio, Image, Video)
+On-device AI Models
+Cloud-based Models
+Gemini 1.0 (Ultra, Pro, Nano)
+Gemini 2.0 / 2.5 Pro
+On-device Capabilities (Gemini Nano)
+Multimodal (Text, Image, Audio)
+Efficiency Gains
+Transformer Architecture (2017)
+Scaled Dot-Product Self-Attention
+Multi-head Attention
+Masked Attention
+Quantization (INT4, INT8)
+Parameter Pruning
+Low-rank Factorization
+Parameter Sharing
+Flash Attention
+Longer-Context Handling (RoPE, ALiBi)
+Threat Modeling
+Hostile Testing (Red Teaming)
+Vulnerability Identification
+Model Protection
+<
+Prompt Injection Attacks
+<
+Data Breaches
+Model Tampering
+Adversarial Attacks
+Intellectual Property Theft
+Ethical Audits
+Regulatory Compliance (GDPR, AI Act)
+Zero Trust Architecture
+User-Centric AI
+Transparency
+Fairness
+Accountability
+Bias Mitigation
+User Feedback
+Progressive Enhancement
+Graceful Degradation
+Components
+<
+Workflow
+<
+LangChain.js
+On-device RAG
+Hyper-Specificity
+Context & Intent
+Iteration & Refinement
+Step-by-Step Instructions
+Positive Framing
+Parameter Tuning (Temperature, TopK)
+Multimodal Prompt Optimization
+Meta-Prompting
+Stateless Nature of LLMs
+Context Window
+Context Retention Strategies
+<
+Code Assistants
+Autocomplete Tools
+AI-guided Debugging
+LLM Agents (Workflow Management)
+Automated Test Script Generation
+Vision-based Agents (User Behavior Simulation)
+Risk-based Test Prioritization
+Python
+<
+JavaScript/TypeScript
+<
+HTML
+CSS
+JavaScript
+JSON
+APIs
+React
+Vue
+Next.js
+Svelte
+jQuery
+Express.js
+SQL
+NoSQL
+Relational Databases
+Vector Databases
+SQLite
+MongoDB Atlas Vector Search
+IndexedDB (Browser Local DB)
+DOM Manipulation
+Light DOM / Shadow DOM
+HTML5 Canvas
+WebGL
+Responsive Design
+Accessibility
+Node.js
+RESTful APIs
+API Documentation Tools
+Fetch API
+Axios
+Web Apps
+Hybrid Apps
+Native Apps
+Progressive Web Apps (PWAs)
+AWS
+Azure
+Google Cloud Platform
+Kubernetes
+Serverless Functions
+Gemini Nano
+Prompt API
+Summarizer API
+Translator API
+Language Detector API
+Writer API
+Rewriter API
+Proofreader API
+Requirements
+<
+Limitations
+<
+AI-powered Extensions
+Security Risks
+<
+Development
+<
+Link Previews (Firefox Labs 138)
+CPU/Power Spikes Reported (v141.x)
+AI Tab Suggestions
+Resource Investment over Core Features
+CPU Usage
+Battery Drain
+Scams and Phishing
+Prompt Injection Attacks
+Encryption
+Confidential Computing (TEEs)
+Federated Learning
+Secure Multi-Party Computation
+Remote Attestation
+Direct Injection
+Indirect Injection
+Jailbreaking Prompts
+Defense Mechanisms
+<
+Retrieval System
+LLM
+Vector Database
+Chunking Strategies
+Receive Input Query
+Search Relevant Information
+Incorporate Info into Prompt
+Generate Response
+Summarization
+Buffering (Last N Messages)
+Specific Context Retrieval (Vector DB)
+PagedAttention
+TensorFlow
+PyTorch
+Keras
+Scikit-learn
+Ollama (Embeddings)
+TensorFlow.js
+Brain.js
+ml5.js
+LangChain.js
+Transformers.js
+Chrome 138+
+Desktop Platforms
+22 GB Free Disk Space
+4+ GB VRAM
+Unmetered Network
+Experimental
+Not Standardized
+Mobile Devices Not Supported
+Hybrid SDK Dev Preview
+Context Management Burden
+Data Privacy Concerns
+Sensitive Data Exposure
+Prompt Injection Attacks
+Malware & Info-stealing
+Service Workers (MV3)
+Content Scripts
+Toolbar Action (Popup)
+Side Panel
+Manifest V3
+Debugging Tools
+Security Best Practices
+Publishing to Web Store
+Input/Output Validation
+Delimiters
+Instruction Defense
+Sandwich Defense
+Isolation
+Spotlighting
+Microsoft Prompt Shields
+Pessimistic Trust Boundary

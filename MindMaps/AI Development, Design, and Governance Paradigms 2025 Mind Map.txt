@@ -1,0 +1,111 @@
+AI Development, Design, and Governance Paradigms 2025
+AI-Driven Development & Design Paradigms (2025)
+<
+Vibe Coding & AI Software Development
+<
+Advanced AI Architecture & Governance
+<
+Emotional & Human-Centered Design (HCAI)
+<
+Web Design & UX Components
+<
+Technical Assets & Metrics
+<
+Core Concepts
+<
+Benefits & Use Cases
+<
+Risks & Challenges
+<
+Key Vibe Coding Tools
+<
+Context Engineering (CE 2.0)
+<
+Core Artifacts & Systems
+<
+AI Alignment Frameworks
+<
+AI Cognitive Concepts
+<
+Levels of Emotional Design
+<
+AI in Affective Computing
+<
+HCAI Ethical Methods
+<
+Key Design Elements
+<
+Interface Design Styles
+<
+Usability & Optimization
+<
+Design Systems Components
+<
+Styling and CSS Practices
+<
+Website Analytics & Tracking
+<
+AI-assisted generation
+Natural language driven
+Material disengagement (orchestration)
+Prioritizes speed and iteration
+Accelerated prototyping/MVPs
+Low barrier to entry/Accessibility
+Boosts creativity
+Good for tight budgets
+Code quality issues (inefficient/clunky)
+Security vulnerabilities
+Debugging difficulty/Hidden complexities
+Loss of codebase understanding
+Cost overruns (token bills)
+IDE-Native Assistants (Cursor, Copilot)
+Prompt-to-App Builders (Base44, Bolt, Lovable, v0)
+Full-Stack Environments (Replit, Claude Designer)
+Dynamic Information Assembly
+Multi-Source Integration
+Systematic, architectural rigor
+Product Requirement Prompt (PRP)
+Context Bundle (CxB)
+Epistemic Immune System (EIS)
+Recursive Semiotic Operating System (RSOS)
+Outer Alignment (Specify correct objective)
+Inner Alignment (Translating human values)
+RLHF (Reinforcement Learning from Human Feedback)
+HAC-Gov (Human-AI Collaborative Governance)
+Semantic sovereignty
+Ritual Architecture of Prompting
+Algorithmic trauma/Data scars
+Therapeutic Forgetting (Memory pruning)
+Visceral (Instinctive response)
+Behavioural (Usability/Trust)
+Reflective (Meaning/Self-image)
+Provides emotional support (outperforms humans)
+Real-time emotion detection/adaptation
+Emotional Elicitation in visuals (Joy depicted well)
+Risk of unhealthy emotional bonding
+Analogous projects
+Pre-mortems (Preventive risk sweeping)
+Moral value map
+Normative Design Scheme (Ethics theories)
+Micro-Interactions (Feedback/Engagement)
+Kinetic Typography (3D effects, User-responsive text)
+Imagery and Visual Elements (Most influential factor)
+Brand Voice (Consistency/Audience respect)
+Neumorphism (Middle ground, subtle depth)
+Flat Design (Simplicity/Efficiency)
+Skeuomorphism (Visual familiarity/High complexity)
+Modern Aesthetics (Y2K, Vaporwave, Brutalism)
+Accessibility (Color contrast, focus indicators, WCAG)
+Personalization (Adaptive design, inferred mood)
+Readability (Contrasting text, Sans Serif, 16px+ font size)
+Addressing Usability Debt (UX expert auditing)
+Design Tokens (Primitives, Semantic, Component tokens)
+Figma Integration (Fusion, Style Guide Builder)
+Multi-Brand/Multi-Theme Architecture (Modes)
+Tailwind CSS (Utility classes as design tokens API)
+CSS Custom Properties (@property, inheritance)
+SASS/SCSS Variables (Fixed values, build-time themes)
+AI Code Generation Limitations (Hardcoded values, poor responsiveness)
+Key Metrics (Bounce Rate, Avg Session Duration, New Users)
+User Behavior Tools (Scroll maps, Session Recordings, Google Analytics)
+Insights (Content relevancy, Effective layout)

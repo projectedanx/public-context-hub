@@ -1,0 +1,261 @@
+Agentic AI Design Patterns and Architectures
+Agentic AI Design Patterns for Generative & Predictive AI
+<
+Course Context and Fundamentals
+<
+Orchestration and Creation Patterns (Task Management)
+<
+Knowledge and Reasoning Patterns
+<
+Validation and Adaptive Learning Patterns
+<
+Goal of Agentic AI
+<
+Prerequisites
+<
+Design Patterns Overview
+<
+Agent Roles and Composition
+<
+Agent-led Parallelization
+<
+Hierarchical Generation
+<
+Escalating Evaluation
+<
+Autonomous Self-RAG (Retrieval Augmented Generation)
+<
+Autonomous Self-Correction
+<
+Automated Feature Discovery and Engineering
+<
+Causal Inference
+<
+Voting Ensemble
+<
+Proactive Retraining
+<
+Shadow Model Deployment
+<
+Improve use of Generative AI
+<
+Improve use of Predictive AI
+<
+Agentic AI Architecture Foundations
+Gen AI & Predictive AI Architecture Foundations
+Other AI System Design Courses
+Addresses common problems/concerns
+Applicable to both Predictive and Generative AI
+Focus on interaction with separate AI systems (simplicity)
+Agents fulfill roles to achieve objectives
+Roles often combined (e.g., Orchestrator agent)
+Design decision: Separating or combining agent logic
+Problem Addressed
+<
+Agent Function
+<
+Agent Logic Types
+<
+Risk
+<
+Problem Addressed
+<
+Agent Team Structure
+<
+Risk
+<
+Problem Addressed
+<
+Agent Function (Router Agent)
+<
+Router Agent Logic Types
+<
+Application Approaches
+<
+Risk
+<
+Problem Addressed
+<
+Agent Function (Self-Correcting Agent)
+<
+Agent Logic Types
+<
+Downside
+<
+Problem Addressed
+<
+Agent Function (Self-Correcting Agent)
+<
+Agent Logic Types
+<
+Problem Addressed
+<
+Agent Function (Autonomous Feature Engineering Agent)
+<
+Agent Logic Types
+<
+Risk
+<
+Problem Addressed
+<
+Agent Function (Causal Inference Agent)
+<
+Agent Process Steps
+<
+Agent Logic Types
+<
+Main Risk
+<
+Problem Addressed
+<
+Agent Function (Aggregator Agent)
+<
+Aggregator Logic
+<
+Risk
+<
+Problem Addressed
+<
+Agent Function (Drift Monitor Agent)
+<
+Agent Logic Types
+<
+Model Terminology
+<
+Risk
+<
+Problem Addressed
+<
+Architecture (Parallel Systems)
+<
+Agent Function (Shadow Deployment Agent)
+<
+Agent Logic Types
+<
+Greatest Impact/Risk
+<
+Produce more coherent content
+Produce less biased content
+Create more accurate predictive models
+Produce better predictions
+Large generative tasks require time/power
+Latency issues in runtime applications
+Decompose large task into subtasks
+Delegate subtasks to different Gen AI systems (concurrently)
+Compile results for faster output
+Task Decomposition Logic (break complex task)
+Workflow Logic (synthesize outputs)
+Load Balancing Logic (if separate agent)
+<
+Overhead outweighs gains if tasks too small/dependent
+Requires extra infrastructure/systems
+Long-form content generation (exceeds context window)
+Burden of managing context for multiple prompts
+Content Master Agent (Orchestrator)
+<
+Content Sub-Agents (Specialized Roles)
+<
+Poor design/training of agents can stall process
+Introduces new moving parts/complexity
+Simple prompts use complex models (wasteful, costly)
+Inefficient use of resources (especially cloud costs)
+Analyzes prompt complexity
+Determines most suitable AI model (simple to complex)
+Optimal utilization of infrastructure
+Rule-Based Logic (predefined rules)
+Heuristic Logic (rules of thumb, e.g., complex terms)
+Context-Aware Logic (current/past interactions)
+Predictive Logic (small model predicts best model)
+Smart Router Approach (direct routing)
+Sequential Chain Approach (simple model first, then escalate)
+Sequential Chain: Simple model misinterprets prompt, flaws output
+Smart Router: Logic designed incorrectly, routes to wrong models
+Generated content may be inaccurate or incomplete (hallucinations)
+Traditional RAG often retrieves irrelevant data
+Critically evaluates needed new information
+Autonomously retrieves information from external sources
+Self-Reflection Logic (determine completeness/correctness)
+Confidence Logic (assess confidence in generated facts)
+Decision-Making Logic (triggers external retrieval)
+Targeting Logic (formulate specific queries for knowledge gap)
+Relevance and Verification Logic (ensure credibility)
+Synthesis and Integration Logic (merge new data, correct errors)
+Adds complexity and cost (high computational power)
+Can be slower than standard Gen AI system
+Generative AI systems lack memory (short context window)
+User must continually provide historical context for revisions
+Retains context state throughout interactions
+Reasons and acts to achieve end result (e.g., publishable article)
+Goal-Oriented Logic (programmed for specific end state)
+Evaluation and Critique Logic (assess output against criteria, assume critic persona)
+Decision-Making and Planning Logic (manages feedback loop)
+Metacognitive Logic (reason about its own thinking, learn from failures)
+Feature Engineering is often tedious/relies on human judgment
+Internal feature engineering limited to static rules
+Assesses training data
+Carries out feature engineering tasks (tailor features for model)
+Saves time, improves quality
+Search Logic (explore features, measure impact, guide next steps)
+Heuristic Logic (rules of thumb, domain knowledge)
+Performance Optimization Logic (ensure feature tasks improve performance)
+Agent creates overly complex features
+Reduces model transparency/explainability (harder to interpret decisions)
+High-stakes decisions based only on prediction can be risky
+Prediction may not fully account for outcome factors
+Receives prediction from Predictive AI system
+Predetermines outcome of decision before implementation
+Tests prediction via experiments (requires real-world interaction)
+Create Causal Hypothesis (expected outcome)
+Run Experiments (put hypothesis to test)
+Determine Causal Link (positive, negative, or none)
+Statistical/Predictive Logic (identify basic correlations)
+Causal Logic (figure out the actual cause of an outcome)
+Small experiment results may not apply to larger scope
+Experiments must be carefully designed
+Risks in single model predictions (drift, bias, overfitting)
+High-stakes strategic decisions require reliability
+Receives predictions from 2+ Predictive AI systems (votes)
+Compares results to determine best outcome (e.g., soft voting)
+Rule-based or Heuristic based (applies predefined criteria)
+Variations exist (e.g., Dynamic Ensemble Selection based on past performance)
+Adds complexity and computational cost
+False sense of security if models lack diversity/make same errors
+Difficult to explain final decision (lack of transparency)
+Data or Concept Drift degrades output quality
+Time delay in noticing drift causes use of flawed data
+Constantly monitors AI system activity
+Detects data/concept drift quickly
+Kicks off automated retraining pipeline (Challenger Model)
+Statistical Logic (monitor incoming data properties vs training data)
+Performance-Based Logic (monitor production metrics, confidence drops)
+Rule-Based Logic (trigger retraining after threshold exceeded)
+Advanced Predictive Model (predict when Champion performance degrades)
+Champion Model (in production)
+Challenger Model (being retrained to replace)
+Automated retraining must correct drift without introducing new flaws
+Still a period where Champion model produces flawed results
+Danger of using drifting Champion model in production
+Need time to verify Challenger model (Proactive Retraining lacks this)
+Champion Model (System A) uses Drift Monitor Agent
+Shadow/Challenger Model (System B) uses Shadow Deployment Agent
+Shadow model receives same production data (not used for output)
+Oversees Challenger performance with live production data
+Compares Challenger output to Champion output (validation)
+Automates promotion pipeline when drift detected in Champion
+Live Testing and Validation Logic (focus)
+Request Duplication Logic (intercept and duplicate requests)
+Parallel Routing Logic (send requests to both models)
+Prediction Logging (capture/log predictions from both)
+Performance Comparison Logic (analyze log data)
+High cost/responsibility of running duplicate infrastructure in parallel
+Task Ingestion Logic (receive & queue)
+Distribution Logic (efficiently distribute based on load/complexity)
+Result Forwarding Logic (receive/dispatch back)
+Goal Decomposition Logic (break request into subtasks)
+Workflow Management Logic (delegate/track status)
+Long-Term State Management (store evolving state)
+Synthesis and Review Logic (combine sections, check quality)
+Assume roles (e.g., Analyst, Researcher)
+Use customized system prompt designs/preferences
+Task Interpretation Logic
+Response Formatting Logic (for Master Agent)

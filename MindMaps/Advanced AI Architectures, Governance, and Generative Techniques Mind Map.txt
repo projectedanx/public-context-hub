@@ -1,0 +1,171 @@
+Mind map
+Advanced AI Architectures, Governance, and Generative Techniques
+Advanced AI Systems: Architecture, Governance, and Generative Techniques
+<
+AI Agentic Architectures & Cognitive Scaffolding
+<
+AI Governance & Trustworthiness
+<
+Prompt Engineering & Cognitive Load Management
+<
+Generative Models & Image Synthesis
+<
+System Components (Cognitive Loop)
+<
+Architectural Paradigms
+<
+The Governance Stack (Defense-in-Depth)
+<
+Verifiability & Auditability
+<
+Alignment & Safety Models
+<
+Advanced Prompting Techniques (Reasoning)
+<
+Prompt Structuring Principles
+<
+Cognitive Load Theory (CLT) for AI
+<
+LLM Context Failure Modes
+<
+Core Generative Architectures
+<
+Advanced Rendering & Visual Techniques
+<
+Perception Module (Sensory Layer)
+Memory System
+<
+Planning Engine (Core Reasoning)
+<
+Action Execution Layer (Tool Use)
+<
+Feedback Loop (Self-Improvement)
+<
+Multi-Agent Systems (MAS)
+<
+Hybrid Neuro-Symbolic Systems (NSAI)
+<
+Orchestration Frameworks
+<
+Agent Roles (Software Development)
+<
+Layer 1: Product-Requirements Prompt (PRP)
+<
+Layer 3: Intent Context Protocol (ICP)
+<
+Layer 4: Recursive Semiotic Operating System (RSOS)
+<
+Provenance Standards
+<
+Cryptographic Verifiability
+<
+Constitutional AI (CAI)
+<
+Human Oversight Levels
+<
+AGI Ontological Requirements
+<
+Chain-of-Thought (CoT): Sequential Reasoning
+ReAct (Reason + Act): Tool Interleaving
+RAG (Retrieval-Augmented Generation): External Grounding
+Self-Refinement/Reflexion (Iterative Critique)
+Meta-Prompting (Prompt Generation/Optimization)
+Epistemic Control (Layered Instructions/Constraints)
+SUCCES Framework (Simple, Unexpected, Concrete, Credible, Emotional, Story)
+Tufte Principles (Maximize Data-Ink/Token Ratio, Layering/Separation)
+Zettelkasten Principles (Atomicity, Versioning, Prompt Chaining)
+Goal: Minimize Extraneous Load
+Pathology: Atrophy of Critical Thinking (Complacency)
+Solution: Cognitive Load Balancer Agent
+Context Rot (Degradation Before Limit)
+Positional Bias (Middle Section Neglect)
+Semantic Drift (Loss of Purpose Fidelity)
+Pre-Collapse Signature (Escalating Instability)
+Diffusion Models (DMs)
+<
+Generative Adversarial Networks (GANs)
+<
+Variational Autoencoders (VAEs)
+<
+Rendering Algorithms
+<
+Prompting Techniques for Realism
+<
+3D Representation Models
+<
+Short-Term/Working Memory (Context Window)
+Long-Term/Persistent Memory (Vector DB, KG)
+Goal Decomposition/Sequencing
+Adaptive Strategy
+Chain-of-Thought Logic
+API/Tool Invocation
+Error Handling/Rollbacks
+Action Monitoring/Outcome Comparison
+Advantages: Specialized Labor, Modularity, Resilience
+Metaphor: Microservices/Agentic AI Mesh
+Combines: Pattern Matching (Neural) + Verifiable Logic (Symbolic)
+Goal: Enhance Consistency and Causality
+LangGraph (State Machine/Auditable Graph)
+<
+AutoGen (Conversational/Emergent Flow)
+<
+CrewAI (Role-Based/Declarative API)
+<
+Planner-Architect (Think Phase)
+<
+Linguist-Coder (Code Phase)
+<
+Integrator-Auditor (Quality Gate)
+<
+Test Architect (Verification Strategist)
+<
+Schema: Goal, Context, Constraints, Plan, Self-Test, Reflexive Check
+Function: Formal, Verifiable Contract
+Coherence Locks (Semantic Anchors)
+Recursive Purpose Loops (Self-Correction)
+Application-Level Profile Semantics (ALPS)
+Scar Tissue Archive (Structural Memory)
+Symbolic Scars (Biases Future Exploration)
+PAAE (Ontological Conflict Arbitration)
+W3C PROV (Entity, Activity, Agent)
+PROV-AGENT (Agent-Centric Metadata)
+SLSA Attestation (Process Integrity)
+C2PA (Content Credentials/Digital Nutrition Label)
+AI Watermarking (e.g., SynthID)
+Decentralized Identifiers (DID) for Agents
+Process: Supervised Learning + RLAIF (AI Feedback)
+Critiques: Mechanical Jurisprudence, Legitimacy Problem
+HITL (Human-in-the-Loop): Mandatory Input/Approval
+HOTL (Human-on-the-Loop): Supervisor/Intervention
+HIC (Human-in-Command): Strategic Goals/Ethical Constraints
+Maintains Relational Accountability
+Demonstrates Ecological Wisdom
+Leverages Cognitive Parallax (Human-AI Synergy)
+Mechanism: Iterative Denoising (Holistic/Parallel)
+Types: LDM, DDPM, DiT
+Mechanism: Generator vs. Discriminator (Competitive)
+Types: StyleGAN, AttnGAN, BigGAN
+Types: VQ-VAE, VaDE
+Ray Tracing/Path Tracing
+Differentiable Rendering
+Volume Rendering
+Camera Settings (Aperture, Shutter Speed)
+Lighting (Chiaroscuro, Volumetric Global Illumination)
+Materials (PBR, Subsurface Scattering/SSS)
+NeRF (Neural Radiance Fields)
+Gaussian Splatting (e.g., HUGS, HiFi4G)
+Implicit Surfaces (SDF, NeuS, DeepSDF)
+Explicit State Management
+High Control/Predictability
+Conversation as Computation
+High Flexibility for Exploratory Tasks
+Intuitive Team Metaphor
+Good for Known Sequential Workflows
+Output: Formal Specification (e.g., OpenAPI, UML)
+Constrained: Forbid Code Generation
+Mandate: Generate Idiomatic Source Code + Unit Tests
+Mandate: System-wide Coherence & Validation
+Mandate: TDD/ATDD Workflow Enforcement
+Collaborates with Refactoring Mentor (Safety Net)
+NotebookLM can be inaccurate; please double-check its responses.
+Reply ready.
