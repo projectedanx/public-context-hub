@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <title>OpenCode IDE Operational Architecture &amp; Forensics</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="A comprehensive guide to OpenCode's client-server architecture, hidden configuration flags, and the orchestration of autonomous engineering agents." />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+            display: ['JetBrains Mono', 'monospace'],
+          }
+        }
+      }
+    }
+  </script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-slate-950 text-slate-100 font-sans antialiased selection:bg-indigo-500/30">
+  <a href="#overview" class="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[100] px-4 py-2 bg-indigo-600 text-white rounded font-bold shadow-xl">Skip to Content</a>
+
+
+  <header class="sticky top-0 z-50 bg-slate-950/80 backdrop-blur-md border-b border-slate-800/60 supports-[backdrop-filter]:bg-slate-950/60">
+    <div class="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between gap-4">
+      <div class="flex items-center gap-4 min-w-0">
+        <div class="flex flex-col min-w-0">
+          <div class="flex items-center gap-2 mb-1">
+             <span class="text-[10px] uppercase tracking-wider text-slate-500 font-bold leading-none">Agentic IDE Runtime</span>
+             
+                <span class="text-[9px] font-mono text-indigo-400 bg-indigo-950/50 border border-indigo-900/50 px-1.5 py-0.5 rounded leading-none whitespace-nowrap" title="State of Mind: Research Effective Date">
+                   TEMPORAL LOCK: January 14, 2026
+                </span>
+             
+          </div>
+          <h1 class="text-lg font-bold text-white truncate leading-none">OpenCode IDE Operational Architecture &amp; Forensics</h1>
+        </div>
+      </div>
+
+      <nav class="hidden md:block" aria-label="Capsule Sections">
+        <ul class="flex items-center gap-1 text-xs font-medium list-none m-0 p-0">
+          <li><a href="#overview" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Overview</a></li>
+        <li><a href="#key-concepts" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Concepts</a></li>
+        <li><a href="#structure" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Structure</a></li>
+        <li><a href="#workflow" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Workflow</a></li>
+        <li><a href="#resilience" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Resilience</a></li>
+        <li><a href="#metrics" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Metrics</a></li>
+        <li><a href="#checklist" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Start</a></li>
+        </ul>
+      </nav>
+
+      <a href="https://opencode.ai/docs/cli/"
+         role="button"
+         class="hidden sm:inline-flex items-center px-4 py-2 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-xs font-bold text-white shadow-lg shadow-indigo-900/20 transition-all transform hover:-translate-y-0.5 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-slate-900">
+        Explore Documentation
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto px-6 pb-32">
+    <div class="pt-8 animate-in fade-in slide-in-from-top-4 duration-700"><ul class="flex flex-wrap gap-2 list-none p-0 m-0"><li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">AI-Engineering</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">IDE-Architecture</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">LLM-Orchestration</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">DevOps</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Automation</li></ul></div>
+
+  <section id="overview" class="pt-12 lg:pt-20 space-y-12 scroll-mt-20" aria-labelledby="overview-title">
+    <div class="flex flex-col lg:flex-row gap-12">
+      <div class="flex-1 space-y-6">
+        <ul class="flex flex-wrap gap-2 list-none p-0 m-0"><li class="text-xs px-3 py-1 rounded-full bg-sky-500/15 text-sky-100 border-sky-400/40 border font-medium">Client-Server Separation</li>
+<li class="text-xs px-3 py-1 rounded-full bg-sky-500/15 text-sky-100 border-sky-400/40 border font-medium">Headless Pipe Mode</li>
+<li class="text-xs px-3 py-1 rounded-full bg-sky-500/15 text-sky-100 border-sky-400/40 border font-medium">Dynamic Context Pruning</li></ul>
+
+        <h2 id="overview-title" class="text-4xl md:text-5xl font-bold leading-tight tracking-tight bg-clip-text text-transparent bg-gradient-to-br from-white to-slate-400">
+          OpenCode IDE Operational Architecture &amp; Forensics
+        </h2>
+
+        <p class="text-lg md:text-xl text-slate-300 leading-relaxed font-light">
+          OpenCode bifurcates from traditional IDEs by functioning as a client-server command-line operating system specifically designed to host autonomous software engineering agents. It treats the text buffer not as the primary interface, but as one of many input vectors for a persistent, headless reasoning engine. This architecture allows for session persistence, remote execution, and deep integration with automated toolchains.
+        </p>
+      </div>
+
+      <aside class="w-full lg:w-80 shrink-0" aria-labelledby="summary-title">
+        <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 backdrop-blur-sm sticky top-24">
+          <div class="flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-slate-500">
+             <div class="w-2 h-2 rounded-full bg-amber-500" aria-hidden="true"></div>
+             Operational Philosophy
+          </div>
+          <h3 id="summary-title" class="text-lg font-bold text-white">Programmable Substrate</h3>
+          <p class="text-sm text-slate-300 leading-relaxed">OpenCode is a mutable environment where the IDE is a substrate capable of being scripted and optimized via hidden flags and intricate plugin architectures. Its true power lies in transitioning from a passive assistant to a proactive 'Ultrawork' agent through precise configuration of its internal schema and experimental toggles.</p>
+          <ul class="flex flex-wrap gap-2 pt-2 border-t border-slate-800/50 list-none p-0 m-0"><li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Headless</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Go-Runtime</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">TUI</li></ul>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <section id="key-concepts" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="concepts-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="concepts-title" class="text-2xl font-bold text-white mb-2">Architectural Pillars</h2>
+      <p class="text-slate-400 leading-relaxed">Understanding OpenCode requires moving beyond the surface UI to the underlying logic of agentic execution and memory management.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2">
+      
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Decoupled Client-Server Handshake</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">The OpenCode binary acts polymorphically. It detects active server processes via lock files in .local/share. If a server exists, it acts as a Thin Client; otherwise, it initializes in Standalone Mode. This allows for 'headless' operations where the reasoning engine remains active even if the interface is closed.</p>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Model Context Protocol (MCP)</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">MCP serves as the bridge between the isolated runtime and the external world. OpenCode acts as an MCP Host, connecting to local or remote servers to provide agents with direct access to databases, web browsers, and internal APIs while maintaining a configurable security boundary.</p>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Dynamic Context Pruning (DCP)</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">To manage cognitive load and token costs, DCP surgically alters the agent's memory stream in real-time. It removes redundant file reads, stack traces from resolved errors, and superseded write operations, ensuring the agent remains focused and cost-efficient over long-running sessions.</p>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Shadow Agent Delegation</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Agents are defined via Markdown files with YAML frontmatter. Primary agents can spawn specialized 'Subagents' for specific tasks (e.g., security auditing). These subagents can inherit or override model parameters and tool permissions, creating a multi-threaded cognitive workflow.</p>
+      </article>
+    </div>
+  </section>
+
+  <section id="structure" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="structure-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="structure-title" class="text-2xl font-bold text-white mb-2">Configuration Precedence</h2>
+      <p class="text-slate-400 leading-relaxed">The hierarchy of configuration sources determines the final runtime behavior.</p>
+    </div>
+    <div class="mt-8">
+    <div class="overflow-x-auto rounded-2xl border border-slate-800 bg-slate-900/60 shadow-sm" role="region" aria-label="Data Table">
+      <table class="min-w-full text-sm">
+        <thead class="bg-slate-900/80 text-xs uppercase text-slate-500 font-semibold">
+          <tr><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Priority</th><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Source</th><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Location</th><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Typical Use Case</th></tr>
+        </thead>
+        <tbody><tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">1 (Highest)</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Environment Variable</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">OPENCODE_API_KEY</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Runtime secrets and CI overrides</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">2</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Project Config</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">./opencode.json</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Repository-specific tools and agents</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">4</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Global Config</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">~/.config/opencode/opencode.json</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">User themes and default providers</td></tr></tbody>
+      </table>
+    </div></div>
+  </section>
+
+
+  <section id="workflow" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="workflow-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="workflow-title" class="text-2xl font-bold text-white mb-2">Operational Blueprint</h2>
+      <p class="text-slate-400 leading-relaxed">The lifecycle of an OpenCode session from binary invocation to autonomous task completion.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3 mt-8 items-stretch">
+      <article class="relative pl-8 md:pl-0">
+         <div class="md:hidden absolute left-0 top-0 bottom-0 w-px bg-slate-800" aria-hidden="true"></div>
+         <div class="md:hidden absolute left-[-4px] top-6 w-2 h-2 rounded-full bg-indigo-500" aria-hidden="true"></div>
+         
+         <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 hover:bg-slate-900/60 transition-colors h-full">
+            <div class="flex items-center justify-between">
+               <span class="text-xs font-bold uppercase tracking-widest text-indigo-400">Step 1</span>
+            </div>
+            <h3 class="font-bold text-lg text-white">Runtime Initialization</h3>
+            <p class="text-sm text-slate-300 leading-relaxed">Determine the execution mode and establish the environment.</p>
+            <ul class="space-y-2 pt-2 border-t border-slate-800/50 list-none p-0">
+              <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Check for existing server processes or lock files.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Apply environment variable overrides (e.g., OPENCODE_EXPERIMENTAL).</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Initialize TUI or enter Headless Pipe Mode for CLI automation.</li>
+            </ul>
+         </div>
+      </article>
+
+      <article class="relative pl-8 md:pl-0">
+         <div class="md:hidden absolute left-0 top-0 bottom-0 w-px bg-slate-800" aria-hidden="true"></div>
+         <div class="md:hidden absolute left-[-4px] top-6 w-2 h-2 rounded-full bg-indigo-500" aria-hidden="true"></div>
+         
+         <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 hover:bg-slate-900/60 transition-colors h-full">
+            <div class="flex items-center justify-between">
+               <span class="text-xs font-bold uppercase tracking-widest text-indigo-400">Step 2</span>
+            </div>
+            <h3 class="font-bold text-lg text-white">Configuration Merging</h3>
+            <p class="text-sm text-slate-300 leading-relaxed">Resolve the hierarchical precedence of settings to determine the final agent state.</p>
+            <ul class="space-y-2 pt-2 border-t border-slate-800/50 list-none p-0">
+              <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Merge Remote Defaults with Global and Project-specific JSON configs.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Verify provider variants and model-specific reasoning parameters.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Audit tool permissions (bash, edit, webfetch) for the current session.</li>
+            </ul>
+         </div>
+      </article>
+
+      <article class="relative pl-8 md:pl-0">
+         <div class="md:hidden absolute left-0 top-0 bottom-0 w-px bg-slate-800" aria-hidden="true"></div>
+         <div class="md:hidden absolute left-[-4px] top-6 w-2 h-2 rounded-full bg-indigo-500" aria-hidden="true"></div>
+         
+         <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 hover:bg-slate-900/60 transition-colors h-full">
+            <div class="flex items-center justify-between">
+               <span class="text-xs font-bold uppercase tracking-widest text-indigo-400">Step 3</span>
+            </div>
+            <h3 class="font-bold text-lg text-white">Agent Orchestration</h3>
+            <p class="text-sm text-slate-300 leading-relaxed">Invoke and manage primary and subagent loops.</p>
+            <ul class="space-y-2 pt-2 border-t border-slate-800/50 list-none p-0">
+              <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Load AGENTS.md definitions and frontmatter constraints.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Trigger 'Ultrawork' mode for autonomous batch processing if required.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Monitor parallel subagent tasks and aggregate outputs into the primary stream.</li>
+            </ul>
+         </div>
+      </article></div>
+  </section>
+
+  <section id="resilience" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="resilience-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="resilience-title" class="text-2xl font-bold text-white mb-2">System Resilience</h2>
+      <p class="text-slate-400 leading-relaxed">Identifying and mitigating common failure points in the OpenCode runtime.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2 mt-8 items-stretch">
+      <article class="rounded-2xl border border-red-900/30 bg-red-950/10 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-red-200 flex items-center gap-2">
+           <span class="w-1.5 h-1.5 rounded-full bg-red-500" aria-hidden="true"></span>
+           Crash on Boot
+        </h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Initialization failure due to corrupted session databases or plugin syntax errors.</p>
+        <div class="pt-3">
+           <p class="text-[10px] uppercase font-bold text-slate-500 mb-2">Mitigation Strategy</p>
+           <ul class="space-y-1 list-none p-0">
+             <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Run with --print-logs to identify failure points</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Use OPENCODE_DISABLE_DEFAULT_PLUGINS nuclear option</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Manually delete lock files in ~/.local/share/opencode</li>
+           </ul>
+        </div>
+      </article>
+
+      <article class="rounded-2xl border border-red-900/30 bg-red-950/10 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-red-200 flex items-center gap-2">
+           <span class="w-1.5 h-1.5 rounded-full bg-red-500" aria-hidden="true"></span>
+           Skill Bloat OOM
+        </h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Agent context window saturation caused by repeatedly loading massive SKILL.md files.</p>
+        <div class="pt-3">
+           <p class="text-[10px] uppercase font-bold text-slate-500 mb-2">Mitigation Strategy</p>
+           <ul class="space-y-1 list-none p-0">
+             <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Refactor SKILL.md into smaller atomic units</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Use opencode-tokenscope for forensic auditing</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Implement turn protection in pruning plugins</li>
+           </ul>
+        </div>
+      </article></div>
+  </section>
+
+  <section id="metrics" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="metrics-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="metrics-title" class="text-2xl font-bold text-white mb-2">Performance Metrics</h2>
+      <p class="text-slate-400 leading-relaxed">Measure the efficiency and validity of the agentic workflow.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2 mt-8 items-stretch">
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-emerald-400">Token Efficiency</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Ratio of useful output tokens to total session context tokens.</p>
+        <div class="flex flex-wrap gap-2 pt-2">
+          <span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Skill Bloat detection via TokenScope</span>
+<span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">DCP pruning frequency</span>
+<span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Subagent model cost distribution</span>
+        </div>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-emerald-400">Refactor Accuracy</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">The ability of the agent to modify code without introducing syntax or logic errors.</p>
+        <div class="flex flex-wrap gap-2 pt-2">
+          <span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">LSP tool usage vs regex/grep</span>
+<span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Context drift detection via filewatcher</span>
+<span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Task completion rate in Ultrawork mode</span>
+        </div>
+      </article></div>
+  </section>
+
+  <section id="checklist" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="checklist-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="checklist-title" class="text-2xl font-bold text-white mb-2">Power User Readiness</h2>
+      <p class="text-slate-400 leading-relaxed">Actionable steps to ensure a secure, high-performance OpenCode environment.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2 mt-8 items-stretch">
+      <article class="rounded-2xl border border-indigo-900/30 bg-indigo-950/10 p-6 space-y-4 h-full">
+        <h3 class="font-bold text-indigo-200 text-lg">Environment Security</h3>
+        <ul class="space-y-3 list-none p-0">
+          
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Audit project-specific opencode.json for malicious model overrides.</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Set OPENCODE_DISABLE_DEFAULT_PLUGINS if stability issues occur.</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Disable server.mdns on public networks to prevent unauthorized discovery.</span>
+             </li>
+        </ul>
+      </article>
+
+      <article class="rounded-2xl border border-indigo-900/30 bg-indigo-950/10 p-6 space-y-4 h-full">
+        <h3 class="font-bold text-indigo-200 text-lg">Performance Optimization</h3>
+        <ul class="space-y-3 list-none p-0">
+          
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Enable tui.scroll_acceleration for smoother rendering on macOS.</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Utilize opencode-tokenscope to identify and eliminate 'Skill Bloat'.</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Set turnProtection.turns in DCP to maintain short-term memory stability.</span>
+             </li>
+        </ul>
+      </article>
+
+      <article class="rounded-2xl border border-indigo-900/30 bg-indigo-950/10 p-6 space-y-4 h-full">
+        <h3 class="font-bold text-indigo-200 text-lg">Integration Testing</h3>
+        <ul class="space-y-3 list-none p-0">
+          
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Test headless prompts using --quiet to ensure clean data pipes.</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Verify MCP server connections using the lsp tool experimental flag.</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Use --dry-run before executing cleanup commands on session history.</span>
+             </li>
+        </ul>
+      </article></div>
+  </section>
+  </main>
+
+  <footer class="border-t border-slate-800 bg-slate-950 py-12 mt-12">
+    <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
+       <div class="text-left">
+          <p class="text-sm font-bold text-white">Sovereign Cognitive OS</p>
+          <p class="text-xs text-slate-500 font-mono mt-1">Context Capsule Artifact</p>
+       </div>
+       <div class="text-right">
+          <p class="text-xs text-slate-600 font-mono mb-1">ID: opencode-operational-architecture</p>
+          <p class="text-xs text-slate-600 font-mono">Worldview: Glass Box Systems Architecture</p>
+          <p class="text-xs text-indigo-400 font-mono mt-1">State of Mind: January 14, 2026</p>
+       </div>
+    </div>
+  </footer>
+</body>
+</html>

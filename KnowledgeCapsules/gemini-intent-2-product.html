@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <title>The Gemini-Intent-2-Product (G2P) Framework</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="A cognitive operating system for transforming probabilistic LLM outputs into rigorous, artifact-driven software products through Cognitive Contracts." />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+            display: ['JetBrains Mono', 'monospace'],
+          }
+        }
+      }
+    }
+  </script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-slate-950 text-slate-100 font-sans antialiased selection:bg-indigo-500/30">
+  <a href="#overview" class="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[100] px-4 py-2 bg-indigo-600 text-white rounded font-bold shadow-xl">Skip to Content</a>
+
+
+  <header class="sticky top-0 z-50 bg-slate-950/80 backdrop-blur-md border-b border-slate-800/60 supports-[backdrop-filter]:bg-slate-950/60">
+    <div class="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between gap-4">
+      <div class="flex items-center gap-4 min-w-0">
+        <div class="flex flex-col min-w-0">
+          <div class="flex items-center gap-2 mb-1">
+             <span class="text-[10px] uppercase tracking-wider text-slate-500 font-bold leading-none">Deterministic AI Pipelines</span>
+             
+                <span class="text-[9px] font-mono text-indigo-400 bg-indigo-950/50 border border-indigo-900/50 px-1.5 py-0.5 rounded leading-none whitespace-nowrap" title="State of Mind: Research Effective Date">
+                   TEMPORAL LOCK: January 12, 2026
+                </span>
+             
+          </div>
+          <h1 class="text-lg font-bold text-white truncate leading-none">The Gemini-Intent-2-Product (G2P) Framework</h1>
+        </div>
+      </div>
+
+      <nav class="hidden md:block" aria-label="Capsule Sections">
+        <ul class="flex items-center gap-1 text-xs font-medium list-none m-0 p-0">
+          <li><a href="#overview" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Overview</a></li>
+        <li><a href="#key-concepts" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Concepts</a></li>
+        <li><a href="#structure" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Structure</a></li>
+        <li><a href="#workflow" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Workflow</a></li>
+        <li><a href="#resilience" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Resilience</a></li>
+        <li><a href="#metrics" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Metrics</a></li>
+        <li><a href="#checklist" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Start</a></li>
+        </ul>
+      </nav>
+
+      <a href="https://example.com/g2p-framework"
+         role="button"
+         class="hidden sm:inline-flex items-center px-4 py-2 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-xs font-bold text-white shadow-lg shadow-indigo-900/20 transition-all transform hover:-translate-y-0.5 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-slate-900">
+        View G2P Methodology
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto px-6 pb-32">
+    <div class="pt-8 animate-in fade-in slide-in-from-top-4 duration-700"><ul class="flex flex-wrap gap-2 list-none p-0 m-0"><li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">AI Engineering</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">G2P</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Cognitive Contracts</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Software Development Lifecycle</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Deterministic Engineering</li></ul></div>
+
+  <section id="overview" class="pt-12 lg:pt-20 space-y-12 scroll-mt-20" aria-labelledby="overview-title">
+    <div class="flex flex-col lg:flex-row gap-12">
+      <div class="flex-1 space-y-6">
+        <ul class="flex flex-wrap gap-2 list-none p-0 m-0"><li class="text-xs px-3 py-1 rounded-full bg-sky-500/15 text-sky-100 border-sky-400/40 border font-medium">Cognitive Contract Enforcement</li>
+<li class="text-xs px-3 py-1 rounded-full bg-sky-500/15 text-sky-100 border-sky-400/40 border font-medium">Deterministic State Machines</li>
+<li class="text-xs px-3 py-1 rounded-full bg-sky-500/15 text-sky-100 border-sky-400/40 border font-medium">Artifact-Driven Development</li></ul>
+
+        <h2 id="overview-title" class="text-4xl md:text-5xl font-bold leading-tight tracking-tight bg-clip-text text-transparent bg-gradient-to-br from-white to-slate-400">
+          The Gemini-Intent-2-Product (G2P) Framework
+        </h2>
+
+        <p class="text-lg md:text-xl text-slate-300 leading-relaxed font-light">
+          The Gemini-Intent-2-Product (G2P) framework is an architectural response to the 'Vibe Coding' crisis in generative software engineering. It replaces black-box agency with a structured pipeline of 'Cognitive Contracts'—machine-readable, executable agreements that govern how AI personas transform high-entropy user intent into low-entropy, production-ready code. By externalizing state into a persistent file system and enforcing 'Identity Locks,' G2P ensures coherence and reduces the accumulation of epistemic entropy over long-term projects.
+        </p>
+      </div>
+
+      <aside class="w-full lg:w-80 shrink-0" aria-labelledby="summary-title">
+        <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 backdrop-blur-sm sticky top-24">
+          <div class="flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-slate-500">
+             <div class="w-2 h-2 rounded-full bg-amber-500" aria-hidden="true"></div>
+             G2P Paradigm
+          </div>
+          <h3 id="summary-title" class="text-lg font-bold text-white">From Chat to Pipeline</h3>
+          <p class="text-sm text-slate-300 leading-relaxed">G2P shifts the focus from conversational 'helper' agents to a 'Cognitive Operating System' where the directory structure acts as a state machine. It mandates the use of immutable artifacts (Markdown files) to prevent interpretive drift and maintain a 'Stare Decisis' approach across the software lifecycle.</p>
+          <ul class="flex flex-wrap gap-2 pt-2 border-t border-slate-800/50 list-none p-0 m-0"><li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Artifact-Driven</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Entropy Minimization</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Cascade Methodology</li></ul>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <section id="key-concepts" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="concepts-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="concepts-title" class="text-2xl font-bold text-white mb-2">Core Philosophies</h2>
+      <p class="text-slate-400 leading-relaxed">The G2P framework is built upon three theoretical pillars: information theory, cognitive load management, and deterministic software process models.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2">
+      
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Epistemic Entropy</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">The difficulty of synthesizing conserved information into actionable knowledge within a complex system. In LLM sessions, entropy accumulates as context windows fill, leading to hallucinations and drift. G2P minimizes this through predictive compression and resetting state at each pipeline phase.</p>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Cognitive Contracts &amp; Identity Locks</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Instead of open-ended agency, G2P uses specialized personas (e.g., Architect, Spec Author) with restricted identity locks. These personas are contractually bound to specific input schemas and output templates, ensuring they stay within their domain of competence.</p>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Domain-Native Operator</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">A shift from 'Human-in-the-Loop' to 'Expert-in-the-Loop.' The expert steers the system by editing artifacts (e.g., architecture decision records) directly on the file system, rather than arguing with a chatbot. Human judgment is the final arbiter through these tangible documents.</p>
+      </article>
+    </div>
+  </section>
+
+  <section id="structure" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="structure-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="structure-title" class="text-2xl font-bold text-white mb-2">G2P Functional Layers</h2>
+      <p class="text-slate-400 leading-relaxed">The framework maps specific cognitive roles to tangible outputs.</p>
+    </div>
+    <div class="mt-8">
+    <div class="overflow-x-auto rounded-2xl border border-slate-800 bg-slate-900/60 shadow-sm" role="region" aria-label="Data Table">
+      <table class="min-w-full text-sm">
+        <thead class="bg-slate-900/80 text-xs uppercase text-slate-500 font-semibold">
+          <tr><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Phase</th><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Agent Persona</th><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Key Artifact</th><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Cognitive Goal</th></tr>
+        </thead>
+        <tbody><tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Inception</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Clarifier</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">product_brief.md</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Entropy Reduction</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Analysis</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Spec Author</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">functional_spec.md</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Formalization</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Design</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Architect</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">adr.md</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Trade-off Resolution</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Implementation</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Implementer</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Source Code</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Deterministic Syntax</td></tr></tbody>
+      </table>
+    </div></div>
+  </section>
+
+
+  <section id="workflow" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="workflow-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="workflow-title" class="text-2xl font-bold text-white mb-2">The G2P Execution Pipeline</h2>
+      <p class="text-slate-400 leading-relaxed">The workflow follows a strict 'Cascade' methodology, moving from planning to execution only when cognitive load is resolved.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3 mt-8 items-stretch">
+      <article class="relative pl-8 md:pl-0">
+         <div class="md:hidden absolute left-0 top-0 bottom-0 w-px bg-slate-800" aria-hidden="true"></div>
+         <div class="md:hidden absolute left-[-4px] top-6 w-2 h-2 rounded-full bg-indigo-500" aria-hidden="true"></div>
+         
+         <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 hover:bg-slate-900/60 transition-colors h-full">
+            <div class="flex items-center justify-between">
+               <span class="text-xs font-bold uppercase tracking-widest text-indigo-400">Step 1</span>
+            </div>
+            <h3 class="font-bold text-lg text-white">Intent Clarification</h3>
+            <p class="text-sm text-slate-300 leading-relaxed">The Clarifier agent acts as an inquisitorial product manager to reduce initial user entropy.</p>
+            <ul class="space-y-2 pt-2 border-t border-slate-800/50 list-none p-0">
+              <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Conducts Differential Diagnosis of user requests.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Identifies unknown unknowns and edge cases.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Generates a low-entropy Product Brief artifact.</li>
+            </ul>
+         </div>
+      </article>
+
+      <article class="relative pl-8 md:pl-0">
+         <div class="md:hidden absolute left-0 top-0 bottom-0 w-px bg-slate-800" aria-hidden="true"></div>
+         <div class="md:hidden absolute left-[-4px] top-6 w-2 h-2 rounded-full bg-indigo-500" aria-hidden="true"></div>
+         
+         <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 hover:bg-slate-900/60 transition-colors h-full">
+            <div class="flex items-center justify-between">
+               <span class="text-xs font-bold uppercase tracking-widest text-indigo-400">Step 2</span>
+            </div>
+            <h3 class="font-bold text-lg text-white">Technical Formalization</h3>
+            <p class="text-sm text-slate-300 leading-relaxed">The Spec Author translates business goals into strict technical requirements.</p>
+            <ul class="space-y-2 pt-2 border-t border-slate-800/50 list-none p-0">
+              <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Defines data models using strict typing (JSON Schema/TypeScript).</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Maps user stories to functional interface definitions.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Aligns output with IEEE 830 standards.</li>
+            </ul>
+         </div>
+      </article>
+
+      <article class="relative pl-8 md:pl-0">
+         <div class="md:hidden absolute left-0 top-0 bottom-0 w-px bg-slate-800" aria-hidden="true"></div>
+         <div class="md:hidden absolute left-[-4px] top-6 w-2 h-2 rounded-full bg-indigo-500" aria-hidden="true"></div>
+         
+         <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 hover:bg-slate-900/60 transition-colors h-full">
+            <div class="flex items-center justify-between">
+               <span class="text-xs font-bold uppercase tracking-widest text-indigo-400">Step 3</span>
+            </div>
+            <h3 class="font-bold text-lg text-white">Architectural Governance</h3>
+            <p class="text-sm text-slate-300 leading-relaxed">The Architect makes high-stakes trade-off decisions and documents them in ADRs.</p>
+            <ul class="space-y-2 pt-2 border-t border-slate-800/50 list-none p-0">
+              <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Writes Architecture Decision Records (ADRs).</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Performs trade-off analysis (e.g., SQL vs. NoSQL).</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Generates Mermaid/ASCII component diagrams for visualization.</li>
+            </ul>
+         </div>
+      </article>
+
+      <article class="relative pl-8 md:pl-0">
+         <div class="md:hidden absolute left-0 top-0 bottom-0 w-px bg-slate-800" aria-hidden="true"></div>
+         <div class="md:hidden absolute left-[-4px] top-6 w-2 h-2 rounded-full bg-indigo-500" aria-hidden="true"></div>
+         
+         <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 hover:bg-slate-900/60 transition-colors h-full">
+            <div class="flex items-center justify-between">
+               <span class="text-xs font-bold uppercase tracking-widest text-indigo-400">Step 4</span>
+            </div>
+            <h3 class="font-bold text-lg text-white">Cascade Planning</h3>
+            <p class="text-sm text-slate-300 leading-relaxed">The Planner decomposes the architecture into a Directed Acyclic Graph (DAG) of atomic tasks.</p>
+            <ul class="space-y-2 pt-2 border-t border-slate-800/50 list-none p-0">
+              <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Breaks system into micro-tasks (&lt; 200 LOC).</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Identifies strict dependencies between execution steps.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Defines 'Definition of Done' for every implementation unit.</li>
+            </ul>
+         </div>
+      </article></div>
+  </section>
+
+  <section id="resilience" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="resilience-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="resilience-title" class="text-2xl font-bold text-white mb-2">Systemic Resilience</h2>
+      <p class="text-slate-400 leading-relaxed">G2P is designed to be 'fail-fast' at the routing and review layers.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2 mt-8 items-stretch">
+      <article class="rounded-2xl border border-red-900/30 bg-red-950/10 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-red-200 flex items-center gap-2">
+           <span class="w-1.5 h-1.5 rounded-full bg-red-500" aria-hidden="true"></span>
+           Interpretive Drift
+        </h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Early misconceptions or minor hallucinations that compound across pipeline phases.</p>
+        <div class="pt-3">
+           <p class="text-[10px] uppercase font-bold text-slate-500 mb-2">Mitigation Strategy</p>
+           <ul class="space-y-1 list-none p-0">
+             <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Implement 'Coherence Anchoring' by treating upstream artifacts as read-only.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Reset context window for each agent to only include distilled inputs.</li>
+           </ul>
+        </div>
+      </article>
+
+      <article class="rounded-2xl border border-red-900/30 bg-red-950/10 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-red-200 flex items-center gap-2">
+           <span class="w-1.5 h-1.5 rounded-full bg-red-500" aria-hidden="true"></span>
+           Constraint Over-Generalization
+        </h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Negative instructions causing the AI to become overly passive or refuse valid logic.</p>
+        <div class="pt-3">
+           <p class="text-[10px] uppercase font-bold text-slate-500 mb-2">Mitigation Strategy</p>
+           <ul class="space-y-1 list-none p-0">
+             <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Force output into structured JSON schemas to channel reasoning.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Provide positive boundary examples in persona templates.</li>
+           </ul>
+        </div>
+      </article></div>
+  </section>
+
+  <section id="metrics" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="metrics-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="metrics-title" class="text-2xl font-bold text-white mb-2">Performance Indicators</h2>
+      <p class="text-slate-400 leading-relaxed">Success in G2P is measured by the transition from subjective 'vibes' to objective engineering proofs.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2 mt-8 items-stretch">
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-emerald-400">Task Pass Rate</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">The percentage of implementation tasks successfully validated by the Reviewer on the first attempt.</p>
+        <div class="flex flex-wrap gap-2 pt-2">
+          <span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Reduced rework loops</span>
+<span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Consistency with ADR constraints</span>
+        </div>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-emerald-400">Artifact Coherence</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">The degree to which downstream code mirrors the constraints set in the initial functional specification.</p>
+        <div class="flex flex-wrap gap-2 pt-2">
+          <span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Zero placeholder errors</span>
+<span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Strict adherence to defined data types</span>
+        </div>
+      </article></div>
+  </section>
+
+  <section id="checklist" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="checklist-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="checklist-title" class="text-2xl font-bold text-white mb-2">Framework Readiness Checklist</h2>
+      <p class="text-slate-400 leading-relaxed">Follow these steps to ensure the G2P pipeline maintains high rigidity and low entropy.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2 mt-8 items-stretch">
+      <article class="rounded-2xl border border-indigo-900/30 bg-indigo-950/10 p-6 space-y-4 h-full">
+        <h3 class="font-bold text-indigo-200 text-lg">Directory Setup</h3>
+        <ul class="space-y-3 list-none p-0">
+          
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Initialize .gemini/ directory with personas, templates, and workflows.</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Ensure persona Markdown files include explicit 'Identity Locks.'</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Version control the .gemini/ directory alongside source code.</span>
+             </li>
+        </ul>
+      </article>
+
+      <article class="rounded-2xl border border-indigo-900/30 bg-indigo-950/10 p-6 space-y-4 h-full">
+        <h3 class="font-bold text-indigo-200 text-lg">Pipeline Gatekeeping</h3>
+        <ul class="space-y-3 list-none p-0">
+          
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Verify product_brief.md is approved by an expert before generating specs.</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Ensure ADRs explicitly document the 'Why' behind tech stacks.</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Validate that task sizes in the execution plan are small enough for single-pass generation.</span>
+             </li>
+        </ul>
+      </article>
+
+      <article class="rounded-2xl border border-indigo-900/30 bg-indigo-950/10 p-6 space-y-4 h-full">
+        <h3 class="font-bold text-indigo-200 text-lg">Verification Loops</h3>
+        <ul class="space-y-3 list-none p-0">
+          
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Assign an adversarial Reviewer persona to check for 'Implementer Drift.'</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Generate automated unit tests derived from functional_spec.md.</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Manually review artifacts whenever a state transition occurs.</span>
+             </li>
+        </ul>
+      </article></div>
+  </section>
+  </main>
+
+  <footer class="border-t border-slate-800 bg-slate-950 py-12 mt-12">
+    <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
+       <div class="text-left">
+          <p class="text-sm font-bold text-white">Sovereign Cognitive OS</p>
+          <p class="text-xs text-slate-500 font-mono mt-1">Context Capsule Artifact</p>
+       </div>
+       <div class="text-right">
+          <p class="text-xs text-slate-600 font-mono mb-1">ID: gemini-intent-2-product</p>
+          <p class="text-xs text-slate-600 font-mono">Worldview: Cognitive Operating System (cOS)</p>
+          <p class="text-xs text-indigo-400 font-mono mt-1">State of Mind: January 12, 2026</p>
+       </div>
+    </div>
+  </footer>
+</body>
+</html>

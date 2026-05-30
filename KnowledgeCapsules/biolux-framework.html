@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <title>The Biolux Framework for Light-Based Therapeutics</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="A multi-modal strategy for bio-adaptive, light-based therapeutics integrating neuroaesthetics, haptics, and open interoperability protocols." />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+            display: ['JetBrains Mono', 'monospace'],
+          }
+        }
+      }
+    }
+  </script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-slate-950 text-slate-100 font-sans antialiased selection:bg-indigo-500/30">
+  <a href="#overview" class="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[100] px-4 py-2 bg-indigo-600 text-white rounded font-bold shadow-xl">Skip to Content</a>
+
+
+  <header class="sticky top-0 z-50 bg-slate-950/80 backdrop-blur-md border-b border-slate-800/60 supports-[backdrop-filter]:bg-slate-950/60">
+    <div class="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between gap-4">
+      <div class="flex items-center gap-4 min-w-0">
+        <div class="flex flex-col min-w-0">
+          <div class="flex items-center gap-2 mb-1">
+             <span class="text-[10px] uppercase tracking-wider text-slate-500 font-bold leading-none">Neuroregulation &amp; Light</span>
+             
+                <span class="text-[9px] font-mono text-indigo-400 bg-indigo-950/50 border border-indigo-900/50 px-1.5 py-0.5 rounded leading-none whitespace-nowrap" title="State of Mind: Research Effective Date">
+                   TEMPORAL LOCK: 2025-06-14
+                </span>
+             
+          </div>
+          <h1 class="text-lg font-bold text-white truncate leading-none">The Biolux Framework for Light-Based Therapeutics</h1>
+        </div>
+      </div>
+
+      <nav class="hidden md:block" aria-label="Capsule Sections">
+        <ul class="flex items-center gap-1 text-xs font-medium list-none m-0 p-0">
+          <li><a href="#overview" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Overview</a></li>
+        <li><a href="#key-concepts" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Concepts</a></li>
+        <li><a href="#structure" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Structure</a></li>
+        <li><a href="#personas" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Personas</a></li>
+        <li><a href="#workflow" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Workflow</a></li>
+        <li><a href="#resilience" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Resilience</a></li>
+        <li><a href="#metrics" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Metrics</a></li>
+        <li><a href="#checklist" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Start</a></li>
+        </ul>
+      </nav>
+
+      <a href="#checklist"
+         role="button"
+         class="hidden sm:inline-flex items-center px-4 py-2 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-xs font-bold text-white shadow-lg shadow-indigo-900/20 transition-all transform hover:-translate-y-0.5 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-slate-900">
+        Start Implementing
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto px-6 pb-32">
+    <div class="pt-8 animate-in fade-in slide-in-from-top-4 duration-700"><ul class="flex flex-wrap gap-2 list-none p-0 m-0"><li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Neuroaesthetics</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Biofeedback</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">HCI</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Smart Textiles</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Interoperability</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Polyvagal Theory</li></ul></div>
+
+  <section id="overview" class="pt-12 lg:pt-20 space-y-12 scroll-mt-20" aria-labelledby="overview-title">
+    <div class="flex flex-col lg:flex-row gap-12">
+      <div class="flex-1 space-y-6">
+        <ul class="flex flex-wrap gap-2 list-none p-0 m-0"><li class="text-xs px-3 py-1 rounded-full bg-sky-500/15 text-sky-100 border-sky-400/40 border font-medium">Bio-Adaptive</li>
+<li class="text-xs px-3 py-1 rounded-full bg-sky-500/15 text-sky-100 border-sky-400/40 border font-medium">Glanceable UI</li>
+<li class="text-xs px-3 py-1 rounded-full bg-sky-500/15 text-sky-100 border-sky-400/40 border font-medium">MIDI-Inspired</li>
+<li class="text-xs px-3 py-1 rounded-full bg-sky-500/15 text-sky-100 border-sky-400/40 border font-medium">Somatic Resonance</li></ul>
+
+        <h2 id="overview-title" class="text-4xl md:text-5xl font-bold leading-tight tracking-tight bg-clip-text text-transparent bg-gradient-to-br from-white to-slate-400">
+          The Biolux Framework for Light-Based Therapeutics
+        </h2>
+
+        <p class="text-lg md:text-xl text-slate-300 leading-relaxed font-light">
+          The Biolux Framework addresses the need for evidence-based luminescent interventions in healthcare. It moves beyond intuitive lighting to quantified, real-time personalization using physiological feedback and interoperable communication standards to influence mood, cognition, and physiological states.
+        </p>
+      </div>
+
+      <aside class="w-full lg:w-80 shrink-0" aria-labelledby="summary-title">
+        <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 backdrop-blur-sm sticky top-24">
+          <div class="flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-slate-500">
+             <div class="w-2 h-2 rounded-full bg-amber-500" aria-hidden="true"></div>
+             The Biolux Paradigm
+          </div>
+          <h3 id="summary-title" class="text-lg font-bold text-white">Quantifying Affective Light</h3>
+          <p class="text-sm text-slate-300 leading-relaxed">A system that uses Heart Rate Variability (HRV) and Polyvagal Theory to modulate lighting and haptic feedback, creating a 'safe and social' environment for patient recovery through closed-loop regulation.</p>
+          <ul class="flex flex-wrap gap-2 pt-2 border-t border-slate-800/50 list-none p-0 m-0"><li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">HRV</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Polyvagal</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Ambient Intelligence</li></ul>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <section id="key-concepts" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="concepts-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="concepts-title" class="text-2xl font-bold text-white mb-2">Core Analytical Lenses</h2>
+      <p class="text-slate-400 leading-relaxed">The framework integrates four distinct perspectives to create a unified therapeutic environment.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2">
+      
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Palette-Entropy Matrix</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">A comparative framework that evaluates light signals based on physical properties (Palette: color, intensity) and informational complexity (Entropy: predictability). This allows for targeted interventions ranging from low-entropy calming fades to high-entropy adaptive stress management.</p>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Light Memory Decay UI</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">An innovative ambient display concept that uses ephemeral 'light trails' on clinical dashboards to represent interaction history. This reduces cognitive load by offloading short-term memory tasks to the environment, providing glanceable context without alert fatigue.</p>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Rhythmic Sensory Entrainment</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Utilizing the physics of entrainment to synchronize internal biological rhythms (heart rate, respiration) with external sensory input. This involves using smart textiles to deliver synchronized light pulses and pneumatic pressure (haptics) to nudge the ANS toward homeostasis.</p>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Biolux Protocol v0.1</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">A MIDI-inspired, MQTT-based messaging protocol designed to orchestrate luminescent and haptic events across diverse devices. It uses symbolic representation (e.g., 'Status Bytes' and 'Data Bytes') to transmit intent rather than high-bandwidth raw data.</p>
+      </article>
+    </div>
+  </section>
+
+  <section id="structure" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="structure-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="structure-title" class="text-2xl font-bold text-white mb-2">System Architecture</h2>
+      <p class="text-slate-400 leading-relaxed">The hierarchy of the Biolux system from individual devices to architectural protocols.</p>
+    </div>
+    <div class="mt-8">
+    <div class="overflow-x-auto rounded-2xl border border-slate-800 bg-slate-900/60 shadow-sm" role="region" aria-label="Data Table">
+      <table class="min-w-full text-sm">
+        <thead class="bg-slate-900/80 text-xs uppercase text-slate-500 font-semibold">
+          <tr><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Layer</th><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Components</th><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Objective</th></tr>
+        </thead>
+        <tbody><tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Sensory</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Wearable HRV patches, respiration sensors</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">State Detection</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Actuation</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Adaptive lighting, haptic stress ball, glanceable UI</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Regulative Intervention</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Nervous System</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Biolux Protocol (MQTT)</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Interoperable Orchestration</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Brain</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">AmI AI Engine</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Context-Aware Logic</td></tr></tbody>
+      </table>
+    </div></div>
+  </section>
+
+  <section id="personas" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="personas-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="personas-title" class="text-2xl font-bold text-white mb-2">Stakeholder Impact</h2>
+      <p class="text-slate-400 leading-relaxed">The system impacts both the patient's internal state and the clinician's workflow.</p>
+    </div>
+    <div class="mt-8">
+    <div class="overflow-x-auto rounded-2xl border border-slate-800 bg-slate-900/60 shadow-sm" role="region" aria-label="Data Table">
+      <table class="min-w-full text-sm">
+        <thead class="bg-slate-900/80 text-xs uppercase text-slate-500 font-semibold">
+          <tr><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Persona</th><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Primary Benefit</th><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Primary Interaction</th></tr>
+        </thead>
+        <tbody><tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Post-Op Patient</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Reduced acute anxiety/stress</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Haptic stress ball &amp; Ambient room light</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">ICU Nurse</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Reduced alert fatigue</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Glanceable UI memory trails</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">HCI Researcher</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Interoperable R&amp;D</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Biolux Protocol implementation</td></tr></tbody>
+      </table>
+    </div></div>
+  </section>
+
+  <section id="workflow" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="workflow-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="workflow-title" class="text-2xl font-bold text-white mb-2">The Neuroregulatory Loop</h2>
+      <p class="text-slate-400 leading-relaxed">The operational flow follows a three-phase protocol for adaptive regulation.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3 mt-8 items-stretch">
+      <article class="relative pl-8 md:pl-0">
+         <div class="md:hidden absolute left-0 top-0 bottom-0 w-px bg-slate-800" aria-hidden="true"></div>
+         <div class="md:hidden absolute left-[-4px] top-6 w-2 h-2 rounded-full bg-indigo-500" aria-hidden="true"></div>
+         
+         <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 hover:bg-slate-900/60 transition-colors h-full">
+            <div class="flex items-center justify-between">
+               <span class="text-xs font-bold uppercase tracking-widest text-indigo-400">Step 1</span>
+            </div>
+            <h3 class="font-bold text-lg text-white">State Detection</h3>
+            <p class="text-sm text-slate-300 leading-relaxed">Continuously monitoring primary and secondary biosignals to classify the patient's autonomic state.</p>
+            <ul class="space-y-2 pt-2 border-t border-slate-800/50 list-none p-0">
+              <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Measure HRV (RMSSD/SDNN) via wearable sensors.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Monitor respiration rate to differentiate between Sympathetic and Dorsal Vagal states.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Classify state as Ventral Vagal (safe), Sympathetic (mobilized), or Dorsal Vagal (shutdown).</li>
+            </ul>
+         </div>
+      </article>
+
+      <article class="relative pl-8 md:pl-0">
+         <div class="md:hidden absolute left-0 top-0 bottom-0 w-px bg-slate-800" aria-hidden="true"></div>
+         <div class="md:hidden absolute left-[-4px] top-6 w-2 h-2 rounded-full bg-indigo-500" aria-hidden="true"></div>
+         
+         <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 hover:bg-slate-900/60 transition-colors h-full">
+            <div class="flex items-center justify-between">
+               <span class="text-xs font-bold uppercase tracking-widest text-indigo-400">Step 2</span>
+            </div>
+            <h3 class="font-bold text-lg text-white">Differentiated Intervention</h3>
+            <p class="text-sm text-slate-300 leading-relaxed">Deploying specific light and haptic palettes based on the detected Polyvagal category.</p>
+            <ul class="space-y-2 pt-2 border-t border-slate-800/50 list-none p-0">
+              <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Sympathetic: Low-entropy, soothing blue/green fades at 0.1 Hz.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Dorsal Vagal: Medium-entropy, gentle amber pulsing to encourage mobilization.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Ventral Vagal: Maintenance of stable, naturalistic daylight patterns.</li>
+            </ul>
+         </div>
+      </article>
+
+      <article class="relative pl-8 md:pl-0">
+         <div class="md:hidden absolute left-0 top-0 bottom-0 w-px bg-slate-800" aria-hidden="true"></div>
+         <div class="md:hidden absolute left-[-4px] top-6 w-2 h-2 rounded-full bg-indigo-500" aria-hidden="true"></div>
+         
+         <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 hover:bg-slate-900/60 transition-colors h-full">
+            <div class="flex items-center justify-between">
+               <span class="text-xs font-bold uppercase tracking-widest text-indigo-400">Step 3</span>
+            </div>
+            <h3 class="font-bold text-lg text-white">Closed-Loop Feedback</h3>
+            <p class="text-sm text-slate-300 leading-relaxed">Dynamically adjusting environmental parameters based on real-time physiological response.</p>
+            <ul class="space-y-2 pt-2 border-t border-slate-800/50 list-none p-0">
+              <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Adjust light intensity and fade rates in response to HRV improvements.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Provide non-verbal positive reinforcement through subtle warmth or softness.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Iterate until the user reaches a target state of physiological resilience.</li>
+            </ul>
+         </div>
+      </article></div>
+  </section>
+
+  <section id="resilience" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="resilience-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="resilience-title" class="text-2xl font-bold text-white mb-2">Systemic Resilience</h2>
+      <p class="text-slate-400 leading-relaxed">Addressing ethical risks and technical failure modes.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-3 mt-8 items-stretch">
+      <article class="rounded-2xl border border-red-900/30 bg-red-950/10 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-red-200 flex items-center gap-2">
+           <span class="w-1.5 h-1.5 rounded-full bg-red-500" aria-hidden="true"></span>
+           Technological Coercion
+        </h3>
+        <p class="text-sm text-slate-300 leading-relaxed">The risk of subverting patient autonomy through opaque automated environmental changes.</p>
+        <div class="pt-3">
+           <p class="text-[10px] uppercase font-bold text-slate-500 mb-2">Mitigation Strategy</p>
+           <ul class="space-y-1 list-none p-0">
+             <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Mandatory manual override for all lighting/haptic signals.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Transparent system logic and co-designed therapeutic goals.</li>
+           </ul>
+        </div>
+      </article>
+
+      <article class="rounded-2xl border border-red-900/30 bg-red-950/10 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-red-200 flex items-center gap-2">
+           <span class="w-1.5 h-1.5 rounded-full bg-red-500" aria-hidden="true"></span>
+           Biometric Privacy Breach
+        </h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Exposure of immutable physiological identifiers or affective states.</p>
+        <div class="pt-3">
+           <p class="text-[10px] uppercase font-bold text-slate-500 mb-2">Mitigation Strategy</p>
+           <ul class="space-y-1 list-none p-0">
+             <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Privacy-by-design with local device-side processing.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Strict data minimization and robust end-to-end encryption.</li>
+           </ul>
+        </div>
+      </article>
+
+      <article class="rounded-2xl border border-red-900/30 bg-red-950/10 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-red-200 flex items-center gap-2">
+           <span class="w-1.5 h-1.5 rounded-full bg-red-500" aria-hidden="true"></span>
+           Algorithmic Bias
+        </h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Inaccurate state detection for diverse populations leading to counterproductive interventions.</p>
+        <div class="pt-3">
+           <p class="text-[10px] uppercase font-bold text-slate-500 mb-2">Mitigation Strategy</p>
+           <ul class="space-y-1 list-none p-0">
+             <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Rigorous bias auditing of AI models.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Prioritization of personalized models over generalized datasets.</li>
+           </ul>
+        </div>
+      </article></div>
+  </section>
+
+  <section id="metrics" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="metrics-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="metrics-title" class="text-2xl font-bold text-white mb-2">Key Performance Indicators</h2>
+      <p class="text-slate-400 leading-relaxed">Success is measured through objective physiological shifts and subjective usability improvements.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2 mt-8 items-stretch">
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-emerald-400">Autonomic Balance</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Improvement in HRV markers (RMSSD, LF/HF ratio) indicating parasympathetic activation.</p>
+        <div class="flex flex-wrap gap-2 pt-2">
+          <span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Increased HRV</span>
+<span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Decreased SCL</span>
+<span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Stabilized Respiration</span>
+        </div>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-emerald-400">Cognitive Load</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Reduction in mental effort required to process clinical dashboard history.</p>
+        <div class="flex flex-wrap gap-2 pt-2">
+          <span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Reduced NASA-TLX scores</span>
+<span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Lower task completion time</span>
+<span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Decreased error rates</span>
+        </div>
+      </article></div>
+  </section>
+
+  <section id="checklist" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="checklist-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="checklist-title" class="text-2xl font-bold text-white mb-2">Implementation Readiness</h2>
+      <p class="text-slate-400 leading-relaxed">Key steps to ensure clinical, technical, and ethical viability.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2 mt-8 items-stretch">
+      <article class="rounded-2xl border border-indigo-900/30 bg-indigo-950/10 p-6 space-y-4 h-full">
+        <h3 class="font-bold text-indigo-200 text-lg">System Design</h3>
+        <ul class="space-y-3 list-none p-0">
+          
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Define the Palette-Entropy levels for target clinical interventions.</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Configure MQTT brokers to support the Biolux symbolic messaging structure.</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Design smart textile interfaces with embedded CT-afferent stimulating haptics.</span>
+             </li>
+        </ul>
+      </article>
+
+      <article class="rounded-2xl border border-indigo-900/30 bg-indigo-950/10 p-6 space-y-4 h-full">
+        <h3 class="font-bold text-indigo-200 text-lg">Ethics &amp; Privacy</h3>
+        <ul class="space-y-3 list-none p-0">
+          
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Ensure local processing of biometric data to minimize central storage risks.</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Implement granular, revocable consent portals for patients.</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Conduct bias auditing on AI models for cross-cultural physiological variance.</span>
+             </li>
+        </ul>
+      </article>
+
+      <article class="rounded-2xl border border-indigo-900/30 bg-indigo-950/10 p-6 space-y-4 h-full">
+        <h3 class="font-bold text-indigo-200 text-lg">Validation</h3>
+        <ul class="space-y-3 list-none p-0">
+          
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Measure task completion time and NASA-TLX cognitive load on dashboards.</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Conduct pilot studies comparing multi-modal vs. unimodal sensory efficacy.</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Participate in interoperability Connect-a-thons to verify protocol compliance.</span>
+             </li>
+        </ul>
+      </article></div>
+  </section>
+  </main>
+
+  <footer class="border-t border-slate-800 bg-slate-950 py-12 mt-12">
+    <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
+       <div class="text-left">
+          <p class="text-sm font-bold text-white">Sovereign Cognitive OS</p>
+          <p class="text-xs text-slate-500 font-mono mt-1">Context Capsule Artifact</p>
+       </div>
+       <div class="text-right">
+          <p class="text-xs text-slate-600 font-mono mb-1">ID: biolux-framework</p>
+          <p class="text-xs text-slate-600 font-mono">Worldview: Human-Centered Design and Psychophysiological Evidence</p>
+          <p class="text-xs text-indigo-400 font-mono mt-1">State of Mind: 2025-06-14</p>
+       </div>
+    </div>
+  </footer>
+</body>
+</html>

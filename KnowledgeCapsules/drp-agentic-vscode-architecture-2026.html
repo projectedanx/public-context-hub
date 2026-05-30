@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <title>DRP-AGENTIC-VSCODE-PLUGIN-ARCHITECTURE-2026</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="A modular blueprint for transforming VSCode from a text editor into a control plane for multi-agent AI systems through a decoupled 3-tier architecture." />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+            display: ['JetBrains Mono', 'monospace'],
+          }
+        }
+      }
+    }
+  </script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-slate-950 text-slate-100 font-sans antialiased selection:bg-indigo-500/30">
+  <a href="#overview" class="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[100] px-4 py-2 bg-indigo-600 text-white rounded font-bold shadow-xl">Skip to Content</a>
+
+
+  <header class="sticky top-0 z-50 bg-slate-950/80 backdrop-blur-md border-b border-slate-800/60 supports-[backdrop-filter]:bg-slate-950/60">
+    <div class="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between gap-4">
+      <div class="flex items-center gap-4 min-w-0">
+        <div class="flex flex-col min-w-0">
+          <div class="flex items-center gap-2 mb-1">
+             <span class="text-[10px] uppercase tracking-wider text-slate-500 font-bold leading-none">Agentic IDE Architecture</span>
+             
+                <span class="text-[9px] font-mono text-indigo-400 bg-indigo-950/50 border border-indigo-900/50 px-1.5 py-0.5 rounded leading-none whitespace-nowrap" title="State of Mind: Research Effective Date">
+                   TEMPORAL LOCK: 2026-01-23
+                </span>
+             
+          </div>
+          <h1 class="text-lg font-bold text-white truncate leading-none">DRP-AGENTIC-VSCODE-PLUGIN-ARCHITECTURE-2026</h1>
+        </div>
+      </div>
+
+      <nav class="hidden md:block" aria-label="Capsule Sections">
+        <ul class="flex items-center gap-1 text-xs font-medium list-none m-0 p-0">
+          <li><a href="#overview" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Overview</a></li>
+        <li><a href="#key-concepts" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Concepts</a></li>
+        <li><a href="#structure" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Structure</a></li>
+        <li><a href="#workflow" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Workflow</a></li>
+        <li><a href="#resilience" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Resilience</a></li>
+        <li><a href="#metrics" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Metrics</a></li>
+        <li><a href="#checklist" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Start</a></li>
+        </ul>
+      </nav>
+
+      <a href="#overview"
+         role="button"
+         class="hidden sm:inline-flex items-center px-4 py-2 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-xs font-bold text-white shadow-lg shadow-indigo-900/20 transition-all transform hover:-translate-y-0.5 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-slate-900">
+        Review Architecture
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto px-6 pb-32">
+    <div class="pt-8 animate-in fade-in slide-in-from-top-4 duration-700"><ul class="flex flex-wrap gap-2 list-none p-0 m-0"><li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">VSCode Extensions</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Multi-Agent Systems</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">AI Orchestration</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Developer Tools</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">MCP</li></ul></div>
+
+  <section id="overview" class="pt-12 lg:pt-20 space-y-12 scroll-mt-20" aria-labelledby="overview-title">
+    <div class="flex flex-col lg:flex-row gap-12">
+      <div class="flex-1 space-y-6">
+        <ul class="flex flex-wrap gap-2 list-none p-0 m-0"><li class="text-xs px-3 py-1 rounded-full bg-sky-500/15 text-sky-100 border-sky-400/40 border font-medium">Client-Server-Client Model</li>
+<li class="text-xs px-3 py-1 rounded-full bg-sky-500/15 text-sky-100 border-sky-400/40 border font-medium">Standardized Telemetry</li>
+<li class="text-xs px-3 py-1 rounded-full bg-sky-500/15 text-sky-100 border-sky-400/40 border font-medium">DAP for Graphs</li></ul>
+
+        <h2 id="overview-title" class="text-4xl md:text-5xl font-bold leading-tight tracking-tight bg-clip-text text-transparent bg-gradient-to-br from-white to-slate-400">
+          DRP-AGENTIC-VSCODE-PLUGIN-ARCHITECTURE-2026
+        </h2>
+
+        <p class="text-lg md:text-xl text-slate-300 leading-relaxed font-light">
+          The traditional IDE is evolving from a text manipulation interface into a dynamic, agent-mediated workflow orchestration environment. Current agent frameworks (LangGraph, AutoGen, CrewAI) often operate as 'black boxes'—isolated processes with opaque internal states. This architecture establishes an 'Agent Interface Layer' (AIL) that surfaces agent cognition, plans, and memory through native VSCode UI paradigms, allowing developers to treat autonomous agents as observable, debuggable, and auditable team members.
+        </p>
+      </div>
+
+      <aside class="w-full lg:w-80 shrink-0" aria-labelledby="summary-title">
+        <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 backdrop-blur-sm sticky top-24">
+          <div class="flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-slate-500">
+             <div class="w-2 h-2 rounded-full bg-amber-500" aria-hidden="true"></div>
+             Core Objective
+          </div>
+          <h3 id="summary-title" class="text-lg font-bold text-white">From Editor to Control Plane</h3>
+          <p class="text-sm text-slate-300 leading-relaxed">The primary goal is to bridge the chasm between the deterministic VSCode Extension Host and probabilistic AI agent runtimes using a modular, transport-agnostic bridge that ensures performance, security, and human oversight.</p>
+          <ul class="flex flex-wrap gap-2 pt-2 border-t border-slate-800/50 list-none p-0 m-0"><li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Orchestration</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Observability</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Human-in-the-loop</li></ul>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <section id="key-concepts" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="concepts-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="concepts-title" class="text-2xl font-bold text-white mb-2">Architectural Pillars</h2>
+      <p class="text-slate-400 leading-relaxed">These core concepts form the foundation of a robust interface between software developers and autonomous AI agents.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2">
+      
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Client-Server-Client Topology</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">A three-tier execution model that separates the Presentation Layer (React Webview), the Orchestration Layer (Node.js Extension Host), and the Execution Layer (Python/Remote Agent Runtime) to maintain IDE responsiveness.</p>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Agent Telemetry Protocol (ATP)</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">A unified JSON-RPC schema that abstracts diverse framework outputs (like LangGraph nodes or AutoGen turns) into a standard set of lifecycle, thought, and tool events for the UI.</p>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Model Context Protocol (MCP) Integration</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Utilizes MCP to facilitate bidirectional discovery: exposing editor capabilities (read/write) as tools to the agent and exposing agent state (memory/plans) as resources to the editor.</p>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Graph-as-Stack-Frame Debugging</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Repurposing the Debug Adapter Protocol (DAP) to map agent graph nodes to stack frames and agent memory to variables, enabling familiar 'Step Over' and breakpoint functionality for AI logic.</p>
+      </article>
+    </div>
+  </section>
+
+  <section id="structure" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="structure-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="structure-title" class="text-2xl font-bold text-white mb-2">Layered Hierarchy</h2>
+      <p class="text-slate-400 leading-relaxed">The system is organized into three distinct tiers to ensure separation of concerns.</p>
+    </div>
+    <div class="mt-8">
+    <div class="overflow-x-auto rounded-2xl border border-slate-800 bg-slate-900/60 shadow-sm" role="region" aria-label="Data Table">
+      <table class="min-w-full text-sm">
+        <thead class="bg-slate-900/80 text-xs uppercase text-slate-500 font-semibold">
+          <tr><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Tier</th><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Environment</th><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Primary Responsibility</th></tr>
+        </thead>
+        <tbody><tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Tier 1: Presentation</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">VSCode Webview (React)</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Rendering agent plans, chat, and artifacts</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Tier 2: Orchestration</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">VSCode Extension Host (TS)</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Lifecycle, VSCode API routing, and secret management</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Tier 3: Execution</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Python/Subprocess</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">LLM inference loop, tool execution, and telemetry emission</td></tr></tbody>
+      </table>
+    </div></div>
+  </section>
+
+
+  <section id="workflow" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="workflow-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="workflow-title" class="text-2xl font-bold text-white mb-2">Operational Lifecycle</h2>
+      <p class="text-slate-400 leading-relaxed">The workflow ensures that agents remain active only when needed and always under the supervision of the human developer.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3 mt-8 items-stretch">
+      <article class="relative pl-8 md:pl-0">
+         <div class="md:hidden absolute left-0 top-0 bottom-0 w-px bg-slate-800" aria-hidden="true"></div>
+         <div class="md:hidden absolute left-[-4px] top-6 w-2 h-2 rounded-full bg-indigo-500" aria-hidden="true"></div>
+         
+         <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 hover:bg-slate-900/60 transition-colors h-full">
+            <div class="flex items-center justify-between">
+               <span class="text-xs font-bold uppercase tracking-widest text-indigo-400">Step 1</span>
+            </div>
+            <h3 class="font-bold text-lg text-white">Activation and Spawning</h3>
+            <p class="text-sm text-slate-300 leading-relaxed">The extension activates lazily based on workspace commands, spawning a child process for the agent runtime using the local environment's Python interpreter.</p>
+            <ul class="space-y-2 pt-2 border-t border-slate-800/50 list-none p-0">
+              <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Uses child_process.spawn for isolation</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Binds to the active workspace environment</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Sets up Stdio pipes for secure communication</li>
+            </ul>
+         </div>
+      </article>
+
+      <article class="relative pl-8 md:pl-0">
+         <div class="md:hidden absolute left-0 top-0 bottom-0 w-px bg-slate-800" aria-hidden="true"></div>
+         <div class="md:hidden absolute left-[-4px] top-6 w-2 h-2 rounded-full bg-indigo-500" aria-hidden="true"></div>
+         
+         <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 hover:bg-slate-900/60 transition-colors h-full">
+            <div class="flex items-center justify-between">
+               <span class="text-xs font-bold uppercase tracking-widest text-indigo-400">Step 2</span>
+            </div>
+            <h3 class="font-bold text-lg text-white">Telemetry and State Syncing</h3>
+            <p class="text-sm text-slate-300 leading-relaxed">The runtime emits ATP-compliant JSON events over Stdio, which are parsed by the Extension Host and synchronized to the React sidebar using a 'Shadow State' pattern.</p>
+            <ul class="space-y-2 pt-2 border-t border-slate-800/50 list-none p-0">
+              <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Newline-delimited JSON for protocol messages</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Differential updates to minimize serialization overhead</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Redirects raw logs to dedicated output channels</li>
+            </ul>
+         </div>
+      </article>
+
+      <article class="relative pl-8 md:pl-0">
+         <div class="md:hidden absolute left-0 top-0 bottom-0 w-px bg-slate-800" aria-hidden="true"></div>
+         <div class="md:hidden absolute left-[-4px] top-6 w-2 h-2 rounded-full bg-indigo-500" aria-hidden="true"></div>
+         
+         <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 hover:bg-slate-900/60 transition-colors h-full">
+            <div class="flex items-center justify-between">
+               <span class="text-xs font-bold uppercase tracking-widest text-indigo-400">Step 3</span>
+            </div>
+            <h3 class="font-bold text-lg text-white">Human-in-the-Loop Intervention</h3>
+            <p class="text-sm text-slate-300 leading-relaxed">Sensitive actions (file writes, shell commands) trigger an interrupt protocol where execution pauses for developer approval or modification.</p>
+            <ul class="space-y-2 pt-2 border-t border-slate-800/50 list-none p-0">
+              <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Interrupt protocol via LangGraph breakpoints</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Webview-based approval cards</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Modification of proposed actions before execution</li>
+            </ul>
+         </div>
+      </article></div>
+  </section>
+
+  <section id="resilience" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="resilience-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="resilience-title" class="text-2xl font-bold text-white mb-2">System Resilience</h2>
+      <p class="text-slate-400 leading-relaxed">Strategies to ensure the plugin remains stable and secure during autonomous agent execution.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-3 mt-8 items-stretch">
+      <article class="rounded-2xl border border-red-900/30 bg-red-950/10 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-red-200 flex items-center gap-2">
+           <span class="w-1.5 h-1.5 rounded-full bg-red-500" aria-hidden="true"></span>
+           Socket Leakage
+        </h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Agents opening non-localhost ports, exposing the dev environment to the network.</p>
+        <div class="pt-3">
+           <p class="text-[10px] uppercase font-bold text-slate-500 mb-2">Mitigation Strategy</p>
+           <ul class="space-y-1 list-none p-0">
+             <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Hard-bind host to 127.0.0.1</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Implement process-level socket auditing</li>
+           </ul>
+        </div>
+      </article>
+
+      <article class="rounded-2xl border border-red-900/30 bg-red-950/10 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-red-200 flex items-center gap-2">
+           <span class="w-1.5 h-1.5 rounded-full bg-red-500" aria-hidden="true"></span>
+           Context Desync
+        </h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Agent operates on stale file versions after a user edit.</p>
+        <div class="pt-3">
+           <p class="text-[10px] uppercase font-bold text-slate-500 mb-2">Mitigation Strategy</p>
+           <ul class="space-y-1 list-none p-0">
+             <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Active context syncing via onDidChangeTextDocument</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Pre-step memory updates via MCP</li>
+           </ul>
+        </div>
+      </article>
+
+      <article class="rounded-2xl border border-red-900/30 bg-red-950/10 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-red-200 flex items-center gap-2">
+           <span class="w-1.5 h-1.5 rounded-full bg-red-500" aria-hidden="true"></span>
+           UX Blocking
+        </h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Large JSON payloads clogging the Stdio pipe and freezing the editor.</p>
+        <div class="pt-3">
+           <p class="text-[10px] uppercase font-bold text-slate-500 mb-2">Mitigation Strategy</p>
+           <ul class="space-y-1 list-none p-0">
+             <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Out-of-band data transfer via temporary files</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Reference-passing for large artifacts</li>
+           </ul>
+        </div>
+      </article></div>
+  </section>
+
+  <section id="metrics" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="metrics-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="metrics-title" class="text-2xl font-bold text-white mb-2">Validation Metrics</h2>
+      <p class="text-slate-400 leading-relaxed">Success is measured by the ability of the extension to provide real-time updates without degrading IDE performance.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-3 mt-8 items-stretch">
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-emerald-400">Telemetry Latency</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">The time from an agent node transition to the visual update in the Sidebar.</p>
+        <div class="flex flex-wrap gap-2 pt-2">
+          <span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">&lt; 100ms for local agents</span>
+<span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Socket serialization overhead</span>
+        </div>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-emerald-400">UX Fluidity</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Maintenance of 60 FPS in the VSCode main thread while large agent states are processed.</p>
+        <div class="flex flex-wrap gap-2 pt-2">
+          <span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">No blocking on the Extension Host</span>
+<span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Throttled React renders</span>
+        </div>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-emerald-400">Process Integrity</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Successful teardown and resource reclamation upon extension deactivation.</p>
+        <div class="flex flex-wrap gap-2 pt-2">
+          <span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Zero orphaned processes</span>
+<span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Clean SIGTERM handling</span>
+        </div>
+      </article></div>
+  </section>
+
+  <section id="checklist" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="checklist-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="checklist-title" class="text-2xl font-bold text-white mb-2">Implementation Roadmap</h2>
+      <p class="text-slate-400 leading-relaxed">Key steps required to build and validate the Agentic VSCode plugin architecture.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2 mt-8 items-stretch">
+      <article class="rounded-2xl border border-indigo-900/30 bg-indigo-950/10 p-6 space-y-4 h-full">
+        <h3 class="font-bold text-indigo-200 text-lg">Core Bridge Setup</h3>
+        <ul class="space-y-3 list-none p-0">
+          
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Verify Stdio bidirectional communication</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Implement process cleanup handlers to prevent zombie Python processes</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Register custom activation events in package.json</span>
+             </li>
+        </ul>
+      </article>
+
+      <article class="rounded-2xl border border-indigo-900/30 bg-indigo-950/10 p-6 space-y-4 h-full">
+        <h3 class="font-bold text-indigo-200 text-lg">Telemetry Mapping</h3>
+        <ul class="space-y-3 list-none p-0">
+          
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Standardize events for chosen framework (e.g., LangGraph)</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Implement the 'Shadow State' reducer in the React Webview</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Configure Mermaid.js or React Flow for plan visualization</span>
+             </li>
+        </ul>
+      </article>
+
+      <article class="rounded-2xl border border-indigo-900/30 bg-indigo-950/10 p-6 space-y-4 h-full">
+        <h3 class="font-bold text-indigo-200 text-lg">Security Hardening</h3>
+        <ul class="space-y-3 list-none p-0">
+          
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Inject AUTH_TOKEN for internal process verification</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Configure VSCode SecretStorage for API key management</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Establish localhost socket auditing for external network protection</span>
+             </li>
+        </ul>
+      </article></div>
+  </section>
+  </main>
+
+  <footer class="border-t border-slate-800 bg-slate-950 py-12 mt-12">
+    <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
+       <div class="text-left">
+          <p class="text-sm font-bold text-white">Sovereign Cognitive OS</p>
+          <p class="text-xs text-slate-500 font-mono mt-1">Context Capsule Artifact</p>
+       </div>
+       <div class="text-right">
+          <p class="text-xs text-slate-600 font-mono mb-1">ID: drp-agentic-vscode-architecture-2026</p>
+          <p class="text-xs text-slate-600 font-mono">Worldview: The Evolution of the Integrated Development Environment</p>
+          <p class="text-xs text-indigo-400 font-mono mt-1">State of Mind: 2026-01-23</p>
+       </div>
+    </div>
+  </footer>
+</body>
+</html>

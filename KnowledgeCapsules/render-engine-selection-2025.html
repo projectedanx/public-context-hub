@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <title>Decision-Support Framework for Render Engine Selection (2025)</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="A comprehensive multi-lens analysis of leading render engines including V-Ray, Redshift, Octane, Arnold, and Corona, optimized for 2025 workflows." />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+            display: ['JetBrains Mono', 'monospace'],
+          }
+        }
+      }
+    }
+  </script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-slate-950 text-slate-100 font-sans antialiased selection:bg-indigo-500/30">
+  <a href="#overview" class="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[100] px-4 py-2 bg-indigo-600 text-white rounded font-bold shadow-xl">Skip to Content</a>
+
+
+  <header class="sticky top-0 z-50 bg-slate-950/80 backdrop-blur-md border-b border-slate-800/60 supports-[backdrop-filter]:bg-slate-950/60">
+    <div class="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between gap-4">
+      <div class="flex items-center gap-4 min-w-0">
+        <div class="flex flex-col min-w-0">
+          <div class="flex items-center gap-2 mb-1">
+             <span class="text-[10px] uppercase tracking-wider text-slate-500 font-bold leading-none">3D Computer Graphics</span>
+             
+                <span class="text-[9px] font-mono text-indigo-400 bg-indigo-950/50 border border-indigo-900/50 px-1.5 py-0.5 rounded leading-none whitespace-nowrap" title="State of Mind: Research Effective Date">
+                   TEMPORAL LOCK: 2025
+                </span>
+             
+          </div>
+          <h1 class="text-lg font-bold text-white truncate leading-none">Decision-Support Framework for Render Engine Selection (2025)</h1>
+        </div>
+      </div>
+
+      <nav class="hidden md:block" aria-label="Capsule Sections">
+        <ul class="flex items-center gap-1 text-xs font-medium list-none m-0 p-0">
+          <li><a href="#overview" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Overview</a></li>
+        <li><a href="#key-concepts" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Concepts</a></li>
+        <li><a href="#structure" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Structure</a></li>
+        <li><a href="#personas" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Personas</a></li>
+        <li><a href="#workflow" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Workflow</a></li>
+        <li><a href="#resilience" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Resilience</a></li>
+        <li><a href="#metrics" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Metrics</a></li>
+        <li><a href="#checklist" class="block px-3 py-1.5 rounded-lg hover:bg-slate-800 transition-colors text-slate-300 hover:text-white">Start</a></li>
+        </ul>
+      </nav>
+
+      <a href="https://example.com/render-comparison-2025"
+         role="button"
+         class="hidden sm:inline-flex items-center px-4 py-2 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-xs font-bold text-white shadow-lg shadow-indigo-900/20 transition-all transform hover:-translate-y-0.5 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-slate-900">
+        View Comparison Matrix
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto px-6 pb-32">
+    <div class="pt-8 animate-in fade-in slide-in-from-top-4 duration-700"><ul class="flex flex-wrap gap-2 list-none p-0 m-0"><li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">3D Rendering</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">VFX</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">ArchViz</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">GPU Acceleration</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Path Tracing</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">DCC Integration</li></ul></div>
+
+  <section id="overview" class="pt-12 lg:pt-20 space-y-12 scroll-mt-20" aria-labelledby="overview-title">
+    <div class="flex flex-col lg:flex-row gap-12">
+      <div class="flex-1 space-y-6">
+        <ul class="flex flex-wrap gap-2 list-none p-0 m-0"><li class="text-xs px-3 py-1 rounded-full bg-sky-500/15 text-sky-100 border-sky-400/40 border font-medium">Unbiased Path Tracing</li>
+<li class="text-xs px-3 py-1 rounded-full bg-sky-500/15 text-sky-100 border-sky-400/40 border font-medium">GPU Acceleration</li>
+<li class="text-xs px-3 py-1 rounded-full bg-sky-500/15 text-sky-100 border-sky-400/40 border font-medium">PBR Workflows</li>
+<li class="text-xs px-3 py-1 rounded-full bg-sky-500/15 text-sky-100 border-sky-400/40 border font-medium">Cloud Scalability</li></ul>
+
+        <h2 id="overview-title" class="text-4xl md:text-5xl font-bold leading-tight tracking-tight bg-clip-text text-transparent bg-gradient-to-br from-white to-slate-400">
+          Decision-Support Framework for Render Engine Selection (2025)
+        </h2>
+
+        <p class="text-lg md:text-xl text-slate-300 leading-relaxed font-light">
+          The rendering landscape in 2025 is defined by a convergence of real-time speed and offline photorealism. Selection of a render engine is no longer just about 'quality'—which has largely reached parity across the top tier—but about hardware utilization, licensing economics, and specific industry workflow integration (DCC). Engines are primarily categorized as External Plugins, Built-in Renderers, or Real-time engines, each balancing physical accuracy against computational speed.
+        </p>
+      </div>
+
+      <aside class="w-full lg:w-80 shrink-0" aria-labelledby="summary-title">
+        <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 backdrop-blur-sm sticky top-24">
+          <div class="flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-slate-500">
+             <div class="w-2 h-2 rounded-full bg-amber-500" aria-hidden="true"></div>
+             Market Context
+          </div>
+          <h3 id="summary-title" class="text-lg font-bold text-white">The GPU/Hybrid Dominance</h3>
+          <p class="text-sm text-slate-300 leading-relaxed">As of 2025, GPU-accelerated and hybrid (CPU+GPU) rendering have become the industry standard for most production tasks. While CPU-based rendering remains vital for massive VFX scenes due to memory stability, GPU engines like Redshift and Octane lead in motion design, while Corona and V-Ray maintain a stronghold in Architectural Visualization (ArchViz) through specialized ease-of-use features and interactive post-processing.</p>
+          <ul class="flex flex-wrap gap-2 pt-2 border-t border-slate-800/50 list-none p-0 m-0"><li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">GPU-Rendering</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Hybrid-Cores</li>
+<li class="text-xs px-3 py-1 rounded-full bg-amber-500/15 text-amber-100 border-amber-400/40 border font-medium">Production-Efficiency</li></ul>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <section id="key-concepts" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="concepts-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="concepts-title" class="text-2xl font-bold text-white mb-2">Core Technical Differentiators</h2>
+      <p class="text-slate-400 leading-relaxed">Understanding the architectural philosophy of a renderer determines its fitness for a project's technical constraints.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2">
+      
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Biased vs. Unbiased Algorithms</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Unbiased engines (Arnold, Octane) focus on physically correct light simulation through Monte Carlo path tracing, yielding ground-truth realism at the cost of longer convergence times. Biased engines (Redshift, V-Ray) utilize intelligent approximations like caching to accelerate renders, allowing artists to 'cheat' physics for speed while maintaining visual plausibility.</p>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Memory Management &amp; Out-of-Core</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">A critical bottleneck for GPU engines is VRAM. Modern engines (Redshift, V-Ray 6+) utilize 'out-of-core' techniques to stream textures and geometry from system RAM to GPU, preventing crashes on massive scenes at the cost of some performance, a feature where CPU engines (Arnold, Corona) historically held an advantage.</p>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 hover:border-slate-700 transition-colors group">
+        <h3 class="font-bold text-lg text-white group-hover:text-indigo-300 transition-colors">Spectral vs. RGB Rendering</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Octane stands out as a spectral renderer, calculating light in wavelength bands rather than simple RGB values. This enables natural simulation of complex optical phenomena like dispersion and accurate refractive caustics without manual 'faking' common in RGB-based engines.</p>
+      </article>
+    </div>
+  </section>
+
+  <section id="structure" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="structure-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="structure-title" class="text-2xl font-bold text-white mb-2">Comparative Engine Matrix</h2>
+      <p class="text-slate-400 leading-relaxed">A comparative matrix of the 'Big Five' engines in 2025.</p>
+    </div>
+    <div class="mt-8">
+    <div class="overflow-x-auto rounded-2xl border border-slate-800 bg-slate-900/60 shadow-sm" role="region" aria-label="Data Table">
+      <table class="min-w-full text-sm">
+        <thead class="bg-slate-900/80 text-xs uppercase text-slate-500 font-semibold">
+          <tr><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Engine</th><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Core Tech</th><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">GI Strategy</th><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Best For</th></tr>
+        </thead>
+        <tbody><tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Arnold</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">CPU/GPU</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Brute Force (Unbiased)</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Feature Film VFX</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Redshift</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">GPU Only</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Biased / Cached</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Fast Motion Design</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Octane</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">GPU Only</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Spectral Path Tracing</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Look-Dev &amp; Concept Art</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">V-Ray</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Hybrid</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Mixed Biased/Unbiased</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Generalist Pipelines</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Corona</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">CPU Only</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Unbiased + UHD Cache</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Photoreal ArchViz</td></tr></tbody>
+      </table>
+    </div></div>
+  </section>
+
+  <section id="personas" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="personas-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="personas-title" class="text-2xl font-bold text-white mb-2">Industry Role Alignment</h2>
+      <p class="text-slate-400 leading-relaxed">Mapping render engines to specific professional profiles.</p>
+    </div>
+    <div class="mt-8">
+    <div class="overflow-x-auto rounded-2xl border border-slate-800 bg-slate-900/60 shadow-sm" role="region" aria-label="Data Table">
+      <table class="min-w-full text-sm">
+        <thead class="bg-slate-900/80 text-xs uppercase text-slate-500 font-semibold">
+          <tr><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Profile</th><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Primary Engine</th><th scope="col" class="text-left px-4 py-3 border-b border-slate-800 tracking-wide">Key Driver</th></tr>
+        </thead>
+        <tbody><tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Freelance ArchViz</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Corona</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Ease of use and LightMix flexibility</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">Motion Graphics Artist</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Redshift</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Raw speed and Cinema 4D integration</td></tr>
+<tr class="hover:bg-slate-900/40 transition-colors"><td class="px-4 py-3 border-b border-slate-800 font-medium text-slate-200" scope="row">VFX Technical Director</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Arnold</td><td class="px-4 py-3 border-b border-slate-800 text-slate-400">Predictability, scalability, and shading depth</td></tr></tbody>
+      </table>
+    </div></div>
+  </section>
+
+  <section id="workflow" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="workflow-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="workflow-title" class="text-2xl font-bold text-white mb-2">The Selection &amp; Implementation Pipeline</h2>
+      <p class="text-slate-400 leading-relaxed">Selecting a renderer is an operational decision that dictates the speed of the creative feedback loop.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3 mt-8 items-stretch">
+      <article class="relative pl-8 md:pl-0">
+         <div class="md:hidden absolute left-0 top-0 bottom-0 w-px bg-slate-800" aria-hidden="true"></div>
+         <div class="md:hidden absolute left-[-4px] top-6 w-2 h-2 rounded-full bg-indigo-500" aria-hidden="true"></div>
+         
+         <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 hover:bg-slate-900/60 transition-colors h-full">
+            <div class="flex items-center justify-between">
+               <span class="text-xs font-bold uppercase tracking-widest text-indigo-400">Step 1</span>
+            </div>
+            <h3 class="font-bold text-lg text-white">Typology Alignment</h3>
+            <p class="text-sm text-slate-300 leading-relaxed">Determine the engine type based on the host DCC (Digital Content Creation) software and target hardware.</p>
+            <ul class="space-y-2 pt-2 border-t border-slate-800/50 list-none p-0">
+              <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Check for bundled availability (Arnold in Maya, Redshift in C4D).</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Evaluate GPU VRAM vs. Scene Complexity.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Assess team familiarity with specific node systems.</li>
+            </ul>
+         </div>
+      </article>
+
+      <article class="relative pl-8 md:pl-0">
+         <div class="md:hidden absolute left-0 top-0 bottom-0 w-px bg-slate-800" aria-hidden="true"></div>
+         <div class="md:hidden absolute left-[-4px] top-6 w-2 h-2 rounded-full bg-indigo-500" aria-hidden="true"></div>
+         
+         <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 hover:bg-slate-900/60 transition-colors h-full">
+            <div class="flex items-center justify-between">
+               <span class="text-xs font-bold uppercase tracking-widest text-indigo-400">Step 2</span>
+            </div>
+            <h3 class="font-bold text-lg text-white">Sampling &amp; Optimization</h3>
+            <p class="text-sm text-slate-300 leading-relaxed">Configure the core sampling strategy to balance noise reduction and render time.</p>
+            <ul class="space-y-2 pt-2 border-t border-slate-800/50 list-none p-0">
+              <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Implement Adaptive Sampling to focus rays on noisy areas.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Choose denoisers (OptiX for interactive, OIDN for final).</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Set GI bounce limits based on interior vs. exterior needs.</li>
+            </ul>
+         </div>
+      </article>
+
+      <article class="relative pl-8 md:pl-0">
+         <div class="md:hidden absolute left-0 top-0 bottom-0 w-px bg-slate-800" aria-hidden="true"></div>
+         <div class="md:hidden absolute left-[-4px] top-6 w-2 h-2 rounded-full bg-indigo-500" aria-hidden="true"></div>
+         
+         <div class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-4 hover:bg-slate-900/60 transition-colors h-full">
+            <div class="flex items-center justify-between">
+               <span class="text-xs font-bold uppercase tracking-widest text-indigo-400">Step 3</span>
+            </div>
+            <h3 class="font-bold text-lg text-white">Interactive Look-Dev</h3>
+            <p class="text-sm text-slate-300 leading-relaxed">Utilize IPR (Interactive Preview Rendering) for real-time lighting and material adjustment.</p>
+            <ul class="space-y-2 pt-2 border-t border-slate-800/50 list-none p-0">
+              <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Leverage Octane Live Viewer or Corona IR for instant feedback.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Use V-Ray LightMix to adjust light intensities post-render.</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-indigo-500" aria-hidden="true">•</span>Test material responses under varied HDRI environments.</li>
+            </ul>
+         </div>
+      </article></div>
+  </section>
+
+  <section id="resilience" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="resilience-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="resilience-title" class="text-2xl font-bold text-white mb-2">System Stability &amp; Risks</h2>
+      <p class="text-slate-400 leading-relaxed">Identifying and mitigating common technical failure points in professional rendering.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-3 mt-8 items-stretch">
+      <article class="rounded-2xl border border-red-900/30 bg-red-950/10 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-red-200 flex items-center gap-2">
+           <span class="w-1.5 h-1.5 rounded-full bg-red-500" aria-hidden="true"></span>
+           GPU Out-of-Memory (OOM) Crash
+        </h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Render failure when a scene exceeds the physical memory of the graphics card.</p>
+        <div class="pt-3">
+           <p class="text-[10px] uppercase font-bold text-slate-500 mb-2">Mitigation Strategy</p>
+           <ul class="space-y-1 list-none p-0">
+             <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Enable out-of-core streaming</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Optimize texture resolutions</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Utilize geometric instancing/proxies</li>
+           </ul>
+        </div>
+      </article>
+
+      <article class="rounded-2xl border border-red-900/30 bg-red-950/10 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-red-200 flex items-center gap-2">
+           <span class="w-1.5 h-1.5 rounded-full bg-red-500" aria-hidden="true"></span>
+           Temporal Flicker
+        </h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Inconsistent noise patterns or denoiser artifacts between frames in an animation.</p>
+        <div class="pt-3">
+           <p class="text-[10px] uppercase font-bold text-slate-500 mb-2">Mitigation Strategy</p>
+           <ul class="space-y-1 list-none p-0">
+             <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Lock noise seeds</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Increase base sample counts</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Use multi-frame denoisers</li>
+           </ul>
+        </div>
+      </article>
+
+      <article class="rounded-2xl border border-red-900/30 bg-red-950/10 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-red-200 flex items-center gap-2">
+           <span class="w-1.5 h-1.5 rounded-full bg-red-500" aria-hidden="true"></span>
+           Version Drift
+        </h3>
+        <p class="text-sm text-slate-300 leading-relaxed">Discrepancies in visual output when opening scenes in newer software versions.</p>
+        <div class="pt-3">
+           <p class="text-[10px] uppercase font-bold text-slate-500 mb-2">Mitigation Strategy</p>
+           <ul class="space-y-1 list-none p-0">
+             <li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Freeze plugin versions during production</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Audit scene shaders upon upgrade</li>
+<li class="text-xs text-slate-400 flex items-start"><span class="mr-2 text-slate-600" aria-hidden="true">→</span>Use open standards like USD/MaterialX</li>
+           </ul>
+        </div>
+      </article></div>
+  </section>
+
+  <section id="metrics" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="metrics-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="metrics-title" class="text-2xl font-bold text-white mb-2">Performance Indicators</h2>
+      <p class="text-slate-400 leading-relaxed">Quantifiable measures used to evaluate engine performance and efficiency.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-3 mt-8 items-stretch">
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-emerald-400">Noise Convergence Speed</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">The time required for an image to reach a visually 'clean' state without denoising artifacts.</p>
+        <div class="flex flex-wrap gap-2 pt-2">
+          <span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Samples per pixel per second</span>
+<span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Variance-based threshold time</span>
+        </div>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-emerald-400">GPU Scaling Linearity</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">How effectively the engine utilizes multiple GPUs (e.g., 2x GPUs should ideally yield a ~1.9x speed increase).</p>
+        <div class="flex flex-wrap gap-2 pt-2">
+          <span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Render time reduction per added GPU</span>
+<span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Power-to-performance ratio</span>
+        </div>
+      </article>
+
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/40 p-6 space-y-3 h-full">
+        <h3 class="font-bold text-emerald-400">Memory Overhead</h3>
+        <p class="text-sm text-slate-300 leading-relaxed">The amount of RAM/VRAM consumed per million polygons or 4K texture set.</p>
+        <div class="flex flex-wrap gap-2 pt-2">
+          <span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">VRAM peak usage</span>
+<span class="px-2 py-1 rounded bg-slate-800 text-[10px] text-slate-400 font-mono">Out-of-core performance penalty</span>
+        </div>
+      </article></div>
+  </section>
+
+  <section id="checklist" class="mt-20 pt-12 border-t border-slate-800 scroll-mt-20" aria-labelledby="checklist-title">
+    <div class="max-w-2xl mb-8">
+      <h2 id="checklist-title" class="text-2xl font-bold text-white mb-2">Selection Readiness Checklist</h2>
+      <p class="text-slate-400 leading-relaxed">Use this checklist to verify that a chosen renderer aligns with project technical and financial constraints.</p>
+    </div>
+    <div class="grid gap-6 md:grid-cols-2 mt-8 items-stretch">
+      <article class="rounded-2xl border border-indigo-900/30 bg-indigo-950/10 p-6 space-y-4 h-full">
+        <h3 class="font-bold text-indigo-200 text-lg">Hardware &amp; Infrastructure</h3>
+        <ul class="space-y-3 list-none p-0">
+          
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Is the GPU VRAM sufficient (8GB+ for production)?</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Does the farm support the specific plugin version?</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Is NVLink available for memory pooling?</span>
+             </li>
+        </ul>
+      </article>
+
+      <article class="rounded-2xl border border-indigo-900/30 bg-indigo-950/10 p-6 space-y-4 h-full">
+        <h3 class="font-bold text-indigo-200 text-lg">Production Requirements</h3>
+        <ul class="space-y-3 list-none p-0">
+          
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Does the project require spectral dispersion (Octane)?</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Is temporal stability for animation critical (Arnold/V-Ray)?</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Are Light Path Expressions (LPEs) needed for compositing?</span>
+             </li>
+        </ul>
+      </article>
+
+      <article class="rounded-2xl border border-indigo-900/30 bg-indigo-950/10 p-6 space-y-4 h-full">
+        <h3 class="font-bold text-indigo-200 text-lg">Economic Viability</h3>
+        <ul class="space-y-3 list-none p-0">
+          
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Compare subscription costs (Chaos Solo vs. Maxon One).</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Assess floating license needs for small teams.</span>
+             </li>
+
+             <li class="flex items-start gap-3 text-sm text-slate-300">
+                <input type="checkbox" class="mt-1 w-4 h-4 rounded border-slate-600 bg-slate-800 text-indigo-500 focus:ring-indigo-500 focus:ring-offset-slate-900" />
+                <span>Evaluate 'bundled' value (Arnold with Maya).</span>
+             </li>
+        </ul>
+      </article></div>
+  </section>
+  </main>
+
+  <footer class="border-t border-slate-800 bg-slate-950 py-12 mt-12">
+    <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
+       <div class="text-left">
+          <p class="text-sm font-bold text-white">Sovereign Cognitive OS</p>
+          <p class="text-xs text-slate-500 font-mono mt-1">Context Capsule Artifact</p>
+       </div>
+       <div class="text-right">
+          <p class="text-xs text-slate-600 font-mono mb-1">ID: render-engine-selection-2025</p>
+          <p class="text-xs text-slate-600 font-mono">Worldview: Physical-Based Rendering (PBR) Paradigm</p>
+          <p class="text-xs text-indigo-400 font-mono mt-1">State of Mind: 2025</p>
+       </div>
+    </div>
+  </footer>
+</body>
+</html>
