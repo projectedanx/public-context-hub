@@ -1,0 +1,114 @@
+Logical Reasoning and Critical Thought Frameworks
+Reasoning and Critical Thinking
+<
+Modes of Logical Reasoning (Peircean)
+<
+Peirce's Method for Fixation of Belief
+<
+Critical Thinking & Cognitive Aspects
+<
+Conceptual Blending (Fauconnier & Turner)
+<
+Abduction (Retroduction/Hypothesis)
+<
+Deduction (Top-Down Logic)
+<
+Induction (Bottom-Up Logic)
+<
+Goal of Inquiry
+<
+Four Methods Reviewed
+<
+Logic (Peircean Usage)
+<
+Three Stages of Inquiry
+<
+Core Skills/Elements
+<
+Hindrances (Cognitive Biases)
+<
+Explanations & Coherence
+<
+Basic Mental Operation: Leads to new meaning/insight
+Integration Network (Four-Space Model)
+<
+Optimality Principles (Assessment Measures)
+<
+Amalgams
+<
+Computational Framework (AI)
+<
+Function
+<
+Characteristics
+<
+Peirce's Formula (1903)
+<
+Applications
+<
+Process: General premise to specific conclusion
+Conclusion is necessarily true if premises are true (certain)
+Used for deriving testable consequences from hypotheses
+Examples: Syllogisms, Mathematical proofs
+Fallacies: Affirming the consequent, Denying the antecedent
+Process: Specific observations to general conclusion (ampliative)
+Conclusion is probable, not guaranteed
+Used for testing hypotheses / determining proportion of truth
+Types: Enumerative/Simple induction, Statistical generalization, Analogical reasoning
+Related to Problem of Induction (Hume)
+Attain state of belief/opinion
+End state of doubt (dissatisfaction)
+Tenacity/Dogmatism (Ineffective due to social impulse)
+Authority (Dogmatism supported by repression)
+A Priori Method
+Method of Experience (Peirce's approved method, embraces Logic)
+General art of reasoning
+Subsumes inference (Deduction, Induction, Abduction)
+Doctrine of truth and discovery manner
+First Stage: Abduction (Forming/Estimating plausibility)
+Second Stage: Deduction (Deriving consequences)
+Third Stage: Induction (Testing/Verification)
+Analysis & Evaluation
+Logical reasoning
+Creativity
+Open-mindedness
+Reasoned judgment (logical inference)
+Identifying assumptions
+Confirmation bias
+Illusion of explanatory depth (IOED)
+Belief bias
+Groupthink
+Causal Schemata: Common-effect, Linear chains, Common cause
+Evaluation Criteria: Relevance, Coherence, Non-Circularity
+Coherence defined by constraint satisfaction (Thagard)
+Consilience (Whewell): Evidence from maximally diverse sources
+Input Space 1 & 2
+Generic Space (Shared structure)
+Blended Space (Emergent meaning)
+Integration Principle (Blend as tightly integrated unit)
+Unpacking (Blend prompts reconstruction of network)
+Web (Maintain connections to input spaces)
+Topology (Useful topology reflected in blend)
+Automate generic space discovery
+New description containing parts from original inputs
+Search problem solved by Answer Set Programming (ASP)
+Evaluation uses metrics (Informational content, Structure)
+Forming explanatory hypotheses
+Introducing new ideas/theories (creative)
+Inference to the Best Explanation (IBE)
+Reasoning from consequent to antecedent
+Explains surprising/puzzling observations
+Plausible (likely, but not guaranteed)
+Least secure/most fertile inference mode
+Guessing instinct/act of insight
+Proximate aim: Account for phenomena economically
+Longer aim: Economize inquiry itself
+Pragmatism is the logic of abduction
+Surprising fact C is observed
+If A were true, C would be a matter of course
+Hence, there is reason to suspect A is true
+Scientific discovery (e.g., Neptune, Cathode rays)
+Medical diagnosis (inferring illness from symptoms)
+Qualitative research (Creative/Exploratory Coding)
+Artificial Intelligence (AI) / Belief Revision
+Everyday reasoning / Sensemaking

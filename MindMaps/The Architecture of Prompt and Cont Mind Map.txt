@@ -1,0 +1,65 @@
+The Architecture of Prompt and Context Engineering
+Prompt and Context Engineering
+<
+Evolution of Paradigms
+<
+Core Structural Frameworks
+<
+Advanced Reasoning Patterns
+<
+Automated Prompt Optimization
+<
+Architectural Components
+<
+Reliability and Determinism
+<
+Ethical and Human Factors
+<
+Vibe Coding (Intuition-driven)
+Prompt Engineering (Static instructions)
+Context Engineering (Dynamic data management)
+Promptware Engineering (Verifiable software artifacts)
+CO-STAR
+<
+CRISP / ROSES
+<
+Sandwich Architecture (Top Bun, Filling, Bottom Bun)
+Chain-of-Thought (Linear steps)
+Tree-of-Thought (Branching paths)
+Graph-of-Thought (Networked dependencies)
+Rephrase and Respond (RaR)
+Self-Reflection / Refine
+Frameworks
+<
+Evolutionary Operators
+<
+Orchestrator (Control plane)
+Agent Modules (Narrow task focus)
+Validators (Gatekeepers)
+Retrieval-Augmented Generation (RAG)
+Knowledge Graphs (Structured grounding)
+Cognitive Contracts (PRPs)
+Design by Contract (Pre/Post-conditions)
+Semantic Drift Mitigation
+Symbolic Scars (Failure logs)
+Constrained Decoding (FSM/Masking)
+Cognitive Atrophy Paradox
+Beneficial Friction
+Pluriversal Design (Decolonising AI)
+Human-in-the-Loop (HITL) Oversight
+Context
+Objective
+Style
+Tone
+Audience
+Response
+Role / Persona
+Scenario / Situation
+Expected Solution / Specification
+DSPy (Programmatic optimization)
+GReaTer (Gradients over reasoning)
+EvoPrompt (Genetic algorithms)
+TextGrad (Gradient-based text tuning)
+Selection (Thompson Sampling/Bandit)
+Crossover
+Mutation

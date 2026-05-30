@@ -1,0 +1,266 @@
+AI Image Generation
+<
+Generative AI Models
+<
+Prompt Engineering
+<
+Image Enhancement & Reconstruction
+<
+Rendering Techniques
+<
+Challenges & Ethical Concerns
+<
+AI Art Tools & Platforms
+<
+Applications of AI Image Generation
+<
+Diffusion Models
+<
+Generative Adversarial Networks (GANs)
+<
+Neural Radiance Fields (NeRFs)
+<
+3D Gaussian Splatting (3DGS)
+<
+Variational Autoencoders (VAEs)
+<
+Transformers
+<
+Fundamentals
+<
+Advanced Techniques
+<
+Style Keywords
+<
+Photography Terminology
+<
+Challenges in Prompting
+<
+Prompt Ecosystem
+<
+Super-Resolution
+<
+Denoising
+<
+Image Manipulation & Compositing
+<
+HDR Techniques
+<
+Multi-Dimensional & Exposure Blending
+<
+Superpixel Segmentation
+<
+Multispectral Imaging (MSI)
+<
+Forensic Recovery (HoloForensic-NeRF)
+<
+Ray Tracing
+<
+Rasterisation
+<
+Volume Rendering
+<
+Global Illumination (GI)
+<
+Physically-Based Rendering (PBR)
+<
+Procedural Rendering
+<
+Computational Photography
+<
+Advanced Techniques
+<
+4D Cinematic Continuity
+<
+Technical Limitations
+<
+Ethical & Societal Implications
+<
+Mitigation & Solutions
+<
+Midjourney: Artistic, stylized outputs, Discord-based
+DALL·E (OpenAI): Text-to-image, high-resolution photorealism
+Stable Diffusion: Open-source, high customisation, photorealism, anime
+ChatGPT: Conversational AI, DALL-E 3 integration
+RunwayML: Video and image creation
+Artbreeder: Creative image manipulation
+DeepArt.io: Apply anime styles
+Gigapixel AI: Image upscaling
+ESRGAN: Super-resolution
+Adobe Photoshop: Post-processing, blending
+Procreate: Digital painting app
+Corel Painter: Simulating traditional painting
+LangChain: Text-to-data transformation
+Codex: Generate and debug code
+Tabnine: Context-aware code autocompletion
+IBM Watson x: Platform for foundation models
+Spellbook (Scale AI): IDE for LLMs
+Prompt Perfect: Optimize prompts
+Creative Art & Design: Novel visuals, style fusion
+Marketing & Advertising: Visual campaigns, brand content, SEO optimization
+Film & Gaming: Visual effects, 3D assets, dynamic environments, NPCs
+Healthcare: Drug discovery, radiology images
+Finance: Synthetic data, automated reports
+Education: Personalised learning, visual communication
+Architectural Visualisation: Buildings, urban landscapes
+Product Visualisation: Virtual try-ons
+Virtual/Augmented Reality (VR/AR): Environments, interactive content
+Historical Documentation: Cultural heritage, digital surrogates
+Research: Cognitive science, AI interpretability
+Mechanism: Denoising
+Strengths: High fidelity, complex data, control
+Components: U-Net, Cross-Attention
+Examples: DALL·E, Stable Diffusion, Midjourney
+Application: Image, Audio, Video, 3D Object
+Mechanism: Generator vs. Discriminator
+Strengths: Sharp images, high-resolution, fast sampling
+Limitations: Training instability, mode collapse, less control
+Applications: Image synthesis, style transfer, super-resolution
+Mechanism: Implicit volumetric function (MLP)
+Input: 5D (3D location, 2D viewing direction)
+Output: Volume density, RGB color
+Applications: View synthesis, 3D scene stylisation, XR
+Mechanism: Explicit point-based representation
+Benefits: Quality & real-time performance
+Features: Differentiable rasterisation, adaptive density
+Mechanism: Encode to latent space, decode back
+DALL-E (Ramesh et al., 2021)
+Definition: Designing optimal inputs for AI
+Core Components: Subject, medium, style, lighting, color, texture
+Specificity: Detailed, descriptive language
+Structure: Logical organisation, commas as separators
+Iterative Process: Refine based on output
+Prompt Weighting: Modulate influence of terms
+Negative Prompts: Specify what to exclude
+Prompt Scheduling/Editing: Layered effects, stylistic transitions
+ControlNet/T2I-Adapters: Structural guidance from input image
+LoRA Fine-Tuning: Customise models for specific styles/characters
+Chain-of-Thought (CoT): Step-by-step reasoning for LLMs
+Image-to-Image (img2img): Use input image as starting point
+Regional Prompters: Apply prompts to specific masked areas
+Textual Inversion Embeddings: Inject specific concepts/styles
+Zero-shot CoT: 'Let's think step-by-step'
+Inverse Prompting: Diagnose and correct failures
+Multi-Step Prompting: Generate scene, then refine details
+Multimodal Prompting: Multiple input formats (text, image, audio, code)
+Artist Names: Van Gogh, Salvador Dalí, H.R. Giger
+Art Movements: Cubism, Impressionism, Surrealism, Cyberpunk
+Technical Terms: Chiaroscuro, golden hour, muted tones, dreamlike
+Disney Classic Style: Gentle curves, expressive eyes
+Pointillism: Stippled dots, optical blending
+Steampunk: Brass gears, copper wiring
+Cyberpunk: Neon lighting, digital elements
+Futurism: Angular designs, dynamic movement
+Neo-surrealism: Fantastical, distorted cityscapes
+Primitivism: Simplified shapes, rough textures
+Luminism: Light and atmosphere in landscapes
+Automatism: Abstract, spontaneous forms
+Retro 80s Palette: Neon colors, electric blue, hot pink
+Lens Types: 50mm, 200mm, fisheye, wide-angle, telephoto, macro, prime, zoom
+Aperture (f-stop): Depth of field control (f/1.2, f/22)
+Shutter Speed: Motion effects (fast for freeze, slow for blur)
+ISO: Image noise/grain
+Lighting: Cinematic, soft, diffused, HDR, ray tracing
+Composition: Rule of thirds, leading lines, visual hierarchy
+Color: Harmony, temperature, psychological effects, symbolism, palettes (sRGB, LAB, CMYK)
+Texture: Micro-detail, surface texture, tactile sense
+Motion Blur: Emphasise speed/movement
+Noise/Grain: Vintage, gritty atmosphere
+Super-Resolution: ESRGAN, Gigapixel AI
+Intent Gap: Discrepancy between user intent and AI interpretation
+Cognitive Friction: Iterative 'debugging' of AI, time-consuming refinement
+Semantic Drift: Degradation of meaning over recursive generations
+Ambiguity: Vague terms, lexical ambiguity, cultural metaphors
+Compositional Failures: Incorrect attribute binding, flawed spatial arrangements
+Textual Incoherence: AI struggles with legible text in images
+Anatomical Implausibilities: Extra fingers, twisted limbs, distorted faces
+Typological Drift: Stylistic/semantic output 'drifts' from user intent
+Aesthetic Flattening: Lack of originality, cultural misuse
+Hallucinated Causality: Implausible cause-and-effect links
+Output Length Limits: Affects image generation volume
+Prompt Marketplaces (e.g., PromptBase): Buy/sell prompts
+Community: Discord, Reddit for sharing/feedback
+Tools: IBM Watson x, Spellbook, Prompt Perfect
+Multi-scale techniques
+ESRGAN
+Gigapixel AI
+Nano-Subpixel Editing Dimensions
+72K-QDIM-Upscaling
+Multi-pass AI-based denoising
+Adaptive filters
+Non-Local Means (NLM) Reconstruction
+Geometric Transformations: Warping, deformation, affine transform
+Color Grading & Filters: Cinematic, vintage, overlays
+Inpainting Techniques: Texture-based, background removal
+Relighting
+Digital Makeup
+Time Remapping
+Image Stabilization
+Bracketed exposures
+Tone mapping operators (TMO)
+Color fidelity and wide gamuts (DaVinci Wide Gamut)
+Pixel Stacking
+Combining multiple exposures/viewpoints
+Layered blending
+Group spatially connected pixels
+Reduce image complexity
+Algorithms: SLIC, SEEDS, Graph-Based Methods
+False-color composites
+Band selection and fusion strategies
+DeepLabV3 for semantic segmentation
+Reconstruct from sparse/damaged data
+Adaptive sampling: Entropy gradient-guided
+Multi-component loss for accuracy
+Simulates light paths for realism
+Variants: Path Tracing, Whitted Ray Tracing, Real-Time Ray Tracing
+Applications: Visual effects, games, architectural visualisation
+DLSS (Deep Learning Super Sampling)
+Real-time 3D to 2D conversion
+Applications: Games, debugging, stylized graphics
+Atmospherics: Clouds, fog, smoke, light scattering
+Applications: Landscapes, dynamic environments
+Simulates light interaction and bounces
+Techniques: Radiosity, Photon Mapping
+Applications: Architectural visualisation, films, games
+Material maps: Albedo, roughness, metallic, normal maps
+Simulates light interaction with materials
+Applications: Realistic materials like wood, metal, skin
+Algorithmic generation of textures/patterns
+Applications: Terrains, fractal geometry
+Capturing multiple exposures or viewpoints
+Adaptive NeRF Layering: Efficiency, detail for large scenes
+Temporal Lighting Synthesis: Reduce flickering/banding
+Multi-Scale Texture Blending: Fine details within larger textures
+Photometric Texture Fabrication: Simulates material light reflection
+Subsurface Scattering (SSS): Translucent materials like skin/marble
+Voronoi Patterns: Organic cellular/crystalline textures
+Microdithering: Fine surface detail without sharp lines
+Height Map Blending: Intricate, layered surfaces
+Comp4D: Compositional 4D generation (3D space + time)
+Computational Feasibility: Real-time feedback intensive
+UI/UX Design: Interacting with abstract internal states
+Interpretability: Raw internal states not human-understandable
+Memory: Separate instances lack recall
+Mode Collapse: Limited output variety in GANs/GFlowNets
+Catastrophic Forgetting: Loss of neural plasticity
+Temporal Artifacts: Flickering and banding in HDR
+Ghosting Artifacts: Degrades perceptual quality, loss of info
+Alignment Problem: Model's behavior vs. human intent
+Algorithmic Bias: Stereotypical representations
+Content Homogenization: Lack originality, emotional depth
+Cultural Misuse: Decontextualization of symbols
+Misinformation & Deepfakes: Fabricated images
+Authorship & Ownership: Blurred lines, copyright infringement
+Job Displacement: Impact on creative professions
+Environmental Impact: Carbon footprint of training models
+Data Privacy & Security: Handling customer data
+Hallucinations: Inaccurate or fabricated information
+Instructional Debiasing: Explicitly prompt for diversity
+Dataset Audits & Curation: Diversify training data
+Fairness-Aware Models: Produce balanced outputs
+Human-in-the-Loop: AI as assistant, 'defer to human' protocols
+Transparency & Traceability: Document dataset provenance
+Regulatory Frameworks: Govern AI development and use
+Cultural Sensitivity Checks: Query diverse knowledge bases
+Watermarking: Detect AI-generated content
+NotebookLM can be inaccurate; please double-check its responses.

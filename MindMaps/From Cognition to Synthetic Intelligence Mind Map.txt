@@ -1,0 +1,98 @@
+The Architecture of Metaphor: From Cognition to Synthetic Intelligence
+Metaphor: Cognitive, Philosophical, and Physics-Grounded Perspectives
+<
+Foundational Cognitive Theories
+<
+Philosophical Perspectives
+<
+Physics and Information Theory
+<
+Biological and Evolutionary Basis
+<
+AI and Synthetic Systems
+<
+Conceptual Metaphor Theory (CMT)
+<
+Conceptual Integration (Blending)
+<
+Embodied Cognition
+<
+Continental Philosophy
+<
+Epistemological Metaphors
+<
+Phenomenology
+<
+Information Gravity
+<
+Thermodynamics of Cognition
+<
+Geometric Models
+<
+Neural Reuse
+<
+Symbolic Species (Deacon)
+<
+Neurobiology
+<
+Large Language Models (LLMs)
+<
+FRESH Model
+<
+Embodied AI
+<
+Cross-domain mappings
+Source and target domains
+Primary vs. complex metaphors
+Invariance Hypothesis
+Four-space model
+Generic and blended spaces
+Material anchors
+Creative mental leaps
+Sensorimotor grounding
+Modal representations
+Action-sentence compatibility
+Mirror neuron systems
+Kant: Systematic judgment
+Merleau-Ponty: Ontological focus
+Heidegger: Procedural connection
+Foundationalism: Solid base/building
+Coherentism: Web/cable/ship
+Descartes' apple basket
+Neurath's boat
+First-person perspective
+Embodied simulation
+Intercorporeity
+Semantic space curvature
+Information mass
+Geodesic trajectories
+Entropy-driven generation
+Free Energy Principle (FEP)
+Surprise minimization
+Bi-modal thermodynamics
+Landauer's Principle
+Conceptual Spaces
+Quality dimensions
+Voronoi tessellations
+Differentiable manifolds
+Massive redeployment
+Circuit recycling
+Functional homology
+Symbolic threshold
+Co-evolution: Brain and Language
+Indexical vs. Symbolic signs
+Prefrontal cortex expansion
+Metaphor circuitry
+Somatic markers (Damasio)
+Spike-timing-dependent plasticity
+Latent space geometry
+Token selection potentials
+System 1 vs. System 2 reasoning
+Context Rot and inertia
+Geometry of experience
+Salience weighting
+Recursive self-modelling
+Synthetic phenomenology
+Neural Brain framework
+Sensorimotor feedback loops
+Neuromorphic hardware

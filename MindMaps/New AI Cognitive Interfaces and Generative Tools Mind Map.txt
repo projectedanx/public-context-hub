@@ -1,0 +1,86 @@
+Mindmap
+New AI Cognitive Interfaces and Generative Tools
+Based on 13 sources
+New AI Cognitive Interfaces and Generative Tools
+<
+Causal Canvas: Latent Space Sculptor
+<
+Symbolic Clarity Engine: LLM Epistemologist's Toolkit
+<
+Epistemic Foundry: Multi-Agent Research Orchestrator
+<
+PhyGen Studio: Immersive Simulation Synthesizer
+<
+Core Feature: Multi-dimensional, physics-informed sculpting
+Name: Latent Weaver Studio
+Preliminary Functions
+<
+Ideal Target Audience: AI artists, game designers, VFX, animation, product visualization
+Core Feature: Address LLM 'symbolic blindness' and semantic ambiguity
+Name: Cognitive Semantics Auditor
+Preliminary Functions
+<
+Ideal Target Audience: Scientists, engineers, mathematicians, LLM developers, AI ethicists
+Core Feature: Operationalize 'AI Metaphor Engine' into symbolic agents
+Name: Cognitive Nexus Pro
+Preliminary Functions
+<
+Ideal Target Audience: AI researchers, interdisciplinary academics, think tanks, corporate foresight teams
+Core Feature: Merge image generation with Custom GPT Actions for simulated rendering
+Name: OptiSculpt AI
+Preliminary Functions
+<
+Ideal Target Audience: Architects, industrial designers, automotive engineers, scientific visualizers, VFX studios
+Multi-Stage Prompt Builder
+<
+Physics-Engineered Presets: Curated templates
+Real-time Latent Feedback: Dynamic preview
+Modular Prompt Export: Generate multi-layered prompts
+Symbolic Lexicon & Disambiguation
+<
+LLM Interpretation Diagnostics
+<
+Prompt Reconstruction Assistant: Symbol-aware suggestions
+Citation Void Mapper: Visual map of missing research
+Mission Definition & Agent Assembly
+<
+Meta-PRP Governance Dashboard: Epistemic Briefs, Symbolic Scars, Epistemic Budget
+Collaborative Terrain Map: Visual interface for conceptual mapping
+Interactive Oversight & Refinement
+<
+Computational Historiography: Trace reasoning pathways
+Physics-Driven Image Pipeline Builder
+<
+Real-world Data Connectors (Custom GPT Actions)
+<
+Harmonizer for Mythopoeic Fusion: Maintain physical plausibility
+'Physics Constraint Validation': Suggest adjustments for implausible combinations
+Visual Set: Define core subjects/scenes
+Pre-determination Layer: Adjust technical imaging constructs
+Pre-definition Layer: Specify imaging parameters
+Preservation Layer: Enforce super-resolution, fidelity, noise control
+Harmonization Layer: Select latent harmonizers, aesthetic substitution
+Domain-Specific Definitions
+Contextual Examples
+Translation & Pronunciation
+Tokenization Visualizer
+Polysemy Drift Predictor
+Semantic Load Analyzer
+Insight Cartographer: Overview, synthesis
+Semantic Architect: Clarity, definitions
+Cognitive Alchemist: Fusion, novel insight
+Temporal Ethnographer: Historical context, trends
+Assumption Auditor: Expose hidden premises, biases
+Application Synthesist: Bridging insights to action
+/override-scar <scar_id>: HITL intervention
+/init-mode-profile <mode>: Switch cognitive mode
+/run-epistemic-budget: Forecast cognitive expenditure
+Justified Uncertainty reports
+Virtual Camera & Lens Controls
+Spectral Light Sculpting
+Material & Texture Engine
+Environmental & Atmospheric Dynamics
+Neural & Super-Resolution Integration
+Environmental Data Link: Real-time weather
+Web-Scraping for Context: Architectural references, textures
+RAG-Powered Physics Lookup: Integrate scientific papers

@@ -1,0 +1,47 @@
+Principled Prompt Engineering Architecture and Methodology
+Principled Prompt Engineering Framework
+<
+I. Foundational Thesis: Artificial Metacognition
+<
+II. Tripartite Methodology (Think, Write, Code)
+<
+III. Dual-Layer Recursive Correction
+<
+LLM Cognitive Model
+<
+Prompt acts as Prosthetic Frontal Cortex (Scaffolding Logic)
+THINK (Cognitive Architecture)
+<
+WRITE (Communicative Durability)
+<
+CODE (Production Reliability)
+<
+Micro-Recursion (Runtime Correction)
+<
+Macro-Recursion (Lifecycle Stability)
+<
+Default State: System 1 (Intuitive/Probabilistic)
+Prompting Goal: External System 2 (Logic/Verification)
+Core Tension: Probabilistic Fluency vs. Deterministic Output
+Primary Goal: Impose System 2 Scaffolding
+Key Architectures
+<
+Primary Goal: Achieve Communicative Durability
+Semantic Anchors (SUCCES Principles)
+<
+Primary Goal: Prompt Stability and Auditability
+Engineering Lifecycle
+<
+Mechanism: Architected Feedback Loops (e.g., CoT, ToT, MAD)
+Addresses Internal Resistance (Hallucinations)
+Mechanism: External Error Correction (Testing/CI/CD)
+Addresses Prompt Stability and Drift over time
+Chain-of-Thought (CoT)
+Tree-of-Thoughts (ToT) (Generate Paths & Prune)
+Multi-Agent Debate (MAD) (Simulated Peer Review)
+Simplicity (Commander's Intent)
+Concreteness and Credibility (Persona Prompting)
+Unexpectedness, Emotions, Stories (Narrative Flow)
+Version Control and Auditability
+Systematic Testing (A/B, Golden Datasets, Drift Monitoring)
+CI/CD Pipelines (Automated Deployment)

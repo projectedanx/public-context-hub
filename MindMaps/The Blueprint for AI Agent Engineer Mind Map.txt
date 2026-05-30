@@ -1,0 +1,75 @@
+The Blueprint for AI Agent Engineering and Context Orchestration
+AI Agent Engineering and Context Management
+<
+Core Disciplines
+<
+Frameworks and Techniques
+<
+Agentic Architecture
+<
+Advanced Concepts
+<
+Prompt Engineering
+<
+Context Engineering
+<
+Promptware Engineering
+<
+Prompting Frameworks
+<
+Reasoning Methods
+<
+Context Strategies
+<
+System Components
+<
+Operational Protocols
+<
+Agent Roles
+<
+Epistemic Safety
+<
+Cognitive Theory
+<
+Innovation Economics
+<
+Prompt Crafting vs Engineering
+Static Instructions
+Persona Adoption
+Dynamic Context Orchestration
+Information Ecosystem Management
+Context-to-Execution Pipeline (CxEP)
+Formal Software Artifacts
+Executable Contracts (PRP)
+CRISP (Context, Role, Instruction, Spec, Performance)
+RISE (Role, Input, Steps, Exception)
+RTF (Role, Task, Format)
+IMAGES (Identity, Mood, Style, Geo, Effects, Shot)
+Chain of Thought (CoT)
+Tree of Thought (ToT)
+Few-Shot/Multi-Shot Learning
+Meta-Prompting
+Writing (Persistence)
+Selecting (Relevance)
+Compressing (Efficiency)
+Isolating (Specialisation)
+Cognitive Core (LLM + Symbolic Engine)
+Model Context Protocol (MCP)
+Memory Systems (Short/Long-term/External)
+Deterministic Outcome Tracker
+Validation Loops (Fix Until Green)
+Parallel Tool Execution
+Surgical Edits (Edit Compaction)
+The Pair Programmer
+The Technical Lead
+The Research Agent (Manus)
+The Task Coordinator (Poke)
+Cognitive Light Cone
+Epistemic State Proof (ESP)
+Recursive Epistemic Closure
+Conceptual Blending Theory (CBT)
+Shared Mental Models (SMM)
+Architectural Senescence
+Cost of Coherence Overhead (CCH)
+Cost of Structural Discovery (CSD)
+Antifragility Loop

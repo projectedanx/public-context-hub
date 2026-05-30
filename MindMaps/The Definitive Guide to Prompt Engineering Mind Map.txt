@@ -1,0 +1,300 @@
+Mind map
+The Definitive Guide to Prompt Engineering
+Prompt Engineering
+<
+Definition & Core Concepts
+<
+Key Principles & Best Practices
+<
+Advanced Techniques
+<
+Challenges & Limitations
+<
+Applications & Use Cases
+<
+Ecosystem & Tools
+<
+Skills for Prompt Engineers
+<
+Future & Evolution
+<
+Art & Science of Crafting Inputs
+Guides AI Towards Desired Output
+Essential for LLMs
+Bridges User Goals & Model Capabilities
+Key Skill: Highly Sought-After Role
+Not a Guessing Game, but a Testable Process
+Clarity & Specificity
+<
+Context Inclusion
+<
+Structure Matters
+<
+Iterative Testing & Refinement
+<
+Define Role (Persona Pattern)
+<
+Specify Output Constraints
+<
+Positive & Negative Examples (Few-Shot Learning)
+<
+Mitigate Social Biases
+<
+Tuftean Design Principles
+<
+Chain-of-Thought (CoT) Prompting
+<
+Self-Consistency
+<
+Tree-of-Thought (ToT) Prompting
+<
+Decomposition
+<
+Step-Back Prompting
+<
+Rephrase and Respond (RaR)
+<
+Self-Ask
+<
+Reflection (Self-Correction)
+<
+Prompt Patterns (Catalogues)
+<
+Scaffolded Prompts (Khan-Style)
+<
+Method Actor Approaches
+<
+Multimodal Prompting
+<
+Vibe Prompting
+<
+Image-to-Image (Img2Img) Generation
+<
+ControlNet
+<
+Trial and Error Required
+Model Limitations
+<
+Scalability Issues
+Bias & Fairness Risks
+<
+Overreliance on Prompts
+<
+Cognitive Over-Trust (Anthropomorphism)
+Promptware Crisis (Architectural Debt)
+Interpretive Divergence across Modalities
+Coding Assistance & Generation
+<
+Content Creation & Marketing
+<
+Problem Solving & Reasoning
+<
+Customer Service & Communication
+<
+Education & Learning
+<
+Healthcare & Medicine
+<
+Data Analysis & Management
+<
+Engineering Design
+<
+Research & Development
+<
+Orchestration Frameworks
+<
+Retrieval Augmented Generation (RAG)
+<
+AI Models (Examples)
+<
+Prompt Management Platforms
+<
+Evaluation Tools
+<
+Understanding LLMs (Mechanisms & Failures)
+Creativity (Think Out of the Box)
+Critical Thinking
+Problem-Solving
+Communication
+UX Thinking
+Iterative Testing & Refinement
+Data Analytics Skills
+Programming Skills (Wrapping LLM Calls in Python)
+AI, ML, & NLP Fundamentals
+Ethical Considerations & Responsible AI Practices
+Continuous Learning (Research, Webinars, Conferences)
+Paradigm Shift: From Command to Conversation
+Prompt Engineering as Interface Design
+Human-on-the-Loop Paradigm
+AI as Companion/Exoskeleton for Mind
+Ethical AI Development & Governance
+<
+Pluriversal Prompt Engineering Framework
+<
+Semantic Algebra for Controlled Deformation
+<
+AI Agent Orchestration
+<
+Articulate Desired Outcome
+Specific Instructions to Avoid Ambiguity
+Concrete Nouns & Rich Adjectives
+Avoid Ambiguous Language
+Background Information
+Reference Relevant Details
+Preceding Prompts for Multi-Turn Interactions
+LLM Training Data Cut-off Date
+Logical Organization of Elements
+Core Subjects & Critical Modifiers Earlier
+Separators like Commas
+Numbered Lists for Multiple Requests
+Paragraph Breaks for Topics
+Hierarchical Organization for Complex Instructions
+Feedback Loop
+Tweak Wording, Test Outputs, Compare Variations
+Versioning Prompts & Documenting Changes
+Testing with Edge Cases
+Practice Testing
+Assign Specific Character/Identity
+Enhances Personalization, Tailors Responses
+Example: 'Legal Assistant', 'Security Expert'
+Desired Length (e.g., max 150 words)
+Format (e.g., XML, bullet points, markdown, JSON, code)
+Tone (e.g., conversational, formal, urgent, friendly)
+Illustrate Desired Input-Output Behaviour
+Guidance on Tone, Structure, Task Understanding
+Few-Shot CoT: Demonstrations with Reasoning Steps
+Zero-Shot CoT: 'Let's think step by step'
+Avoid Reinforcing Stereotypes
+Inclusive Representation
+Bias-Flagging Prompts
+Bias-Aware Prompts (Defensive)
+Clarity, Density, Integrity
+Token-Ink Ratio
+Eliminate Chartjunk (Textual Clutter)
+Integrity-First Prompting
+Series of Intermediate Reasoning Steps
+Improves Performance on Complex Reasoning Tasks
+Decomposes Multi-step Problems
+Interpretable Window into Model Behaviour
+Multiple CoT Rollouts
+Selects Most Common Conclusion
+Self-Ensemble from Single LLM
+Unsupervised Method
+Generates Multiple Lines of Reasoning in Parallel
+Backtracking & Exploring Other Paths
+Tree Search Algorithms (BFS, DFS, Beam)
+Recursive Decomposition
+Chain-of-Code (CoC): Interleaves Reasoning & Code Execution
+Abstract Away Details to Higher-Level Concepts
+Apply Abstracted Understanding to Original Query
+Prompt Model to Rephrase/Expand Question
+Clarifies Vague or Ambiguous Queries
+Model Internally Structures Problem
+Model Reflects on its Response, Looks for Errors
+Iterative Refinement Process
+Reusable Solutions to Common Problems
+Input Semantics
+Output Customization
+Identifying Errors (Fact Checklist)
+Improving Prompts (Alternative Approaches)
+Interactions (Flipped Interaction, Game Play, Infinite Generation)
+Context
+Refusal Breaker Pattern
+Cognitive Verifier Pattern
+Persona Pattern
+Meta Language Creation Pattern
+Alternative Approaches Pattern
+Template Pattern
+Output Automator Pattern
+Forecasting Pattern
+Question Refinement Pattern
+Deconstructs Complex Task into Logical Sequence of Simpler Prompts
+Modularity for Control Checkpoints
+LLMs Perform Human Reasoning Tasks Differently
+Treats LLM Responses as Performances
+Combines Text with Other Modalities (Image, Audio)
+Example: Product Image + Text Description
+Setting Mood, Voice, Emotional Context
+Creates Content that Feels Alive
+Existing Image as Starting Point
+Combines Visual Info with Text Prompt
+Superior Structural Fidelity
+Isolates Structural Information (Pose, Edges) as Hard Constraint
+Errors & Hallucinations
+Semantic Drift (Context Decay)
+Irrelevant Results
+Difficulty with Real-time Information
+Computational Cost & Context Consumption
+Not Telepathic or Psychic
+Poorly Phrased Prompts Reinforce Stereotypes
+Cultural & Linguistic Bias
+Demographic Sensitivity
+Overrepresentation of Groups
+Instead of Fine-Tuning or RAG
+Cognitive Offloading / Digital Amnesia
+Loss of Personal Agency
+Secure Code Generation
+API Documentation
+Code Review (Security, Standards, Performance)
+Automated Testing & Bug Repair
+SEO-Friendly Content
+Product Descriptions
+Marketing Copy
+Social Media Posts
+Blog Posts
+Translating Text
+Image Generation (Text-to-Image)
+Mathematical Word Problems
+Commonsense Inference
+Strategic Analysis
+Decision-Making
+Automated Customer Service
+Complaint Resolution (Empathetic Tone)
+Emotional Support Chatbots
+Tone Adjustment
+Personalized Learning Experiences
+Bridging Education Gaps
+Intelligent Tutoring Systems
+Support Disadvantaged Students
+Medical Diagnosis & Advice
+Enhancing Diagnostic Capabilities
+Reducing Depression/Anxiety Symptoms
+Patient Experiences
+Context-Driven Data Analysis
+Extracting Key Information from Documents
+Analysing Customer Feedback
+Parametric Design & Optimization
+Design Simulation (Stress/Thermal Analysis)
+Generating Design Alternatives
+Accelerate Discovery & Innovation
+Scientific Output
+Knowledge Creation
+LangChain
+Auto-GPT
+AutoGen (Microsoft)
+Dynamically Incorporates External Knowledge
+Enhances Responses with Up-to-Date/Specialized Info
+GPT-3.5-turbo
+GPT-4o
+GPT-4o-mini
+ChatGPT
+Google Gemini
+Stable Diffusion
+Midjourney
+DALL-E
+Latitude
+PromptHub
+Juuzt AI
+Static Scanners for Code Security
+CogEval Methodology
+Proactive Algorithmic Governance by Architectural Design
+Prompt Ethicist Role
+Safety-by-Design Approach
+Addresses Ontological Destruction
+Sustaining Multiple Worldviews
+Intentional, Creative Use of Semantic Drift
+Harnessing Creative Power of Hallucinations
+Specialized Agents Collaborating
+Explicit Role Definition for Agents
+Heuristics for Scaling Effort
+NotebookLM can be inaccurate; please double-check its responses.

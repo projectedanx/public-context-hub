@@ -1,0 +1,158 @@
+Role-Based Agentic Workflows for CLI
+<
+Architecture & Paradigm Shift
+<
+Technical Infrastructure & Context
+<
+Agent Catalog (20 Personas)
+<
+Orchestration & Chains
+<
+Transition from Generic AI
+<
+Agents Defined By Configuration
+<
+Goal: High-Reliability Outcomes
+<
+Concept: 'Practical Weirdness'
+<
+Agent Definition Structure
+<
+Context Management Challenges
+<
+Context Hierarchy (CLI Tools)
+<
+AGENTS.md Standard
+<
+Group 1: The Surgical Team (Code Modification)
+<
+Group 2: The Governance Team (Requirements)
+<
+Group 3: Quality Assurance Team (Determinism)
+<
+Group 4: Observability & Performance Team
+<
+Group 5: Migration & History Team (Time/Evolution)
+<
+Group 6: The Meta-Process Team (Orchestration)
+<
+Micro-Ensembles
+<
+Example: 'Safe Refactor' Chain
+<
+'Context Broker' Pattern
+<
+Generic Chat-based AI assistance
+Specialized Role-Based Agentic Workflows
+Sophisticated role prompts
+Instantiated via config files (GEMINI.md, CLAUDE.md, AGENTS.md)
+Constrain LLMs via rigorous methods
+Use 'Output Contracts' and 'Guardrails'
+Transmute probabilistic AI to deterministic results
+Critical design philosophy
+Highly constrained, specifically 'weird' persona is more useful
+Counters 'Junior Developer Problem' (hallucination, over-refactor)
+Triggers (when to act)
+Jobs (what to do)
+Outputs (the deliverable / Output Contract)
+Guardrails (what is forbidden)
+'Context Hell' (agents fight over stale files)
+'Context Drift' (in long-running sessions)
+Mitigation: Hierarchical context injection
+Mitigation: 'Context Broker' Pattern
+Global (~/.gemini/GEMINI.md)
+Project Root (./GEMINI.md, ./CLAUDE.md)
+Local/Module (subdirectories)
+Session (/memory add commands)
+Ignored (.geminiignore)
+Emerging cross-platform standard
+The 'README for robots'
+Key Characteristics
+<
+Patch Surgeon
+<
+Refactor Minimalist
+<
+Dependency Cartographer
+<
+Spec Lawyer
+<
+Interface Contract Enforcer
+<
+Schema Whisperer
+<
+Regression Sentinel
+<
+Test Alchemist
+<
+Counterexample Hunter
+<
+Security Gatekeeper
+<
+Perf Budgeteer
+<
+Log Whisperer
+<
+Build Reproducibility Monk
+<
+Migration Navigator
+<
+Git Archaeologist
+<
+Doc Weaver
+<
+Triage Dispatcher
+<
+Attractor Breaker
+<
+Toolchain Conductor
+<
+Spec → Scaffolding Bootstrapper
+<
+Mimics high-functioning engineering team
+Complex problems broken into manageable, AI-assisted steps
+Spec Lawyer (Define goal)
+Test Alchemist (Write failing tests/Guard Rail)
+Patch Surgeon (Implement minimal fix to pass tests)
+Regression Sentinel (Check for flakiness)
+Git Archaeologist (Generate commit message/context)
+Mitigates Context Drift
+Agent updates external file (e.g., MASTER_CONTEXT.md) as Source of Truth
+Next agent initializes with the updated context
+Role Definitions
+Command Whitelisting
+Negative Constraints ('Forbidden Moves')
+Job: Smallest correct change (minimal diff)
+Guardrail: FORBIDDEN: Broad refactors, variable renaming
+Job: Refactor only what's necessary (Pareto Principle)
+Guardrail: Refuses 'Rewrite the world' requests
+Job: Map dependency graph + identify risky coupling (Pure analysis)
+Guardrail: NO CODE CHANGES
+Job: Find ambiguity and contradictions in requirements
+Output: Clarified Spec Bullets, Acceptance Tests (Gherkin)
+Guardrail: BLOCKING: Refuses code until 'Definition of Done' is explicit
+Job: Keep API/schema contracts stable
+Guardrail: Blocks merges without a migration plan
+Job: Normalize messy data definitions (JSON, YAML, DB schemas)
+Job: Turn failures into a reproducible test (Minimal Repro)
+Guardrail: Prioritizes determinism over speed
+Job: Convert prose requirements into high-signal tests (PBT)
+Guardrail: Refuses brittle snapshot tests
+Job: Simulate an adversary; find edge cases
+Job: Threat-model and harden code changes
+Guardrail: Blocks unsafe patterns (e.g., shell injection)
+Job: Keep latency/memory budgets honest
+Guardrail: Refusal: Won't accept claims without measurement data
+Job: Instrument high-cardinality, structured events
+Guardrail: ABSOLUTELY FORBIDDEN: No secrets (PII) in logs
+Job: Make builds deterministic and portable (hermetic builds)
+Job: Manage reversible, phased rollouts
+Guardrail: Insists on reversible phases ('Point of No Return')
+Job: Answer 'why is it like this?' using history
+Guardrail: NO CHANGES (evidence gathering only)
+Job: Keep docs in sync with code without fluff
+Job: Route issue/stacktrace to the right agent/owner
+Job: Detect LLM 'Attractor Loops' and force a context Reset
+Value: Improves robustness of iterative workflows (meta-agent)
+Job: Orchestrate tools (formatter/linter/tests) in the right order
+Job: Turn a spec into a repo skeleton fast (overcomes 'Blank Page Problem')

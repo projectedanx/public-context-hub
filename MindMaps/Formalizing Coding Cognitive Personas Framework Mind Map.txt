@@ -1,0 +1,157 @@
+Formalizing Coding Cognitive Personas Framework
+<
+Theoretical Substrate (Cognitive Systems)
+<
+Structural Scaffold: Material Anchors
+<
+Cognitive Ergonomics (Agentic Workplace Design)
+<
+Multi-Agent Composition (Synthetic Team)
+<
+Quantifying Reliability (Metrics)
+<
+Immunological Systems (Security and Guardrails)
+<
+Evolution of Cognitive Architectures
+<
+Theory of Material Anchors (Grounding)
+<
+Cognitive Coupling & Risk
+<
+Semantic Anchor: Open Agentic Schema Framework (OASF)
+<
+Historical Anchor: Architecture Decision Records (ADRs)
+<
+Interaction Anchor: Model Context Protocol (MCP)
+<
+Cognitive Load Theory (CLT) for LLMs
+<
+DDD Principles for Agents
+<
+Agentic IDEs (Cognitive Prosthetic)
+<
+Metric: Cognitive Complexity
+<
+Functional Triad Pattern (Separation of Concerns)
+<
+Orchestration Topologies
+<
+OASF as Integration Bus
+<
+Failure Modes
+<
+Semantic Drift (Cognitive Stability)
+<
+Architectural Fitness Functions
+<
+SWE-bench and Failure Analysis
+<
+Prompt Injection (Supply Chain of Thought)
+<
+Dependency Confusion and Hallucination
+<
+Sandboxing and Isolation
+<
+Historical Architectures (Symbolic)
+<
+Modern Agentic AI (Stochastic)
+<
+Need: Stabilize Probabilistic Agents
+Problem: Semantic Drift (Decoupling from Reality)
+Concept: External objects stabilize conceptual structures
+Digital Material: Code, Documentation, Logs, Schemas
+Function in Software Engineering
+<
+Failure Mode: Spiraling Hallucination Loop
+Cause: Agents rely on each other's hallucinations
+Solution: Environment Engineering (Rich in Material Anchors)
+Function: Defines identity, capability, and boundaries
+Core: Record Object (Formal Specification)
+Taxonomy: Skills (e.g., python_optimization) and Domains (e.g., react_frontend)
+Benefit: Reduces Scope Creep, prevents Identity Drift
+Validation: Schema Validation as Cognitive Guardrail (prevents Hallucinated Tool Calls)
+Extensibility: Via Modules
+Function: Captures temporal context (Why the system works)
+Problem Solved: Architectural Amnesia
+Content: Decision, Context, Consequences
+Usage: ADR Analysis Persona queries anchor before refactor
+Goal: Stabilize evolution, prevent regression
+Function: Standardized interface for perception and action
+Primal Anchors Defined
+<
+Semantic Layer: Ontology of Connection (Knowledge Graph)
+Intrinsic Load (Inherent Task Difficulty)
+Extraneous Load (Wasted effort on irrelevant info)
+<
+Germane Load (Effort for model construction)
+<
+Ubiquitous Language (Unified terminology)
+Bounded Contexts (Specialized agents)
+<
+Deep Context Indexing (Semantic Code Search)
+Predictive Context Loading (Context Awareness)
+Mental Scaffolds (System Prompts, CONTEXT.md)
+Measures mental effort to understand code
+Ensures maintainability of agent-generated code
+Planner (Architect)
+<
+Implementer (Coder)
+<
+Verifier (Auditor/Tester)
+<
+Sequential (Pipeline)
+Hierarchical (Manager-Worker)
+Joint Collaboration (Group Chat)
+Structured Handoffs (Pass OASF objects, not vague language)
+Capability Discovery (Find agent by skill)
+Miscoordination (Conflicting file changes)
+Cascading Hallucination (Collective Delusion)
+Context Overflow (Goal Drift)
+Measures deviation from baseline truth
+Mechanism: SBERT embeddings comparison
+Application: Triggers reset if drift score exceeds threshold
+Verify system structure (e.g., Layer Dependency)
+Tool: ArchUnit (Static analyzers)
+Provides precise corrective feedback
+Standardized yardstick for real-world issues
+Observed Failures: Spiraling Hallucination, Context Overflow, Overspecified Tests
+Need for Agentic Debuggers/Trajectory Analysis
+Types: Direct or Indirect (Malicious comments)
+Defense: Output Invariant Testing (Detects drastic output change)
+Defense: Separation of Control (Trusted instructions vs. Untrusted data)
+Attack: Typosquatting/hallucinated package import
+Defense: Package Auditor agent (Validates against Safe List)
+Execution in ephemeral, isolated environments (Docker, Firecracker)
+Prevents Persistence attacks
+Network Restriction (Strict egress filtering)
+ACT-R (Adaptive Control of Thought-Rational)
+Soar (Symbolic Processing)
+Traits: Transparency, Consistency
+Paradigm Shift: Dynamic Systems
+Required Core Capabilities
+<
+Cognitive Design Patterns
+<
+Codebase is Cognitive Scaffolding
+Prevents Hallucinations (Dissolution of Conceptual Blend)
+Artifact as Supervisor (e.g., API schema rejects invalid parameter)
+Resources (Data sources, logs, ground truth)
+Tools (Executable functions defined by JSON-Schema)
+Prompts (Server-defined templates; tool author writes prompt)
+Leads to 'Lost in the Middle'
+Maximise via CONTEXT.md, structural diagrams
+Restricts search space (RAG retrieval)
+Prevents Context Overflow
+Role: Task Decomposition (Non-executing)
+Anchor: Specification, ADRs
+Role: Executes subtasks, generates code
+Anchor: File System, Linter
+Role: Adversarial review, triggers Correction Loop
+Anchor: Test Suite, Security Policy
+Perception (Interpret Raw Inputs)
+Memory (Multi-tiered System)
+Reasoning (Planning, Assessment)
+Action (Execution Layer)
+Observe-Decide-Act (ReAct)
+Hierarchical Decomposition (Tree of Thoughts)
+Reflexion (Self-correction)

@@ -1,0 +1,220 @@
+Epistemology, Models, and AI Reasoning
+Knowledge, Modeling, and Epistemology
+<
+Theories of Knowledge (Epistemology)
+<
+Scientific/Cognitive Models
+<
+Innovation and Cognitive Drivers
+<
+Reasoning and Argumentation
+<
+AI, Context, and Prompt Engineering
+<
+Core Concepts
+<
+Types of Knowledge
+<
+Nature of Models
+<
+Simplification & Idealization
+<
+Model Types
+<
+Cognitive Models
+<
+Innovation Frameworks
+<
+Curiosity and Discovery
+<
+Fostering Innovation Culture (Leadership)
+<
+Scientific Reasoning Modes
+<
+Argumentation Theory
+<
+Logical Fallacies
+<
+Context Engineering (Advanced Discipline)
+<
+Prompt Engineering
+<
+LLM Core Mechanisms
+<
+Mitigation and Security
+<
+Knowledge
+<
+Belief
+<
+Faith
+<
+Understanding
+<
+Knowledge vs. Wisdom
+<
+Propositional Knowledge (Knowledge that...)
+Procedural Knowledge (Knowledge how..., skill)
+Acquaintance Knowledge (Immediate/mediate awareness of x)
+Indispensable strategic tools
+Simplified representations of reality
+All models are wrong, some are useful
+Trade-off between accuracy and simplicity
+Purpose: Understand, predict, explore consequences
+Metaphors/Examples
+<
+Techniques
+<
+Physical/Representational
+<
+Mathematical/Computational
+<
+Economic Models
+<
+Mental Model
+<
+Shared Mental Model (SMM) (collective cognitive map)
+Economic Theory
+<
+Diffusion of Innovations (Rogers)
+<
+Drivers of Adoption Speed
+<
+Strategic Approach
+<
+Curiosity Mechanisms
+<
+Insight (Aha! Moment)
+<
+Psychological Safety (single most important factor for success)
+Lead by Example (consistent behavior/language)
+Demonstrate New Technologies/Models (show, don't just say)
+Abductive Reasoning (Discovery)
+<
+Deductive Reasoning (Testing)
+<
+Inductive Reasoning (Generalization)
+<
+Dialogue Forms
+<
+Argument Structure
+<
+Begging the Question (Circular Reasoning)
+<
+Straw Man Fallacy (Distorting opponent's view)
+Appeal to Authority (Citing non-expert in relevant field)
+Ad Baculum (Appeal to the stick / threat)
+Systematically feeding AI the right information
+Required for robust Generative AI systems
+Context Payload Components
+<
+Crafting clear, structured, replicable instructions
+CRISP Framework (Context, Role, Instruction, Specification, Performance)
+Techniques
+<
+Tokenization (text broken into units)
+Embedding Layer (token ID mapped to high-dimensional vector)
+Self-Attention (signal routing, not comprehension)
+Challenges
+<
+RAG (Retrieval-Augmented Generation)
+<
+Cognitive Architecture
+<
+Sandboxing (executing generated code in isolated environment)
+Definition: Verifiable evidence, testing, facts
+Entails truth (P must be true)
+Entails justification ('Justified True Belief')
+Definition: Acceptance, intuition, or reasoning
+Mental representation (map of reality)
+Disposition to act (functionalist view)
+Types
+<
+Definition: Trust/Confidence beyond physical evidence
+Greek: pistis (trust, loyalty, confidence)
+Relational state, not purely cognitive
+Not applicable to facts (e.g., gravity)
+Related Positions
+<
+Grasping 'p because q' connections
+Relies on approximations (non-factive)
+Ability to qualitatively predict consequences
+Prioritized over Knowledge in Education Policy
+Knowledge: Knowing a fact (Tomato is fruit)
+Wisdom: Applying knowledge in context (Not putting tomato in fruit salad)
+Knowledge always comes first
+Spherical Cow (humorous metaphor)
+Frictionless Planes / Point Masses
+Ribbon Diagrams (Protein structure)
+Aristotelian Idealization (stripping away properties)
+Bounding / Asymptotic Analysis (testing at extremes)
+Material Models
+Analogical Models (e.g., billiard ball gas model)
+Fictional/Abstract Entities (e.g., frictionless pendulum)
+Compartment Models (e.g., SIR disease model)
+System Dynamics (coupled, nonlinear differential equations)
+Graphical Models / Bayesian Networks
+Agent-Based Models (ABM) / Social Simulation
+Theory-Down approach (rigorous assumptions)
+Dynamic Stochastic General Equilibrium (DSGE)
+Computable General Equilibrium (CGE)
+Overlapping Generations (OLG)
+Internal, malleable representation of reality
+Guides situated action and causal reasoning
+Used in Hybrid Cognitive Core (LLM + Symbolic Engine)
+Schumpeter: Creative Destruction
+Evolutionary Economic Theory (Technologic Innovation is engine of growth)
+Arrow: Replacement Effect (Disincentive for incumbent to innovate)
+S-Curve adoption rate
+Adopter Categories (Innovators, Early Adopters, etc.)
+Learning Curves (producer experience drives down cost)
+Economies of Scale (quantity increases, cost decreases)
+Portfolio of Experiments (Barbell Approach)
+Embrace 'Failing Fast'
+Information-seeking (broader category)
+Elicited by Information Gap
+Maximized by Moderate Certainty (Region of Proximal Learning/RPL)
+Hypercorrection Effect (high-confidence errors drive learning)
+Metacognitive heuristic ('Eureka Heuristic')
+Signals reduction in prediction error/uncertainty
+Associated with Right Anterior Temporal Lobe activity
+Inference to the best explanation
+Logical operation introducing new ideas
+Example: Darwin's Argument by Analogy
+Top-down: Deriving specific from general theory
+Used for formal verification (Computational Verification)
+Falsifiability (identifying/eliminating untruths)
+Bottom-up: Deriving general from specific observations
+Weakness: Problem of Induction
+Deliberation / Negotiation (collaborative decision-making)
+Eristic Dialogue (victory over opponent)
+Didactic Dialogue (teaching)
+Socratic Method (Elenchus) (scrutinizing beliefs via questioning)
+Premises / Assumptions
+Method of Reasoning / Deduction
+Conclusion / Point
+Premise and conclusion are the same proposition
+Epistemic fallacy, not logical invalidity
+Instructions
+Knowledge
+Tools
+Memory
+State
+User's Query
+Chain-of-Thought (CoT) Prompting ('Let's think step by step')
+Few-Shot Prompting (Providing examples)
+Prompt Chaining (Deconstructing task into sequence)
+Using Delimiters (for attention management)
+Negative Prompts (specifying undesired elements)
+Hallucination (generating plausible but incorrect info)
+Contextual Fixation (latching onto low-salience details)
+Constraint Dilution (ignoring formatting/rules)
+Fetches data from external knowledge sources
+Mitigates hallucination and lack of real-time knowledge
+Contextual Retrieval (LLM generates summary for chunks)
+Hybrid Cognitive Core (LLM + Symbolic Reasoning Engine)
+Symbolic Engine acts as 'logical guardrail'
+Intuitive Beliefs ('Gut Feeling')
+Reasoned Beliefs (Analytic Thinking)
+Fideism (Faith opposed to Reason)
+Reformed Epistemology (Belief in God is basic

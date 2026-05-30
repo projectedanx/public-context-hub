@@ -1,0 +1,508 @@
+Web Application Development Essentials and AI Integration
+Web Application Development & Deployment
+<
+Core Components
+<
+Web Design & User Experience (UX)
+<
+Web Application Architecture & Development
+<
+Web Application Scaling & Performance
+<
+Deployment & Operations (DevOps)
+<
+AI & Advanced Concepts
+<
+DigitalOcean & Cloud Services
+<
+Replit Platform Specifics
+<
+Social Media Integration & Automation
+<
+Project Ideas
+<
+Database Management Systems (DBMS)
+<
+API (Application Programming Interface)
+<
+Best Practices
+<
+Design Systems
+<
+Emotional Design
+<
+User Flow Diagrams & Wireflows
+Cross-Browser Compatibility
+Architectural Patterns
+<
+Full Stack Development
+<
+Security
+<
+Scaling Strategies
+<
+Performance Optimisation Techniques
+<
+Edge Computing (Cloudflare Workers, Vercel Edge Functions)
+Deployment Practices
+<
+Hosting Platforms
+<
+Continuous Integration/Continuous Delivery (CI/CD)
+<
+Agile Methodologies
+<
+Monitoring & Alerting
+<
+AI Integration in DevOps
+<
+AI Coding Assistants (e.g., Replit Agent, Cursor, Claude Dev)
+<
+AI Governance Frameworks
+<
+Emergent Reasoning in Multi-Agent Systems (N2E)
+<
+Latent Space & AI Cognition
+<
+Decolonial AI & Ethical Considerations
+<
+AI DAO (Decentralised Autonomous Organisation)
+<
+Prompt Engineering Techniques (e.g., few-shot, chain-of-thought, role-playing, constraint-based)
+AI Model Limitations (token limits, hallucination, context window)
+Model Selection (GPT-4, Claude, specialised models)
+WebAssembly (for high-performance AI)
+Decentralised Apps (dApps)
+Sustainability in AI (Green Hosting)
+Managed Databases (MongoDB, Kafka, MySQL, PostgreSQL, Valkey, OpenSearch)
+Storage (Spaces Object Storage, Volume Block Storage)
+Developer Tools (API, CLI, Support, Monitoring, Uptime, IAM)
+Marketplace (Droplet 1-Click, Kubernetes 1-Click, AI 1-Click Models, Add-Ons)
+Cloud Website Hosting (Cloudways)
+AI & Machine Learning (GPUs, Platform, 1-Click Models, HR Knowledge Assistant, Code Copilot, Support Ticket Triage, Recommendation Engine)
+Blockchain (Infrastructure for dApps)
+Droplets (Scalable virtual machines)
+App Platform (Automatic scaling of containerised apps)
+Managed Kubernetes (Container orchestration)
+Load Balancers
+AI Agent & Assistant (set up, create apps, add features, fix problems)
+Replit Auth (secure login, social sign-in, user management)
+Real-time app design preview
+Built-in Preview window
+Secrets tool (store sensitive data)
+Debugger tool
+Package installation (morgan, express, cors)
+Version Control (Git pane, GitHub integration, Git commit messages for prompts)
+Checkpoints & Rollbacks
+Deployment Options (Autoscale, Static, Reserved VM, Scheduled)
+Backed by Google Cloud Platform (GCP)
+Collaboration (Invite others to workspace)
+Teams Account (RBAC, private deployments, increased resources)
+Usage & Cost Concerns
+<
+Database offerings (Postgres, Key-Value, Object Storage)
+Hosting of files & databases
+Incorporate social channels into campaigns
+Common Integration Places
+<
+Website Integration
+<
+Automation Tools & Strategies
+<
+Optimal posting times
+Real-World Projects (2025)
+<
+Types of Databases
+<
+Key Functions
+<
+Replit Database Offerings
+<
+External Production DBs (e.g., Supabase, PlanetScale)
+Definition: Rules for software communication
+Types
+<
+Security & Management
+<
+API Versioning
+Fetch API (JavaScript interface)
+Simplicity
+Visual Hierarchy
+Navigability
+Consistency (Brand, Layout)
+Responsivity (All Devices)
+Accessibility
+Conventionality
+Credibility
+User-Centricity
+Clear Calls to Action (CTAs)
+Effective Use of Media
+Header & Footer Design
+Auto-Translation Awareness
+Typography (Readability, Skimability)
+Whitespace
+Emotional Design
+Definition: Framework of standards, components, documentation
+Components
+<
+Advantages
+<
+Design Tokens
+<
+Builds Trust, Fosters Loyalty, Drives Engagement
+Don Norman's 3 Levels: Visceral, Behavioural, Reflective
+Elements to Evoke Emotion
+<
+Monolithic vs. Microservices
+<
+MVC (Model-View-Controller)
+<
+Hexagonal Architecture (Ports & Adapters)
+Website Types
+<
+Working on client-side (frontend) & server-side (backend)
+Languages & Frameworks
+<
+Version Control (Git, GitHub)
+Debugging
+Package Managers (npm, Yarn)
+State Management (Redux, Zustand, Context API)
+WebSockets & Real-time Communication
+Mobile Application Development (Flutter, React Native)
+Authentication
+<
+Authorization
+<
+Data Security
+<
+General Practices
+<
+Vertical Scaling (Scaling Up)
+Horizontal Scaling (Scaling Out)
+Diagonal Scaling (Hybrid)
+Auto-scaling
+Caching
+<
+Content Delivery Networks (CDNs)
+Distributed Databases
+Static Site Generators (SSGs)
+Optimising Assets (Compression, Lazy Loading)
+Load Balancers
+Asynchronous Processing (Message Queues: RabbitMQ, Kafka, SQS)
+Database Optimisation (Indexing, Sharding, Partitioning, Connection Pooling)
+Automation with CI/CD Pipelines (Jenkins, Travis CI, GitHub Actions)
+Containerisation (Docker, Kubernetes)
+Infrastructure as Code (IaC) (Terraform, CloudFormation)
+Scalable Architecture Design
+Monitoring & Performance Analysis (New Relic, Datadog, Prometheus, Grafana)
+Rollback Mechanisms
+Security in Deployment (DevSecOps)
+Automated Testing (Unit, Integration, E2E)
+Documentation
+Immutable Infrastructure (Blue-Green, Canary Deployments)
+Distinct Build, Deploy, Run Phases
+Package Application with Dependencies
+Replit Deployments (Autoscale, Static, Reserved VM, Scheduled)
+Firebase Hosting
+GitHub Pages
+cPanel Shared Hosting
+Vercel (Next.js focus, Edge Functions)
+Netlify (JAMstack focus, Edge Functions)
+Cloudways (Cloud Website Hosting)
+DigitalOcean (Droplets, App Platform, Managed Kubernetes)
+Northflank (BYOC, GPU support, custom resources)
+Automates building, testing, deployment
+Reduces human error
+Accelerates release cycles
+Early problem identification
+Integrates security checks (DevSecOps)
+Scrum
+Kanban
+Feature Branching & Merging
+Code Review
+Retrospectives
+INVEST Criteria (User Stories)
+Real-time application performance monitoring (APM)
+Identify bottlenecks, anomalies
+Reduce downtime (MTTR)
+Tools: New Relic, Datadog, Prometheus, Grafana
+Log files for greater insight
+Threshold-based alerts
+Testing AI Integrations
+Prompt Testing (Regression, A/B testing)
+Performance Testing (AI endpoints, cost simulation)
+Ethical Testing (Bias detection, safety)
+Agile/Scrum for AI sprints
+Logging frameworks (ELK Stack)
+Capabilities: Scaffolding, code generation, debugging
+Limitations
+<
+Best Practices for Integration
+<
+Privacy Features (Local/Ghost Mode)
+Context Engineering 2.0 (CE2)
+<
+Meta-PRP Generator
+<
+Prompt-Integrity Framework (PIF)
+<
+Recursive Self-Correction & Learning (RSOS)
+<
+Intent Coherence Protocol (ICP)
+<
+Pluriversal AI (PALS)
+<
+Co-evolutionary dialogue between naive LLM agents
+Iterative Prompt Exchange (EPE) Loop
+Joint Hypothesis Integration
+Output Artefacts for Analysis
+<
+Semantic Self-Repair
+Purpose Fidelity (alignment)
+Internal, high-dimensional representation space
+Geometry of the Mind (active cognitive architecture)
+Latent Semiotic Gravity (encoded biases from training data)
+Auditable Representations at latent layer
+Dynamic Navigation via Attention Mechanism
+Reparative learning & algorithmic reparations
+Neuro-symbolic feedback loops
+Cultural Provenance Verification
+Reflexive Audit Agent (self-correction)
+Evaluation by Epistemic Stakeholders
+Probing for Inherent Biases
+Building Trust through Explainability
+New framework for autonomous governance & decentralised intelligence
+Convergence of AI & Decentralisation (Blockchain)
+Governance in Code (Voting Mechanisms: Token-Based, Delegate, Multisig)
+Sector-Specific Implementations
+<
+Oracle Problem (hybrid solutions)
+Security (51% attack, formal verification, ZKPs)
+Reputation Systems (Sybil attack resistance)
+Effort-based pricing for AI Agent
+Credits consumed by buggy behaviour/loops
+Deployment costs
+Subscription cost for Teams
+Website
+Email Marketing Campaigns
+CRM Software
+Ecommerce Software
+Customer Service Software
+Follow & Share Buttons
+Embedded Social Media Feeds
+Hootsuite (content planning & scheduling)
+Canva integration (graphic creation)
+AI-powered copy & hashtag suggestions
+Shopify integration
+Zapier & Make (automated workflows, content repurposing, customer messages)
+AI-powered chatbots
+Sentiment analysis
+Social listening
+Hashtag analysis
+Content curation
+Python for automation (Tweepy, PyAutoGUI)
+n8n (self-hosting, low-code automation)
+City Weather Info
+<
+Expense Tracker with Charts
+<
+Notes App with Markdown Support
+<
+Auth System with JWT or Firebase
+<
+SQL (Relational)
+<
+NoSQL (Non-Relational)
+<
+Distributed Databases
+<
+Data Storage & Retrieval (CRUD)
+Multi-User Access & Concurrency
+Data Security & Access Control
+Scalability & Performance Optimisation
+Data Integrity & Consistency
+Backup & Recovery
+Integration with Business Applications
+Embedded Postgres (Neon)
+Key-Value databases
+Object Storage (Google Cloud)
+REST
+GraphQL
+gRPC
+Event-Based
+API Key Management
+Rate Limiting & Throttling
+Webhook Implementation
+Secure Protocols (HTTPS)
+Design Principles
+Foundational Styling
+Design Toolkits (Figma, Adobe XD)
+Reusable Components (React, Angular, Vue.js)
+Pattern Libraries
+Online Guidelines
+Streamlined Workflow
+Unified Language (Teams)
+Faster Builds
+Better Products/UX
+Improved Maintenance & Scalability
+Stronger Focus
+Abstract variables (colours, fonts, spacing)
+Single Source of Truth
+Consistency across platforms
+Easier Maintenance (ripple effect)
+Better Collaboration (shared vocabulary)
+Tools: Style Dictionary, Figma Variables, Tokens Studio
+Versioning (Maintainability)
+Colour Schemes (muted tones for dark mode)
+Typography
+Visual Hierarchy & Flow
+Microcopy (Tone of Voice)
+Micro-videos (Onboarding)
+Animations & Interactions
+Imagery & Visual Elements
+Narrative/Storytelling
+Monolithic
+<
+Microservices
+<
+Logical separation: Presentation, Business Logic, Data Access
+Model: Data & business logic
+View: Presents data
+Controller: Manages requests, interacts with logic
+Static Websites
+<
+Dynamic Websites
+<
+Hybrid Approach (JAMstack)
+<
+JavaScript (React, Vue, Angular)
+Node.js (Express)
+Python (Flask, Django)
+PHP
+Password-Based (Hashing, Salting)
+Token-Based (JWT, OAuth2, OpenID Connect)
+Multi-Factor Authentication (MFA)
+Social Logins
+Secure Protocols (HTTPS)
+Rate Limiting (Login attempts)
+Account Lockout Policies
+Role-Based Access Control (RBAC)
+Attribute-Based Access Control (ABAC)
+Policy-Based Access Control (PBAC)
+Principle of Least Privilege
+Encryption (at rest & in transit)
+Input Validation & Sanitisation
+Obfuscation of Sensitive Info
+Continuous Data Discovery
+Backup & Recovery
+Regular Updates & Patches
+Web Application Firewalls (WAFs)
+Intrusion Detection/Prevention Systems (IDS/IPS)
+DDoS Protection
+API Key Management (secure generation, storage, rotation)
+User Consent
+Security Assessments (scans, penetration testing)
+DevSecOps (security in CI/CD)
+Environment Variables for secrets
+Don't use deprecated Express versions
+Use Helmet middleware (HTTP headers)
+Don't use default session cookie names
+Unvalidated Redirects & Forwards prevention
+Browser Caching
+CDN Caching
+Application Caching
+Database Query Caching
+Tools: Redis, Memcached
+Accuracy/Reliability (hallucinations, fake changes)
+Agenda Hijacking/Looping
+Context Window Limitations
+Cost & Resource Limits
+Lack of Human-like Understanding
+Compatibility Issues
+Vendor Lock-in
+Start with Basic Tasks
+Specific & Concise Prompts
+Careful Review of Generated Code
+Provide File Context
+Manage Spending (usage alerts)
+Manual Intervention
+Start New Chat Sessions if Stuck
+Utilise Rollbacks (version control)
+Combine Tools
+Securely Handle Secrets
+Continuous Learning
+Architecting intelligence beyond prompts
+Formalising prompt engineering
+Executable Context Bundle (CxB): formal contract for AI lifecycle
+Terraform for Cognitive Infrastructure
+Automates PRP creation
+Enforces Cognitive Continuity
+Core Architectural Pillars
+<
+External 'executive function' for LLM
+Addresses semantic decay, epistemic miscalibration
+Quantifies Prompt Entropy Score (PES), Purpose Fidelity Collapse (PFC)
+Algorithmic Self-Therapy (AST) & Symbolic Scar Registry
+Drift Integrity Marker (DIM)
+Deep meta-governance & learning layer
+Temporal reflexivity & computational historiography
+Symbolic Scars Archive (STA) for past failures
+Governance framework
+Coherence Locks as semantic anchors
+Monitors Intent Curvature (&xi;) & Drift Delta
+Defines Affordances (permissible actions)
+Layered cognitive control
+Decomposes prompting into distinct layers
+Integrates diverse epistemologies
+Causal Reasoning Chains (traceability)
+Drift Maps (semantic integrity)
+Emergent Heuristics (new strategies)
+Supply Chain & Logistics
+Democratised Medical Research & DCTs
+Digital Public Infrastructure (Smart Cities)
+Temperature, condition icons
+Multi-day forecast
+API integration showcase
+Track income & expenses
+Render visuals (Chart.js, ApexCharts)
+Learn: State management, form validation, data visualization
+Live preview
+Save/edit/delete notes
+Store in localStorage or Firebase
+Basic login/register flow
+Structured
+Fixed Schemas
+High Consistency (ACID)
+Examples: MySQL, PostgreSQL, Oracle, SQL Server
+Scales Vertically
+Flexible Schemas
+High Scalability
+Examples: MongoDB, Redis, Cassandra, Neo4j
+Scales Horizontally
+Types: Document, Key-Value, Column-Family, Graph
+Spread across multiple servers
+Shared (Sharding)
+Replicated
+Easier initial build
+Unwieldy as it grows
+Scaling duplicates entire system
+Smaller, independently deployable services
+Granular scaling
+Improved fault isolation
+Containerisation (Docker, Kubernetes)
+Fast load times
+Lower hosting costs
+Content rarely changes
+Tools: SSGs (Gatsby, Next.js, Hugo, Astro, Jekyll)
+Good for Portfolios, Blogs, Documentation
+Content generated in real-time (server-side)
+Personalised, frequently updated pages
+Higher hosting & development costs
+Technologies: PHP, Python (Django/Flask), Node.js (Express)
+Often use CMS (WordPress)
+Combines static front-end with dynamic back-end APIs
+Faster loads, enhanced functionality
+Persistent Context Anchoring (PCA)
+Dynamic Context Management (DCM)
+Algorithmic Self-Therapy (AST)
+VAT_Generator (Verifiable Attestation & Tracing)

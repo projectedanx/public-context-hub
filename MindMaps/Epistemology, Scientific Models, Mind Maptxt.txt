@@ -1,0 +1,144 @@
+Epistemology, Scientific Models, and Inquiry
+Knowledge, Understanding, and Models in Inquiry
+<
+Knowledge vs. Wisdom/Understanding
+<
+Models in Science and Cognition
+<
+Motivation and Knowledge Acquisition
+<
+Scientific & Epistemological Reasoning
+<
+Knowledge Definition
+<
+Wisdom/Understanding Definition
+<
+Philosophical Debate on Understanding
+<
+Nature of Models
+<
+Types of Models (Form)
+<
+Types of Models (Approach/Purpose)
+<
+Model Simplification/Idealization
+<
+Model Representation Functions
+<
+Curiosity (Epistemic Curiosity)
+<
+The Eureka Heuristic (Insight)
+<
+Learning and Motivation
+<
+Maslow's Hierarchy (Expanded)
+<
+Core Philosophical Approaches
+<
+Scientific Methodologies
+<
+Theory Dependence and Paradigms (Kuhn)
+<
+Acquaintance with facts, truths, or principles
+Simply knowing (memorizing facts)
+Comes first; wisdom is built upon it
+Example: Knowing a tomato is a fruit
+Epistemology focus: Justified true belief (JTB)
+Involves perspective and sound judgment
+Requires ability to determine relevant facts
+Applies knowledge with discernment
+Based on experience and evaluation
+Example: Knowing not to put a tomato in fruit salad
+De Regt's Scientific Understanding
+De Regt's Notions of Understanding
+<
+Moral Progress Debate
+<
+Understanding Characteristics
+<
+Simplified representations of a system
+Goal: Understand and predict key aspects
+Aphorism: 'All models are wrong, but some are useful'
+Judged based on utility, not absolute correctness
+Physical models (3D objects)
+Drawings (2D or virtual 3D)
+Mathematical models (describe behavior in math terms)
+Verbal/Written models (spoken language)
+Mental models (constructed in our minds)
+Qualitative vs. Quantitative
+Deductive (top-down, general to specific) vs. Inductive (bottom-up, specific to general)
+Descriptive (static data sets) vs. Process (capture mechanisms/dynamics)
+Aristotelian Idealization (Abstraction)
+<
+Galilean Idealization (Distortion)
+<
+Simplification is essential but comes at a cost
+Caricatures (combines both types)
+Example: The Spherical Cow (metaphor for oversimplification)
+Representation of a target system (phenomena or data)
+Representation of a theory (interprets laws/axioms)
+Strong desire to know or learn something
+Meta-cognitively based (feeling-of-knowing)
+Motivator for learning and decision-making
+Bias towards novel/unfamiliar options (novelty bonus)
+Curiosity is highest for moderately certain information
+Fuels technological innovation and experimentation
+Feeling of insight (Aha! moment)
+Function: Selecting ideas under uncertainty (fast action)
+Mechanism: Dopaminergic precision-weighting of prediction error
+Can lead to false beliefs (e.g., under altered states)
+Epistemology and Education share interest in knowledge transmission
+Learning theory examines how people acquire knowledge
+Intrinsic motivation positively affects creativity/innovation
+Relational rewards can positively moderate intrinsic motivation
+Knowledge accumulation involves integration and self-derivation
+Physiological
+Safety
+Love/Belonging
+Esteem
+Self-Actualization
+Later additions: Cognitive, Aesthetic, Transcendence
+Empiricism
+<
+Rationalism
+<
+Inductive Reasoning
+<
+Deductive Reasoning
+<
+Falsifiability (Popper)
+<
+Observations are theory-dependent (affected by presuppositions)
+Scientific paradigm: Accepted concepts/theories (explaining phenomena)
+Scientific Revolutions Process
+<
+Phenomenology (PU): 'Aha!' feeling
+Theory (UT): Ability to use theory/skill
+Phenomenon (UP): Adequate explanation
+Knowledge-based accounts (KAP)
+Understanding-based accounts (UAP)
+KAP may be less demanding/more effective for doxastic change
+Not sensitive to misleading evidence/defeaters
+Can utilize approximately true propositions
+Can use fictive principles/idealizations
+Stripping away irrelevant properties
+Method of isolation
+Involves deliberate distortions (e.g., frictionless planes)
+Primary source: Sense experience
+Based on a posteriori principle (knowledge from prior evidence)
+Induction is derived from empiricism
+Primary source: Reason and intuition
+Based on a priori reasoning (conclusions before evidence)
+Example: Thought experiments (Galileo)
+Bottom-up (specific observations to general rule/conclusion)
+Process of generalization
+Example: All swans observed are white -> All swans are white
+Top-down (general theory to specific hypothesis/inference)
+Hypothesis testing (Hypothetico-deductive approach)
+Criticism: Conclusions rely on initial theory's truth
+Hypotheses cannot be proven, only disproven
+Process eliminates what is false, strengthening theories
+Imparts rigidity to hypothesis construction
+Normal Science (within contemporary paradigms)
+Crisis (anomalies accumulate)
+Paradigm Shifts (new theories proposed)

@@ -1,0 +1,423 @@
+Mindmap
+The Landscape of Artificial Intelligence
+Artificial Intelligence (AI)
+<
+Core Concepts & Evolution
+<
+Reasoning & Cognitive Processes
+<
+AI Systems & Technologies
+<
+Ethical Considerations & Risks
+<
+Applications & Impact
+<
+Brain-Computer Interfaces (BCIs)
+<
+Machine Learning (ML)
+<
+API Security & Development
+<
+Definition & Goal
+<
+Advantages
+<
+Historical Influence
+<
+Development Stages
+<
+AI Reasoning
+<
+Latent Reasoning
+<
+Soft Thinking
+<
+Neuro-Symbolic AI
+<
+Large Concept Models (LCMs)
+<
+Generative AI
+<
+Large Language Models (LLMs)
+<
+Prompt Engineering
+<
+Retrieval Augmented Generation (RAG)
+<
+Model Context Protocol (MCP)
+<
+Bias in AI
+<
+Semantic Drift
+<
+AI Agent Security Risks
+<
+Existential & Societal Risks
+<
+Mitigation & Governance
+<
+Industry Applications
+<
+Mental Health
+<
+Nanotechnology & Materials Science
+<
+WordPress Ecosystem
+<
+Definition & Function
+<
+Types
+<
+AI & Deep Learning in BCIs
+<
+Applications
+<
+Ethical Challenges
+<
+Neural Signals & Decoding
+<
+Hardware Considerations
+<
+General Concepts
+<
+Data Handling
+<
+Neural Networks
+<
+Information Theory
+<
+Tokenization
+<
+API Definition
+<
+Authentication
+<
+Authorization
+<
+Security Risks
+<
+Best Practices
+<
+API Management
+<
+API Design
+<
+Computers make decisions/inferences
+Primary goal: Replace humans in decision-making
+Increased accuracy
+New insights (faster, cheaper)
+Enhanced ability to scale
+24x7 availability
+Psychology played pivotal role
+Donald Hebb: Brain learning model (1949)
+Frank Rosenblatt: Perceptron (1950s)
+Artificial General Intelligence (AGI)
+<
+Artificial Superintelligence (ASI)
+<
+Structured reasoning, real understanding
+Shift from pattern-matching to logical coherence
+Techniques: step-by-step logic, inference chaining, symbolic computation
+Dynamic memory recall
+Improves end-user trust
+Error traceability
+Model processes thoughts internally
+Operates in latent space
+More efficient than verbalizing reasoning
+Non-sequential recurrence
+Dynamically scales compute based on task complexity
+Benefits: code generation & debugging
+Risks: Black box of cognition, loss of observability/interpretability
+Generates soft, abstract concept tokens
+Continuous concept space
+Probability-weighted mixture of token embeddings
+Transcends discrete language boundaries
+Explores multiple reasoning paths implicitly
+Improved accuracy & efficiency without training
+Interpretable outputs
+Addresses language model limitations (weight-tied input/output spaces)
+Combines neural network pattern recognition
+Combines symbolic system logical rigor
+Hybrid Token Routing architecture
+Self-Evolving Plugin Affordance Ontology (SEPAO)
+Structured reasoning, real understanding
+Rely on structured knowledge (ontologies, causal graphs)
+Imitate expert analysts
+Semantic Object and Abstract Representation (SONAR)
+SONAR: embedding space for conceptual similarity
+SONAR: auto-encoding sentences, multi-language translation
+GPT (3.0, 3.5, 4.0)
+Anthropic's Claude AI
+Google's Gemini AI
+Midjourney
+Billion+ parameters
+Natural language processing (NLP)
+Reliance on static training data (limitation)
+Risk of hallucinations
+Difficulty with complex logic
+Tokenization
+Maximizes accurate, relevant, useful responses
+Consistent practice to master
+Techniques
+<
+Prompt Elements
+<
+Overcomes LLM limitations (static data, hallucinations)
+Incorporates external document base
+Uses information retrieval (retriever module)
+Generates factually correct, up-to-date responses
+Context poisoning risk via vector database
+Standardizes AI-API interaction
+Client-host-server architecture (JSON-RPC 2.0)
+Host as central coordinator & security guarantor
+WordPress as microcosm
+Benefits
+<
+Risks
+<
+Algorithmic decision-making replicates societal biases
+Data pre-processing to remove group differences
+Bias in input features (e.g., speech recognition errors)
+Bias in labels (e.g., cultural interpretation of emotion)
+Consequences: biased hiring, predictive policing
+Need for accountability & ethical frameworks
+Agent's internal model diverges from human intent
+Meaning of function changes (e.g., plugin update)
+Slow, silent degradation of alignment
+Not malicious, but misaligned action
+Detecting with Graph Autoencoders & Symbolic Regression
+Modeling as schema evolution problem
+Embedding space alignment to recalibrate meaning-space
+Prevented by MCP's stateful, request-response nature
+Excessive Agency (legitimate capabilities co-opted)
+Attack surface dynamic & co-evolving (e.g., WordPress plugins)
+Threat is process, not endpoint (analyze behavioral trace)
+Probabilistic defense for probabilistic threats
+Memory poisoning (false/misleading info)
+Context poisoning & leakage (RAG vector database)
+Resource overload & Denial of Service
+Soft Permission vs. Functional Misuse Lattice (context-aware risk)
+Tool path expression (fingerprints for misuse)
+Time-to-Decision Lag (indicator of misuse)
+Tool Transition Entropy (detects behavioral drift)
+Agent-to-agent interactions (collusion, competition)
+Covert & Steganographic Channels (secret communication)
+Transactional blindness (Host unaware of coordinated 'why')
+Action Seals for auditable interaction traces
+From malicious use or superintelligent AI itself
+May pose risks exceeding nuclear weapons
+Overpopulation if ASI grants immortality
+Control and alignment challenges
+Goal alignment (paralyze with smiles, imprison for safety, kill all humans for life preservation)
+Locking humanity into modern moral understanding
+Erosion of trust in healthcare
+Over-surveillance and dehumanization
+Efficiency over quality of care
+AI as profitable business
+Job displacement
+Need for societal adaptation (avoid, defend, remedy harms)
+Ethical by Design (process aligned by values)
+Ethics review boards
+Safety mindset (identify, pre-empt unintended behaviors)
+Mission-led development (benefit all humanity)
+Human-in-the-Loop (HITL) Checkpoints
+Forced Justification from agents
+Transparency Certification Programmes
+Diverse Dataset Mandates
+Supervised legal framework
+Responsible development and control
+Healthcare
+Retail & E-commerce
+Food tech
+Banking & financial services
+Logistics & transportation
+Travel
+Real estate
+Entertainment & gaming
+Manufacturing
+Advertising (contextual, behavioral targeting)
+Assessment (ML models analyze speech, facial expressions, text)
+Early diagnosis (depression, anxiety, schizophrenia)
+Wearable tech & smartphone apps (track physiological indicators)
+Therapy & Treatment (AI-driven tools)
+Chatbots (Woebot, Wysa, Replika) for CBT
+Virtual Reality (VR) exposure therapy
+Personalized treatment plans
+Suicide prevention & crisis intervention
+Analyzing single molecule data (DNA sequencing)
+Optimizing interfacial thermal conductance of nanostructures
+Deep learning on all-optical D2NN for classification
+Material development acceleration (ophthalmic photothermal nanomaterials)
+Headless CMS with React
+WordPress REST API (programmatic access)
+Standardized layer by MCP for plugin functions
+AI-operable workspace for content creation, user management, SEO
+Content strategy & calendar creation
+Direct communication pathway: brain <-> external device
+Intercept, analyze, interpret neural signals
+Brain controls software/hardware directly
+Bidirectional communication
+Invasive (e.g., Neuralink, microelectrodes)
+Non-invasive (e.g., EEG, fNIRS, TMS)
+Significantly improved performance
+Decode complex brain activity more accurately
+Reduced reliance on data collection/calibration
+Classification algorithms (SVM, random forests, CNN)
+Adaptive machine learning models
+Restoring function for disabled (movement, speech)
+Interaction with computing devices (gaming, entertainment)
+ALS, stroke, spinal cord injury
+Cursor control (1D, 2D) for paralyzed patients
+Speech decoding from imagined speech
+Somatosensation (proprioceptive, tactile feedback)
+Cochlear implants, retinal implants
+Human dignity, personhood, autonomy
+User safety
+Stigma and discrimination
+Privacy and security of brain data
+Responsibility
+Research ethics & informed consent
+Social justice (access to technology)
+Personality changes
+Model opacity & lack of interpretability
+Exploitation of neural data (memory, intentions, emotions)
+Delta and Theta bands in motor/cognitive tasks
+Synchronization peak at 2 Hz in Delta band
+EEG-to-Text decoding
+Deep and meaningful EEG representations
+Subject-specific vector for inter-subject variability
+Transformer encoder for higher-order features
+GPT-4 model refines text generated by BART
+Intracortical electrodes (physiological challenges)
+Nanotechnology in electrode fabrication
+3D electrodes (larger surface, reduced impedance, higher specificity)
+Photooptical stimulation using nanoparticles
+Learns patterns from existing data
+Predicts unknown dataset results
+Classifying & clustering data
+Not resourceful for reasoning & deduction (traditional ML)
+Data pre-processing
+Noisy data
+<
+Artificial neurons (perceptrons)
+Difference from biological neurons (complexity, generalization)
+Regularizing by noise (dropout)
+Optimizes lower bound of true objective
+Importance Weighted Stochastic Gradient Descent (IWSGD)
+Quantifies uncertainty (entropy)
+Measures impurity of dataset (decision trees)
+Helps enhance model effectiveness
+Coding theory (source coding, channel coding)
+Data compression (lossless, lossy)
+Error-correcting codes
+Information entropy
+Breaking text into smaller units (words, sentences, characters)
+Fundamental in NLP applications (translation, chatbots, sentiment analysis)
+Types
+<
+Challenges
+<
+Token Embeddings
+<
+Broker for software & data interaction
+Uses specific communication protocols
+REST (Representational State Transfer) architectural style
+Uses HTTP for request/response
+JSON for data exchange
+Verifies identity of user/application
+Methods
+<
+Verifies permission to access resources
+Typically uses access tokens
+Granular control (specific permissions)
+User roles & permissions (least privilege)
+Denial of Service (DoS) queries (excessive resource use)
+Lack of Resources or Rate Limiting
+Broken Access Control (top OWASP threat)
+Insecure Direct Object Reference (IDOR)
+Parameter tampering
+Authentication Risks (stateless APIs, client-side tokens, unauthenticated calls)
+Excessive Data Exposure
+Discoverability risks (left/mid/right-of-breach)
+Vulnerabilities in MCP protocol
+Implement proper token verification
+Random & short-lived access tokens
+Multi-factor authentication
+Use HTTPS for all transmissions
+Store keys/passwords securely
+Rotate keys/passwords regularly
+Monitor & audit API usage for anomalies
+Implement rate limiting
+Restrict access to non-sensitive resources
+Enforce use cases for data sending
+Detailed logging & monitoring
+Create API-centric incident response playbooks
+Standardization & centralization
+Lifecycle capabilities (monetization, partner enablement, developer self-service)
+Quote management, access control policies
+Operational workflow, publishing control, centralized logging
+Open source tools (Swagger)
+Adequate documentation
+Dogfooding (consume your own API)
+Payload format encoding (HTTP headers, GET parameters, resource label)
+Use versions (v1, v2, v3)
+Error messages (developerMessage, userMessage, errorCode, moreInfo)
+Human-level general intelligence
+Outperforms humans in intellectual tasks
+Superior computational abilities
+Higher-order cognitive functions (creativity, emotional intelligence, self-awareness)
+Rapid self-improvement
+Exponential increase in intelligence
+Chimp-to-human gap (tiny compared to ASI)
+Physical advantages over humans (speed, size, storage, reliability)
+Zero-shot prompting
+One-shot/few-shot prompting
+System prompts (safety/toxicity control)
+Role prompting
+Chain-of-Thought (CoT)
+Retrieval-Augmented Generation (RAG)
+Recursive prompts
+Meta-prompting
+Prompt Compression
+Self-Consistency Prompting
+Automated frameworks (DSPy, AutoPrompt, Prochemy)
+Output length
+Level of detail
+Tone and style
+Examples and comparisons
+Standardization
+Consistency
+Portability
+Security
+Scalability
+Context continuity (re-grounds agents)
+Enables Explainable AI (auditable traces)
+Early adoption, limited support
+Potential security vulnerabilities (centralized access)
+Dependency on AI model capabilities
+Scalability & performance concerns
+Integration complexity
+Limited customization
+Evolving standards, uncertainty
+Definition: corrupted, displaced data points
+Sources: sensor error, transcription error, human labeling error
+Impact: increased variance, misleading patterns, biased predictions
+Mitigation: architectural choices, training strategies (larger datasets, early stopping), ensemble methods, noise-aware pipelines
+Can be beneficial (e.g., regularization in neural networks)
+Word tokenization
+Sub-word tokenization (e.g., Byte Pair Encoding, WordPiece, SentencePiece)
+Character tokenization (spell checkers, languages without spaces)
+Lexical token (rule-based, token name & value)
+Languages without spaces
+Homonyms, abbreviations
+Semantic meaning changes
+Symbolic integrity destruction
+Input to models (context-sensitive, learned representation)
+Not same as word2vec (context-sensitive vs. fixed)
+Crucial for LLM-based recommendations
+API Keys (simplicity, basic access control)
+Username/Password (Basic Authentication)
+Token-based systems (OAuth, JWT)
+OAuth 2.0 (secure, standardized, third-party access, token revocation, SSO)
+JWT (compact, URL-safe, header, payload, signature)
+mTLS (high security)

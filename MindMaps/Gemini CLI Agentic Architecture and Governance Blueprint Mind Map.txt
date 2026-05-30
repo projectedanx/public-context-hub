@@ -1,0 +1,114 @@
+Gemini CLI Agentic Architecture and Governance Blueprint
+Gemini CLI Agentic Architecture & Governance
+<
+Core Principles & Operational Modes
+<
+Context Engineering & Memory Management
+<
+Tools, Extensions, and Architecture
+<
+Governance, Auditability, and Self-Correction
+<
+Cognitive Contract (GEMINI.md)
+<
+Agent Types & Roles
+<
+Operational Modes & Safety Flags
+<
+Context Scaffolding
+<
+Memory Types & Tools
+<
+Prompting Techniques
+<
+Model Context Protocol (MCP)
+<
+CLI Built-in Tools
+<
+Custom Commands (Slash Commands)
+<
+Tooling Design Requirements (ATSC Framework)
+<
+Failure Modes & Etiology
+<
+Validation & Audit Frameworks
+<
+Antifragility Mechanisms (Algorithmic Reparation)
+<
+Defines Roles & Constraints
+Hierarchical Loading (Global, Project, Local)
+Enforces Cognitive/Semantic Integrity Constraints (SICs)
+Contains Output Constraints (e.g., No 'any' types, PEP 8)
+Serves as Epistemic Constitution/Working Agreement
+Manus / Trae AI (General Coding Assistant)
+Jules (Autonomous, Stateful Cognition: Memory, Planning, Action)
+Planner/Architect (Task Decomposition, Blueprint)
+CoderAgent (Generates code, Code-First Rationale)
+ExplainerAgent (Refines Rationale into ExplanationPacket)
+ValidatorAgent (QA Gate, Consistency Check)
+Supervisor/Router (Centralized Control, Best for Enterprise)
+Interactive Mode
+YOLO Mode (--yolo, Disables all confirmations, High Risk)
+Default Approval Mode (Prompts before dangerous actions)
+AutoEdit Mode (Auto-approves file edits)
+ACT MODE (Tool use to complete task)
+PLAN MODE (Gather context, create detailed plan)
+TDD Cycle (Test-Driven Development Logic at Core)
+Hierarchical Context Loading (Settings Precedence)
+Context Anchor Pattern (Pinned files override LIFO)
+Context Purity Principle (Data is content, not instructions)
+Context Isolation (Multi-Agent Systems)
+Epistemic Escrow (Isolated knowledge repository)
+Working Memory (Transient state/scratchpad)
+Long-Term Persistent Memory
+<
+Context Management Commands
+<
+CRISP Framework (Context, Role, Instruction, Spec, Performance)
+Chain-of-Thought (CoT) / Semantic CoT (SeCoT)
+Structured Rationale Protocol (Analysis, Reasoning, Control Flow)
+Failure-Informed Prompt Inversion (F-IPI)
+Enables Extensibility and Custom Tools
+Client-Host-Server Architecture
+Exposes Tools (Executable functions/side effects)
+Exposes Resources (Read-only data streams/Grounding)
+Extensions Bundle MCP Server, Context, and Commands
+Examples: GitHub MCP Server, NanoBanana (Image Generation)
+GoogleSearch (Grounding via web info)
+read_file / read_many_files
+edit_file (Precise semantic edits via diffs)
+grep_search (Regex pattern match)
+run_shell_command (Terminal passthrough via ! or tool)
+codebase_search (Semantic search)
+Reusable, complex prompts/workflows
+Stored in commands/*.toml files
+Encapsulates robust, decomposed workflows (e.g., /refactor:SRP)
+Atomic and Idempotent Tooling (For resilience)
+Schema as Contract (Formal Interface)
+Mitigate Prompt-Execution Entanglement
+Mandate Read-After-Write Validation
+Repeat Curse (Write-Fail-Retry Loop)
+Context Blindness (Truncated Feedback)
+Oscillatory Correction (Conflicting Constraints)
+Provenance Loss (Missing Source Tag)
+Typological Drift (Syntax/Structural Degradation)
+Prompt-Execution Entanglement (Confusing data/instruction)
+Semantic Drift (Meaning Erosion)
+ATSC (Agent-Tool-Schema-Context)
+CxEP (Context-to-Execution Pipeline)
+JUR (Justified Uncertainty Report) Schema
+Provenance Tagging (Source Provenance Ratio > 0.95)
+Causal Faithfulness (Verifiable State Change)
+Self-Verification Loop ('Fix Until Green' Test Cycle)
+Symbolic Scar (Persistent memory of failure archetype)
+Epistemic Escrow (Circuit Breaker/Halt execution)
+F-IPI (Failure-Informed Prompt Inversion)
+Reflexive Repair Mandate (Generates new Meta-Prompt after failure)
+CFDI (Confidence-Fidelity Divergence Index)
+Episodic (Historical record, collab-log.md)
+Semantic (Abstract facts, principles)
+Procedural (Skills, tool use heuristics)
+/compress (Summarizes conversation, reduces tokens)
+/clear (Clears context)
+/stats (Monitors token usage)
+/restore (Reverts state via checkpointing)

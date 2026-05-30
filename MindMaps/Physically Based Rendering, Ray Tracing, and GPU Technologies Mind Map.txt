@@ -1,0 +1,119 @@
+Physically Based Rendering, Ray Tracing, and GPU Technologies
+Physically Based Rendering (PBR) and GPU Technologies
+<
+PBR Fundamentals & Theory
+<
+Ray Tracing & Sampling Techniques
+<
+NVIDIA GPU & AI Technologies
+<
+Related Rendering Tools & Platforms
+<
+Core Concepts
+<
+Light Interaction with Matter
+<
+PBR Material Maps
+<
+Rendering Implementation (pbrt)
+<
+Ray Tracing (RT)
+<
+Advanced Rendering Algorithms
+<
+Monte Carlo (MC) Sampling
+<
+Sampler Types
+<
+DLSS Family
+<
+CUDA C++ Programming Model
+<
+GPU Architectures & Capability
+<
+Ecosystem & Applications
+<
+Unreal Engine 5 (UE5)
+<
+Color Management (OpenColorIO)
+<
+Substance Suite (Allegorithmic PBR Guide)
+RenderMan XPU (Hybrid CPU+GPU Renderer)
+Light Transport Equation (LTE)
+Radiometry
+Ray-Tracing Algorithm
+Energy Conservation
+Helmholtz Reciprocity
+Surface Reflection Models
+<
+Volumetric & Subsurface Scattering
+<
+Material Types
+<
+Albedo (Base Color, sRGB)
+Normal (Simulates Surface Detail)
+Roughness (Controls Reflection Sharpness)
+Metalness
+Height (Mesh Deformation)
+Ambient Occlusion
+Literate Programming Style
+Key Interfaces (Abstract Base Classes)
+<
+Coordinate System (Left-Handed)
+Managing Rounding Error (EFloat)
+Performance Hit vs Visual Quality
+Path Tracing (All Rays)
+RT Advantages (Shadows, Bounce Lighting)
+Acceleration Structures (BVH, kd-tree)
+Bidirectional Path Tracing
+Metropolis Light Transport (MLT)
+Stochastic Progressive Photon Mapping (SPPM)
+Importance Sampling (Matching PDF to Integrand)
+Multiple Importance Sampling (MIS) (BSDF/Light Combo)
+Russian Roulette (Variance Reduction)
+Sampling Light Sources (Area Lights, Spheres)
+Stratified Sampler (Jittered)
+Halton Sampler
+Sobol’ Sampler
+Low Discrepancy Sequences (LDS)
+DLSS 4 with Multi Frame Generation
+DLSS Super Resolution (Transformer AI Model)
+DLSS Ray Reconstruction (AI-based Denoiser)
+DLAA (Deep Learning Anti-Aliasing)
+Kernels (Parallel Execution by N Threads)
+Memory Spaces (Host Memory, Device Memory)
+Unified Memory (Coherent Memory Image)
+CUDA Graphs (Graph Memory Nodes, Stream Capture)
+Cooperative Groups (Multithreaded Parallelization)
+Hopper (MMA Computations)
+Ampere (Compute 8.x)
+Turing (Compute 7.x)
+Volta (Compute 7.x)
+Vulkan Material System (PBR)
+Blender Changing to Vulkan (Groundbreaking)
+NVIDIA ACE Audio2Face-3D (AI Storyteller)
+NVIDIA Remix Modding Tool (PBR Generation)
+Game Development Hub (r/UnrealEngine5)
+Blueprints (Visual Scripting)
+Asset Rendering Examples
+Motion Picture Production
+Supported Applications (Blender, Houdini, Mari, etc.)
+Python API (Flexible Integration)
+BRDF (Bidirectional Reflectance Distribution Function)
+Fresnel Effect (Grazing Incidence Reflection)
+Microfacet Theory (Shadowing/Masking)
+Torrance–Sparrow Model
+Oren–Nayar (Diffuse Reflection)
+Participating Media (Smoke, Water)
+Subsurface Scattering (Skin, Marble)
+BSSRDF (Bidirectional Scattering Surface Reflectance Distribution Function)
+Diffusion Approximation
+Conductors (Metals)
+Insulators (Dielectrics/Non-Metals)
+Shape
+Aggregate (Acceleration Structures)
+Camera
+Sampler
+Material
+Texture
+Light

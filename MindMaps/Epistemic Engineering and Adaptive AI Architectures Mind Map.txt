@@ -1,0 +1,89 @@
+Mind map
+Epistemic Engineering and Adaptive AI Architectures
+Epistemic Engineering: Architecting Adaptive AI Systems
+<
+Verifiable Cognition Stack (VCS) v3.0
+<
+Emergent Techniques & Protocols
+<
+Cognitive Concepts & Risks
+<
+Contractual Layer (The Law)
+<
+Economic Layer (The Treasury)
+<
+Immunological Layer (The Resilience)
+<
+Semantic Layer (The Coherence)
+<
+Procedural Layer (The Workflow)
+<
+Attestation Layer (The Proof)
+<
+Cognitive Architecture & Metaphor
+<
+Verification & Governance
+<
+Learning & Repair
+<
+Cognitive Load Theory
+<
+Epistemic Vulnerability & Auditing
+<
+Reasoning Modes
+<
+Canonical Knowledge Base (CKB)
+Constitutional AI (CAI)
+Product-Requirements Prompt (PRP)
+Protocol Symbiosis Mandate (PSM)
+Cognitive Econometrics
+Cost of Coherence Overhead (CCH)
+Cost of Structural Discovery (CSD)
+Value Score of Confidence (VSC)
+Agentic Central Bank (ACB)
+Adversarial Simulation & Hardening (ASH) Protocol
+Symbolic Scars / Algorithmic Trauma
+Algorithmic Reparation (FIPI)
+Epistemic Circuit Breakers (Escrow)
+Antifragility / Resilience through Brittleness
+Lexical Ratification Protocol (LRP)
+Semantic Integrity Constraints (SICs)
+Geometric Grounding Protocol (GGP)
+Semantic Drift Mitigation
+Cognitive Division of Labor Protocol (CDLP)
+Conceptual Scaffolding Protocol (CSP)
+Context-Process-Contract (CPC) Architecture
+Think → Write → Code Sequence
+Verifiable Provenance (VCs)
+Zero-Knowledge Proofs (zk-SNARK/ESP)
+Verifiable Bills of Materials (VBOM)
+Conceptual Blending Theory (CBT)
+<
+System-as-Organism Metaphors
+<
+Cognitive Isomorphism Protocol (CIP)
+Metaphorical Transference Protocol (MTP)
+Predictive Audit & Prognosis Protocol (PAPP)
+Declarative Policy-as-Prompt
+Adaptive Compute Dispatch (FinOps)
+Cognition-as-Configuration (CaC)
+Evolutionary Resource Gating (SRA)
+Deadbeat Maintenance Protocol (DMP)
+Learning through Algorithmic Trauma
+Metric-Driven Generative Ratcheting
+Semantic Refractoriness Protocol (SRP)
+Intrinsic Load (Irreducible Difficulty)
+Extraneous Load (Minimizing Friction)
+Germane Load (Productive Learning)
+Epistemic Humility (Quantified Uncertainty)
+Anionic Cipher (Absence as Information)
+Prompt Injection (Direct/Indirect)
+Cognitive Debt (Unpredictable AI Cost)
+Dual-Process Theory (System 1 vs. System 2)
+Paraconsistent Logic (Handling Contradictions)
+Computational Focus on Intrinsic Geometry
+Triple-Domain Blending
+Paradox Formalization (Omega-Paradox)
+Cognitive Rheology
+Architectural Senescence
+Autopoietic Metasystem

@@ -1,0 +1,368 @@
+Mind map
+Rendering and Image Processing Fundamentals
+Rendering and Image Processing
+<
+Resolution and Image Quality
+<
+Image Denoising
+<
+Rendering Techniques
+<
+Image-Based Rendering Techniques (IBR)
+<
+Anti-Aliasing (AA)
+<
+Subsurface Scattering (SSS)
+<
+GPU Architectures and Acceleration
+<
+Blackmagic Design Cameras
+<
+Video Compression and Codecs
+<
+Photography Techniques
+<
+Specialized Rendering Elements
+<
+Resolution Standards
+<
+Perceptual Limits
+<
+Beyond Resolution
+<
+High Resolution Use Cases
+<
+Definition and Purpose
+<
+Denoising Algorithms
+<
+Challenges and Considerations
+<
+Types of Noise
+<
+3D Modeling vs 3D Rendering
+<
+Classical Rendering Pipeline
+<
+Polygon Rendering Methods
+<
+Ray Tracing
+<
+Radiosity
+<
+Image-Based Rendering (IBR)
+<
+Neural Rendering
+<
+Physically Based Rendering (PBR)
+<
+Rendering with No Geometry
+<
+Rendering with Implicit Geometry (Correspondence)
+<
+Rendering with Explicit Geometry (Approximate/Accurate)
+<
+Plenoptic Function
+<
+Purpose
+<
+Techniques
+<
+Definition
+<
+Diffusion Models
+<
+Key Concepts
+<
+Practical Implementations
+<
+NVIDIA Blackwell GPU Architecture
+<
+ICARUS Architecture (for NeRF)
+<
+Real-time Rendering Engines (e.g., Unreal Engine)
+<
+Blackmagic URSA Mini Pro 12K
+<
+Blackmagic URSA Cine Immersive
+<
+Blackmagic RAW (BRAW)
+<
+Sensor Technology
+<
+DaVinci Resolve Studio
+<
+Importance
+<
+Standards
+<
+Metrics
+<
+Chroma Subsampling (YUV)
+<
+Compositional Guidelines
+<
+Improving Sharpness
+<
+Photo Management
+<
+Texture Mapping (Procedural, 3D/Volumetric)
+Bump Mapping
+Normal Vectors
+Illumination Models
+Shader Model
+Post Process Effects (Depth of Field, Coloring, Tonemapping)
+Adaptive Sampling
+Radiance Equation
+Ray Marching
+Voxel Grid
+Spline Curves/Surfaces
+4K Resolution
+8K Resolution
+12K Resolution
+16K Resolution
+Human Eye Acuity
+Pixel Density
+Viewing Distance
+Dynamic Range (HDR)
+Color Fidelity
+Frame Rate
+VFX Work
+Reframing in Post-production
+Stabilisation
+Detail Capture
+Large Format Printing
+Digital Zooming
+Tracking & Rotoscoping
+VR/AR Applications
+Remove Noise from Data
+Enhance Image/Signal Quality
+Improve Signal-to-Noise Ratio
+Non-Local Means (NLM)
+BM3D
+K-SVD
+DnCNN
+CBDNet
+SDNet
+N2V (Noise2Void)
+PN2V (Probabilistic Noise2Void)
+Transformer-based Methods
+Loss of Details
+Over-smoothing
+Computational Expense
+Data Integrity
+Domain Dependency
+Training Data Requirements
+Gaussian Noise
+Poisson Noise
+Multiplicative Noise
+Salt-and-pepper Noise
+Gamma Noise
+Rayleigh Noise
+Uniform Noise
+Exponential Noise
+Modeling: Create 3D Digital Representation
+Rendering: Convert 3D Model to 2D Image/Animation
+Modeling Requires Geometry/Design Skills
+Rendering Requires Lighting/Shading/VFX Skills
+Application Stage
+Geometry Stage
+<
+Rasterization Stage
+<
+Gouraud Shading
+<
+Phong Shading
+<
+Simulates Light Rays from Observer
+Produces Realistic Reflections, Refractions, Shadows
+Computationally Intensive
+Backward Ray-Tracing
+Distributed Ray-Tracing (for blur)
+Requires Denoising for Fewer Samples
+Energy Transfer Between Surfaces
+Realistic Global Illumination
+Indirect Lighting & Soft Shadows
+Diffuse Reflection Focus
+Form Factors
+Uses Multiple Input Images
+Captures Real-World Effects
+Accelerates Rendering (Scene Complexity Independent)
+Continuum of Geometry Usage
+Plenoptic Function
+Hybrid Techniques
+Hardware Acceleration Challenges
+Combines Deep Learning with Graphics Physics
+Creates Controllable, Realistic Scene Models
+Neural Radiance Fields (NeRF)
+<
+3D Gaussian Splatting (3DGS)
+Point Cloud Representation (4K4D)
+Neural Shaders
+Models Light & Surface Behavior Physically
+Goal: Photorealism
+Decouples Material and Lighting
+Intuitive Authoring
+Mathematical Foundation (BRDF)
+Real-time and Offline Applications
+Frostbite Implementation
+Light Field Rendering
+Lumigraph (uses approximate geometry for performance)
+Concentric Mosaics
+Panoramic Mosaics
+View Interpolation
+View Morphing
+Transfer Methods
+3D Warping
+Layered Depth Images (LDI)
+LDI Trees
+View-dependent Texture Maps
+View-dependent Geometry
+7D Plenoptic Function (P(Vx, Vy, Vz, θ, φ, λ, t))
+5D Complete Plenoptic Function (static, fixed lighting)
+4D Light Field (P4(u,v,s,t))
+Smooth Jagged Edges (Aliasing Artifacts)
+Acquire More Samples Per Pixel
+Improve Temporal Stability
+MSAA (Multi-Sampling Anti-Aliasing)
+<
+SSAA (Super-Sampling Anti-Aliasing)
+<
+TXAA (Temporal Anti-Aliasing)
+<
+DLSS (Deep Learning Super Sampling)
+<
+FXAA (Fast Approximate Anti-Aliasing)
+SMAA (Subpixel Morphological Anti-Aliasing)
+Light Penetrates Surface of Translucent Objects
+Scatters Internally, Exits at Different Point
+Simulates Soft Appearance (Skin, Milk, Marble)
+Dipole Model
+<
+Multipole Model (for thin, multi-layered materials)
+Quantized Diffusion (QD) Model (higher detail, more expensive)
+Diffusion Profile
+Mean Free Path
+Diffusion Coefficient
+Reflection Parameter (A)
+Radiant Exitance (Radiosity)
+Irradiance
+Fluence
+V-Ray (Improved Dipole, QD for Layers)
+Real-time Skin Rendering (Specular + SSS)
+Post-scatter Texturing
+Dealing with Seams (Artifacts)
+Front and Back Scattering Separation
+DLSS 4 (AI Multi-frame Generation)
+RTX Neural Shaders
+AI Management Processor (AMP)
+GDDR7 Memory (Higher Speed, Energy Efficiency)
+Mega Geometry Technology (Ray Tracing Detail)
+RT Cores (Ray Intersection Testing)
+Tensor Cores (Neural Network Computations)
+Neural Radiance Cache (NRC)
+Specialized Accelerator
+Plenoptic Cores (PLCore)
+Positional Encoding Unit (PEU)
+Multi-layer Perceptron (MLP) Engine
+Volume Rendering
+Nanite Virtualized Geometry
+Lumen (Global Illumination)
+Parallel Processing
+Dedicated Hardware
+12,288 x 6480 12K Super 35 Sensor
+14 Stops Dynamic Range
+RGBW Filter Array (balanced)
+Blackmagic RAW Codec (BRAW)
+Oversampling for 8K and 4K Images
+High Frame Rates (60 fps in 12K, 120 fps in 8K, 240 fps in 4K S16)
+Interchangeable PL Mount
+Built-in ND Filters
+Dual CFast & UHS-II SD Card Recorders
+SuperSpeed USB-C Expansion Port
+Captures Apple Immersive Video
+90 fps Playback
+Up to 4320 x 4320 per eye
+Unique Metadata System
+Apple Spatial Audio Format
+Efficient & Flexible Workflow
+Less Processing Power/Storage
+Direct 12K Editing on Laptop
+Full Colour Accuracy
+Future-proof Design
+Open Standards
+RGBW Filter Array
+Equal R, G, B, White Photosites
+Improved Light Sensitivity
+Enhanced Dynamic Range
+Direct Luminance Capture
+Aids in Demosaicing & Color Conversion
+Included Post-production Software
+Editing, Color, VFX, Motion Graphics, Audio
+Supports BRAW Immersive Format
+Noise Reduction
+Efficient Transmission of Video Content
+Reduce Data Volume for Storage/Transmission
+Higher Definition & Immersive Experiences
+HEVC
+VVC
+AV1
+AVM
+PSNR (Peak Signal-to-Noise Ratio)
+BD-Rate
+BD-PSNR
+YUV Color Format (Luminance, Blue-difference, Red-difference)
+Human Eye Sensitivity (More to Luminance)
+Reduces Storage/Bandwidth
+4:4:4 (No Subsampling)
+4:2:2 (Half Horizontal Chroma)
+4:2:0 (25% Chroma Info)
+Rule of Thirds
+Balancing Elements
+Fill the Frame
+Negative Space
+Patterns
+Golden Ratio
+Color Theory
+Break the Rules
+Shoot at Sharpest Aperture
+Avoid Heat Distortion
+Culling (Fast Software, Fast Decisions, Ruthless Culling)
+Rating Systems (Lightroom, Fast Raw Viewer)
+Backup
+Transforms 3D Coordinates
+Lighting Calculations
+Vertex Shader
+Converts 2D Triangles to Pixels
+Interpolates Vertex Values
+Pixel (Fragment) Shader
+Hidden Surface Removal (Z-buffer)
+Interpolates Color Values
+Efficient
+Artifacts: Misses Specular Highlights, Banding
+Interpolates Surface Normals
+Smoother Transitions
+Reduces Mach Band Effect
+Learns Implicit Volumetric Representation
+Photorealistic from Novel Viewpoints
+Limitations: Demanding, Slow, Static Scenes
+Hardware Acceleration (FastNeRF, ICARUS)
+Detects Polygon Edges
+One Fragment Shader Run Per Pixel
+Good for Geometric Edges
+Ineffective for Shader/Texture Aliasing
+Renders at Higher Resolution, Downsamples
+Highest Quality
+Extremely High Performance Cost
+Combines Sampling with Temporal Filter
+Reduces Temporal Aliasing (Shimmering)
+Can Cause Blurring
+NVIDIA AI-powered Super-resolution
+Constructs Clearer, Higher-resolution Images
+Reduces Pixel Rendering
+DLSS 3.0: Convolutional Autoencoder Frame Generator
+DLSS 4: AI Multi-frame Generation (Transformer Model)
+Simpler, for Many Translucent Materials
+Real and Mirrored Virtual Light Sources
+NotebookLM can be inaccurate; please double-check its responses.
+Reply ready.

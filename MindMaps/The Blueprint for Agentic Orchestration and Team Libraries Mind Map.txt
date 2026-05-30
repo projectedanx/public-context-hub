@@ -1,0 +1,75 @@
+The Blueprint for Agentic Orchestration and Team Libraries
+Interactive mindmap tree. Use arrow keys to navigate. Press Enter to ask a question.
+Team Libraries & Specialized Agents System
+<
+Product Architecture
+<
+Specialised Agent Personas
+<
+Operational Methodologies
+<
+PRPM Ecosystem
+<
+Design & UX Guides
+<
+Team Libraries
+<
+Multi-Agent Framework (SPARC)
+<
+Agentic Platform Support
+<
+Strategic Leadership
+<
+Product & UX
+<
+Engineering & Ops
+<
+Prompt-Driven Development (PDD)
+<
+Workflow Logic
+<
+Context Engineering
+<
+Canonical Format Conversion
+Package Management (CLI/Registry)
+SkillPort Filtering
+Stripe-Verified Organizations
+UX Efficient Frontier
+Affinity Diagramming
+Journey Mapping & Event Storming
+Usability Testing & Moderation
+File System Access API
+JSON Local Storage
+Sync & Conflict Resolution
+Role-Based UI (Owner/Editor/Viewer)
+🪃 Orchestrator
+🏛️ Architect
+🧱 Builder
+🛡️ Guardian
+💾 Memory
+Claude Code
+OpenCode IDE
+Gemini CLI
+Zed & Cursor
+Chief of Staff
+Chief Reality Officer
+Strategic Analyst
+Product Architect
+UX Design Specialist
+User Research Analyst
+Marketing Expert
+Technical Lead
+Dev Overseer
+Security & Compliance Agent
+Diagnostics Specialists
+Prompts as Source of Truth
+Code as Disposable Artifact
+Regeneration vs Patching
+Boomerang Delegation
+Parallelization (Splinter) Strategy
+The Ratchet Effect (TDD)
+Threshold-Triggered Mandates
+3-Tier Memory Architecture
+Progressive Context Disclosure
+Dynamic Context Pruning (DCP)
+Autonomous Development Operating Systems and Security

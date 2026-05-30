@@ -1,0 +1,133 @@
+Prompt Engineering, AI Resilience, and Chaos Engineering
+Based on 141 sources
+Prompt Engineering and System Resilience
+<
+Prompt Engineering Fundamentals
+<
+LLM Agent Architectures & Reasoning
+<
+Generative AI Failure Modes & Fixes
+<
+Chaos Engineering (CE) & Resilience
+<
+AI in DevOps & RCA (AIOps)
+<
+Core Components (Context Engineering)
+<
+Prompting Techniques
+<
+Prompt Development Lifecycle (PDLC)
+<
+Cognitive/Reasoning Patterns
+<
+Knowledge Augmentation
+<
+Taxonomy of Prompt Methodologies (SDD)
+<
+Code/LLM Failures
+<
+Image Generation Issues (Diffusion Models)
+<
+Common Fixes/Mitigations
+<
+Core Principles
+<
+Key Resilience Metrics (SRE)
+<
+Architectural Patterns (Failing Safely)
+<
+CE Adoption Challenges
+<
+LLMs for Root Cause Analysis (RCA)
+<
+LLMs for Automation/Code Generation
+<
+Log Analysis Optimization
+<
+System Message (Behavioral Blueprint)
+Instruction (Task/Directive)
+Context (Background Data)
+Constraints (Rules/Limits/Format)
+Examples (Demonstration/Pattern Teaching)
+Delimiters (Structural Boundaries)
+Demonstration Information
+<
+Role/Persona Assignment
+Keyword Weighting (e.g., Stable Diffusion Syntax)
+Negative Prompts (Explicitly define what to avoid)
+Prompt Chaining/Decomposition (Multi-stage workflows)
+Prompt Ensembling (Majority vote for reliability)
+Define Success Criteria (SLOs, Metrics)
+Develop Test Cases (Typical use and edge cases)
+Engineer Preliminary Prompt (Baseline blueprint)
+Test, Refine, and Iterate (Continuous loop)
+ReAct (Thought → Action → Result Loop)
+Chain-of-Thought (CoT) (Linear structure)
+Tree-of-Thought (ToT) (Tree-based structure)
+Graph-of-Thought (GoT) (Graph structure)
+Self-Consistency (Multiple reasoning paths, majority vote)
+Retrieval-Augmented Generation (RAG)
+<
+Memory Function
+<
+Profile and Instruction
+Knowledge (RAG)
+Reasoning and Planning
+Reliability (Bias/Consistency)
+Hallucination (Factually fabricated content)
+Interpretive Fracture (Syntactic code erroring on business logic)
+Ambiguity/Inconsistency (Unstructured prompts)
+Confirmation Bias through Reasoning (CBR)
+Start with Noise (Random static)
+Anatomical Incoherence ('Bad Hands')
+Concept Bleed (Attributes mix)
+Latent Semiotic Gravity (Style Collapse)
+Fixes: Keyword Weighting, Negation Syntax
+Negative Prompts (--no deformed hands)
+Keyword Weighting (for Concept Bleed)
+Prompt Re-ordering (for Ignored Elements)
+Use Structured Output (JSON, Markdown tables)
+Hypothesize a Steady State (Measurable baseline)
+Introduce Real-World Failure Modes
+Run Experiments in Production
+Automate and Run Continuously
+Minimize the Blast Radius (Start small, kill switch)
+Service Level Indicator (SLI)
+Service Level Objective (SLO)
+Service Level Agreement (SLA)
+Error Budget (Permission slip to take risks)
+MTTR (Mean Time to Recovery)
+MTTD (Mean Time to Detect)
+Change Failure Rate (CFR)
+Timeouts
+Retries with Exponential Backoff and Jitter
+Circuit Breakers (Stateful proxy)
+Bulkheads/Fault Isolation
+Idempotency (Safe retries)
+Graceful Degradation (Default fail-safe mode)
+Technical Complexity (Distributed systems, blast radius)
+Cultural Barriers (Fear of failure, blame-focus)
+Prevention Paradox (Value is hard to justify when outages stop)
+Skill and Expertise Gaps
+Evaluated using observability metrics (GPT-4o, Gemini-1.5)
+Few-Shot Prompting improves accuracy (60–74%)
+Underperforms human SREs (>80%)
+Bias: Tendency to blame failure (misdiagnosing traffic spikes)
+Limitation: Hallucinations, lack of explainability
+Automates CI/CD pipelines, containerization
+Uses Multi-Agent Architecture (e.g., Reflector Agent)
+Requires User-in-the-Loop Control (Approvals/Edits)
+Enhances Trust through Transparent Reasoning (ReAct loop)
+LLMs summarize microservices logs for CI/CD engineers
+Minimal Instruction Prompt yields clearest results
+Few-Shot/CoT performed less effectively for log summarization
+Zero-Shot Prompting (No Examples)
+Few-Shot Prompting (Limited Examples)
+Zero-Shot CoT ('Let's think step by step')
+Integrates external documents/databases
+Mitigates Hallucination/Improves Timeliness
+Pre-retrieval optimization (Query Rewriting)
+Post-retrieval optimization (Content/Structure Adjusting)
+LLMs are fundamentally stateless
+Requires external memory architecture
+Must enforce traceability/cite protocol

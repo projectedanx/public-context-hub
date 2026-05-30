@@ -1,0 +1,191 @@
+Mind map
+Photorealistic Rendering and AI Artistry
+Photorealistic Rendering
+<
+Foundations & Techniques
+<
+Ray Tracing Algorithm Details
+<
+Advanced Rendering Techniques
+<
+Neural Rendering & AI
+<
+Image & Texture Enhancement
+<
+Mathematical & Geometric Concepts
+<
+Prompt Engineering for Image Generation
+<
+Physically Based Rendering (PBRT)
+<
+Realism Standards: Functional Realism
+Pinhole Camera Model
+Viewing Volume
+Ray-Object Intersections
+Parametric Form of Ray
+Sphere Intersection (Quadratic Equation)
+Indirect Light Transport (Recursive Nature)
+Visibility
+<
+Memory Requirements
+Sampling & Image Quality
+<
+Depth of Field Effects
+Global Illumination (GI)
+Volume Rendering
+<
+Subsurface Scattering (SSS)
+<
+Ray Marching
+<
+Photon Mapping
+<
+Path Differentials (Antialiasing, Photon Map Density)
+Ray Differentials (Texture Antialiasing)
+Real-Time Power & Use Cases (E-commerce, Real Estate, Entertainment)
+Neural Radiance Fields (NeRFs)
+3D Gaussian Splatting (3DGS)
+<
+Diffusion Models
+<
+DLSS (Deep Learning Super Sampling)
+<
+AI Integration in Animation
+<
+AI-Powered Procedural Content Generation (PCG)
+<
+HDR Grading
+<
+Subpixel Rendering
+<
+Texture Techniques
+<
+Colour Grading
+Vectors (Dot Product, Cross Product)
+Matrices (Transformations)
+Quaternions (Interpolation)
+Bezier Curves
+Fractal Geometry
+Bounding Boxes
+Spheres
+Triangles
+Cylinders
+Cones
+Disks
+Core Principles
+<
+Techniques for Generative AI
+<
+Multi-Turn Conversational Design
+Prompt Compression
+Core Philosophy: Physical Units & Concepts
+Ray Tracing Algorithm
+<
+Components & Architecture
+<
+Parallelization: Shared Memory
+Rounding Error Management
+Point to First Visible Surface
+Between Two Points (Shadowing, GI)
+Increased Sampling Rates (Supersampling)
+Nonuniform Sampling (Jittered Sampling)
+Stratified Sampling
+Low-Discrepancy Sequences (Quasi-Monte Carlo)
+Importance Sampling
+Multiple Importance Sampling (MIS)
+Reconstruction Filters (Prefiltering)
+Mipmapping & Anisotropic Filtering
+Adaptive Sampling
+Light Scattering
+Light Absorption
+Henyey-Greenstein Phase Function
+Delta Tracking
+BSSRDF
+Screen-Space SSS
+Diffuse Lighting
+Distance-Aided (Sphere Tracing)
+Volumetric Ray Marching
+Signed Distance Functions (SDFs)
+Photon Storing (Diffuse Surfaces)
+Shadow Photons
+Importance Sampling
+No Neural Networks
+High Fidelity 3D Reconstruction
+Gaussian Distribution as Primitive
+Splatting: Projecting 3D Points to 2D
+Comparison to Photogrammetry & NeRFs
+3D to 2D Projection
+Iterative Noise Addition & Removal
+Variants: DDPMs, LDMs, DDIMs
+Computational Cost
+Classifier Guidance
+Noise Schedule
+Image Upscaling & Enhancement
+Versions: 1.0, 2.0, 3.0, 3.5 (Ray Reconstruction), 4.0
+DLAA (Deep Learning Anti-Aliasing)
+Automated Rigging
+Physics-Based Simulations
+Real-Time Rendering Capabilities
+Machine Learning
+Deep Learning
+Reinforcement Learning
+Variational Autoencoders (VAEs)
+Natural Language Processing (NLP)
+High NIT Monitoring
+Storytelling Tool
+Increases Apparent Resolution
+Mechanism: RGB Stripes, PenTile Layouts
+Applications: Font Rendering, Downsampling
+Artifacts: Color Fringing
+Procedural Texture Generation
+Bump and Normal Mapping
+Karatsuba Pattern Mapping
+Fractal Pattern Mapping
+Perlin and Simplex Noise
+Multi-Scale Texture Blending
+Photometric Texture Fabrication (PBR)
+Subsurface Scattering (SSS) for Translucent
+Voronoi Patterns for Organic Cellular
+Microdithering for Fine Detail
+Height Map Blending
+Clarity and Specificity
+Four-Element Framework
+Role Assignment
+Iterative Refinement
+Few-Shot Learning
+Instruction Prompting
+Role-Based Prompting
+Few-Shot Learning
+Zero-Shot Learning
+Chain-of-Thought (CoT) Prompting
+Tree of Thoughts (ToT) Prompting
+Program-Aided Language Model (PAL)
+Specific and Descriptive Language
+Keyword Combinations
+Special Characters and Modifiers
+Cultural and Temporal Variability
+Emphasis on Composition
+Artistic Styles
+Camera Settings and Techniques
+Textures and Materials
+Symbolism and Metaphors
+Mathematical Patterns
+Ray-Object Intersections
+Recursive Ray Tracing
+Participating Media
+Camera Models
+Shapes
+Color & Radiometry
+Reflection Models
+<
+Materials
+Lights
+Volume Scattering
+Subsurface Scattering (BSSRDF)
+BxDFs (BRDF/BTDF)
+Specular Reflection
+Lambertian (Diffuse) Reflection
+Microfacet Models
+Fourier Basis BSDFs
+NotebookLM can be inaccurate; please double-check its responses.
+Reply ready.

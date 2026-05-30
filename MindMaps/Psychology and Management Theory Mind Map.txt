@@ -1,0 +1,148 @@
+Psychology and Management Theory Frameworks
+Psychology and Management Theories
+<
+Management Theories: Evolution of Thought
+<
+Psychology: Foundations & Concepts
+<
+Core Human Nature & Judgment (Mental Models)
+<
+Classical Theory (Execution Era)
+<
+Neo-Classical Theory (Behavioural Schools)
+<
+Modern Management Theory (Expertise Era)
+<
+Research Methods & Empiricism
+<
+Schools of Psychology
+<
+Brain & Behavior (Biological Basis)
+<
+Sensation and Perception
+<
+Cognitive Biases & Heuristics
+<
+General Thinking Tools
+<
+Natural Sciences Models
+<
+Social & Systemic Models
+<
+Focus: Task Efficiency
+<
+Henri Fayol's Principles
+<
+Scientific Management (Frederick Taylor)
+Focus: Human Needs, Relations, Behaviour
+Hawthorne experiment catalyst
+Key Theorists
+<
+Complex employee view (Social Person)
+Focus: Systems, Contingent Approaches
+No one fit method for all situations
+Requires flexibility and dynamic environment approach
+Core Concepts
+<
+Contemporary Influences
+<
+Scientific Method (Collecting, Organizing Data)
+Facts vs. Values (Empirical Study vs. Beliefs)
+Research Designs
+<
+Validity Types
+<
+Structuralism
+<
+Functionalism (William James)
+Psychodynamic
+<
+Behaviorism (Study of behavior itself)
+Cognitive Psychology
+Evolutionary Psychology
+Nervous System
+<
+Brain Structure/Function
+<
+Neuroimaging Techniques
+<
+Sensation Processes
+<
+Vision
+<
+Perceptual Principles
+<
+Inversion (Avoiding failure)
+Second-Order Thinking (Long-term consequences)
+Loss Aversion (Overvaluing immediate loss)
+Hyperbolic Discounting (Overvaluing immediate reward)
+Mere Exposure Effect (Familiarity breeds liking)
+Availability Heuristic (Ease of retrieval)
+Representativeness Heuristic (Stereotyping, Base Rate failure)
+Confirmation Bias (Seeking confirming info)
+Hindsight Bias
+Fundamental Attribution Error (Overestimate consistency of others' behavior)
+Overconfidence
+Counterfactual Thinking ('What might have been')
+The Map is Not the Territory (Distortion/Abstractions)
+Relativity (Perception based on frame of reference)
+Occam’s Razor (Simplest explanation is best)
+Margin of Safety (Foundation for stability)
+Compounding (Small advantages accumulate)
+Inertia (Resistance to change)
+Friction and Viscosity (Moderators of motion)
+Activation Energy (Initial effort to overcome inertia)
+Niche (Specializing for success)
+Replication (Exponential information transfer)
+Reciprocity (Treating others as they treat us)
+Asymmetric Warfare (Playing by different rules)
+Hanlon’s Razor (Avoid attributing to malice what is incompetence)
+Ecosystems (Mapping components/relationships)
+Critical Mass (Tipping point for growth)
+Cooperation (Shared interest for success)
+Rational economic man view
+Centralised, hierarchical model
+Six basic business activities
+Five managerial activities
+Equity for staff commitment
+Abraham Maslow
+Douglas McGregor
+Frederick Herzberg
+Organisational Humanism
+Management Science
+Foucault (Postmodern School, Disciplinary Gaze)
+Bourdieu (Habitus, Capital, Field)
+Descriptive (Snapshot of affairs)
+Correlational (Relationships, Prediction)
+Experimental (Causal Inference, Random Assignment)
+Construct Validity (Measures conceptual variables)
+Internal Validity (Independent variable caused dependent)
+External Validity (Generalization of results)
+Introspection
+Wundt, Titchener
+Unconscious thoughts, early experiences
+Sigmund Freud
+Central (Brain/Spinal Cord)
+Peripheral (Somatic, Autonomic)
+Electrochemical Action (Action Potential, Neurotransmitters)
+Amygdala (Fear, Aggression)
+Hippocampus (Long-term memory)
+Cortex (Motor/Sensory Areas)
+Neuroplasticity
+Brain Lateralization (Split-Brain Studies)
+Lesion Studies
+EEG (Electrical activity)
+fMRI (Blood flow/Neural activity)
+TMS (Causal effects)
+Transduction (Stimuli to Electrical Impulses)
+Absolute Threshold (50% detection)
+Difference Threshold (JND, Weber's Law)
+Signal Detection Analysis
+Rods and Cones (Receptor Cells)
+Tricolor Theory
+Opponent-Process Theory
+Depth Cues (Monocular)
+Sensory Interaction
+Selective Attention
+Perceptual Constancy
+Influence of Expectations (Illusions)

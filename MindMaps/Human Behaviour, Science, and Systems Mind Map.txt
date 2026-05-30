@@ -1,0 +1,151 @@
+Human Behaviour, Science, and Systemic Change
+Human Behavior, Thinking, and Change
+<
+Science and Discovery as Agents of Change
+<
+Personal Growth and Self-Improvement
+<
+Communication, Conflict, and Emotional Intelligence
+<
+Leadership, Ethics, and Organizational Systems
+<
+Innovation and Creative Problem Solving
+<
+Historical Scientific Discoveries
+<
+Nature of Scientific Inquiry
+<
+Philosophical Foundations (Self-Cultivation)
+<
+Benefits of Aging/Experience
+<
+Overcoming Limiting Beliefs
+<
+Defining Moments
+<
+Nonviolent Communication (NVC)
+<
+Conscious Communication
+<
+Conflict Resolution Models
+<
+Empathy vs. Sympathy
+<
+Responsible Leadership Traits
+<
+Ethical Frameworks
+<
+System Dynamics and Thinking
+<
+Organizational Learning and Knowledge
+<
+Lateral Thinking
+<
+Identifying Opportunities
+<
+Autonomous Systems (AS)
+<
+DNA (Miescher 1869, Watson & Crick 1950s)
+Gravity/Motion
+<
+Electricity (Volta, 1800)
+Antibiotics (Ehrlich 1909, also millennia of use)
+Cosmic Microwave Background (CMB)
+Evolution (Darwin, 1859)
+CRISPR (Gene Editing Technology)
+Role of Intuition
+<
+Philosophy of Evidence
+<
+Scientific Change (Kuhnian Paradigm Shift)
+<
+Ancient impulse, desire to improve
+Know Thyself (Epictetus, Jung, Goleman)
+Control Your Mind (Stoicism, ACT)
+Let It Go (Daoism, Wu wei)
+Be Good (Confucianism, Aristotle's Virtue Ethics)
+Mental clarity (Happier attitude, more chill)
+Increased self-knowledge (Know flaws/qualities)
+Easier to see patterns, big picture, diagnosis
+Less worry about others' opinions
+Focus on the here-and-now (Present Moment Awareness)
+Rooted in fear and anxiety (Self-protection strategy)
+Hold onto beliefs to protect from struggle/failure
+Strategies (Question beliefs, Create alternatives, Take action)
+Fixed vs. Growth Mindset
+Occasion where life's path undeniably changed
+Internal factor (Injury, illness, perspective shift)
+External factor (Career, relationship change)
+Example: Marathon run leading to confidence
+Goal: Give from the heart, lead to compassion
+Four steps (Observations, Feelings, Needs, Clear Requests)
+Distinguish feelings from judgments
+Requests must be clear and concrete actions
+Bring out the best in people
+Use 'I' statements (e.g., 'I feel cold' instead of 'It's freezing')
+Avoid 'we' in place of 'I' (Avoid projecting personal experience)
+Co-listening/Reflective Listening (Objective: empathy, compassion)
+Mindful action ('Be the change')
+Dual Concern Model (Assertiveness vs. Empathy)
+Five Conflict Styles (Based on Dual Concern)
+Reconciliation (Documented in animals: primates, hyenas, dolphins)
+Empathy/Compassion have considerable overlap
+Sympathy (Unhelpful, superficial acknowledgment of suffering)
+Sympathy invoked due to feeling inadequate to address suffering
+Integrity (Act honestly, uphold moral principles)
+Accountability (Take responsibility, transparency)
+Sustainability (Prioritize long-term benefits)
+Courage (Stand up for beliefs, even when difficult)
+Purpose (Work connected to societal/ethical goals)
+Duty Ethics (Follow moral rules, fulfill obligation)
+Utilitarian Ethics (Best for the most people, focus on happiness)
+Virtue Ethics (Act out of integrity/character)
+System purpose is crucial determinant of behavior
+Complex systems arise as relative strengths of feedback loops shift
+System traps (Eroding goals, Rule beating, Seeking the wrong goal)
+Hierarchies evolve bottom-up (Serve lower layers' purposes)
+Culture of Continuous Learning (Ask 'What have you learned?')
+Transformative Learning (Flexible, better decision-makers)
+Knowledge Management Strategy (Incentives, Promote networking, Build awareness)
+Senge's Work (Systems thinking, complexity, aspiration)
+Shift in viewing creativity, risk, collaboration
+Technique: Random Entry (Introduce random word/image)
+Technique: Digital Mind-mapping tools
+Goal: Align ideas with strategic objectives
+Requires a new perspective on life
+Habitually searching for opportunity/money
+Observing how things operate and make money
+Example: TOMS shoes (Saw shoes abroad, brought back)
+AS Challenges
+<
+AS Safety/Reliability
+<
+AI Enhancement in Intelligence Cycle
+<
+Earth orbits Sun (Aristarchus)
+First Model of Motion (Copernicus)
+Laws of Motion (Newton, 1687)
+General Relativity (Einstein, 1915)
+Creative process steps (Preparation, Incubation, Illumination, Verification)
+Source of ideas often mysterious (Einstein's silence)
+Rational intuition (Archimedes' buoyancy discovery)
+Volitional intuition (Edison's perseverance)
+Unconscious processes (Kekule's dream for Benzene formula)
+Evidence is debated
+Types used (Logical reasoning, Scientific evidence, Sense perception)
+Justifies a proposition's truth
+Alternates between normal and revolutionary science
+Exemplars (Learned problems/solutions)
+Coherence (Models account for observations)
+World-view transition
+Failure
+Adversarial behavior
+Understanding risk
+System oversight/Complexity
+ISO 17757 (Safety for Autonomous Earth-Moving Machinery)
+Robotic Reliability Engineering (Software encapsulation, Fault injection)
+Deep Model Reflection (Use engineering model as self-representation)
+Tasking/Planning (Generating content, Optimizing processes)
+Collection/Processing (Automating collection, Searching bulk data)
+Analysis/Production (Triaging data, Conducting basic analysis)
+Dissemination (Curating intelligence, Automating reporting)

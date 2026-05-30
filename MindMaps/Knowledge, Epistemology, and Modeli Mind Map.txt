@@ -1,0 +1,122 @@
+Knowledge, Epistemology, and Modeling: A Conceptual Overview
+Knowledge, Modeling, and Epistemology
+<
+Epistemology (Theory of Knowledge)
+<
+Models and Modeling
+<
+Modeling in AI and ML
+<
+Cognitive and Linguistic Concepts
+<
+Argumentation and Critical Thinking
+<
+Core Concepts
+<
+Sources of Knowledge
+<
+Historical/Philosophical Traditions
+<
+Social & Cultural Contexts
+<
+Nature and Purpose
+<
+Types of Models (Examples)
+<
+Key Modeling Concepts
+<
+Machine Learning Model Types
+<
+Knowledge Representation (KR)
+<
+Bayesian Networks (Bayes Nets)
+<
+Knowledge Structure
+<
+Linguistic Analysis
+<
+Curiosity and Learning
+<
+Argumentation Theory
+<
+Fallacies and Cognitive Biases
+<
+Conspiracy Beliefs (CB)
+<
+Belief
+Truth
+Evidence
+Justification
+Reason
+Perception
+Inference
+Testimony
+Rational Intuition (Nonempirical)
+Rationalism (Reason based; Innate Ideas)
+Empiricism (Experience based; Observation)
+Fideism (Faith as knowledge source)
+Reformed Epistemology (Belief in God is properly basic)
+Anthropology of Knowledge (Reproduction/Change in culture)
+Sociology of Knowledge (Sociohistorical factors)
+Simplified Representations of a System
+Approximations of Reality ('All models are wrong, some useful')
+Tool for Surrogative Exploration/Inquiry
+Compartmentalizing Complexity (Software)
+Mathematical/Quantitative Models
+<
+Theoretical Models
+<
+Conceptual Models (Simplify complex systems, facilitate communication)
+Climate Models (Apply physical laws to simulate climate)
+Simplifying Assumptions (e.g., Spherical Cow)
+Bounding (Min/Max limits for quick prediction)
+Formalizing Dynamic Relationships
+Feedback Loops (System Dynamics Methodology)
+Supervised Learning
+<
+Unsupervised Learning
+<
+Self-supervised Learning (SSL) (Uses unlabeled data to generate labels)
+KR is a Surrogate (Thinking vs Acting)
+KR is Set of Ontological Commitments
+Logicism Tradition (Reasoning as Deduction)
+Psychological Tradition (Reasoning as Human Behaviour)
+Marries Graph Theory and Probability
+Represents Complex Interdependencies
+Inference (Marginalization, Sampling/MCMC)
+Reasoning (Diagnostic/Bottom-up, Causal/Top-down)
+Mental Models (Malleable, contextual knowledge)
+Schemata (Generic predictive knowledge in long-term memory)
+Representation (Vehicle adequate for user/purpose)
+Language Comprehension (Perceptual decoding, Parsing, Interpreting)
+Grammaticality (Intuitive, unconscious knowledge)
+Formal Linguistics (Originally based on Formal Language Theory/Logic)
+Pragmatics (Meaning depends on context/intent)
+Epistemic Curiosity (Search for specific knowledge for its own sake)
+Region of Proximal Learning (RPL) (High confidence errors)
+Exploration vs. Exploitation (k-arm bandit task)
+Toulmin Model (Practical arguments, Justification function)
+Pragma-Dialectics (Rule-breakings in critical discussion)
+Dialectic (Dialogue of arguments/counter-arguments)
+Socratic Method (Asking/Answering for deeper understanding)
+Post Hoc Ergo Propter Hoc (False causation from temporal succession)
+Ad Verecundiam (Irrelevant appeal to authority)
+Jumping to Conclusions Bias (Associated with conspiracy belief)
+Proportionality Bias ('Major event-major cause')
+Agency Detection Bias (Preference for intentional explanations)
+Associated with less Analytic Processing
+Resistant to Falsification (Circular Reasoning)
+Associated with Distrust/Cynicism
+Universal Soil Loss Equation (USLE) - Empirical
+Differential Equations (ODEs/PDEs) - Dynamics
+Power Laws (Metabolic Rate)
+Stochastic Models (Monte Carlo)
+Econometric Models (Macro/CGE/Microsimulation)
+Deer-Automobile Encounters (Simple Random Distribution)
+SIR Disease Dynamics (Equations 12.2-12.4)
+Predicts Categorical/Continuous Outcomes
+Classification (Logistic Regression, SVM, Decision Trees)
+Regression (Linear Regression, Random Forest)
+Exploratory Analysis
+Clustering (K-Means, DBSCAN, Hierarchical)
+Recommendation Systems

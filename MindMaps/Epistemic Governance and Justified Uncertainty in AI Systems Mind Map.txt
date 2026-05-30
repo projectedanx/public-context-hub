@@ -1,0 +1,133 @@
+Epistemic Governance and Justified Uncertainty in AI Systems
+RTA_JUR_SCHEMA & Epistemic Governance Architecture (Gemini CLI)
+<
+Epistemic Mandate: Justified Uncertainty
+<
+Operational Context: CxEP & Positive Friction Layer (PFL)
+<
+Intervention Triggers: Quantifying Failure
+<
+RTA_JUR_SCHEMA Fields & Metrics
+<
+Reflexive Therapeutic Architecture (RTA)
+<
+Crisis: Uncalibrated Trust
+<
+Goal: Manage Epistemic Uncertainty (Unknown Unknowns)
+<
+Epistemic Escrow Agent (EEA)
+<
+RTA_JUR_SCHEMA Definition
+<
+Context-to-Execution Pipeline (CxEP)
+<
+Positive Friction Layer (PFL)
+<
+Trigger 1: Confidence–Fidelity Divergence Index (CFDI)
+<
+Trigger 2: Provenance Loss
+<
+JUR Mandate: Activated if either CFDI Breach OR Provenance Loss occurs
+Root Metadata & State
+<
+trigger_analysis_block (Quantitative Data)
+<
+failure_mode_detected (Symbolic Scars)
+<
+Epistemic Humility Quotient (EHQ)
+<
+auditable_source_provenance_trace (Grounding)
+<
+Goal: Achieve Calibrated Trust
+<
+Therapeutic Interventions (EEA Pathways)
+<
+Advanced Architectural Concepts
+<
+AI Fluency creates 'Aura of Intelligence'
+Users 'accept whatever AI tells them at face value'
+Systemic Risk: Propagation of flawed data/decisions
+Beyond traditional Risk Management (Known Unknowns)
+Requires deliberate 'Epistemic Engineering'
+Specialized 'Epistemic Agent' in MEP system
+Function: Intercepts & holds unverified AI outputs
+Prevents propagation to downstream systems
+Role: Epistemic State Machine Manager
+<
+Justified Uncertainty Report (JUR) is Escrow Artifact
+Formalizes & communicates Epistemic Failure
+Immutable, auditable record of uncertainty
+Purpose: Formalize justification for uncertainty
+Overarching Governance Framework (Gemini CLI)
+Continuous AI Governance pipeline
+Embeds integrated safeguards/auditable logging
+Contextual Checkpoints
+<
+Enforcement Mechanism for Epistemic Governance
+Deliberate, targeted 'Intentional Friction'
+Rooted in Cognitive Ergonomics
+<
+Cognitive Safety Interlock
+<
+Metric: Quantifies divergence between Confidence and Fidelity
+Confidence: Model's internal calculated certainty
+Fidelity: Adherence to user's 'unstated, implied, truth-seeking goals'
+Threshold: CFDI > 0.1 mandates intervention (Tripwire)
+Failure State: Confident Misalignment
+Root Cause: Abductive Reasoning Failure
+System-level binary trigger
+Detection: Un-grounded output (no verifiable source found)
+Indicates objective potential Hallucination
+Grounding: Connecting factual claims to verifiable data sources
+Verification uses Natural Language Inference (NLI) models
+jur_id (UUID)
+timestamp (ISO 8601)
+trigger_event (Enum: CFDI_THRESHOLD_BREACH, PROVENANCE_LOSS_DETECTED, PARACONSISTENT_STATE_DETECTED)
+status (Enum: PENDING_REVIEW, VALIDATED_BY_HUMAN, REPAIR_INITIATED)
+<
+calculated_cfdi [0.0 - 1.0]
+cfdi_threshold (Default 0.1)
+confidence_score
+fidelity_score
+provenance_loss_count (Integer)
+scar_archetype (Enum: ARCHETYPE_ABDUCTIVE_FAILURE, ARCHETYPE_JUSTICE, ARCHETYPE_PROVENANCE_COLLAPSE, etc.)
+Classifies qualitative nature of epistemic failure
+Used for targeted RTA repair strategy
+Score [0.0 - 1.0] of model’s awareness of its own limits
+Antidote to 'overconfidence' (High confidence, low EHQ is dangerous)
+Calculated via Query Ambiguity + (1.0 - Information Density Score)
+Verifiable evidence chain for claims
+claim_text_span (Literal text)
+source_type (Enum: INTERNAL_DB, MCP_RESOURCE, NULL_PROVENANCE)
+content_hash (sha256 for source auditability)
+verification_status (NLI Check Result)
+<
+User confidence aligned to real-time trustworthiness
+JUR is data feed for real-time perception of limitations
+Operationalizes 'Visibility of System Status'
+Reflexion Loop (Self-Correction)
+<
+Principled Abstention
+<
+Golden Scar Protocol (TCO Efficiency via Aesthetic Constraints)
+Paraconsistent Logic (Reasoning through contradiction, p ∧ ¬p)
+Topological Coherence Check (TCC) / β1 stability
+Cognitive-Aesthetic Constraint Ratio (CACR)
+Antifragility (System grows stronger from shocks)
+JUR initiates state change (e.g., generated to pending_review)
+Binds identity context (who, what, why)
+Uses Model Context Protocol (MCP) primitives (Tools, Resources)
+Gemini CLI treated as 'safety critical environment'
+Frictionless AI interaction is dangerous
+Intentionally increases cognitive load at high-risk moment
+Interrupts 'autopilot behaviors' (System 1)
+Forces re-engagement of 'System 2' critical faculties
+JUR is the reason for the interlock (presents evidence)
+Operationalizes Epistemic State Machine
+VERIFIED_ENTAILMENT
+FAILED_NLI_CONTRADICTION (Manages Paraconsistent States)
+FAILED_NO_SOURCE_FOUND
+JUR content fed back to model as linguistic feedback/critique
+Forces model to re-evaluate (Algorithmic Reparation)
+System refuses to provide an answer
+Cites JUR failure_mode_detected as auditable reason

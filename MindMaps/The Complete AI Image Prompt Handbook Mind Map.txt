@@ -1,0 +1,111 @@
+The Complete AI Image Prompt Handbook
+DALL-E Prompt Crafting and Advanced AI Imagery
+AI Image Generation & Prompt Crafting Mastery (DALL-E)
+<
+DALL-E Advanced Model Features
+<
+Prompt Crafting Components (The Blueprint)
+<
+Photography Techniques & Simulation
+<
+Artistic Styles and Themes
+<
+Core Functionality
+<
+Advanced Control Techniques
+<
+Workflows & Integration
+<
+Essential Visual Elements
+<
+Technical & Compositional Rules
+<
+Aesthetic Modifiers
+<
+Contextual & Narrative Depth
+<
+Advanced Camera Settings (Simulated)
+<
+Lighting and Atmosphere
+<
+Specialized Styles & Views
+<
+Historical Movements
+<
+Digital & Genre Styles
+<
+Niche/Avant-Garde Styles
+<
+Enhanced Photorealism & Quality
+Superior Prompt Understanding/Complexity
+Generate Images from Text (T2I)
+Negative Prompts (Content Suppression)
+ControlNet (Guide with Sketches/Poses)
+Depth Maps (Accurate Spatial Rendering)
+Seed Control (Image Variation/Consistency)
+Inpainting/Outpainting (Precise Edits)
+Style/Character LoRAs (Consistency)
+Custom Pipelines/Workflows
+Combining Models/Techniques
+Plugins/Extensions (Feature Expansion)
+Subject Description
+Action or Pose
+Facial Expression
+Clothing or Accessories
+Background Details
+Secondary Characters/Objects
+Environmental Elements
+Composition (Rule of Thirds, Golden Ratio)
+Perspective or Camera Angle
+Focal Point
+Negative Space
+Contrasting Elements
+Scale or Size Relationships
+Style or Artistic Technique
+Color Scheme
+Texture Details
+Materials (Metal, Fabric, Wood)
+Special Effects (Glow, Mist, Splash)
+Motion or Movement
+Reflections or Shadows
+Mood or Emotion
+Time Period or Era
+Cultural or Historical Context
+Symbolism or Metaphors
+Text or Typography
+Frame or Border Design
+Aperture (Depth of Field Control, e.g., f/2.8)
+Shutter Speed (Motion Effects, e.g., 1/8000s, Long Exposure)
+ISO Sensitivity (Noise/Grain, e.g., ISO 100, ISO 6400)
+Lens Types (Telephoto Compression, Macro Close-up, Wide-Angle)
+Focus Stacking (Sharpness across Depth)
+HSS Flash (Freeze Motion in Bright Light)
+Golden/Blue Hour
+Dramatic/Chiaroscuro Lighting
+Rim Lighting/Backlighting
+Softbox/Studio Lighting
+Neon/Fluorescent Effects
+HDR Contrast Simulation
+Infrared Photography (Glowing Foliage)
+Aerial/Drone Photography (Bird's Eye View)
+Cinematic Photography (Aspect Ratio/Grading)
+Long Exposure (Motion Blur/Silk Water)
+Renaissance (Symmetry, Proportion)
+Baroque (Chiaroscuro, Drama)
+Romanticism (Emotion, Natural Beauty)
+Impressionist (Light, Atmosphere)
+Cubist (Geometric Fragmentation)
+Surrealist (Dream-like, Juxtaposition)
+Minimalist (Simplicity, Geometric Shapes)
+Photorealistic/Hyperrealistic
+Cyberpunk (Neon, Dystopian Tech)
+Steampunk (Gears, Brass, Steam Power)
+Vaporwave (Retro-Futurism, Pastel Neon)
+Digital Art/3D Rendering
+Pixel Art/Cartoon/Anime
+Orphism (Abstract, Vibrant Circles)
+Vorticism (Angular Lines, Industrial Energy)
+Tachisme (Spontaneous Brushwork)
+Chinese Ink Wash (Fluid Gradients)
+Pointillism (Detailed Dots of Color)
+Kinetic Art (Simulated Motion)

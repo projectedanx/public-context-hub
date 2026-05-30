@@ -1,0 +1,269 @@
+Mindmap
+Generative AI and Fanfiction: A Comprehensive Overview
+
+Generative AI in Image Creation & Fanfiction
+<
+AI Image Generation
+<
+Photography Fundamentals
+<
+Fanfiction
+<
+Models & Tools
+<
+Prompt Engineering
+<
+Underlying Technology
+<
+Ethical & Legal Considerations
+<
+Applications & Trends
+<
+Exposure Triangle
+<
+Camera Types
+<
+Lenses
+<
+Composition Rules
+<
+Lighting
+<
+Image Processing
+<
+Other Settings
+<
+Definition & Nature
+<
+History & Evolution
+<
+Genres & Tropes
+<
+Legal & Ethical Issues
+<
+Community & Platforms
+<
+Impact on Authors & Readers
+<
+Promotion Strategies
+<
+DALL-E 3 (OpenAI)
+Midjourney
+Stable Diffusion
+FLUX
+AnimateDiff
+Point-E
+GET3D
+NightCafe
+Best Practices
+<
+Advanced Techniques
+<
+Components of a Prompt
+<
+Camera Settings in Prompts
+<
+Models
+<
+Training Data
+<
+Processes
+<
+Copyright Infringement
+Ownership of AI Art
+Consent for Training Data
+Bias & Stereotypes
+Deepfake Misuse
+Authenticity & Photographic Truth
+Job Displacement
+Lack of Human Creativity (Debate)
+Transparency & Labeling
+Content Creation
+Marketing (Personalization, AR)
+Art & Design
+Gaming (Virtual Environments, 3D Assets)
+Medical Imaging
+Technical Documentation
+Strategic Analysis
+Code Generation
+Animation & Video
+3D Model Generation
+Aperture
+<
+Shutter Speed
+<
+ISO
+<
+DSLR (Digital Single-Lens Reflex)
+<
+Mirrorless
+<
+Dedicated Astronomy Camera
+<
+Still Video Floppy (SVF) Camera
+Focal Length
+Wide Angle
+Telephoto (e.g., 85mm, 105mm)
+Macro (e.g., 100mm, 185mm)
+Pinhole
+Infrared
+Anamorphic
+Fisheye
+Prime vs. Zoom
+Lens Mount Compatibility
+Rule of Thirds
+Symmetrical Composition
+Leading Lines
+Circular Composition
+Golden Ratio
+Diagonal Lines
+Patterns
+Natural Lighting
+Diffused Lighting
+Hard Lighting
+Volumetric Lighting
+Neon Lighting
+Time of Day (Golden Hour, Dusk)
+Light Source
+Light Quality
+Color Temperature (Kelvin)
+White Balance
+Reflections (Diffuse, Direct, Polarized)
+Denoising Techniques
+Sharpening
+Contrast Adjustment
+Color Grading
+Raw vs. JPEG File Format
+Inpainting/Outpainting
+Metering Mode
+Focus Mode & Area
+Drive Mode
+Color Space
+Image Stabilization
+Derivative Work
+Non-Commercial (Typically)
+Transformative
+Active Social Practice
+Creative Outlet
+Community Driven
+18th Century Origins
+19th Century Literature (Dracula, Sherlock Holmes)
+World Wide Web Popularization
+Usenet & Mailing Lists
+Online Archives (FanFiction.Net, AO3)
+Wattpad
+Influence on Mainstream Media
+Genres
+<
+Tropes
+<
+Copyright Infringement
+Fair Use Doctrine
+Derivative Works
+Trademark Infringement
+Monetization Challenges
+Pulling-to-Publish (e.g., Fifty Shades of Grey)
+Originality Debate
+Ethical Lines (e.g., RPF, Non-Con)
+Consent Discussion (Sexual Consent)
+Archive of Our Own (AO3)
+FanFiction.Net (FFN)
+Wattpad
+Tumblr
+Reddit (r/FanFiction)
+Discord Servers
+Peer Review & Feedback
+Collaborative Spirit
+Supportive Environment
+Creative Outlet
+Exploration of Difficult Issues
+Reflection of Underrepresented Groups
+Psychoanalytic Perspective (Unmet Desires, Escapism)
+Mental Health Benefits (Expressive Writing)
+Learning Writing Skills
+Audience Engagement
+Personalized Content
+Social Media (TikTok, Tumblr, Twitter)
+Fandom-Specific Communities
+Posting Schedules
+Fan Art for Promotion
+Specificity & Detail
+Visual Language
+Iterative Refinement
+Keywords & Phrasing
+Context Setting
+Multi-Step Design
+Emotion & Mood
+Art Style Cues
+Texture & Material Descriptions
+Composition Techniques
+Chain-of-Thought (CoT)
+Multi-Perspective Simulation
+Controlled Hallucination
+Recursive Self-Improvement
+Retrieval-Augmented Generation (RAG)
+Prompt Weighting
+In-context Learning
+Dimensionality Lifting
+Contrastive Camera Learning
+Input
+Context
+Examples
+Negative Prompts
+Focal Length
+Aperture (f-stop)
+Shutter Speed
+ISO
+Color Temperature/White Balance
+Bokeh
+Large Language Models (LLMs)
+Generative Adversarial Networks (GANs)
+Variational Autoencoders (VAEs)
+Diffusion Models
+Rectified Flow Models
+U-Net Architecture (CNN)
+Massive Datasets
+Images & Text Descriptions
+Bias in Data
+Memorization Issues
+Semantic Understanding
+Visual Synthesis
+Encoder-Decoder Networks
+Denoising Process
+Forward/Reverse Diffusion
+f-stop
+Depth of Field (DoF)
+Light Control
+Light Control
+Motion Blur/Freezing Action
+Sensor Sensitivity
+Noise/Grain
+Low Light Performance
+Phase Detection Autofocus
+Optical Viewfinder
+More Mature Technology
+Hybrid Autofocus
+Electronic Viewfinder
+Low-Light Performance
+In-Camera Image Stabilization
+CMOS Sensor
+Built-in WiFi Controller
+Autoguiding Sensor
+Alternate Universe (AU)
+Crossover
+Fluff
+Angst
+Hurt/Comfort
+Gen (General Audiences)
+Smut (Explicit)
+M/M, F/F, F/M Shipping
+Enemies to Lovers
+Found Family
+Time Travel
+Tragic Hero
+Original Characters (OCs)
+Self-Inserts (SIs)
+Canonically Young Characters (Portrayed Older)
+Asshole with a Heart of Gold
+Only One Bed
+Autism AU

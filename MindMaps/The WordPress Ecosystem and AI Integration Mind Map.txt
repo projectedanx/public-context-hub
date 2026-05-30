@@ -1,0 +1,465 @@
+Mind map
+The WordPress Ecosystem and AI Integration
+WordPress Ecosystem
+<
+WordPress.org (Self-Hosted)
+<
+WordPress.com (Hosted Service)
+<
+Website Builders (Alternatives)
+<
+Plugins
+<
+Themes
+<
+WordPress Core
+<
+Managed WordPress Platforms
+<
+AI Integration (Model Context Protocol - MCP)
+<
+Hosting & Domain Management (cPanel)
+<
+Key Benefits
+<
+Responsibilities
+<
+Open-Source Software
+43%+ of websites
+Limited blog hosting
+More expensive plans
+Managed by WordPress.com
+Branding on free plan
+Limited plugin/app availability
+Less customisation
+Wix
+<
+Squarespace
+<
+Hostinger AI Website Builder
+<
+Sitejet
+Carrd
+Framer
+Security & Maintenance
+<
+Content Creation & Management
+<
+Marketing & Analytics
+<
+eCommerce & Payments
+<
+Design & Customisation
+<
+Other Functionality
+<
+Plugin Dependencies (WordPress 6.5+)
+<
+Selection Criteria
+<
+Examples
+<
+Updates
+<
+Security
+<
+Development
+<
+WP Engine
+<
+Cloudways
+Hostinger
+Bluehost
+SiteGround
+Kinsta
+EasyWP (Namecheap)
+MCP Overview
+<
+WordPress-MCP Integration (Kodee)
+<
+AI Tools & Use Cases
+<
+Technical Aspects
+<
+Limitations/Challenges
+<
+cPanel Features
+<
+WordPress Manager (Softaculous)
+<
+Namecheap
+<
+Database Management (Adminer)
+<
+Complete control
+Install any plugins & themes
+Full content ownership
+Flexibility
+Customisable
+Scalability
+Hosting
+Updates
+Maintenance
+500+ apps
+Customisable with restrictions
+Ads on free plan
+Managed by Wix
+Stunning open-world Chinese fantasy RPG Where Winds Meet gets an official release date
+AI-powered layouts
+Difficult content export
+Industry-leading template designs
+Learning curve for editor
+Less capable eCommerce
+Good for artists/photographers
+AI-powered setup
+Little design flexibility
+Lacks advanced features
+Sucuri
+<
+Wordfence Premium
+<
+Solid Security (SolidWP)
+<
+WP 2FA
+<
+UpdraftPlus
+<
+Duplicator
+<
+Antispam Bee
+Akismet (Comment Spam Protection)
+WPConsent (Privacy Compliance)
+WP Umbrella (Maintenance Automation)
+Beagle (Vulnerability Scanner)
+SiteLock (Malware scans)
+Classic Editor
+<
+Block Editor (Gutenberg)
+<
+Divi AI
+<
+Jasper AI
+<
+AI Engine
+10Web AI Writing Assistant
+AI Power
+Heroic Table of Contents
+WP Popups by timersys
+Simple Author Box
+WPCode (Code Snippets)
+PublishPress (Editorial Workflow)
+All in One SEO (AIOSEO)
+<
+MonsterInsights
+<
+OptinMonster
+<
+Smash Balloon
+<
+AddToAny Share Buttons
+<
+Revive Old Posts (ClickSocial)
+<
+Better Click to Tweet
+<
+Blog2Social
+<
+PushEngage (Web Push Notifications)
+Google Site Kit
+Semrush (Marketing Toolkit)
+WooCommerce
+<
+Easy Digital Downloads
+<
+WP Simple Pay
+<
+MyPayKit (Square payments alternative)
+AffiliateWP (Affiliate Program)
+Advanced Coupons (Discounts)
+FunnelKit (Sales Funnels)
+SeedProd
+<
+Elementor
+<
+Beaver Builder
+<
+Envira Gallery
+<
+NextGEN Gallery
+<
+WP Portfolio (Customisable templates)
+Visual Portfolio (Elegant galleries)
+Portfolio Pro (Extensive layouts)
+GridKit Portfolio Gallery (Simple photo gallery)
+Meow Gallery (Multiple layout options)
+CSS Hero (Theme Editor)
+WPForms
+<
+WP Mail SMTP (Email Deliverability)
+Sugar Calendar (Event Calendar)
+LearnDash (LMS plugin)
+SearchWP (Advanced search)
+Pretty Links (Affiliate link organisation)
+WPML (Translation)
+Really Simple SSL (SSL setup)
+AdSanity (Ads management)
+Live Chat (Conversational chat)
+Thrive Quiz Builder (Quizzes)
+UserFeedback
+BuddyBoss (Course & Community Platform)
+Thrive Comments (User engagement)
+HeroThemes (Customer Support)
+Uncanny Automator (Admin Automation)
+Highlights required plugins
+Simpler pathway to find & install
+No automatic installation (user consent)
+Mobile-friendly (responsive)
+Fast loading speed
+Compatible with major plugins
+Regular updates
+Matches website purpose
+Budget (free vs premium)
+Proper SEO headings
+Clean code
+Seamless with SEO plugins
+SeedProd (Theme Builder)
+OceanWP
+Ultra
+Astra (Lightweight, fast, works with Elementor)
+Didi (Clean, minimalist)
+OnePress (Free, stylish, parallax effect, WooCommerce-ready)
+The Essence (Blogging, magazine, digital marketing)
+Benson
+Landing (Multipurpose, Themify builder compatible)
+Hestia (Bundles with Orbit Fox Companion plugin)
+GeneratePress (SEO features)
+WordPress 6.8 (2025)
+<
+WordPress 6.8.2 (July 15, 2025)
+<
+WordPress 6.9 (December 2025)
+<
+Automatic updates
+Database updates (before logging in)
+Out-of-date installations (culprit for issues)
+Weak password policies (culprit for issues)
+Default admin username 'admin' changed
+Limit login attempts
+Two-factor authentication (WP 2FA)
+Disable XML-RPC if not used
+Automatically log out idle users
+Security questions at login
+Scan for malware & vulnerabilities
+Fix hacked site (professional recommended)
+Keep core software up-to-date
+Core development team
+Bug tracker
+Enhancement requests
+Slack for communication (#core channel)
+Plugin Dependencies (WordPress 6.5+)
+REST API endpoints for templates
+Block-level commenting
+Interactivity API
+WordPress Feature API (unifying functionality)
+Playground (local dev environment)
+Enterprise-grade security
+Dedicated security team
+Early access to updates/patches (Automattic preview list)
+Real-time threat mitigation
+Blocks tens of thousands of attacks daily
+AI connects to business systems (WordPress, WooCommerce, Excel, email)
+Controlled & secure
+Open-source standard (Anthropic, 2024)
+Automate tasks with plain English commands
+Not a design tool
+Search & filter posts/pages
+Fetch post/page content by ID
+Create new posts/pages
+Update existing posts/pages
+Manage custom post types, categories, tags
+Manage media files (images, videos, audio, documents)
+Angie (Elementor)
+<
+Claude Desktop
+<
+Cursor (IDE with MCP support)
+Automate Google-optimized product descriptions
+Upload drafts to WordPress
+24/7 initial customer support
+Chatbots consulting internal knowledge base
+Monitoring shared drives for missing/outdated documents
+Integration with n8n, Make (automation platforms)
+MCP Adapter (server-side building)
+Flexible Transport (Streamable HTTP via REST API, stdio via WP-CLI)
+WordPress Feature API (primitive API for generic functionality)
+AI still makes mistakes
+Difficulty with context
+False alerts
+Design limitations (basic, standard layouts)
+Computationally intensive algorithms
+Data protection regulations compliance
+Email accounts
+Files & databases management
+Domains & subdomains
+Manage resources
+Adjust server settings
+Monitor server performance
+Install WordPress (Softaculous)
+Password & Security
+FTP accounts
+ModSecurity (Firewall)
+IP Blocker
+Cron jobs
+Install WordPress
+Security measures
+Upgrade installations (auto-upgrade option)
+Backup/Restore (Automated backups)
+Clone & Create Staging sites
+Push to Live
+Manage plugins & themes
+Reset admin password
+Affordable domain registrar
+WHOIS Domain Privacy Protection (free for life)
+Free Positive SSL certificate
+Basic DDoS protection (Supersonic CDN)
+Automatic backups (Stellar plans)
+Two-factor authentication (U2F, TOTP)
+Email accounts
+AI website creation tools
+Logo Maker
+PHP-based, free, open source tool
+Supports MySQL/MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, etc.
+Easy-to-use interface
+Better performance & security
+Edit records, search data, truncate/drop/move/copy tables
+Actively block & log attacks
+Audit Log capability
+Web Application Firewall (WAF)
+Malware cleanup & blacklist removal guarantee
+AI Login Protection
+Real-time IP blacklist
+Anomaly detection
+Two-Factor Authentication (2FA)
+Rate Limiting
+Two-Factor Authentication
+Brute Force Protection
+User Lockouts
+Behavior-based rules
+Email alerts
+Security Dashboard
+Two-factor authentication
+QR code setup
+Authenticator apps (Google, Authy, LastPass)
+Manual & automated backups
+Remote storage (Dropbox, Amazon S3, Google Drive)
+Database & files backup
+Backup & migration
+Alternative to Block Editor (Gutenberg)
+Default editor setting
+Per-user settings
+Supported up to WordPress 6.7.3
+Default WordPress editor
+Blocks for text, images, videos
+Image block as featured image
+Gallery block
+Shortcode block
+Embeds (YouTube, Twitter, Vimeo)
+Patterns & Reusable Blocks
+HTML tag selector for Post Content block
+Drag & drop media
+Improved performance
+AI Assistant website builder
+Content & image creation
+Generate written content
+Topic suggestions & research
+User-friendly interface
+Content editing & review
+Best WordPress SEO plugin
+XML sitemaps
+Google Search Console integration
+Keyword research tools
+Local SEO optimisation
+WordPress Link Assistant (internal linking)
+Schema markup (FAQ, recipe, product, event)
+Google Analytics plugin
+eCommerce tracking
+Affiliate link & ads tracking
+Form conversion tracking
+User journey reports
+Popular posts
+Lead generation & conversion optimisation
+Connects with email marketing/CRM
+Social feed plugin suite
+Social Wall (Facebook, Twitter, Instagram, YouTube)
+Instagram Feed
+Custom Twitter Feed
+Custom Facebook Feed
+YouTube Feed
+User Reviews (TripAdvisor, Google, Facebook, Yelp)
+oEmbed functionality
+Social sharing plugin
+Buttons for dozens of networks
+Auto cross-promote content on social media
+Scheduler for social sharing
+Hour timer between posts
+Shares evergreen content
+Add quote boxes for Twitter
+Instant tweet with one click
+Customise tweet box styles (premium)
+Manage social media calendar in WordPress
+Auto-share posts
+Turns tags into hashtags
+Most popular eCommerce platform
+Sell digital & physical products
+Hundreds of free & paid extensions
+PayPal, BACS, cash on delivery payments
+Detailed inventory management
+Automatic tax calculation
+Flexible shipping rules
+SEO foundation from WordPress
+Sell digital products without full eCommerce store
+eCommerce & reporting features
+Accept credit cards through Stripe
+Stripe checkout
+Website & landing page builder
+Drag & drop page builder
+Works with all themes
+AI website builder for speed
+Ready-made website/page templates
+Custom WordPress themes without code
+Gallery widgets
+Most popular page builder
+Visual drag & drop interface
+Build pages visually
+WordPress page builder
+Alternatives: Divi, Elementor
+Image galleries & albums
+Pre-made gallery themes, slideshows
+Instagram addon (import images in 3 clicks)
+Image galleries & portfolios
+eCommerce options
+Form builder (contact, order, survey, poll, donation)
+Drag & drop builder
+Pre-built templates
+Email marketing & payment integrations
+Conditional logic
+Multi-part forms
+Front-end post submission
+WPForms AI (conversational form creation)
+Final major release of 2025
+Maintenance update
+20+ core bugs fixed
+15+ block editor issues fixed
+Improved stability & editor performance
+No breaking changes
+Ends security support for versions 4.1-4.6
+Comprehensive admin interface redesign (experimental)
+Connects to WordPress, Elementor, WooCommerce
+Automates repetitive tasks
+Streamlines client projects
+Connects via MCP server configuration
+Clean up categories, add categories, assign posts
+Fix semantic layout, remove/add tables
+Streamlining content (grammar, typos, reassigning tags, renaming files)
+NotebookLM can be inaccurate; please double-check its responses.
+Reply ready.

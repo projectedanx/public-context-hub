@@ -1,0 +1,60 @@
+OpenClaw AI Framework Architecture and Ecosystem Analysis
+OpenClaw AI Framework
+<
+Project Evolution
+<
+Core Architecture
+<
+Capabilities & Tools
+<
+Security & Risks
+<
+Deployment Patterns
+<
+Clawdbot (Nov 2025)
+Moltbot (Rebrand)
+OpenClaw (Current)
+Peter Steinberger (Founder)
+Gateway Daemon
+<
+Agent Core (Pi Runtime)
+<
+Memory Layer
+<
+System Automation
+<
+Browser Control
+<
+Skills System
+<
+Vulnerabilities
+<
+Hardening Measures
+<
+Local Mac Mini / VPS
+Cloudflare Moltworker (Serverless)
+Onboarding Wizard CLI
+WebSocket Control Plane
+Channel Management
+Input Normalisation
+ReAct Reasoning Pattern
+Lane-Based Serial Queuing
+Model Resolver
+File-First Markdown Approach
+Hybrid Search (Vector + BM25)
+Pre-Compaction Flush
+Shell Execution (Bash)
+File System Access
+Cron & Heartbeat Engine
+Semantic Snapshots
+Accessibility Tree Refs
+Playwright Integration
+SKILL.md Definition
+Progressive Disclosure
+ClawHub Registry
+Indirect Prompt Injection
+Cognitive Context Theft
+Agency Risk (Lethal Tools)
+Docker Sandboxing
+Pairing Protocol
+External Hook Wrapping

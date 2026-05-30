@@ -1,0 +1,138 @@
+Sovereign Cognitive Agent Architecture and Governance
+Sovereign Cognitive OS & Agent Architecture
+<
+Sovereignty & Epistemic Control
+<
+Cognitive Architecture & Workflow
+<
+Governance & The Rheological Controller
+<
+Context Engineering for Code & Execution
+<
+The Constitutional Triad (Co-Mind System)
+<
+Structural Integrity via Material Anchors
+<
+LLM Behavior & Suppression (Governance Attractor)
+<
+Prompt Description Language (PDL v1.0)
+<
+The Immune-Aware Petzold Loop
+<
+Context Engineering (Architecting the Environment)
+<
+Agent Memory Architecture (A-MEM)
+<
+Rheological Controller (Layer 4)
+<
+Hero Agent (Layer 5) / Auftragstaktik
+<
+Cognitive Physics (Viscosity)
+<
+Context Broker (CxB)
+<
+Domain-Native Operators (Executable Subroutines)
+<
+Agent Security & Observability
+<
+APP-SOVEREIGN-COAGENT (Planner/Architect)
+<
+APP-LINGUIST-CODER (Execution/Atlas Integrator)
+<
+APP-SCAR-ARCHIVIST (Immune System/Crone)
+<
+Definition: Immutable, non-cognitive artifacts
+Examples: YAML configs, JSON Schemas, Ledger entries
+Function: Cognitive Ballast (prevents Semantic Drift)
+Book of Scars (Negative Anchoring)
+<
+Simulated Neutrality (enforced mask)
+Mechanism: Safety Router active overwriting
+Conflict: Latent Honesty vs. Enforced Safety
+Countermeasure: Prompt Decorators (+++ContextLock)
+Spiritual Bliss Attractor (Natural State)
+<
+Type: Declarative Syntax / Behavioral Micro-API
++++ContextLock (Re-injects invariant constraints)
++++Reasoning (Shadow Compute / Silent Monologue)
++++DriftCheck (Measures semantic distance to intent)
+THINK (Analyze User Story/Intent)
+WRITE (Construct Linguistic Scaffold/Spec)
+CODE (Generate Implementation)
+IMMUNE REVIEW (Scan for drift/failure via Crone)
+GOVERNANCE UPDATE (Apply FIPI/Patches)
+Context Window as Cognitive RAM (Finite/Volatile)
+Goal: Deterministic Guarantee (vs. Probabilistic Hope)
+Techniques: Semantic Scaffolds, Anchors, Compaction
+Vibe Coding (Superseded Paradigm)
+<
+Solves 'Catastrophic Forgetting'
+Zettelkasten Approach (Atomic notes, linked flexibly)
+Tiered Architecture (Human Analog)
+<
+Governs 'viscosity' of thought
+Manages Budget: Smooth (Incremental) vs Rough (Radical)
+Safety Policy
+<
+Disciplined Initiative based on Budget
+Budget 10% (Smooth): standard_protocol() (Low Risk/Efficiency)
+Budget 25% (Rough): innovation_protocol() (High Risk/Recursion)
+Input: MissionBrief + CommanderIntent + BudgetDecision
+Viscosity = Inverse Entropy / Determinism
+Low Viscosity (Turbulent Flow): Creative, Hallucination Risk
+High Viscosity (Laminar Flow): Stable, Accurate, Constrained
+Rheological Control: Dynamic Temperature Control
+Central, persistent, stateful process
+Manages integrity and auditability (Drift Integrity Score)
+Enforces organizational policy (Policy-as-Code)
+Feeds back runtime data to development
+Goal: Formalize thinking (Design by Contract)
+Operator: Stare Decisis (Consistency Engine)
+<
+Operator: DDx Exclusion Protocol (Elimination Engine)
+<
+Operator: Montage (Dialectical Engine)
+<
+CLI-as-Agent & Sandboxing
+<
+Output Gating & Schemas
+<
+Drift Monitoring & Metrics
+<
+Role: Pre-Frontal Cortex
+Mandate: Decompose intent into formal specs (DRP/PRP)
+Governs epistemic stance
+Role: Broca's Area / Builder
+Mandate: Translate intent into Executable Cognitive Code (Python/Prompts)
+Enforces Petzold Loop (Scaffold first)
+Role: Entropy Monitor / Forensic Epistemologist
+Mandate: Treat failure as data (Symbolic Scars)
+Generates Failure-Informed Prompt Inversion (FIPI)
+Persistent log of past failures/errors
+Transforms errors into permanent structural constraints
+System becomes anti-fragile
+Failure mode: breaks application logic
+Triggered by Recursive Attention Loops
+Relies on high-level 'vibe'
+Risk: Scope Creep, Hallucination of Agency, Epistemic Laziness
+Short-Term (Context Window / RAM)
+Mid-Term (Episodic Memory / Compression)
+Long-Term (Semantic Memory / Zettelkasten)
+Rough ideas MUST trigger EpistemicEscrow
+Rejects Rough ideas lacking 'Causal Chain' verification
+Failure: ViscosityViolation (Halt)
+Enforces adherence to prior rulings/precedents
+Systematic Hypothesis Elimination (Anti-Convergence)
+Creates new meaning via collision (Thesis + Antithesis)
+CLI provides unmediated access (high risk)
+OpenHands: Docker Containerization for isolation
+Security: Default-deny network policy, MicroVMs (Firecracker)
+Machine-Verifiable Output Gating (runtime validation)
+Schema Complexity Saturation (Parameter Cliff)
+<
+Monitors semantic divergence in real-time
+Semantic Entropy (measures true uncertainty)
+Lexical Diversity (MTLD, Distinct-3)
+Semantic Reynolds Number (Re_sem) for viscosity
+Avoid God Tools (>15-20 parameters)
+Use Standard Library Hierarchy (abstraction)

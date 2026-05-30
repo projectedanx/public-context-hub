@@ -1,0 +1,47 @@
+The Architect’s Toolkit: Five Pillars of Cognitive Engineering
+5 Counter-Intuitive Thinking Ideas
+<
+1. Models: Essential Simplifications
+<
+2. Curiosity: The Information Gap
+<
+3. Innovation: A Social Process
+<
+4. Understanding: Beyond Knowledge
+<
+5. Cognition as a Blueprint for Belief
+<
+New Mental Toolkit (AI & Engineering)
+<
+Strategic Simplification
+Aphorism: All models are wrong, but some are useful
+Value in Utility vs. Accuracy
+Examples: City maps, Physics models, Spherical cows
+Trigger: Glimmer of knowledge
+Mechanism: Loewenstein's Information Gap Hypothesis
+Region of Proximal Learning (RPL)
+Role of Anomalies & Hypercorrection Effect
+Feedback Loops: Positive vs. Negative reinforcing
+Arrow Replacement Effect: Incumbent vs. Entrant
+Schumpeter's Creative Destruction
+Importance of Psychological Safety
+Knowledge as Facts (Justified True Belief)
+Understanding as Explanatory/Causal Relationships
+Vulnerability vs. Resistance to Epistemic Luck
+Pragmatic Inferentialism
+Intuitive vs. Analytical Thinking Styles
+Recursive Epistemic Closure (Echo Chambers + AI Psychosis)
+Jumping to Conclusions Bias
+Context Engineering to Mitigate Hallucination
+Context Engineering
+<
+Agentic Workflows
+<
+Instructions, Knowledge, Tools, Memory, State, Query
+Lost in the Middle Effect
+Deterministic Outcomes
+Specialized Roles: Pair Programmer, Web Designer, Tech Lead
+Fix Until Green Validation Loop
+Autonomous Action via Tools
+NotebookLM can be inaccurate; please double-check its responses.
+Mind Map 'New mind map' is ready.

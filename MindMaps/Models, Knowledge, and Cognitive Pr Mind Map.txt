@@ -1,0 +1,161 @@
+Models, Knowledge, and Cognitive Processes
+Models, Knowledge, and Cognitive Processes
+<
+Scientific & Conceptual Modeling
+<
+Knowledge, Belief, and Understanding
+<
+Cognitive Biases and Insight
+<
+Language and Abstraction
+<
+Nature and Purpose of Models
+<
+Simplifying Assumptions & Limitations
+<
+Types of Models/Systems
+<
+Conceptual Modeling in Systems
+<
+Distinctions in Epistemology
+<
+Knowledge Processes (Learning/Collaboration)
+<
+Conspiracy Belief (CB)
+<
+Thinking Styles
+<
+Insight (Aha! Moment)
+<
+Linguistic Abstraction
+<
+Linguistics Fields
+<
+Conceptual Abstraction
+<
+Approximation of reality
+Simplification is essential
+Tool for prediction and experimentation
+Allows focus on limited properties (isolation)
+Can be physical, fictional, set-theoretic, equations
+Simplifying Assumptions
+<
+Model Utility
+<
+Bounding/Asymptotic Analysis
+<
+Scientific Models
+<
+Economic Models
+<
+AI/Machine Learning Models
+<
+Abstraction from reality
+Common language/understanding for complex systems
+Requires structure, operation, and constraints
+Multiple layers needed for complex systems
+Key components: Entities, Attributes, Relationships
+Knowledge
+<
+Belief
+<
+Faith
+<
+Understanding
+<
+Knowledge Sharing
+<
+Knowledge Construction
+<
+Knowledge Creation
+<
+Linked to intuitive, frugal information processing
+Resists falsification; circular reasoning
+Associated with distrust and cynicism
+Predictive cognitive biases
+<
+Correlations
+<
+Analytic Thinking
+<
+Intuitive Thinking
+<
+Characteristics/Function
+<
+Problem Solving
+<
+Standard language is an abstraction ('myth')
+Every variety is a dialect
+Language boundaries tied to social/political factors
+Theoretical Linguistics (universal nature, frameworks)
+Applied Linguistics (practical use, e.g., education)
+Psycholinguistics (architecture of processing, disorders like aphasia)
+Sociolinguistics (language variation tied to social factors, e.g., gender/status)
+Formal Linguistics (models in abstraction from application)
+Concepts are abstractions of reality
+Theory building is a process of increasing abstraction
+Example: 'Height' represents abstract idea about physical reality
+Deliberate simplification for tractability
+Example: Spherical cow (humorous metaphor)
+Example: Frictionless planes, point masses
+Aristotelian idealization (stripping away properties)
+All models are wrong, but some are useful
+Predictive power based on validity of assumptions
+Incompatible models can be predictively successful
+Assessing behavior at extreme conditions (min/max)
+Technique for evaluating models with simplifications
+Representational (shapes, analogies)
+Mathematical (dynamical systems, statistical)
+Scientific Model Examples
+<
+CGE (Computable General Equilibrium)
+DSGE (Dynamic Stochastic General Equilibrium)
+OLG (Overlapping Generations) Model
+Input-Output (IO) Models
+Generative Modelling (VAEs, GANs)
+Classification (Decision Trees, SVM)
+Clustering (Hierarchical, DBSCAN, K-Means)
+Regression/Forecasting
+Verified ideas tested against reality
+Fact-based, provable, verifiable proof
+Often related to material description (scientific worldview)
+Mental maps, propositions held to be true
+Workshop of the mind (first draft)
+Can be involuntary feeling
+Commitment/trust without complete evidence
+Compass for navigating parts maps can't explain
+Act of will, conscious choice to trust
+Religious beliefs not treated as scientific hypotheses
+Depth of knowledge
+Ability to qualitatively predict consequences (de Regt)
+Philosophical debate: Distinct from knowledge?
+Introduction of information/ideas
+No extensive interpretation or evaluation
+Related to naïve realism/quick learning
+Interpreting, evaluating, critiquing ideas
+Seeking explanations (causal mechanisms)
+Aimed at acquiring reliable knowledge of a field
+Highest level of discourse
+Includes synthesis, formulating new concepts ('rise-above')
+Stronger evidence of ideation/reflection
+Jumping to Conclusions (JTC) bias
+Emotional reasoning
+Confirmation bias (seek corroborating evidence)
+Lesser reliance on analytic processing
+Lower GDP per capita / poor economic perception
+Pseudoscience and paranormal phenomena beliefs
+Deliberative processing
+Associated with lower CB
+Related to open-mindedness
+Frugal, heuristic processing
+Associated with higher CB ('Faith in Intuition')
+Subjective feeling (certainty, obviousness, relief)
+Metacognitive heuristic ('Eureka Heuristic')
+Signals reduction in prediction error/uncertainty
+Driven by Bayesian Model Reduction (implicit process)
+Often used for problems resisting conventional logic
+Requires breaking functional fixedness
+Associated with selective encoding, combination, comparison
+Billiard ball model of gas
+Bohr model of the atom
+Mundell-Fleming model (economy)

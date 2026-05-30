@@ -1,0 +1,116 @@
+Models, Representation, and Cognitive Systems
+Models, Representation, and Cognitive Systems
+<
+Types of Models
+<
+Model Purpose and Simplification
+<
+Mental Models and Cognition
+<
+Knowledge and Understanding Distinction
+<
+General Scientific/Academic Models
+<
+Computational/AI Models
+<
+Model Classification by Approach
+<
+Role of Simplification
+<
+Techniques for Simplification
+<
+Trade-offs and Limitations
+<
+Definition: Internal, cognitive 'small-scale model' of reality
+Function: Reason, anticipate events, shape behavior
+Used to create other types of models
+Shared Mental Model (SMM): Collective knowledge representation in a team
+Insight as Prediction Error
+<
+Modeling in Cognitive Science
+<
+Knowledge
+<
+Understanding
+<
+Moral Progress Debate
+<
+Physical Models
+<
+Drawings/Visual Models
+<
+Mathematical Models
+<
+Verbal or Written Models
+Conceptual Models
+<
+Analogical Models
+<
+Machine Learning (ML)
+<
+Graphical Models
+<
+Computer Simulations
+<
+Compartment Model (SIR)
+<
+Qualitative (Verbal descriptions of behavior)
+Quantitative (Express units/dynamics using measurement)
+Deductive (Top-down, theory to specific hypothesis)
+Inductive (Bottom-up, observation to general conclusions)
+Deterministic vs. Stochastic
+Essential for making implications transparent
+Makes calculations more feasible (Spherical Cow metaphor)
+Allows focus on core concepts (e.g., block on frictionless plane)
+Avoids long sentences and jargon (Goal of mind map nodes)
+Idealization (e.g., Ideal gas laws, frictionless surfaces)
+Symmetry Exploitation (Spherical, Cylindrical)
+Order of Magnitude Analysis (Discarding minimal terms)
+Bounding or Asymptotic Analysis (Extreme conditions testing)
+Abstraction (Recognizing common features)
+Oversimplification distorts reality/fosters shallow understanding
+Excessive accuracy may hinder understanding/communication
+Incompatible Models Argument (Multiple successful, inconsistent models)
+Simplifying assumptions hide dynamics
+Implicit restructuring leads to higher-order prediction error (Content of insight)
+Precision-weighting accounts for confidence and pleasure (Feeling of insight)
+Simulations help gain understanding beyond simplifications
+Dynamical systems approach assumes continuous parameter change
+Acquaintance with facts, truths, or principles
+Possession of accurate information
+Requires justification (Justified True Belief - JTB)
+Vulnerable to epistemic luck
+Types: Propositional, Procedural, Acquaintance
+Grasping explanatory and causal relationships
+Less susceptible to epistemic luck
+Can be built on deliberate simplifications/idealizations
+Philosophical goal for transformative discourse
+Rival accounts: Knowledge-based vs. Understanding-based
+Knowledge-based is less demanding/more effective at explaining doxastic change
+3D objects that we can touch
+On paper or computer (2D or virtual 3D)
+Molecular line model of glucose
+Ribbon diagrams of proteins
+Ball-and-stick models
+Space-filling models
+Calculate behavior of system/process
+Differential equations (e.g., SIR compartment model)
+Basal metabolic rate power law (B=B₀Mᵇ)
+Formally describe physical/social world
+Objective: Convey fundamental principles/basic functionality
+Goals: Understanding and communication
+Based on relevant similarities (e.g., Earth/Moon)
+Hydraulic model of economic system
+Billiard ball model of gas
+Liquid drop model of nucleus
+Supervised Learning (Classification, Regression)
+Unsupervised Learning (Clustering, Exploratory Analysis)
+Semi-supervised Learning
+Self-supervised Learning (SSL)
+Reinforcement Learning (RL)
+Generative Models (VAEs, GANs, Normalizing Flows)
+Nodes represent random variables
+Undirected (Markov Random Fields)
+Directed (Bayesian Networks/Belief Networks)
+Used to solve intractable equations (e.g., star formation, wars, moral behavior)
+Used for disease transmission (Susceptible, Infected, Removed/Recovered)

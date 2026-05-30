@@ -1,0 +1,445 @@
+Mindmap
+Software Development: Principles, Patterns, and Aesthetics
+
+Software Development Principles and Practices
+<
+Core Principles
+<
+Software Architecture Patterns
+<
+Object-Oriented Design (OOD)
+<
+Testing
+<
+Programming Concepts
+<
+Aesthetic Programming
+<
+Software Development Life Cycle (SDLC)
+<
+DRY (Don't Repeat Yourself)
+<
+YAGNI (You Aren't Gonna Need It)
+<
+KISS (Keep It Simple, Stupid)
+<
+Consistency
+<
+Purpose
+<
+Benefits
+<
+Types of Patterns
+<
+Design Patterns (Gang of Four)
+<
+SOLID Principles
+<
+Refactoring
+<
+Unit Tests
+<
+Test Driven Development (TDD)
+<
+Importance for Refactoring
+<
+Common Practices
+<
+Data Structures
+<
+Control Flow
+<
+Abstraction
+<
+API (Application Programming Interface)
+<
+Error Handling & Debugging
+<
+Concurrency
+<
+Core Idea
+<
+Key Themes/Chapters
+<
+Secure SDLC (SSDLC)
+<
+Encapsulate function
+Avoid updating multiple places for requirement changes
+One changed requirement = one code change
+Structural vs. Behavioral duplication
+Critiques/Misunderstandings
+<
+Alternatives/Related Concepts
+<
+Do not over-engineer
+Challenges/Critiques
+<
+Mitigation/Context
+<
+Don't be clever
+Avoid impossible to explain/maintain code
+Challenges/Critiques
+<
+Ignore preference, go with consistent
+Good enough code, if consistent, doesn't need change
+KWPAWAI (Know What's Preference And What's Actually Important)
+Define basic characteristics and behavior
+Help architects justify decisions
+Avoid tightly coupled, brittle, difficult to change apps
+Provide clear vision/direction
+Answer questions about deployment and maintenance
+Support scalability or agility goals
+Layered Architecture
+<
+Event-Driven Architecture (EDA)
+<
+Microkernel Architecture
+<
+Microservices Architecture
+<
+Space-Based Architecture
+<
+Reusable solutions to common problems
+Abstract proven techniques
+Improve documentation and maintenance
+Help get design 'right' faster
+Classification Criteria
+<
+Example Patterns
+<
+Design patterns are more abstract than frameworks
+Often result in systems composed of many small objects
+Single Responsibility Principle (SRP)
+Open/Closed Principle (OCP)
+Liskov Substitution Principle (LSP)
+Interface Segregation Principle (ISP)
+Dependency Inversion Principle (DIP)
+Foundation for Clean Architecture
+Restructure software without changing observable behavior
+Series of small, safe, automated changes
+Benefits
+<
+Process
+<
+Key Refactorings/Concepts
+<
+Cover small piece of logic
+Predetermined outcome
+Don't rely on other calls
+Use 'mock' versions for consistent data
+Example: Validate text field input
+Reduced technical debt (avoid quick, inefficient code)
+Ensures code meets requirements
+Necessary foundation for refactoring
+Catch errors quickly due to small changes
+Self-testing code is crucial
+Iterative activity
+Add to test suite as you go
+See every test fail at least once (inject fault)
+Avoid shared fixtures (petri dish for bugs)
+Green bar (all tests pass) vs. Red bar (tests fail)
+Test multiple parts of a program step by step
+Variables (name, store values, global/local)
+Arrays (list of values, identified by index)
+Objects (encapsulate data and methods)
+JSON (structured data file)
+Conditional Statements (if/else, switch)
+Loops (for, while)
+Functions
+Hidden details of computer workings
+Politics of movement between abstract and concrete reality
+Object Abstraction (OOP: objects model the world)
+Higher-level languages hide machine operations
+Professionalization built on hiding the machine
+Communication protocol between program parts
+Simplify software development
+Querying data (request and response logic)
+Syntax errors
+Logical errors (hardest to locate)
+Web console for error messages and debugging hints
+Use console.log() or print() for identification
+Concurrent algorithms/applications
+Concurrent programming
+Flaws hiding in concurrent code
+Reading, writing, thinking with software as critical tool
+Programmer's conceptual skills develop with technical proficiency
+Programming as cultural production in social context
+Programming as 'force-field' to understand material/social contradictions
+Programming as critical-aesthetic object itself
+Getting Started
+<
+Variable Geometry
+<
+Infinite Loops
+<
+Data Capture
+<
+Auto-generator
+<
+Object Abstraction
+<
+Vocable Code
+<
+Que(e)ry Data
+<
+Algorithmic Procedures
+<
+Machine Unlearning
+<
+Focus on application operation and developer transformation of requirements
+Security at forefront of team's mind
+Cultural change may be required
+Automated processes and checks at each stage
+Highly dependent on team's strengths and weaknesses
+No single secure SDLC process
+Easy to over-apply
+Can be harder to understand
+Less productive code
+Separate parts may diverge
+Violation of 'one owner, one business reason to change'
+Encourages violating KISS
+Damage in professional codebases
+Abstraction has runtime cost
+Abstraction has mental overhead
+Abstraction has maintenance cost
+Branching issues (3 Body Problem)
+Can lead to rewriting anyway
+WET (Write Everything Twice)
+DRY when WET
+YARP (You Always Repeat Patterns)
+Rhyming
+Hurts in the long run (not thinking of future needs)
+Not creating contingencies
+Blindly following can be bad
+Leads to wasted effort if requirements change later
+Poor implementation or rewrite needed later
+Conflated with being anti-abstraction
+Create natural extension points
+Ask product owner about future needs
+Subjective metric
+Poor self-judgment of 'clean' code
+Abused concept (hammer & nail approach)
+Leads to mess as project grows
+Code not DRY if kept too simple for future requirements
+Components organized into horizontal layers
+Each layer performs a specific role
+Typically 4 layers: presentation, business, persistence, database
+Business and persistence can be combined
+Open layers allow bypassing for specific requests
+Distributed asynchronous pattern
+Highly scalable applications
+Adaptable for small and complex apps
+Highly decoupled, single-purpose event processing components
+Asynchronously receive and process events
+Topologies
+<
+Characteristics
+<
+Considerations
+<
+Call Stack Alternative
+<
+Core system and plug-in modules
+Application logic divided
+Provides extensibility, flexibility, isolation
+Core system contains minimal functionality
+Plug-in modules must remain independent
+Connection methods (OSGi, messaging, web services, direct binding)
+Alternative to monolithic/SOA
+Split into smaller, separately deployed units
+More robust, better scalability, supports continuous delivery
+Real-time production deployments
+Change isolated to specific service components
+High ease of development (isolated scope)
+Topologies (e.g., Centralized messaging with lightweight broker)
+Cloud architecture pattern
+Minimizes application scaling limits
+Distributed shared memory (tuple space)
+Removes central database constraint
+Replicated in-memory data grids
+Application data kept in-memory
+Processing units dynamically started/shut down
+Near-infinite scalability
+Components
+<
+Analysis
+<
+Purpose
+<
+Scope
+<
+Abstract Factory
+Builder
+Factory Method
+Prototype
+Singleton
+Adapter
+Bridge
+Composite
+Decorator
+Facade
+Flyweight
+Proxy
+Chain of Responsibility
+Command
+Interpreter
+Iterator
+Mediator
+Memento
+Observer
+State
+Strategy
+Template Method
+Visitor
+Make software easier to understand
+Help find bugs
+Program faster
+Improve design of existing code
+Adapt architecture to new demands
+Increase reliability (less bugs)
+Requires self-testing code
+Preparatory refactoring before adding features
+Run tests frequently
+Move understanding from head to code
+Leave codebase healthier than found
+Extract Function
+Rename Variable/Field/Function
+Encapsulate Variable/Record
+Replace Conditional with Polymorphism
+Substitute Algorithm
+Separate Query from Modifier
+Introduce Special Case
+Replace Primitive with Object
+Split Variable
+Replace Loop with Pipeline
+Move Function/Field
+Hide Delegate
+Remove Setting Method
+Pull Up/Push Down Method/Field/Constructor Body
+Replace Type Code with Subclasses
+Replace Superclass with Delegate
+Combine Functions into Class
+Inline Function/Class
+Working environment (p5.js, Code editor)
+Reading web console ('Hello World')
+Reference guide (e.g., ellipse() function)
+JavaScript (interpreted, low floors & high ceilings)
+Git/Gitlab for code repository and peer learning
+Fun with geometry (shapes, sizes, positions)
+Points, lines, planes as foundational design elements
+Manipulating properties, creating new patterns
+Computational objects
+Emoji design and politics of representation
+Coordinates (origin top-left in p5.js)
+Throbber icon (operation in progress, no clear status)
+Transformational movement and loop structures
+Temporal operations of computational processes
+rotate() function
+frameCount() (counts frames since program start)
+Modulo operation
+The 'halting problem' and algorithmic time
+Loops as alternative imaginaries of time
+Questioning captured data and processing
+'Datafication' (aspects of life turned into monetized data)
+Surveillance capitalism
+Customizable 'Like' button (simple interactions, economic value)
+Audio capture (mic input, user interaction events)
+Video/Face capture (clmtrackr JavaScript library, facial algorithms)
+Machine creativity negates human intentionality
+Complex combinations of humans/machines/nonhumans
+10 PRINT rules (randomness)
+Langton’s Ant
+Two-dimensional arrays & nested for-loops
+Emergent behavior from uniform states (morphogenesis)
+Automation reduces cognitive activity to algorithmic procedures
+Automation taking place of political decision-making
+OOP approach to model the world
+Understanding hidden layers of operation/meaning
+Tofu example (object instances with properties/methods)
+Game mechanics (dist() function for collision)
+Interplay between abstract and concrete reality (Marx's labor critique)
+Simula (first OOP language)
+Smalltalk
+Coding mirrors instability of human language
+Code as script and performance
+Analogy to speech-act theory
+Code as poetry (syntax, execution, temporal interplay)
+'Queer code' (work of software art/codework)
+Texts/voices repeated and disrupted by mathematical chaos
+Exposing material and linguistic tensions
+Computation cannot be reduced to formal logic
+Humans and nonhuman actants (variables, arguments, source code) speak
+Acquiring data through real-time API query
+Information processing, data selection, extraction, transmission, presentation
+JSON for structured data
+Web API's request and response logic
+Dynamically generated data (near real-time)
+Google Custom Search API example
+loadJSON() key syntax for API requests
+Image processing with pixels (img.loadPixels(), RGBA values)
+Unsettling normative data practices (gender representation)
+Ada Lovelace's first computer program (step-by-step operations)
+Flowcharts for visual representation of algorithms
+Algorithms as 'ill-defined network of actions upon actions'
+Formal quality gives power, but equivocation exists
+PageRank algorithm (bio-political machine, dataveillance, value machine)
+Machine learning (Arthur Samuel, IBM 1959)
+Reduce/eliminate detailed programming effort
+Chatbot example (ELIZA)
+Components of ML
+<
+Data cleansing (preparing data, adjusting inconsistency)
+Dataset as significant cultural object
+Types of Learning
+<
+ml5.js machine learning library (JavaScript framework for beginners)
+Pre-trained models
+Auto Chapter Generator (charRNN.generate() for text generation)
+Machine/human vision equivalence critique
+Machine learning and radical pedagogy
+Concerns about knowledge produced by ML (reductive ideas, platform empires)
+Computational logics vs. politics
+Critical technical practice (craft work + critique)
+Mediator (orchestrates multiple steps via central mediator)
+Broker (chains events without central mediator)
+Broadcast communications
+Timeliness
+Asynchrony
+Fine Grained
+Ontology
+Complex Event Processing
+High agility (changes isolated)
+High ease of deployment (decoupled)
+Complex to implement (asynchronous, distributed)
+Address distributed architecture issues
+Lack of atomic transactions for single business process
+Granularity of event processors
+Takes away pervasive call stack
+Simplified interaction via event exchange
+Call Stack Features (Replaced by EDA)
+<
+Recreate system state by replaying events
+Virtualized middleware (controller)
+Messaging grid (manages input/sessions)
+Data grid
+Processing grid
+Deployment manager
+In-memory data grid
+Optional asynchronous persistence store
+Data-replication engine
+High ease of deployment
+Low testability (expensive for high loads)
+High performance (in-memory access/caching)
+Creational (object creation)
+Structural (composition of classes/objects)
+Behavioral (interaction/responsibility)
+Class (static, inheritance-based)
+Object (dynamic, runtime-changeable)
+Input
+Modeling/Learning
+Output
+Supervised Learning (labeled data, classification, regression)
+Unsupervised Learning (unlabeled data, clustering, patterns)
+Coordination
+Continuation
+Context

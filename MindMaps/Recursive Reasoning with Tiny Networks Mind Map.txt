@@ -1,0 +1,83 @@
+Mind map
+Recursive Reasoning with Tiny Networks
+Recursive Reasoning with Tiny Networks (TRM)
+<
+Limitations of Large Language Models (LLMs)
+<
+Hierarchical Reasoning Model (HRM)
+<
+Tiny Recursion Models (TRM) - Proposed Approach
+<
+Technical Details & Hyperparameters
+<
+Struggle on Hard Q/A Problems
+<
+Improvement Methods (CoT/TTC)
+<
+Novelties
+<
+Components/Mechanisms
+<
+Issues & Targets for Improvement
+<
+Core Features & Simplifications
+<
+Ablation & Design Choices
+<
+Performance Gains (State-of-the-Art)
+<
+Model Architecture
+<
+Training Setup
+<
+Datasets and Augmentation
+<
+High risk of error (auto-regressive)
+CoT/TTC not enough for every problem
+Struggle on ARC-AGI-2 (e.g., Gemini 2.5 Pro 4.9%)
+Chain-of-Thoughts (CoT)
+<
+Test-Time Compute (TTC)
+<
+Recursive Hierarchical Reasoning (two networks fL, fH)
+Deep Supervision (improving answer over steps)
+Four learnable components (fI, fL, fH, fO)
+Recursion at two frequencies (fL high, fH low)
+Deep Supervision (reuse previous latent features, Nsup=16 max steps)
+IFT with 1-step gradient approx. (approx. gradient by last 2 steps)
+Adaptive Computational Time (ACT)
+Fixed-point not guaranteed for IFT/1-step approx.
+ACT requires two forward passes (expensive)
+Complex biological/hierarchical arguments
+Suboptimal generalization (55% Sudoku, 40.3% ARC-1)
+Single tiny network (2 layers, 7M params)
+Achieves higher generalization than HRM/LLMs
+No fixed-point theorem required (backprop full recursion)
+Single network (replaces fL and fH)
+Simpler interpretation (y=solution, z=latent reasoning)
+Optimal features: 2 (y and z)
+Optimal layers: 2 ('Less is More')
+Simplified ACT (no extra forward pass, removes continue loss)
+Exponential Moving Average (EMA) for stability
+Attention-free architecture (MLP) for small context (Sudoku)
+Sudoku-Extreme: 55% (HRM) -> 87.4% (TRM-MLP)
+Maze-Hard: 74.5% (HRM) -> 85.3% (TRM-Att)
+ARC-AGI-1: 40.3% (HRM) -> 44.6% (TRM-Att)
+ARC-AGI-2: 5.0% (HRM) -> 7.8% (TRM-Att)
+2-layer Transformers (for TRM)
+RMSNorm, no bias, rotary embeddings, SwiGLU
+TRM uses T=3, n=6 (42 effective depth)
+HRM uses T=2, n=2 (24 effective depth)
+AdamW optimizer
+Batch-size 768
+Hidden-size 512
+Nsup = 16 max supervision steps
+EMA of 0.999 (TRM)
+Sudoku-Extreme (1K train, 1000 shuffling aug.)
+Maze-Hard (1K train, 8 dihedral aug.)
+ARC-AGI-1/2 (1000 aug., color/dihedral/translations)
+Emulates human reasoning (step-by-step)
+Expensive
+Requires high-quality data
+Can be brittle
+Report most common/highest-reward answer

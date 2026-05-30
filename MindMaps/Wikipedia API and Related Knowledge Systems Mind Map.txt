@@ -1,0 +1,341 @@
+Mind map
+Knowledge Systems, Urban Planning, and Workflow Optimization
+
+Wikipedia API and Related Knowledge Systems
+<
+Wikipedia API
+<
+Alternatives & Complementary Tools
+<
+Commonsense Knowledge Graphs (CKG)
+<
+Software Development Workflow Optimization
+<
+Urban Regeneration in Beijing's Baitasi
+<
+API Concepts and Technologies
+<
+MediaWiki Action API
+<
+Wikimedia Enterprise API
+<
+Usage Guidelines
+<
+Python wikipediaapi library
+DBpedia (structured data)
+Purpose
+<
+Dimensions
+<
+Examples of CSKGs
+<
+Challenges for AI
+<
+Test Optimization Techniques
+<
+Benefits of Test Optimization
+<
+Preparing Test Cases for Optimization
+<
+Workflow Automation
+<
+Agile Approach / Iterative Process
+<
+Code Review Process
+<
+Case Study: Baitasi Hutong
+Challenges in Historic Inner-City
+<
+Research Methodology
+<
+Proposed Regeneration Plan: 'Streets for People, Hutongs for All'
+<
+Policy Recommendations
+<
+Self-Driving Vehicles (AVs)
+<
+API (Application Programming Interface)
+<
+JSON
+<
+Examples of APIs/Tools
+<
+Page creation & editing
+User rights management
+Data retrieval about MediaWiki
+JavaScript fetch example
+Curl example for title
+High-volume users
+Article summaries
+Credibility signals
+Customizable filters
+Supports NDJSON responses
+Commercial-scale applications
+Respect guidelines
+Contribute back to community
+Essential for humans to interact
+Essential for AI to understand human needs
+Machines need commonsense for text understanding
+Bridge semantic gaps
+Representation
+<
+Creation Method
+<
+Knowledge Type
+<
+Topic
+<
+Design Approach
+<
+Cyc
+<
+ConceptNet
+<
+WordNet
+<
+ATOMIC
+<
+Wikidata
+<
+NELL (Never-Ending Language Learning)
+<
+WebChild
+<
+Visual Genome
+<
+COMET (Knowledge Base Transformer)
+SWOW (Small World of Words - crowd-sourced word associations)
+Lack of commonsense knowledge
+Struggle with inferential reasoning
+Limited to trained domain
+Difficulty with negation tasks
+Incorporate testing early
+Precise & valuable test suites
+Select right tools/frameworks
+Regular reviews
+Prioritize Wait commands
+Parallel testing on real devices
+Test Case Prioritization
+Flaky Test Case Identification & Resolution
+Test Data Management
+Parametrization/Data Driven Testing
+Accelerates testing cycles
+Improves resource efficiency
+Enhances test reliability
+Increases test coverage with less effort
+Facilitates scalability
+Boosts developer confidence
+Improves release quality
+Define clear objectives
+Keep it simple
+Prioritize based on risk & impact
+Make it reusable
+Use modular & data-driven approaches
+Ensure traceability
+Document expected outcomes
+Automate
+Uses technology to automate routine tasks
+Based on predefined rules and triggers
+Replaces manual processes
+Benefits
+<
+Implementation Steps
+<
+Challenges
+<
+Solutions to Challenges
+<
+Replaces Waterfall methodology
+Changes less costly and easier
+Collaborative (client/stakeholder involvement)
+Less prone to confusion (detect/fix flaws early)
+Challenges
+<
+Review code for quality and errors
+Poor mobility conditions (narrow streets, parking)
+Informal constructions taking public space
+Lack of private toilets/showers
+Massive urban expansion & population growth
+Rising social inequalities
+Environmental degradation
+Aging population
+Dual urban legacy (private vehicles, privatized public spaces)
+Combines social sciences & computer sciences
+Data Collection & Analysis
+<
+Human-centered approach
+Leveraging self-driving technology
+Phase One Priorities
+<
+Recapturing Public Spaces
+<
+Car-free, age-friendly, human-centered streets
+Goal: Inclusive, resilient, sustainable urban future
+Encourage co-creation
+Empower co-governance
+Collaborative Creation & Governance Triangle
+<
+Data sharing from micro-mobility systems
+Residents document public space usage
+Predicted widespread availability in 15 years
+Could recapture street space from parking
+Beijing permitting AVs to carry human passengers
+L4 driverless minibuses (Baidu Apollo)
+L4 self-driving RoboTaxi (WeRide)
+Toyota e-Palette concept
+Interface/communication protocol
+Simplifies software implementation & maintenance
+Enables software to 'talk'
+WEB API: client-server interface ('contract')
+API Key: vendor's usage tracking/limits
+JSON-RPC 2.0 APIs
+OpenRPC Specification (standard interface description)
+Machine-readable API definition documents
+Interactivity, code generation, testing automation
+Meta JSON Schema for validation
+Financial Data APIs
+<
+AI/ML APIs
+<
+Workflow Automation Tools
+<
+Image Recognition
+<
+Wiki Software
+<
+Symbolic
+Natural Language
+Neural
+Expert input
+Crowdsourcing (GWAP)
+Information extraction, Machine Learning
+Entities and actions
+Inferential/rules
+General
+Social
+Top-down
+Bottom-up
+Top-down approach
+Large, multi-contextual knowledge base
+Founded 1984 by Doug Lenat
+Aims to codify millions of pieces of human common sense
+Example: All trees die
+Limitations: brittleness, expensive acquisition
+Freely available
+Integrated NLP tool-kit
+Generated automatically from Open Mind Common Sense (OMCS) corpus
+Crowd-sourced from 14,000+ contributors
+1.6 million assertions in knowledge base
+20 semantic relations (e.g., EffectOf, IsA, PartOf)
+Supports contextual reasoning
+JSON-LD API
+Excels at contextual commonsense reasoning
+Used for: topic generation, semantic disambiguation, affect sensing
+Handcrafted
+Lexical reasoning focus
+Limited semantic relations (synonym, is-a, part-of)
+Inferential knowledge in natural language
+880,000 triples for cause & effect
+Focuses on social interactions in events
+90M nodes, 1.1B edges, 8k properties
+Growing over time
+Principles for Commonsense
+<
+Continuously extracts facts from web
+100M candidate beliefs, 3M high-confidence facts
+~3K predicates
+Architecture includes text context patterns, image classifier, human advice
+Automatic acquisition and organization
+>18M assertions, >2M disambiguated concepts
+Relations
+<
+108k images annotated with scene graphs
+Links language and vision
+Components
+<
+Enhance efficiency
+Reduce operational errors
+Allocate more time to strategic initiatives
+Faster feedback
+Lower operational costs
+Consistent, trustworthy results
+Identify repetitive processes
+Use automation workflow tools (Zapier, Asana)
+Set triggers and rules
+Test the workflow
+Monitor and optimize
+Employee resistance
+Integration issues
+Unclear/inefficient workflows
+High initial costs
+Lack of employee training
+Document processes clearly
+Choose right tools & partners
+Monitor and optimize continuously
+Train employees
+Communicate benefits
+Start small & scale
+Lack of communication
+Continuous testing issues
+Field audit (street view images, mobility, living conditions, social behavior)
+Computer-assisted geospatial analysis
+Image recognition (Baidu APIs, OpenCV, Python)
+Traffic observation survey (rush hours)
+Public toilet mapping (Cat's Eye app)
+Driverless ride-sharing (communal taxi, delivery, mobile shop)
+Smart package delivery (facial recognition/QR pick-up)
+Age-friendly solutions (e.g., simple phone calls for seniors)
+Temporary experiments/interventions
+Provide public benches (triangulation)
+Community gardens
+Public playgrounds for children
+Movable furniture for shared spaces
+Government
+Private Sector
+Civil Society
+Intermediary organizations (NGOs, media, business associations)
+Twelve Data (stocks, forex, crypto, ETFs, indices, 100+ indicators)
+Alpha Vantage (50+ indicators)
+IEX Cloud
+Finnhub
+FMP Cloud (free tier 250 requests/day)
+Alpaca (historical data for free)
+Yahoo Finance (EOD data)
+Bavest (real-time data, open source program)
+Challenges: commercial use often requires payment, data accuracy varies
+ChatGPT (OpenAI)
+Claude (Anthropic)
+DeepSeek
+Gemini (Google)
+Flux (Black Forest Labs)
+VibeVoice (AI voice synthesis)
+Seedream (image generation/editing)
+Pixverse (text-to-video, image-to-video)
+Veo (cinematic video generation)
+OCR AI API
+Speech To Text API
+Healthcare AI API
+Generate Music API
+AI Search Engine API
+Zapier
+Asana
+IBM's Business Automation Workflow platform
+Baidu AI (Vehicle detect, Body detect APIs)
+OpenCV (Open Source Computer Vision library)
+Cat's Eye (intelligent investigation tool)
+DokuWiki (Open Source, no DB)
+MediaWiki (powers Wikipedia)
+Concepts, not entities
+Common concepts
+General-domain relations
+Object properties (hasTaste)
+Comparative (fasterThan)
+Part-of (member of)
+Activities
+Region descriptions
+Objects (WordNet senses)
+Attributes
+Relationships (e.g., proximity)
+Region graphs
+Scene graphs
+Question-answer pairs

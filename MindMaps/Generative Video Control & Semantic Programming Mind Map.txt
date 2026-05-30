@@ -1,0 +1,197 @@
+Mindmap
+Generative Video: Semantic Programming and Control
+Based on 23 sources
+Generative Video Control & Semantic Programming
+<
+Crisis of Control (Problem)
+<
+Semantic Programming (Paradigm Shift)
+<
+Empirical Validation
+<
+Optimal Director Prompts (Veo 3 & Gemini 2.5 Pro)
+<
+Unified Framework & Future Roadmap
+<
+Persistent Challenges & Research Gaps
+<
+Showrunner Specifics (Editor Features)
+<
+Ambiguity of Natural Language
+Probabilistic Uncertainty
+Lack of Precise, Repeatable Control
+Unsuitability for Professional Domains
+Symbolic Drift
+Core Concept
+<
+Foundational Dichotomy
+<
+Prompt Format Efficacy (A/B/C Test)
+<
+Causal Inference (Seed Bracketing)
+<
+Negative Prompting (Signal Control)
+<
+Temporal Dynamics (Semantic Memory Decay)
+<
+Systemic Fragility (Agentic Drift)
+<
+Structure First (JSON/Hybrid Prefixed)
+Physical Translation (Abstract to High-CPI Attributes)
+Signal Control (Targeted Negative Prompts)
+Temporal Scaffolding (Context Re-injection for Long Videos)
+Modular State Preservation (Agentic Workflows)
+Hierarchy of Control Reliability
+<
+Procedural Execution (Dynamic, Executable Scripts)
+Formal Verification (Hybrid Neuro-Symbolic Frameworks, Differentiable Logic Programming)
+Context Re-injection (Semantic Anchors, Hierarchical Refresh)
+Standardized Evaluation (Quantitative Metrics, VBench, TC-Bench)
+Causal Traceability ('Why' Explanations, Latent Causal Graph Mapping)
+Affective Computing Gap (Encoding Subjective Concepts)
+Plausibility Barrier (Enforcing Physical Laws)
+Efficiency Bottleneck (Neuro-Symbolic Systems, Hardware Co-Design)
+Semantic vs. Format Fidelity (Distinguishing Accuracy from Compliance)
+Multi-Modal Translation Fidelity (Lossless Inter-Agent Communication)
+Absence of Standardized Benchmarks (Semantic Control Evaluation)
+Temporal Consistency Verification Gaps (Beyond Single-Frame Analysis)
+Full Causal Traceability (Beyond Isolated CPI)
+Procedural Generation & Dynamic Prompt Scripts (Evolving Static Prompts)
+Script Editor
+<
+Helpful Notes
+<
+Character Control
+<
+Shot Control
+<
+Timing & Cuts
+<
+Explicit Instruction of Generative System
+Intent-Driven AI Control
+Higher-Level Abstraction (Concept-Level Programming)
+Natural Interface Design
+Compositionality
+Temporal Awareness
+Prompt as Cinematic Syntax
+<
+Prompt as Cognitive Scaffold
+<
+Structured JSON (3% Hallucination, 9.2 Visual Quality, 0.018 Content Drift)
+Hybrid/Prefixed (11% Hallucination, 8.1 Visual Quality, 0.046 Content Drift)
+Freeform Prose (28% Hallucination, 6.8 Visual Quality, 0.092 Content Drift)
+Quantifies 'Cognitive Cost of Ambiguity'
+Causal Perturbation Index (CPI)
+Case Studies
+<
+Causal Drift Matrix (Diagnostic Tool)
+Grounding Abstract Concepts (Translate to High-CPI Physical Parameters)
+Repulsive Force in Latent Space
+Omission Tests (Statistical Validation)
+Efficacy Checklist
+<
+Context Compression
+Drift Integrity Marker (DIM) for Identity Preservation
+Prompt Failure Stack (Hierarchical Degradation)
+<
+Prioritization in Semantic Memory (High Salience preserved longer)
+Accumulation of Semantic Error
+JSON -> Prose -> Video -> Description Experiment
+Analogy to Model Collapse
+Natural Language as Lossy Compression
+Structured Data for State Preservation
+Highest Reliability (CPI 7-9: Camera, Spatial, Lighting)
+Moderate Reliability (CPI 3-5: Motion, Basic Actions, Style)
+Low Reliability (CPI 1-2: Emotions, Complex Relations, Causality, Long-Term Consistency)
+Review Prompt, Set, Characters
+Adjust Script
+Generate New Video
+Character Name Colon (Dialogue)
+Avoid Parenthesis
+Split Super Long Lines
+Hiding/Revealing Characters
+<
+Shot Types
+<
+Dutch Angle Shots
+<
+Shot Motions
+<
+Camera Shake
+<
+Pauses
+<
+Cut To
+<
+Formal, Unambiguous Grammar
+Deconstructive Key-Value Pairs
+Mirrors Filmmaking Lexicon
+Industry Validation
+<
+Hierarchical & Delimited Nature (JSON/XML)
+Reduces Cognitive Load
+Minimizes Interpretive Ambiguity
+Aligns with Models' Training Data (code, API docs)
+Shift from Interpretation to Application
+Neuro-Symbolic AI Principles
+Lens Effects (High Causality, CPI: 8.2)
+Movement Verbs (Medium Causality, CPI: 3.5)
+Mood and Lighting (Low Causality, CPI: 1.4)
+Anatomical Distortion (Efficacy 5)
+Stylistic Bleed (Efficacy 4)
+Text/Watermark Artifacts (Efficacy 5)
+Low Quality/Noise (Efficacy 4)
+Mood Inconsistency (Efficacy 3)
+Level 1: Subtle Drift (DIM 0.95-0.99)
+Level 2: Identity Warp (DIM 0.85-0.94)
+Level 3: Environmental Collapse (DIM 0.70-0.84)
+Level 4: Narrative Fracture (DIM <0.70)
+Is Invisible or Narrator Action (/scene command)
+#Hide Commands (in script)
+<
+Establishing (Scene-Setter)
+Master
+FullBody
+TwoShot
+MediumShot
+Closeup
+ExtremeCloseup
+Control Camera Zoom
+On Own Line After Dialogue
+Max One per Dialogue Line
+SubtleLeft/Right
+ModerateLeft/Right
+ExtremeLeft/Right
+On Own Line After Dialogue
+Combinable with #ShotMotion, #ShotType
+ZoomIn
+ZoomOut
+WhipPan
+Control Camera Motion
+On Own Line After Dialogue
+Max One per Dialogue Line
+Combinable with any #ShotType
+HandheldSubtle
+HandheldModerate
+HandheldExtreme
+Control Camera Shake
+On Own Line After Dialogue
+Max One per Dialogue Line
+#pause (1 sec before speaking)
+#pause [seconds] (custom duration before speaking)
+#pause [total seconds] [before/after ratio]
+On Own Line After Dialogue
+Wait before speaking
+#CutTo [name] (speaking char continues dialogue)
+#CutToNoDialogue [name] (inserts silence)
+Cuts to Character/Prop/Video Clip
+On Own Line
+Google Veo (Structured API, precise language)
+Runway Gen-3 (Prefixed structure, keyword vocabulary)
+OpenAI Sora (Cinematic terminology, structured inputs)
+#Hide
+#Unhide
+#Hide All
+#Unhide All
+On Own Line After Dialogue
+Executes when Character Speaks

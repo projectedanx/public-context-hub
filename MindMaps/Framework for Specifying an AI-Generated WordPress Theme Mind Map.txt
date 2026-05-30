@@ -1,0 +1,222 @@
+Mind map
+AI-Generated WordPress Theme Specification Framework
+Framework for Specifying an AI-Generated WordPress Theme
+<
+Part I: Strategic Blueprint (Core Purpose)
+<
+Part II: UX Architecture & Structural Plan
+<
+Part III: Visual Identity & Design System
+<
+Part IV: Functional & Technical Specification
+<
+Part V: WordPress Implementation Framework
+<
+Agentic AI Principles (Gemini CLI Context)
+<
+Define Core Purpose
+<
+Identify Target Audience & Needs
+<
+Establish SMART Goals (Stakeholders)
+<
+Translate Goals into Key Website Objectives
+<
+Agent Persona & Core Mandates (GEMINI.md Foundation)
+<
+Developing the Site Map (Architectural Blueprint)
+<
+Wireframing Key Page Layouts
+<
+Define Comprehensive Content Requirements
+<
+Designing Intuitive Navigation and User Journeys
+<
+Defining 'Empty States' and Edge Cases
+<
+Establishing a Clear Visual Hierarchy
+<
+Defining Brand Palette & Typography System
+<
+Guidelines for Imagery, Iconography, and Media
+<
+Mandating a Responsive, Mobile-First Design
+<
+Theme Features and Customization Options (Admin UX)
+<
+Ensuring Critical Plugin Compatibility
+<
+Setting Performance, SEO, and Accessibility Standards
+<
+Defining Niche-Specific Functionality
+<
+Detailing Interactive Element Behavior
+<
+Choosing the Theme Type Declaration
+<
+Defining the Core File Structure
+<
+Mapping the Master Template Hierarchy (Linchpin)
+<
+Architectural Foundations (Agentic AI)
+<
+The ReAct Loop (Gemini CLI Engine)
+<
+Governance as Code (GEMINI.md & Slash Commands)
+<
+Pillars of Trustworthy Automation
+<
+Model Context Protocol (MCP) for Extensibility
+<
+Move Beyond 'Brochure' Website
+Primary Role Declaration
+Examples
+<
+Website Must Be User-Centered
+Develop User Persona (Detailed Profile)
+Profile Components
+<
+Specific, Measurable, Achievable, Relevant, Time-bound
+Goals for Users (Improve UX)
+Goals for Business/Stakeholders (Organizational Outcomes)
+Goals for Content Managers (Ease of Maintenance)
+Translation Cascade (Business Need -> AI Instruction)
+Objective is Actionable Measurable Action
+Enhancing User Experience (UX) and Engagement
+Increasing Website Traffic and Visibility (SEO)
+Generating Leads and Boosting Conversions (CTAs)
+Establishing Brand Authority and Trust
+Define AI's Role (Senior WordPress Developer)
+Primary Objectives: Performance (90+ PageSpeed) & Usability
+Conflict Resolution: Performance/Usability MUST Take Precedence
+Hierarchical Overview of All Pages
+Listing all necessary pages (Top-level and Sub-pages)
+Organizing pages hierarchically (Parent-child logic)
+Defines scope and required views/templates
+Low-fidelity sketch (Structure/Hierarchy only, no aesthetics)
+Define Functional Regions (Header, Footer, Content, Sidebars)
+Define Visual Hierarchy (Importance of elements)
+Key Page Types: Homepage, Landing Pages, Single Post/Product, Archive Pages
+Detail Written Content (Headings, Body, CTAs)
+Specify Visual Content (Style, Quality, Resolution)
+Detail Interactive Elements (Forms, E-commerce Flows)
+Placeholder Content Strategy
+<
+Primary Navigation reflects Site Map hierarchy
+User Journey Mapping (Step-by-step path to goal)
+Secondary and Footer Navigation (Breadcrumbs, Utility Links)
+Map User-Facing Site Map to WordPress Template Files
+Guide user when no content is present
+Anatomy
+<
+Examples: Empty Archive Page, Empty Wishlist/Cart, Initial User Dashboard
+Use Size (H1 larger than body text)
+Use Color and Contrast (CTAs contrast strongly)
+Use Position ('Above the fold' for critical info)
+Use Whitespace (Negative Space for prominence)
+Color Palette: Exact HEX Codes (Primary, Secondary, Accent, Neutral)
+Usage Rules: Define where each color is applied
+Typography: Max 2-3 Font Families (Headings/Body)
+Font Sizes: Body text >= 16px, descending scale for Headings
+Line Spacing: At least 1.5 times font size (Legibility)
+Photography Style (Mood, Composition, Quality)
+Iconography Style (Minimalist, Line-art, Consistent Stroke)
+Video Presentation (Role, Optimization, Seamless Loop)
+Logo Placement (Top of page, links to Homepage)
+Design for Smallest Screen First, then progressively enhance
+Fluid Grids (Percentage-based widths)
+Flexible Images (max-width: 100%, height: auto)
+Define Breakpoints (e.g., 480px, 768px, 1024px)
+Specify Layout Adaptations for each breakpoint
+List All Required Controls (Header/Footer Layouts, Color/Font Pickers)
+Structure Admin UX (Customizer API Hierarchy)
+<
+Non-negotiable list of required integrations
+E-commerce (WooCommerce full styling/hook support)
+Page Builders (Elementor compatibility, no style conflict)
+SEO (Yoast/All in One SEO title-tag support)
+Forms (Clean, accessible styling for WPForms/Gravity Forms)
+Performance (Compatibility with caching plugins)
+Performance: Concrete Metrics (PageSpeed 90+, Page size < 2MB)
+SEO: Semantic HTML5, Logical Heading Hierarchy (Single H1)
+Accessibility: WCAG 2.1 Level AA Standards (Contrast, Keyboard Nav)
+Custom Post Types (CPTs) and Taxonomies
+API Integrations (e.g., OpenTable for Restaurants)
+Schema.org Markup (e.g., Recipe Card for Food Blogs)
+Specify Automation, Navigation, and User Interaction Triggers
+Example: Homepage Hero Slider (Auto-play, Pause on Hover, Touch Swiping)
+Example: Price Range Filter (Dual-point slider, Real-time Feedback)
+Classic Theme (PHP templates, Customizer based)
+Block Theme (FSE, theme.json, Gutenberg editor)
+Must make a definitive choice for the AI
+Root Directory Required Files
+<
+Asset Organization: /assets/ with /css/, /js/, /images/
+Template Parts: /template-parts/ for modular code
+The single most critical technical instruction
+Maps Site Views (Sitemap) to Specific Template Files
+Ensures correct naming/logic for WordPress rendering
+Examples: front-page.php, home.php, single.php, page-about-us.php
+Intentionality, Forethought, Self-reactiveness, Self-reflectiveness
+Perception Module (Ingests signals)
+Memory System (Short-term/Long-term via Vector DB)
+Planning Engine (Decomposes goals)
+Action Execution Layer (Calls tools, handles errors)
+Feedback Loop (Monitors outcomes, refines plans)
+Reason (Analyze intent, consult memory, formulate plan)
+Act (Select appropriate tool: file_read, terminal, web_search)
+Observe (Process tool output, update memory)
+Repeat (Re-evaluate plan based on new observation)
+Enables Declarative Paradigm (Developer states outcome)
+GEMINI.md (Persistent Memory/Constitution)
+<
+Custom Slash Commands (Policy-as-Code)
+<
+Security (Keyless Authentication)
+<
+Auditability (Provenance)
+<
+Human Oversight (HITL and Failsafe)
+<
+Open Standard for Tool Integration (USB for LLM tools)
+Allows LLM to delegate specialized tasks to external services
+Two-way protocol for Action Execution (Updates DB, pushes code)
+Components: Host (CLI), Client, Server (Tool provider), Transport (JSON-RPC 2.0)
+Generate Leads
+Drive E-commerce Sales
+Establish Brand Authority
+Provide Customer Support
+Facilitate Online Community
+Demographic Profile
+Psychographic Profile (Values, Pain Points)
+User Goals (Specific Tasks)
+Mirror Length/Structure of Final Text (Avoid Lorem Ipsum)
+Realistic Examples for Headlines and Paragraphs
+Use for Form Fields (Format Hint), NOT as <label> replacement
+Message (Headline/Description)
+Visuals (Illustration/Icon)
+Call to Action (CTA - Clear Next Step)
+Panels act as containers for sections
+Sections group related controls logically
+Controls are the specific settings
+style.css (Metadata)
+index.php (Default Fallback)
+functions.php
+header.php, footer.php, sidebar.php (Template Parts)
+screenshot.png
+Hierarchical Loading (Global, Project, Sub-directory context)
+Mitigate Context Bloat (Gated Execution via <PROTOCOL> tags)
+Hardcodes Human-in-the-Loop mandate
+Reusable, standardized prompts (.toml files)
+Enforce Quality/Security Checks (e.g., /security:analyze)
+Mandatory Planning Command (e.g., /plan)
+Workload Identity Federation (WIF) eliminates static credentials
+Uses OIDC tokens for short-lived, scoped access
+Enables secure CI/CD agent operations
+PROV-AGENT (Formal provenance model for agents)
+Captures Agent-Centric Metadata (Prompts, Reasoning Chains, Tools Called)
+Enables Root Cause Analysis and Reproducibility
+Mandatory Human-in-the-Loop (HITL) approval for state-altering actions
+/restore Command (Checkpointing Failsafe)
+Rolls back files and restores conversation history to pre-action state
+NotebookLM can be inaccurate; please double-check its responses.

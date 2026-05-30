@@ -1,0 +1,66 @@
+The Anti-Gravity Systems RAPS Framework Architecture
+Anti-Gravity Systems Stack (RAPS)
+<
+R.A.P.S. Framework
+<
+System Architecture (DOE)
+<
+Kinetic Armory (MCP Ecosystem)
+<
+Artifact System
+<
+BMAD Method Archetypes
+<
+Theoretical Frontiers
+<
+Recursive Intelligence
+<
+Agentic Orchestration
+<
+Protocol Standardization
+<
+Sovereign Synthesis
+<
+Directive (Legislative)
+<
+Orchestration (Executive)
+<
+Execution (Judicial)
+<
+Firecrawl (Epistemic Eye)
+Supabase (Data Manipulation)
+Pinecone (Long-Term Memory)
+Context7 (Documentation Injector)
+Modal (Serverless Deployer)
+Implementation Plans
+Task Checklists
+Multimedia Walkthroughs
+System Auditing
+The Design Lead
+The Builder (Developer)
+The Nerd (Quality/Testing)
+The Analyst (Research)
+Recursive Sovereignty
+The Echo Paradox
+Digital Twin Alignment
+Epistemic Agency
+Self-Correction Loops
+Bifurcation Points
+BMAD Method
+Agent Archetypes
+Swarm Topologies
+Model Context Protocol (MCP)
+N x M Integration Solution
+Active Manipulation
+Epistemic Governance
+Asynchronous Sovereignty
+Human-in-the-Loop Approval
+AGENTS.md / GEMINI.md
+Constitutional Files
+Epistemic Norms
+Agent Manager
+Recursive Planning
+Gemini 3 Pro
+Cross-Surface Control
+Visual Verification
+Terminal & Browser access

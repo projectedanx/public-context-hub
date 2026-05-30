@@ -1,0 +1,121 @@
+Mind map
+The Lenses Framework: AI Architectures and Governance Taxonomy
+Lenses Frameworks for Deep Research & AI Governance
+<
+Core Lenses Framework Concepts
+<
+Advanced AI Agent Architectures
+<
+Specialized Lens Typology (Lenses 2.0)
+<
+AI Development & Operational Risks
+<
+Advanced Generative Modalities
+<
+Critical & Sociological Lenses (General Research)
+<
+Purpose & Function
+<
+Metaphorical Logics (Symbolic Metaphor)
+<
+Design Principles
+<
+Core Cognitive Mechanisms
+<
+Governance & Verifiability
+<
+Agentic Workflows
+<
+Drift & Failure Lenses
+<
+Cognition & Epistemic Lenses
+<
+Generative & Symbolic Lenses
+<
+Security & Vulnerability
+<
+Development Lifecycle (MLOps)
+<
+Systemic and Economic Risks
+<
+Image Generation Paradigms
+<
+Light Field & Neural Rendering
+<
+Sensory & Therapeutic Design
+<
+Research Practice Lenses
+<
+Financial & Economic Lenses
+<
+Sociological & Critical Theory
+<
+Cognitive Scaffolds
+Structured Perspective-Shifting
+Partitioning Complexity
+The Folding Mirror (Reflexivity)
+The Crumpled Map (Semantic Compression)
+The Attractor Well (Conceptual Magnetism)
+The Shared Dreamscape (Entangled Intentionality)
+Ontological Commitments & Bias
+Adaptive Evolution to Failure
+Reflexivity (Researcher Self-Analysis)
+Semantic Translation (NL to ASP/AMR)
+Deterministic Symbolic Execution (Clingo)
+Agentic Self-Debugging (ReAct, Iterative Refinement)
+Compositional Generalization
+Promptware Contract Language (PCL)
+Cognitive Contract Definition
+Reflexive Check Audit Sequence
+Antifragile Learning (Symbolic Scars)
+Plan-Act-Reflect Loop
+Planner Agent, Reflector Agent
+Emergent Meta-Language
+Typological Drift (Function Deviation)
+Failure Cascade Lens (Propagation of Error)
+False Surface Coherence (Fluency Mask)
+Heuristic Containment (Surfacing Mimicry)
+Anomaly Compass (Salience Detection)
+Epistemic Enclosure (Filter Bubbles)
+Reflexivity Gradient (Self-Monitoring)
+Algorithmic Hermeneutic Horizon (Limits)
+Latent Premise Excavator (Hidden Priors)
+Ontological Saturation (Conceptual Redundancy)
+Conceptual Mutation (Semantic Metamorphosis)
+Structural Allusion (Genre Mimicry)
+Semantic Resonance & Ontological Echoes
+SAST Tools (Vulnerability Detection)
+Prompt Injection / Jailbreaking
+Provenance Gap (Audit Trail Loss)
+Configuration Security & Leakage
+MLOps & Operational Rigor (Reproducibility)
+Data-Centric Development & Governance
+Modeling Strategy & Iteration
+Developer/User Experience (DX/UX)
+Vendor Lock-in (Proprietary Architectures)
+Environmental Impact (Ecological Shadow)
+Parametric Reductionism (Objectification)
+Intent Gap Bridging (Causal Reasoning)
+Perceptual Fidelity Anchoring (PBR/SSS)
+Reflexive Meta-Learning (Auto-CoT, GFlowNets)
+Cultural Representational Entropy Maximisation
+Plenoptic Metrology (4D Data Capture)
+Neural Rendering Techniques (NeRF/3DGS)
+Pipeline Archetypes (VR/AR Tracking, Robotics)
+Perceptual Bias Problem (2D Priors in 4D Physics)
+Biolux-SDL (Sensory DSL Layer)
+Cross-Sensory Synchronization (Sync.Clock)
+State.Feedback Channel (Biometric Adaptation)
+Texture Empathy Simulation (Embodied Cognition)
+Epistemological & Ontological Lens
+Social Construction of Knowledge Lens
+Methodological Colonialism Lens
+Researcher Reflexivity & Positionality
+Financialization Lens (Non-Financial Spheres)
+Market Performativity Lens (Models Shape Reality)
+Hidden Economy & Sustainability Lens
+Debt & Credit Relations Lens (Algorithmic Bias)
+Intersectional Lens (Compounded Power)
+Foucauldian Lens (Power/Knowledge, Biopower)
+Posthumanism Lens (Non-Human Agency)
+Entropic / Thermodynamic Lens

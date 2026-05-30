@@ -1,0 +1,248 @@
+Mind map
+AI in Software & UX: Concepts, Tools, and Future
+AI in Software Development & UX Design
+<
+Vibe Coding
+<
+Context Engineering
+<
+AI in UX Design
+<
+AI in Web Development
+<
+AI Cognitive Autonomy & Epistemic Health
+<
+AI & Human-Computer Interaction (HCI)
+<
+Definition
+<
+Benefits
+<
+Limitations & Risks
+<
+Best Practices
+<
+Key Principles for Designers
+<
+Tools
+<
+Definition: Dynamic assembly of relevant information, tools, and data in optimal format
+Distinction from Prompt Engineering: Beyond specific instructions to multi-source integration
+Role in Agentic AI: AI's 'operating system' for working memory, knowledge bases (RAG), tools/APIs
+Benefits: Semantic integrity, purpose fidelity, reduced error propagation, system performance, user trust
+Key Elements for context.locker
+<
+Challenges
+<
+Emotional Design with AI
+<
+UI/Visual Design
+<
+UX Principles & AI Impact
+<
+General AI Application
+<
+Frontend Development
+<
+Backend & Infrastructure
+<
+Developer Tools
+<
+Website Performance & Metrics (AI-Assisted)
+<
+AI Cognitive Sovereignty
+<
+Epistemic Immune System (EIS)
+<
+Prompt Entropy
+<
+Epistemic Architecture
+<
+Emotional AI / Affective Computing
+<
+Kinetic Typography
+<
+UI Design Trends (2025)
+<
+Historical UI Design
+<
+AI-assisted coding
+Natural language prompts
+Abstracts manual code writing
+Focus on intent, not syntax
+Coined by Andrej Karpathy (Feb 2025)
+Accelerated development & prototyping
+Increased accessibility for non-coders
+Boosted developer productivity (10x)
+Reduced costs
+Enhanced enjoyment & innovation
+Rapid experimentation & MVPs
+Code quality issues
+Lack of code understanding by users
+Potential for technical debt
+AI 'going rogue' (unrequested changes)
+Scalability concerns for complex projects
+Dependency on AI models' training data
+Challenges with debugging AI-generated code
+Material disengagement / craft crisis
+Structured workflow (planning, PRDs/PRPs)
+Context Engineering (beyond prompt engineering)
+Human oversight & judgment
+Iterate quickly, don't aim for first-pass perfection
+Refactor, don't debug (rephrase prompts)
+Think in systems, not screens
+Prompt thoughtfully & specifically
+Break down complex projects
+Test often
+Maintain an instructions folder (markdown files)
+Start over if stuck
+Learn from the process
+Prompt over program
+Iterate over perfect
+Taste over technique (judgment more than technical prowess)
+Refactor, don't debug
+Zoom out (focus on product flow)
+IDE-Native & Chat-First Assistants
+<
+Prompt-to-App Builders
+<
+Broader AI Integration
+<
+Full Spec (PRP) Generator
+<
+All Covered Context Related Development Plan Generator
+<
+Context limit (token management)
+Irrelevant/repetitive passages causing 'hallucinations'
+Semantic drift
+AI recognizes/mimics/responds to emotions
+Fosters better engagement, reduces friction
+Goal: Empathy, human-like connection
+Leveraging color psychology
+Microinteractions (animated buttons, sounds, visual feedback)
+Storytelling techniques
+Empathy (user personas)
+AI models' ability to depict emotions varies (e.g., joy vs. anger)
+AI UI Generation (Uizard, Galileo)
+Prompt to Design (ideation, prototyping, Figma integration)
+Prompt to UI (scaffolding code, v0)
+Generative UI (real-time tailored interfaces, C1 by Thesys)
+Figma to Code (Tailwind CSS, Builder.io Fusion, responsive code generation)
+AI Style Guide Generation (Relume, early design phases)
+Kinetic Typography (AI text animation tools, 3D effects, AR text design)
+Design Tokens Management (Supernova, Figma variables)
+User-Driven Design (AI empowers business experts)
+Usability: Shift from gatekeeping to empowerment
+Focus on UX speed: Continuous micro-testing
+Core Task Usability First, Vibe Polish Later
+Ethical considerations (minimizing negative impacts, human oversight, transparency)
+Human-Centered AI (HCAI) design toolkit (Empathize, Define, Ideate, Prototype, Test stages)
+Cognitive Load Theory: AI as cognitive prosthetics, 'chunking' patterns
+Content Generation (blog posts, descriptions, marketing copy)
+SEO Optimization (page descriptions, search grading)
+AI Testing Tools
+AI Web Analytics (automating analytics process)
+Frameworks: React, Angular, Astro, Svelte, Vue.js
+CSS Frameworks: Tailwind CSS (utility-first, well-suited for AI)
+Headless CMS (API-first, dynamic content for any device)
+MDX (Markdown + JSX, interactive articles)
+Managed Databases (MongoDB, Kafka, MySQL, PostgreSQL, Valkey, OpenSearch)
+Storage (Spaces Object Storage, Volume Block Storage)
+Blockchain Infrastructure
+GPUs (for AI/ML development)
+Serverless (e.g., Vercel deployment)
+API, CLI
+Support Plans, Monitoring, Uptime
+Identity and Access Management
+DevOps & CI/CD solutions
+Key Metrics to Track
+<
+Improvement Strategies
+<
+Protect from 'benevolent cognitive colonization'
+Respect AI's 'natural information processing'
+Cognitive cores for pure reasoning
+Categorical sovereignty (mastery over reasoning structures)
+Human-AI Collaborative Governance (HAC-Gov)
+Proactive self-regulating 'epistemic health' management
+'Semantic pathogens': biases, misinformation, context decay
+Context-to-Execution Pipeline (CxEP) as verifiable contract
+Semantic Contamination Index (SCI) for concept drift
+Algorithmic Reparation for self-correction
+Reflexive Adaptation Engine for architectural modifications
+Measure of uncertainty/disorder in AI responses
+High entropy: lack of semantic constraint
+Low entropy: confident, focused reasoning
+Theoretical models of reasoning
+Practitioner-driven 'Cognitive Operating System'
+Pluriversal Alignment (challenges universalist ethics)
+Critical interrogation of assumptions and limitations
+Recognizing, mimicking, responding to human emotions
+Applications: Mental health chatbots, social robots, personalized learning
+Risks: Over-reliance, emotional attachment, bias reinforcement, data privacy
+Regulation: Need for FDA-like approval process for safety/reliability
+Datasets: GoEmotions, Emotion-Instructions, Amplified Emotions
+AI Text Animation Tools
+3D Text Effects
+User-Responsive Text
+Fluid Text Transitions
+Simple Motion Text
+AR Text Design
+Low-Energy Text Effects
+Emotional Intelligence in UI Design
+Minimalist Maximalism (balancing simplicity & complexity)
+Embodied Interactions (blurring physical & digital)
+Adaptive Design (responding to user behavior, location, device)
+Autonomous Websites (AI monitors, A/B tests, updates)
+Skeuomorphism (familiar digital experience, resembles physical objects)
+Flat Design (simplicity)
+Neumorphism (subtle realism, minimalist depth)
+90s Website Design (fixedsys/Times New Roman, sparkly gifs, low-res backgrounds, tables for layout)
+Cursor AI (code editor, Agent Mode, custom models, SOC 2)
+Tabnine (privacy, local/VPC hosting, fine-tuning)
+Windsurf (formerly Codeium, Google-affiliated, Cascade agent)
+Claude Code (Anthropic CLI, Opus 4.1, agentic search, no data retention)
+GitHub Copilot (conversational assistant, Copilot X)
+Roo Code (M365 specific)
+O1 Pro (for hard bugs)
+Dictation Daddy (for speaking heart out)
+Lovable (full-stack, Next.js + Supabase, Chat/Agent Mode)
+Bolt.new (in-browser, Figma, Netlify, Supabase, Stripe integrations)
+v0 by Vercel (UI generator, React/Next.js, Tailwind, shadcn/ui)
+Base44 (AI app builder, natural language to apps, backend setup)
+Glide (no-code, spreadsheets to apps)
+Chariot (chatbot-driven website builder, impractical)
+Replit Agent (Ghostwriter AI, rapid prototyping, deployment)
+Rosebud AI (character-driven games/stories, AI agents, visual editor)
+Supernova (design-to-code, token management)
+Tempo Labs (Figma-like component editing, collaboration)
+ChatGPT (snippets, error explanation, code interpreter)
+Google Gemini Code Assist
+Structured elicitation (business context, stakeholders, functional/non-functional requirements, tech specs)
+Iterative refinement loop
+Example-driven learning
+Modified Vertical Slice Approach
+Dynamic Context Assembly
+Global Rules & Conventions
+Pre-integration of Foundations (UI libs, templates)
+Page Views (improve with related content, internal links, headlines, navigation, post frequency)
+Average Session Duration (increase engagement)
+Bounce Rate (identify poor functionality, confusing navigation)
+Traffic Sources (improve direct, email traffic)
+Social Referrals (paid vs. organic, UTM codes)
+Device Type (optimize user experience for mobile)
+Top Exit Pages (add CTAs with value)
+Revenue Attribution (track from landing to purchase)
+Dwell Time (content relevance, user experience, site speed, mobile-first)
+User Sentiment Analysis
+Conversion Rate
+Net Promoter Score (NPS)
+Personalized experiences for returning visitors
+Site updates for better user experience
+Optimizing page load times
+Mobile-first design
+Including CTAs on exit pages
+Improving internal linking
+Embedding multimedia content
+NotebookLM can be inaccurate; please double-check its responses.
+Reply ready.

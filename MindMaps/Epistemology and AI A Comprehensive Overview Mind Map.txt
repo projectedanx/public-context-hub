@@ -1,0 +1,334 @@
+Mindmap
+Epistemology and AI: A Comprehensive Overview
+Based on 279 sources
+Epistemology and AI
+<
+Epistemology (Theory of Knowledge)
+<
+Artificial Intelligence (AI)
+<
+Collective Intelligence
+<
+Cognitive Science & Psychology
+<
+Interdisciplinary Research
+<
+Types of Knowledge
+<
+Conditions for Knowledge (JTB Account)
+<
+Theories of Truth
+<
+Skepticism
+<
+Relativism
+<
+Personal Epistemology
+Social Epistemology
+AI Agents
+<
+Generative AI
+<
+AI in Epistemology
+<
+AI Personhood
+<
+Ethics & AI
+<
+Definition: Not just number, but coordination, attention, trust, method
+AI's Role
+<
+The CI Stack
+<
+Decentralized Eco-systems (marketplace of filters)
+Collective Sensemaking
+Concepts
+<
+Memory
+<
+Pattern Recognition
+<
+Cognitive & Affective Perspective-Taking
+Metacognition and Reflection
+Dialectical Thinking
+Social Constructionism (realities, knowledge, meaning)
+Social Identity Theory
+Synergistic combination of two or more disciplines
+Benefits
+<
+Obstacles / Challenges
+<
+Team Knowledge (task, team, process, goal-related representations)
+Cognitive Diversity (benefits epistemic communities)
+Computational Philosophy
+Procedural Knowledge (Know-how)
+Acquaintance Knowledge (Familiarity)
+Propositional Knowledge (Knowledge-that)
+Belief
+Truth
+Justification
+<
+Gettier Problem
+<
+Correspondence Theory
+<
+Coherence Theory of Truth
+<
+Pragmatist Theories
+<
+Tarski's Theory of Truth
+<
+Deflationism
+<
+Anti-realism and Truth
+<
+Philosophical Skepticism (General)
+Ordinary Skepticism
+Types of Skepticism
+<
+Humean Skepticism
+Epistemic Relativism
+New (Semantic) Epistemic Relativism
+Agentic AI Architecture
+Capabilities
+<
+Core Components
+<
+Types of AI Agents
+<
+Applications
+<
+Challenges in Human-Agent Interaction
+<
+Human-Agent Collaboration (Seamless Future)
+AI Agent Building Frameworks (e.g., AutoGen, CrewAI, LangChain)
+Models
+<
+Prompt Engineering
+<
+AI-Inclusive Epistemology
+<
+Impact on Knowledge & Agency
+<
+Crisis of Knowledge, Truth, Trust
+<
+Epistemic Injustice in Generative AI
+<
+Knowledge Collapse (AI & Networks)
+Ascribing properties to AI (belief, intent, agency, self-awareness, consciousness)
+Agency (capacity for intentional action)
+Theory of Mind
+Self-awareness
+Sentient AIs (non-zero probability)
+Moral and political dilemmas
+Accountability & Liability (e.g., AI-driven cars)
+Informed Consent & Autonomy
+Data Privacy
+Bias in AI (e.g., recruitment systems)
+Objectification (reducing individuals to group characteristics)
+Misalignment with User Interests
+Regulated Expression
+Identity Constraints
+Inequality Amplification
+Anthropomorphic Biasing
+Emotional Manipulation
+Trust in AI (inevitable?)
+Not a threat, but a revealer
+Forces higher ambition for collaborative practices
+Enhances human comprehension
+Value Elicitation (aggregating conflicting values)
+Remaking Technology Institutions
+Deliberation tools (e.g., Pol.is)
+Quadratic Funding
+Classical Theory (definitional structure)
+Prototype Theory
+<
+Neo-Classical Theory (partial definitions)
+Conceptual Atomism
+Concept Acquisition
+Ontology of Concepts (Mental Representations vs. Abstracta)
+Mnemonics (memory techniques)
+Dual-coding Theory (verbal + visual)
+Personalized Mnemonics
+Forgotten Evidence
+Identify complex patterns in massive data
+Types
+<
+Applications
+<
+Human Psychology Aspects
+<
+Reflect on own scientific procedures
+Further develop disciplinary understanding
+Awareness of disciplinary borders
+Advance of knowledge (mutual learning, cross-fertilization)
+Sharpening research profiles
+Disciplinary Differences
+Professional Integration
+Collaborative Practice
+Misunderstandings
+Implicit cognitive processes
+Internalism
+<
+Externalism
+<
+Truth and Justification (Independent)
+Justified True Belief (JTB) Insufficient
+Luck in Belief Formation
+Lack of Truth-Justification Connection
+Proposition is true if it corresponds to facts
+Widely held
+Truth as consistency within a system
+Truth is satisfactory to believe
+True beliefs remain settled
+Formal definition for logic/mathematics
+Foundation for model theory
+Redundancy Theory
+Minimalist Theories
+Rejection of bivalence
+Verificationism
+Cartesian Skepticism (Academic)
+Pyrrhonian Skepticism (Absolute)
+Act Independently
+Adapt to Dynamic Inputs
+Make Goal-Driven Decisions
+Understand Context
+Anticipate Needs
+Take Initiative
+Learn from Experience
+Collaborate
+Handle Ambiguity
+Reduce Manual Intervention
+Emotional Intelligence (Future)
+LLMs
+Memory & Context Management
+<
+Planning
+External Tools
+Action Module
+Personal Agents (Digital Assistants)
+Persona-Based Agents
+Tools-Based Agents
+Rational Agents
+Swarm Intelligence (Fusion/Fission)
+Marketing Strategies
+Event Planning
+Customer Support (60% in 2024)
+Fraud Detection
+Virtual Assistants
+Cybersecurity
+Healthcare / Medical Assistance
+Scientific Research
+Automation of Tasks
+Trust
+Privacy
+Ethics
+Job Displacement Concerns
+Large Language Models (LLMs)
+<
+Text-to-Image Models
+<
+Generative Adversarial Networks (GANs)
+<
+Variational Autoencoders (VAEs)
+<
+Diffusion Models
+Recurrent Neural Networks (RNNs)
+Neural Radiance Fields (NeRFs)
+Designing AI model input
+Impacts output quality
+Techniques
+<
+Considerations
+<
+Prompt Validation Strategies
+Recognizing AI as an Epistemic Agent
+Integrating AI-generated insights
+Expanding human comprehension
+Epistemic Bubbles (enclosed informational environments)
+Erosion of Epistemic Agency
+Risk to Human Cognitive Agency
+Diminishing trust in epistemic capacities
+High-speed information technology
+Misinformation & fabricated knowledge
+Blurring lines of genuine knowledge
+Demarcation of genuine vs. fake knowledge
+Generative Algorithmic Epistemic Injustice
+Amplified Testimonial Injustice
+Manipulative Testimonial Injustice
+Hermeneutical Ignorance
+Access Injustice
+Perpetuates Representational Harm
+Creates Epistemic Inequities
+Family resemblance
+Statistically prominent properties
+Non-demonstrative inference
+Statistical Pattern Recognition
+Syntactic Pattern Recognition
+Computer Vision
+Image Processing
+Natural Language Processing (NLP)
+Diagnostic Imaging
+Handwriting Recognition
+Face Recognition
+Speech Recognition
+Orienting Response
+Habituation
+Seriation (Piaget's Concrete Operational State)
+Music, Memory, Emotion Link
+False Pattern Recognition (Apophenia, Pareidolia)
+Accessibilism
+Mentalism
+Foundationalism
+<
+Coherentism
+<
+Reliabilism
+Motivational Externalism
+Content Externalism
+Coherent Interactions
+Flexible & Nuanced Approaches
+Cognitive Functions
+GPT (OpenAI)
+Claude (Anthropic)
+LLaMA (Meta)
+Copilot (Microsoft)
+Google Gemini7
+DALL-E (OpenAI)
+Stable Diffusion (Stability AI)
+Generator & Discriminator
+High-fidelity data generation
+Training challenges (mode collapse)
+Data Augmentation
+Denoising Variational Autoencoder (DVAE)
+Efficient training
+Modeling true posterior distribution (challenge)
+System Prompts
+JSON Structured Responses
+Message List Construction
+Clarity & Conciseness
+Desired Output Length
+Role-Playing
+Specify Output Format
+Few-Shot Prompting
+Meta Prompting
+Adaptive Prompting (AI generates prompts)
+Prompt Chaining
+Adversarial Prompting
+Multimodal Prompting
+Iterative Refinement
+Prompt Compression Strategies
+Prompt Size (Token Limits)
+Context Size
+Quality Control
+Computational Power
+Misleading Reasoning Paths
+Overfitting
+Evaluation & Validation
+Ethical Prompt Engineering
+Basic Beliefs
+Non-doxastic Sources
+Logical Consistency
+Mutual Support
+Psychological Realism (Challenge)
+Truth Conduciveness (Dispute)

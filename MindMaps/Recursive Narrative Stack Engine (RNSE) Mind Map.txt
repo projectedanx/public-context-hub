@@ -1,0 +1,50 @@
+Recursive Narrative Stack Engine (RNSE)
+<
+Core Architecture and Design
+<
+Theoretical Foundations
+<
+Identity Persistence and Controlled Character Drift
+<
+Multimodal Alignment and Affective Generation
+<
+Aesthetics and Imperfection Logic
+<
+System Architecture and Governance
+<
+Goal: Mitigate Context Rot and Govern Symbolic Drift for Evolution
+Key Mechanisms
+<
+Primary Outputs
+<
+Narrative Thermodynamics (Meaning as Energy, Incoherence as Entropy)
+Symbolic Drift Management (Observable Mutation of Motifs)
+<
+Drift Metrics: Semantic Integrity (Ω) and Pragmatic Coherence (Π) Tracking
+3-Layer Consistency Stack (Seed Lock, Attribute Weighting, Reference Control)
+Character DNA (Central Source of Truth defining canonical limits)
+Concept Sliders (Engineering specific disentangled changes like Aging or Weathering)
+VEMAN Framework: Synchronizing Linguistic Sentiment to Visual Action Units
+SynchroRaMa and Latent Sync (Audio/Motion Alignment)
+Affective Image Generation (Background reflects character psyche and tone)
+Glitch as Narrative Device (Indexical Glitch for thematic purposes)
+Procedural Noise Injection (Combating Synthetic Aesthetic)
+Aesthetic Gradients and Atmospheric Decay Modulation
+The Sandwich Model (Three Functional Layers)
+<
+Governance and Metrics
+<
+Implementation Roadmap Summary (Validation -> Development -> Integration)
+Monologue Fusion (Semantic + Visual Affect Synchronization)
+Procedural Weathering and Imperfection Logic
+Symbolic Drift Glossary (Dynamic Database)
+Character DNA (Recursive Visual Stack)
+Character Arc Drift Map
+Stage 1: Patterning (Establish Anchors)
+Stage 2: Activation (Formalize Fixed Identity)
+Stage 3: Recognition (Allow Controlled Mutation)
+Layer 1: Symbolic Parser (Brain/GPT - Generates Manifest)
+Layer 2: Visual Synthesizer (Body/Diffusion - Generates Keyframes)
+Layer 3: Fusion Engine (Soul/Compositor - Final Output)
+Provenance Tracking (C2PA Standards for metadata)
+Validation Metrics (SINdex and Drift Constant monitoring)

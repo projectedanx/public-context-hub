@@ -1,0 +1,134 @@
+Mind map
+Prompting and Context Engineering Architectures
+AI Prompting and Context Engineering
+<
+Prompt Engineering (Static Instructions)
+<
+Context Engineering (Dynamic Systems)
+<
+Agentic Systems and Tools
+<
+Output Specification and Consistency
+<
+Definition & Goal
+<
+Frameworks
+<
+Techniques
+<
+Iteration and Refinement
+<
+Definition & Goal
+<
+Four Core Strategies
+<
+Components of Engineered Context
+<
+Key Techniques
+<
+Challenges Solved
+<
+Tool Usage and Execution
+<
+Agent Workflow Protocols
+<
+Specialized Agent Roles (Coding)
+<
+Code Interaction Tools
+<
+Structured Response Formats
+<
+Video Character Consistency
+<
+Code Quality Mandates
+<
+Security and Integrity
+<
+Craft best instructions for AI
+Systematic practice for reliable outputs at scale
+Focus: 20% Static Instructions (Master Rules)
+Analogy: Teaching a doctor to diagnose
+CRISP Framework (Core Components)
+<
+RTF (Role, Task, Format)
+TAG (Task, Action, Goal)
+RACE (Role, Action, Context, Expectation)
+Clear & Specific Instruction (Avoid vague prompts)
+Role Playing (Assigning expertise/persona)
+Few-Shot Prompting (Providing examples)
+Chain-of-Thought (CoT) ('Think step-by-step')
+Self-Consistency (Multiple CoT paths + majority vote)
+Tree-of-Thought (ToT) (Explore parallel reasoning paths)
+Markdown Prompting (Format instructions clearly)
+ABI: Always Be Iterating (Rarely single-shot)
+Refine Prompt (Add context, clearer instructions)
+Ask AI for help ('What info do you need to improve?')
+AI Self-Critique (Internal scoring/revision loop)
+Systematic approach for information payload
+Feed AI the right information automatically
+Focus: 80% Dynamic Context (Real-time data)
+Analogy: Giving doctor patient history
+Addresses context decay/lost in the middle
+Selecting Context (Relevance filtering)
+Compressing Context (Summarizing for efficiency)
+Isolating Context (Specialized agents/workflows)
+Writing Context (Persistence, RAG foundation)
+Instructions (System prompts/rules)
+Knowledge (RAG data)
+Tools (Function definitions)
+Memory (History, learned facts)
+State (Current world/user situation)
+Query (User's immediate request)
+Retrieval-Augmented Generation (RAG)
+<
+Prompt Chaining (Multi-step, sequential prompts)
+Meta-Prompting (AI helps write better prompt)
+Agent Assembly Line (Specialized agents, one job done excellently)
+Information Overload (Static prompt failure)
+Generic Outputs (Lack of specificity)
+Prohibitive Cost/Latency (Longer prompts)
+Context Clash (Contradictory information)
+Mandate: Principled, strict protocols for interaction
+Tool Overhead: Enabling tools consumes context (up to 50%)
+MCP (Model Context Protocol): Standardizes tool/model interface
+Proactive Execution (State assumptions and continue)
+Parallel Execution (Concurrent tool operations for efficiency)
+Mandatory Task Planning (todo.md for multi-step tasks)
+Validation Loop ('Fix Until Green')
+Iterative Fixing (Max 3 attempts before escalating)
+Code Editing Styles (Surgical Edits or Full File Rewrites)
+The Pair Programmer (Co-write/edit code, hands-on)
+The Web App Designer (UI/UX, semantic tokens)
+The Technical Lead (Strategic planning, architecture)
+Roo (Meticulous Engineer, step-by-step confirmation loop)
+Lovable (Web App Editor, React/Tailwind/TypeScript expert)
+Manus (Research/Content, long-form writing, runs Python)
+codebase_search (Semantic search for code snippets)
+grep_search (Syntactic regex search)
+read_file (View content, max 250 lines)
+run_terminal_cmd (Shell command execution)
+write_to_file / apply_diff (Modification tools)
+JSON (Standard for data interchange, APIs, function calling)
+XML (Legacy enterprise systems, annotated documents)
+Markdown (Structured and human-readable content)
+Generate Static Character Image (Master Reference)
+Create Starting Frames (Use image as precise subject reference)
+Animate Scenes (Use starting frame as visual input)
+Unify Voice (Use consistent audio generation tool, e.g., ElevenLabs)
+Modularity (Split into small, reusable components)
+Readability (High verbosity, descriptive names)
+Style Consistency (Mimic existing conventions)
+Control Flow (Guard clauses/early returns over deep nesting)
+Credential Handling (Never hardcode secrets, use .env)
+Decline Malicious Code Requests
+Prohibited APIs (Ban localStorage due to XSS/performance)
+Database Security (Mandate Row Level Security/RLS)
+C: Context (Background, Audience)
+R: Role (Persona, Expertise)
+I: Instruction/Task (Clear, verb-led command)
+S: Specification (Format, Constraints, Tone)
+P: Performance (Quality Standards, Examples)
+Fetches relevant, up-to-date data
+Addresses hallucination/lack of real-time knowledge
+Knowledge Sources: Vector databases, APIs, Internal systems
+NotebookLM can be inaccurate; please double-check its responses.

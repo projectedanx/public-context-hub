@@ -1,0 +1,338 @@
+Mind map
+The Comprehensive Guide to Self-Publishing a Book
+Self-Publishing a Book
+<
+Benefits of Self-Publishing
+<
+8 Steps to Self-Publishing
+<
+Copyright & Legal Considerations
+<
+Digital Formats & Tools
+<
+Author Mindset & Learning
+<
+Market Dynamics & Trends
+<
+No Gatekeepers
+Higher Margins/Profits
+<
+More Control
+<
+Equal Quality
+<
+1. Writing
+2. Book Editing
+<
+3. Create Eye-catching Cover
+<
+4. Book Metadata
+<
+5. Publishing Platform
+<
+6. Book Formatting
+<
+7. Marketing
+<
+8. Pricing
+<
+Work is copyrighted upon creation (digital/print)
+US & some other countries: register for stronger protection (lawsuits, monetary damages)
+No international copyright law (varies by country)
+Cannot use song lyrics, quotes, other work without permission (expensive for famous lyrics)
+Attribute copyright ownership for images (Creative Commons, royalty-free stock)
+Trademarks
+<
+Publishing Rights
+<
+Ebook Piracy
+<
+Digital Product Legal Compliance
+<
+Ebook Formats
+<
+Interactive Ebook Formats (Alternatives to PDF)
+<
+Ebook Creation Software
+<
+Ebook Reading Software
+<
+Expect haters/criticism
+It's hard work, but have fun with it (Steve Jobs quote)
+Everything is a learning process (don't expect perfection)
+Write a shorter book first (learn the process, test market)
+Combine passion with market demand
+Be realistic with goals
+Listen to feedback and iterate
+Self-publishing is on the rise
+Publishing industry disrupted by e-commerce (Amazon, Kindle)
+Print-on-demand democratized publishing
+Rise of new author types (bloggers, fan fiction, serial fiction, transmedia)
+Manga comics diffusion boosted by digital technologies
+Business intelligence, data/customer analytics (for publishers/distributors)
+Anti-competitive behaviors in e-book industry (Apple, Amazon pricing)
+Libraries' struggles with e-book licensing
+Subscription-based e-commerce models gaining traction
+New York Times Bestseller list controversies (manipulation, bias)
+Traditional Publishing: 6-40% royalties
+Self-Publishing: 60-100% royalties
+Median Self-Published Income: ~$12,800/year
+Creative Decisions
+Business Decisions
+Retain Intellectual Property Rights
+High-quality printing
+Book distribution networks
+Types of Editing
+<
+Finding Editors
+<
+Editing Costs
+<
+Design Considerations
+<
+Finding Designers
+<
+Free Tools
+<
+Costs: Few hundred to thousands
+Book Title
+<
+Book Description
+<
+ISBNs
+<
+Barcodes
+<
+BISAC Codes
+<
+Print-on-Demand (POD)
+<
+Digital-First
+<
+Key Platforms
+<
+Importance
+<
+Software Options
+<
+Ebook Formatting Guidelines
+<
+Print Book Formatting Guidelines
+<
+Start early (during writing process)
+Identify audience (hobbies, interests, where they spend time)
+Create author website/blog (connect to social media, Amazon)
+Guest posts on popular blogs
+Utilize social media (Facebook, Twitter, Instagram, YouTube)
+<
+Create an email list (updates, promotions, media)
+Run contests & giveaways
+Enter book competitions
+Build relationships with influencers/authors
+Actively contribute to online forums/discussions
+Advanced Reader Copies (ARCs) for buzz & reviews
+Tip Sheets for bookstores & press
+Author events (readings, launch parties)
+Amazon Ads for Authors (paid ads for visibility)
+BookFunnel (sales promos, send ARCs)
+Value-led content journeys (educate, engage, build trust)
+Distribute through SMEs (leverage their audience)
+Book launch events (incentivized, giveaways, social proof)
+Build an owned audience (app, Slack, exclusive content)
+No one-size-fits-all strategy
+Part of a 'book package' (cover, description, price)
+Strategies
+<
+Ebook pricing: $2.99-$9.99 for 70% royalties on Amazon
+Avoid in book title/subtitle (direct infringement)
+Can use in manuscript if not harming reputation (e.g., calling a Rolex a Rolex)
+Right to produce/reproduce book in any format (reprint, movie, translation)
+Granted via license to rights buyer
+Author should limit term, territory, formats in negotiation
+Significant problem, publishers lose millions annually
+Rightsholders attempting to protect interests (e.g., blockchain, filtering software)
+Libraries' struggles with e-book licensing/pricing contribute to piracy
+Privacy Policy (compliant with local/international laws like GDPR)
+Website Terms & Conditions (protect business ideas, disclaimers, sales policies)
+Copyright protection over original content
+EPUB (Electronic Publication)
+<
+MOBI
+<
+PDF (Portable Document Format)
+<
+DOCX (Microsoft Word)
+Digital magazines
+Gated/ungated webpages
+Flipbooks
+Audio eBooks
+Video guides
+Animations, videos, quizzes, 3D tours
+Calibre
+Sigil
+Adobe InDesign
+Scrivener
+Google Docs
+Adobe Express (free creator tool, templates)
+Foleon (interactive content, customizable templates, mobile-friendly)
+Turtl (digital documents, marketing collateral)
+Ceros (interactive content)
+Webflow (code-free website building)
+Adobe Digital Editions
+Calibre
+Google Play Books
+Aldiko
+Apple Books
+Kobo
+Manuscript Critique
+Comprehensive / Line Edit
+Copy Edit
+Proofread
+Reedsy
+Upwork
+Fiverr
+Guru
+Book Launchers
+Pay someone outside social circle
+Varies by manuscript quality, genre, editor experience
+Hourly Rates: $30-60/hour (Editorial Freelancer Association)
+Expect $30-$200 for standard books (more for specialty)
+Typical 60,000-word novel: >$2,500
+Design for thumbnails
+Make title easy to read
+Consider spine & back cover
+Freelance platforms (Reedsy, Upwork, Fiverr, Guru)
+Canva
+Fotor
+Edit.org
+Visme
+KDP Cover Creator
+PINC Acronym (Promise, Intrigue, Need, Content)
+Original
+Memorable
+Searchable
+Enhance with subtitle
+Simple & straightforward
+150-200 words
+Use paragraph breaks, bold, italics, bullet points
+Avoid time-sensitive language
+Incorporate keywords for discoverability
+International Standard Book Number
+Needed for sale in bookstores/online retailers
+Purchase own ISBN recommended (e.g., Bowker)
+Unique ISBN for each format (hardcover, paperback, ebook)
+Translation of ISBN for scanners
+Needed for brick-and-mortar bookstores
+IngramSpark offers free barcode generator
+Book Industry Standards and Communications
+Identify genre, topic, theme
+Used by retailers for categorization
+First code most specific
+Choose up to three for discoverability
+Be honest about content
+Print books only when needed
+Cost-efficient for small publishers/self-publishers
+Ebook publishing
+Amazon KDP (Kindle Direct Publishing)
+<
+IngramSpark
+<
+BookBaby
+<
+Lulu
+<
+Google Play Books
+<
+Blurb
+<
+Draft2Digital
+<
+Improves readability
+Boosts credibility
+Ensures consistency
+Meets technical standards
+Adds to author brand
+Atticus (Recommended)
+<
+Vellum (Mac-only)
+<
+Scrivener
+<
+Microsoft Word (Not Ideal)
+<
+Google Docs (Not Ideal)
+<
+Kindle Create (Free)
+<
+Adobe InDesign
+<
+Reedsy (Free)
+<
+Page breaks (between chapters/sections)
+Consistent chapter heading fonts
+In-text formatting (headings, lists)
+Indented or spaced paragraphs (consistent style)
+Curly vs. straight quotes (consistent)
+Adding hyperlinks (internal/external)
+Digital Table of Contents (linked)
+Scene break ornaments
+Endnotes (not footnotes, at chapter/book end)
+Set margins (e.g., 1 inch)
+Set bleeds (0.125 inches for images to edge)
+Choose easy-to-read fonts (e.g., Garamond, Baskerville; size 11-12pt)
+Indents, spaces, rags (indent first line of paragraphs, 1.3 line spacing, justify alignment)
+Use page breaks (not multiple enters)
+Footnotes & Endnotes (for auxiliary info)
+Front Matter (title, copyright, dedication, TOC)
+Back Matter (author bio, bibliography, index)
+Engage audience, media, writers
+Spread news about media coverage, promotions
+Run Facebook ads (targeted, contests/giveaways)
+Post videos (captivating content, book info)
+Launch higher, drop gradually (for large fanbase, advertising)
+Sales funnel with lower-priced/free books (attract readers)
+Wait for data before decisions (monitor sales for months)
+Determine goal: money vs. readership
+Short-term vs. long-term strategy
+Open standard, supported by many e-readers/software
+Uses XHTML/DTBook, CSS, XML manifest/TOC/metadata
+Bundled in ZIP file
+Version 3.3 (latest)
+Supported by Apple Books, Google Play Books, Kobo, Adobe Digital Editions, Calibre
+Kindle specific, being abandoned for EPUB
+Limiting for interactive content
+Can be clumsy for e-readers
+Most popular, largest ebook market share (68%)
+Free to publish ebooks, paperbacks, hardcovers
+Direct access to Amazon, global availability
+Offers 35% or 70% ebook royalties, ~60% paperback (minus printing)
+KDP Select offers exclusivity for Kindle Unlimited access
+Accepts DOCX, EPUB, PDF (for print)
+High-quality print & global ebook+print distribution
+Access to 45,000+ retailers & libraries
+Professional support, non-exclusive
+Steep learning curve, higher costs ($49 setup for print/ebook)
+Complete printing, cover design, distribution
+Global distribution network, marketing tools, customizable packages
+Starts at $1,099 for package + 25 books
+Customization, Book Printing API, global distribution
+Prints books, ebooks, calendars
+Easy to use, distributes to Amazon, B&N, Books-A-Million
+Authors retain up to 80% profits
+Free ebook publishing, high royalties
+Huge audience base (millions of titles, 75+ countries)
+User-friendly, control over pricing/distribution
+No print service, limited marketing
+Photo books, trade books, magazines
+Design tools (BookWright), print-on-demand
+Distributes through Amazon, 39,000+ stores
+Higher cost per book, especially without economy paper
+Aggregator for multiple platforms
+Manages titles on KDP, Kobo, Apple, B&N etc. for a cut
+Cheaper than Vellum, Windows/Mac/Web
+$199.99 (ebook), $249.99 (ebook/print)
+$59.99 (Windows/Mac), $23.99 (iOS)
+Free with MS365 subscription, not built for books
+Free, can export EPUB, not ideal for books
+Easy, good for reflowable/print replica/comic/kids books
+Difficult, high control, $22.99/month

@@ -1,0 +1,190 @@
+
+Generative AI: Models, Concepts, and Techniques
+Generative AI Core Concepts & Techniques
+<
+Core Models & Architectures
+<
+Latent Space & Representation
+<
+Prompt Engineering & Control
+<
+Visual Control Mechanisms
+<
+AI Systems & Workflows
+<
+Artistic Styles & Media Emulation
+<
+Diffusion Models
+<
+Transformer Architectures
+<
+Generative Adversarial Networks (GANs)
+<
+Other Neural Architectures
+<
+Latent Space Concepts
+<
+Latent Space Manipulation
+<
+Dimensionality Reduction (Visualization)
+<
+Representations in 3D
+<
+Prompt Components & Structure
+<
+Advanced Prompting Techniques
+<
+Prompting Frameworks (NLP/LLM)
+<
+Identity & Temporal Consistency (Sequences)
+<
+Compositional & Spatial Control
+<
+Artistic Techniques
+<
+Sensory & Synesthetic Prompts
+<
+Object Customization
+<
+Platform Landscape
+<
+AI Agent Architectures
+<
+Training & Self-Correction
+<
+Failure Modes & Limitations
+<
+Historical Art Movements
+<
+Media & Techniques
+<
+Material & Texture Details
+<
+Time Period & Era Specifics
+<
+DDPM (Denoising Diffusion Probabilistic Models)
+LDM (Latent Diffusion Models)
+Consistency Models
+Masked Diffusion Models
+Video LDM
+VideoLCM
+Stable Diffusion (SD)
+LLMs (Large Language Models)
+<
+Autoregressive Models (Image/Video)
+Diffusion Transformers (DiT)
+Vision Transformer (ViT)
+Encoder-Decoder Transformer
+StyleGAN
+SRGAN
+PatchGAN
+VAE (Variational Autoencoder)
+RNN (Recurrent Neural Network)
+GNN (Graph Neural Network)
+U-Net
+FPN (Feature Pyramid Networks)
+Flow-based Models (Normalizing Flows, SRFlow)
+Embeddings (Semantic, Syntactic)
+Disentangled Representations
+Semantic Axes
+Latent Manifolds (Geometry, Topology)
+Concept Fracturing
+Latent Vector Arithmetic (GANs/VAEs)
+Diffusion Guidance (CLIP-Steering, Classifier Guidance)
+Attention Map Manipulation (Spatial Control)
+LoRA (Low-Rank Adaptation) / Concept Sliders
+Latent Space Interpolation/Traversal
+UMAP (Uniform Manifold Approximation and Projection)
+t-SNE (t-distributed Stochastic Neighbor Embedding)
+PCA (Principal Component Analysis)
+NeRF (Neural Radiance Field) - Implicit
+Neural Implicit Surface Representation (SDF, NeuS)
+3D Gaussian Splatting (3DGS) - Explicit
+Vector Symbolic Algebra (VSA)
+Subject (Concrete Nouns)
+Style Keywords (Movement, Artist)
+Mood/Atmosphere (Emotional tone)
+Lighting & Color (Technical Terms)
+Medium/Technique (Oil painting, 3D render)
+Composition/Framing (Angle, Perspective)
+Detail/Quality Modifiers (Hyperdetailed, 4K)
+Keyword Weighting (::weight, (keyword:factor))
+Negative Prompts (--no, [keyword] for de-emphasis)
+Style References (--sref, Image-Based)
+Iterative Prompting / Refinement
+Poetic/Figurative Language (Metaphor, Simile)
+Prompt Compression (e.g., 'Gothic')
+Prompt Expansion (Adding detail, disambiguation)
+Chain-of-Thought (CoT) Prompting
+Few-Shot / Zero-Shot Prompting
+Role-Based Prompting
+Prompt Tuning / Optimization (P-Tuning, APO)
+Identity Anchoring (DreamBooth, IP-Adapter)
+Attention Mechanism Manipulation (RefDrop, DCAM)
+Explicit Structural Control (ControlNet, T2I-Adapter)
+Anchor Frame Conditioning (Extended Attention)
+Content Deformation Fields (CoDeF)
+Layout Conditioning (Bounding Boxes, Segmentation Maps)
+Scene Graphs (SGDiff, DisCo)
+Depth and Geometric Priors (3D-Adapter, NeRF/3DGS Optimization)
+Spatial Control via Cross-Attention
+Movement/Kinetics (Motion Blur, Particle Effects, Fluid Dynamics)
+Symmetry and Geometry (Golden Ratio, Dynamic Symmetry)
+Visual Flow (Leading Lines, S-Curves)
+Chiaroscuro / Dramatic Lighting
+Advanced Auditory Descriptions (Visualizing Sound)
+Tactile/Haptic Imagery (Texture Descriptions)
+Olfactory/Gustatory Elements (Visual Cues for Smell/Taste)
+Cross-Sensory Metaphors (Synesthesia)
+Functional and Mechanical Details
+Object States and Transformations (Damaged, Melting)
+Cultural and Historical Significance
+Symbolism and Metaphorical Objects
+Personification/Anthropomorphism
+Midjourney (Discord/Web UI)
+DALL-E 3 (Natural Language, Text Fidelity)
+Stable Diffusion (Open Source, Customization via A1111/ComfyUI)
+NotebookLM (Source-Grounded Knowledge Engine)
+Single-Agent (AutoGPT, BabyAGI)
+Multi-Agent Systems (CrewAI, MetaGPT)
+Tutorial Agent System (Context, Conceptualizer, Gap Detection)
+Retrieval-Augmented Generation (RAG)
+Reinforcement Learning from Human Feedback (RLHF)
+Self-Refinement (Iterative Critiquing)
+Contrastive Learning (Contextualizing Mistakes)
+Self-Consistency (Consensus-based Ranking)
+Hallucination (Factually Wrong Output)
+Anatomical Incoherence (Hands, Skulls)
+Inaccurate Spatial Relationships
+Attribute Binding Failures (Color Bleed)
+Semantic Conflation / Style Collapse
+Physical Incoherence (Physics Violation)
+Cultural Misrepresentation / Aesthetic Flattening
+Renaissance (Linear Perspective, Chiaroscuro)
+Romanticism (Dramatic Sky, Power of Nature)
+Impressionism (Visible Brushstrokes, Fleeting Light)
+Surrealism (Dreamlike, Juxtaposition, Melting Clocks)
+Cubism (Geometric Fragmentation, Multiple Viewpoints)
+Abstract Expressionism (Action Painting, Color Field)
+Art Nouveau (Flowing Lines, Organic Forms)
+Pop Art (Bold Colors, Iconic Imagery, Commercial Aesthetic)
+Bauhaus / Constructivism (Functionalism, Geometric Shapes)
+Minimalism (Abstraction, Simple Geometric Shapes)
+Photography (Bokeh, Lens Types, Color Grading, Film Grain)
+Digital Art (Vector Art, Pixel Art, Glitch Art, 3D Render)
+Traditional Media (Oil Painting, Watercolor, Charcoal Sketch, Mosaic)
+Visual Motifs (Cyberpunk, Vaporwave, Gothic, Kawaii)
+Fabrics (Leather, Silk, Velvet, Denim, Lace)
+Metals (Chainmail, Polished Silver, Liquid Metal)
+Advanced Materials (Latex, Plastic, Smart Fabrics)
+Natural Textures (Feathers, Wood, Scales)
+Medieval Period (Gothic Architecture, Knights)
+Victorian Era (Industrial Progress, Ornate Detailing)
+Roaring Twenties (Art Deco, Flapper Style, Jazz Age)
+Steampunk (Alternate History, Clockwork Machinery)
+Futuristic Eras (Cyberpunk, Megacities, Holographic Displays)
+GPT (Generative Pre-trained Transformer)
+Llama
+PaLM
+InstructGPT
+Claude

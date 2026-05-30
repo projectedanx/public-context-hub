@@ -1,0 +1,76 @@
+Formalizing Intuition: The Genesis of Theory
+Transition from Intuition to Formal Theory (NFT/EFF/ESP/ASF)
+<
+Core Frameworks & Concepts
+<
+Three Operational Planes (Methods of Representation)
+<
+Phases/Stages of Genesis (The Lifecycle)
+<
+Key Mechanisms & Advanced Tools
+<
+Nexus of Formalization & Transcendence (NFT)
+Emergent Formalization Framework (EFF)
+Epistemic Synthesis Pipeline (ESP)
+Architecture of Semantic Formalisation (ASF)
+Goal: Convert abstract intuition to rigorous formal theory
+Philosophical Plane (Axiomatic Ground)
+<
+Cognitive Plane (Architect of Intuition)
+<
+Computational Plane (Algorithmic Validator)
+<
+Phase I: Intuitive Abstraction (The Idea / Ideational Nebula)
+<
+Phase II: Structural Hypothesis (The Mapping / Conceptual Scaffolding)
+<
+Phase III: Representational Fidelity (The Formalization / Proto-Formalization)
+<
+Phase IV: Theoretical Consolidation (The Theory / Rigorous Formalization)
+<
+Cognitive Core
+<
+Validation & Auditing
+<
+Governance & Resilience
+<
+Ontological Commitment (Defining entities/existence)
+Epistemic Constraints (Criteria for validity, e.g., falsifiability)
+Semantic Rigor (Consistent meaning across interpretations)
+Focuses on meaning, truth, consistency
+Conceptual Blending & Metaphor Mapping (Scaffolding)
+Schema Theory & Chunking (Managing complexity)
+Mental Modeling & Counterfactual Simulation (Rapid hypothesis testing)
+Knowledge Graph Generation (KGG) (Mapping conceptual space)
+Automated Abduction & Theory Synthesis (Automated hypothesizer)
+Constraint Satisfaction & Formal Verification (Testing internal consistency/rigor)
+Utilizes Neuro-Symbolic AI (NeSy)
+Relationships implicit, vague, metaphorical
+Philosophical Focus: Metaphysical Commitment
+Cognitive Focus: Conceptual Blending
+Computational Focus: Novelty Generation (LLMs/Surveying data)
+Output: Generative Question or Core Intuition
+Idea moves from metaphor to defined structure
+Philosophical Focus: Defining Axioms
+Cognitive Focus: Causal Schema Formation / Mental Models
+Computational Focus: Knowledge Graph Generation (Revealing patterns)
+Output: Conceptual Model or Qualitative Schema
+Translation to consistent, symbolic structure
+Philosophical Focus: Proof Theory and Verification (Consistency/Completeness)
+Cognitive Focus: Mental Simulation & Constraint Checking
+Computational Focus: Automated Theorem Proving / AI Simulation (Testing behavior)
+Output: Formalizable System
+Robust testing against empirical data
+Philosophical Focus: Generalizability and External Truth Conditions
+Cognitive Focus: Theory of Mind (Explanatory Power/Tractability)
+Computational Focus: Explainable AI (XAI) & Robustness Testing
+Output: Formal Theory (Self-contained, coherent, predictive model)
+Conceptual Blending Theory (CBT)
+Bisociation (Reconciling incompatible concepts)
+Semantic Compression (Reducing cognitive load via analogy)
+Topological Data Analysis (TDA) (Quantifying novelty/coherence)
+Formal Verification (FV) (Proving correctness against specifications)
+Provenance Protocol (Traceability and Causal Transparency)
+Shared Mental Model (SMM) (Version-controlled knowledge graph)
+Epistemic Friction (Designed conflict for innovation)
+Fossil Package (Executable Model + Test Protocol for falsification)

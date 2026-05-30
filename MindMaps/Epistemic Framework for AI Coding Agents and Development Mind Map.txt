@@ -1,0 +1,98 @@
+Mind map
+Epistemic Framework for AI Coding Agents and Development
+Epistemic Framework for AI Coding Agents & Development
+<
+Foundations & Cognitive Theory
+<
+Atlas Framework: Roles & Governance
+<
+Scaffolding & Workflow (Think → Write → Code)
+<
+Resilience & Failure Mitigation (Auditing)
+<
+Cognitive Load Theory (CLT)
+<
+Conceptual Blending Theory (CBT)
+<
+Epistemic Engineering Principles
+<
+Six Core Personas (Role Anchoring)
+<
+Hybrid Personas (Blends)
+<
+Cross-Stack Connectors (Handoff Artifacts)
+<
+Layered Workflow Stages
+<
+Linguistic Scaffolding
+<
+Pedagogical Scaffolding Types
+<
+Low-Friction Outputs (Information Design)
+<
+Failure Modes & Diagnosis
+<
+Proactive Mitigation Strategies
+<
+Pluriversal Awareness (Coding Cultures)
+<
+Minimize Extraneous Load (Noise)
+Maximize Germane Load (Schema Building)
+Bounded Rationality: Partitioning tasks into manageable cognitive domains
+Dual-Process Model: System 1 (Fast/Intuitive) vs. System 2 (Slow/Deliberate)
+Foundation for Creativity and Novelty
+Four-Space Model: Input Spaces, Generic Space, Blended Space
+Core Operations: Compression (reduces load), Emergent Structure (invention)
+Replace anecdotal craft with auditable knowledge
+Artifacts as knowledge checkpoints (concept → schema → code → test)
+Objective: Transform subjective claims to verifiable knowledge
+Feature Planner: Define 'What' & 'Why' (User Stories, Acceptance Criteria)
+Architect: Define 'How' (Technical Blueprint, Schemas, API Specs)
+Coder: Implementation (Functional Source Code, Unit Tests)
+Tester (QA): Verification (Test Suites, Defect Logging)
+AI Logic Designer: Build ML Models (Data Prep, Training, Evaluation)
+Integrator (DevOps): Ensure 'Flow' (CI/CD, IaC, Monitoring)
+Planner-Architect (Conceptual Schema, Task Decomposition)
+Linguist-Coder (Schema Translation to Idiomatic Code)
+Frontend-AI Designer (UX + ML Integration, Visualization)
+Integrator-Auditor (Consistency, Ontology Checks)
+AI Logic Designer + Web API Integrator (Model Deployment API)
+API Specifications (OpenAPI, GraphQL, AsyncAPI)
+Database Schemas (DDL, ORMs)
+Linguistic Scaffolds (Canonical implementation patterns)
+Think: Conceptualization (Planner-Architect, User Stories)
+Write: Communication/Design (Architect, Formal Schemas)
+Code: Implementation (Coder, Executable Logic)
+Intermediate representation (recipe) bridging NL to idiomatic code
+Staged Reasoning Pathway (Explain → Resource → Code → Integrate)
+Blended Code Idioms (Learned, recurring multi-stack patterns)
+Conceptual Scaffolding (Mentor: Explains the 'Why')
+Procedural Scaffolding (Guide: Curates resources, pathing)
+Strategic Scaffolding (Integrator: Compares architectural alternatives)
+Metacognitive Scaffolding (Coach: Checkpoint exercises, self-assessment)
+Milestone Maps/Checklists (Reduces overwhelm, tracks progress)
+High-Density Tables (Tuftean 'Small Multiples' for comparison)
+Modular Annotated Snippets (Explains code 'Why', not just 'What')
+Responsibility Assignment Matrices (RACI) for collaboration
+Interpretive Fracture (Semantic Drift)
+<
+Failure Cascades (Technical Domino Effect)
+<
+Epistemic Enclosure
+<
+Ontology-Driven Glossary Anchoring (Prevents semantic drift)
+Automated Audits (CI/CD hooks, SLO checks, Test suites)
+Generate-Critique-Refine Meta-Prompts (Self-correction loop)
+Grounding via RAG (Verifiable knowledge base to combat hallucination)
+Enforces idiomatic code generation based on language philosophy
+Python: Readability, Simplicity, 'Pythonic' idioms
+Java: Robustness, Design Patterns (SOLID), Enterprise Scale
+Rust: Safety, Performance, Ownership/Borrowing system
+JavaScript/Node.js: Asynchronous, Event-driven, Promises/Async-await
+Failure of shared understanding across handoffs
+Caused by ambiguous requirements, uncurated language
+Micro-error propagates due to insufficient resilience
+Triggered by dormant latent vulnerabilities (unhandled timeouts, high load)
+Agent defaults to statistically probable, mainstream solutions
+Stifles innovation, ignores project-specific constraints
+NotebookLM can be inaccurate; please double-check its responses.

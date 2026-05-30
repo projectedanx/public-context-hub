@@ -1,0 +1,254 @@
+Mindmap
+Visual AI & 3D Imaging: Technologies and Applications
+Image Generation and 3D Modeling
+<
+AI Image Generation (DALL-E, Midjourney, Microsoft Designer)
+<
+3D Modeling and Reconstruction
+<
+Camera and Image Technology
+<
+Light & Color Science
+<
+DALL-E Prompts
+<
+AI Tools Comparison
+<
+Ethical Implications & Risks
+<
+Impact on Creative Industries
+<
+Photogrammetry
+<
+Neural Radiance Fields (NeRFs)
+<
+3D Gaussian Splatting (3DGS)
+<
+AI-Powered Game Engines
+<
+Camera Components & Settings
+<
+Image Properties & Processing
+<
+Camera Systems & Brands
+<
+Video & Data Interfaces
+<
+Workflow & Production
+<
+Electromagnetic Spectrum
+<
+Colorimetry & Color Spaces
+<
+Color Management
+<
+Clarity
+Specificity
+Creativity
+Prompt Modifiers
+<
+Die-Cut Sticker Design
+Template-based Prompts
+DALL-E 3 vs Midjourney
+<
+Microsoft Designer
+<
+Bias and Discrimination (training data)
+Privacy (bypassing laws, biometric data)
+Job Displacement (graphic artists)
+Unintended Consequences
+Providence information (source, generation date) on DALL-E 3 images
+Prompt Injection
+<
+Design for Imperfection
+<
+Democratizing design access
+Automate technical aspects (color/perspective correction)
+Faster content creation
+Mid-level creators: fewer positions
+Recent graduates/hobbyists: squeezed out of commissions
+Professional agencies: reduced artist count (proofing/edits)
+Human art may command premium
+Leveraging AI in workflow
+Concepts
+<
+Workflow Steps
+<
+Software
+<
+Challenges & Best Practices
+<
+Applications
+<
+Builds on light field technology
+Uses AI, machine learning, neural networks (MLP)
+Approximates shape and color of reality
+Differentiable rendering
+Generates novel views of complex scenes
+High accuracy reconstructions
+Handles complex light transport (reflections, refractions)
+Potential for real-time rendering
+Applications: Virtual Reality, Robotics, Autonomous Vehicles
+Variants & Improvements
+<
+Evaluation Metrics
+<
+Revolutionized 3D representation and novel-view synthesis
+Metrics: Rendering quality, speed, storage size
+High compression of attributes
+Efficient storage using standard image compression
+Logarithmic scale for Gaussian positions
+Parallelized sorting strategy for Gaussian parameters
+Smoothness loss for scene generation
+Comparable PSNR to NeRF methods at 8x to 26x memory reduction
+Faster training than Mip-NeRF360 (10-30 mins vs hours)
+Generates fewer Gaussians for efficiency
+Applications: Real-time applications, web applications
+Utilize machine learning, diffusion models, reinforcement learning
+Neural model-driven game simulation
+Generate real-time, playable environments without manual coding
+Trained on vast datasets of game mechanics, visuals, interactions
+Octopus: Embodied Vision-Language Programmer
+Potential for evolving narratives and dynamic characters
+Sensor (CMOS, Full Frame, Super 35)
+Lens (Focal Length, Aperture, Fisheye, Prime, Zoom, Anamorphic)
+Shutter (Rolling vs. Global Shutter, Shutter Speed, Shutter Angle)
+Exposure Index (EI)
+White Balance
+Filters (Polarizer)
+Image Stabilization (OIS)
+Optical Low Pass Filter (OLPF)
+Resolution (Megapixels, 4K, 8K)
+Dynamic Range (HDR, LDR, Exposure Latitude)
+Color (Color Science, Gamut, Color Space, White Point, Chromaticity)
+Noise Reduction
+Sharpness
+Texture (Diffuse Albedo, Normal Maps)
+Image Quality Metrics (PSNR, SSIM, VSI)
+Super-Resolution (SRFBN, deep learning methods)
+Inverse Tone Mapping
+Pixel Binning
+ARRI ALEXA (ALEXA 35, Mini LF)
+RED (DSMC2 HELIUM, MONSTRO)
+Sony VENICE
+Canon (DSLR, Mirrorless)
+Smartphones (increasing capabilities)
+SDI (3G-SDI, 6G-SDI)
+HDMI
+Timecode (SMPTE ST 12-3)
+Metadata (HANC, VANC, dynamic, content-dependent)
+Recording Codecs (ProRes, Avid DNxHD/HR, ARRI-RAW, REDCODE RAW)
+Storage Media (SSD, RED MINI-MAG, SD card)
+Real-time rendering
+Post-production workflow
+Proxy workflow
+Color grading
+Motion Control (MoCo)
+Multi-camera setups (Stereo/3D, Camera Arrays)
+Remote Control (Web Remote, WiFi, Ethernet)
+Frame Rate (FPS, Slow Motion, Timelapse, Hyperlapse)
+Visible Light (400 nm to 700 nm)
+Near-infrared
+Ultraviolet
+X-rays
+Gamma rays
+Microwave
+Radio wave
+CIELAB (L*, a*, b*)
+XYZ color coordinates
+RGB color space
+Y'C'BC'R
+ACES (Academy Color Encoding System)
+BT.709 (SDR)
+BT.2020 (UHDTV, HDR)
+Color correction (target-based)
+Tone Mapping (HDR to SDR, SDR to HDR)
+Color fidelity
+Spectral data (CxF, MIF, TXT, QTX files)
+Subject term
+Art style modifier
+Quality boosters
+Image Quality
+Repetitions
+Magic Terms
+Accessibility
+<
+Ease-of-use
+<
+Power and Control
+<
+Cost
+<
+AI Image Copyrights: Users own images
+Integrations
+<
+Fill-in-the-blank prompts
+Image to complete design (layouts, colors, text)
+Edit design elements (text, images, background/object removal)
+Generate design ideas
+Save/Share (PNG, JPG, PDF)
+Designs stored in cloud
+Free service (loss leader for Microsoft)
+DALL-E 3 models (e.g., PR16)
+LLM vulnerability
+Untrusted inputs lead to unexpected behavior
+Potential defense: parameterizing prompt components
+Outputs vary in quality
+Visual misrepresentations
+Missing elements
+Violations of constraints
+Untruthful/misleading answers
+Triangulation
+Image Overlap (60-80% recommended)
+Camera Calibration (focal length, principal point, lens distortion)
+Point Clouds
+Mesh Generation
+Texture Mapping
+Photography/Image Acquisition
+Image Preprocessing (culling, basic adjustments, white balance)
+Align Images
+Point Cloud Calculation
+Mesh Creation and Refinement
+Texture Mesh
+Export Model
+Agisoft Metashape (Photoscan)
+Reality Capture
+3DF Zephyr
+Meshroom (open-source)
+COLMAP (open-source)
+Pix4D (drone mapping)
+PhotoModeler (EA uses for lens distortion removal)
+On-site environments (dense vegetation)
+Weather conditions
+Shadows (inconsistencies)
+Drone flight planning
+Maintaining consistent distance and camera settings
+Ensuring full object coverage
+Cultural Heritage Preservation (museum assets, historical bridges)
+Visual Effects
+Game Development (characters, environments)
+Surveying and Mapping
+Construction Site Monitoring
+Forensics
+Environmental Conservation
+Mip-NeRF (cone tracing, multiscale MLP, reduces aliasing)
+Point-NeRF (point-based approach, efficient reconstruction)
+KiloNeRF (thousands of small MLPs for speed, bounded scenes)
+DietNeRF (3D objects from images)
+DreamFields (3D objects from natural language descriptions)
+Pix2NeRF (single input image, unsupervised, one category limitation)
+HumanNeRF (animatable human models from monocular videos)
+EvINR (Event-to-Video Reconstruction from event data)
+PSNR (Peak Signal-to-Noise Ratio)
+SSIM (Structural Similarity Index Measure)
+LPIPS (Learned Perceptual Image Patch Similarity)
+DALL-E 3: ChatGPT, Bing Image Creator
+Midjourney: Discord only
+DALL-E 3: Conversational interface
+Midjourney: Learning curve
+DALL-E 3: Limited control
+Midjourney: Best-in-class prompting, editing tools
+DALL-E 3: $20/month
+Midjourney: Starts at $10/month
+DALL-E 3: Zapier, Slack
+Midjourney: Fewer

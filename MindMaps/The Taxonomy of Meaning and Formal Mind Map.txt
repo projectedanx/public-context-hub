@@ -1,0 +1,57 @@
+The Taxonomy of Meaning and Formal Logic
+Semiotics, Linguistics, and Logic
+<
+Linguistic Relations
+<
+Formal Systems
+<
+Temporal Reasoning
+<
+Philosophy and Cognition
+<
+Applied Domains
+<
+Lexical Semantics
+<
+Discourse Relations
+<
+Figurative Language
+<
+Mereology
+<
+Ontology
+<
+Set Theory
+<
+Allen's Interval Algebra
+Spatiotemporal Hybrids
+Event Graphs
+Intentionality
+Phenomenology
+Semiosis
+Mental Space Networks
+Rhetoric
+Architecture
+Islamic Finance
+Legal Systems
+Polysemy
+Homonymy
+Hyponymy
+Meronomy
+Capitonyms
+Coherence
+Rhetorical Structure Theory
+Elaboration
+Explanation
+Metaphor
+Metonymy
+Synecdoche
+Part-Whole Relations
+Transitivity
+Extensionality
+OWL
+SUMO
+Concept Lattices
+Functions
+Mappings
+Injective

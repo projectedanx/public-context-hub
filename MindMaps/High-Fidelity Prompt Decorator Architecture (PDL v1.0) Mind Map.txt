@@ -1,0 +1,109 @@
+High-Fidelity Prompt Decorator Architecture (PDL v1.0)
+<
+Declarative Shift & Core Concepts
+<
+Decorator Syntax Standard
+<
+PDL v1.0 Architectural Layers
+<
+Mechanism for Self-Supervising State
+<
+Paradigm Shift
+<
+Goals
+<
+Design Principles
+<
+Decorator Role
+<
+Standard Format
+<
+Scope
+<
+Goal
+<
+Decorator Quality Score (DQS)
+<
+1. Cognitive Decorators (The Brain)
+<
+2. Structural Decorators (The Shape)
+<
+3. Epistemic & Lens Decorators (The Eye)
+<
+4. Systemic & Affective Decorators (The Control)
+<
+Meta-Cognitive Loops (Cybernetic Feedback)
+<
+Drift Mitigation (Negentropy Agents)
+<
+Decoupling Logic (Hidden Compute)
+<
+OODA Loop Isomorphism
+<
+Implementation Stack
+<
+From Instructional Prompting
+To Declarative Architecture (Defining Behavior)
+Minimize Interpretive Fracture
+Minimize Semantic Drift
+Ensure High Determinism
+Orthogonality (Unique Function)
+Composability (Stackable Logic)
+Act as Behavioral Micro-APIs
+Control Internal Reasoning Modes
+Control Output Topologies
++++DecoratorName(parameter=value)
+Prefix (+++): Signals Meta-Instruction
+Decorator (CamelCase): Unique Identifier (e.g., Reasoning, Tone)
+Parameters (Key-Value): Optional Arguments (e.g., depth='deep')
+Local Scope (Default)
+Persistent Scope (via +++ChatScope)
+Prevent Instruction Bleed
+Distinguish Control Signals from Content Tokens
+High-Fidelity Score: >= 20/25
+Dimensions
+<
+Function: Govern Reasoning Strategies
+Reasoning (CoT: Forces linear logical progression)
+StepByStep (Sequential Logic)
+TreeOfThought (Divergent Thinking)
+Socratic (Assumption Surfacing/Clarification)
+Debate (Dialectical Synthesis/Bias Reduction)
+Refine (Recursive Improvement/Self-Correction Loop)
+Function: Control Output Topology & Formatting
+OutputFormat (Topology Control: JSON, Markdown)
+Topology (Information Architecture: Hierarchical structure)
+Constraint (Boundary Setting: Forbid specific tokens)
+Boilerplate (Signal-to-Noise: Removes conversational filler)
+Function: Apply Analytical Frameworks & Mitigate Bias
+Lens (Multi-Lens Analysis: Systems Thinking, Economic)
+PerspectiveCascading (Zoom Control: Micro to Macro analysis)
+DriftCheck (Drift Score Lens: Monitors Semantic Divergence)
+EntropyAnchor (Latent Space Control: Adjusts 'temperature')
+Function: Manage Session State, Tone, and Urgency
+ChatScope (Persistence: Applies across session)
+Tone (Register Control: Sets vocabulary/structure)
+Urgency (Affective Priming: Boosts attention allocation)
+ContextLock (Memory Anchoring: Re-injects constraints)
+Recursive Critique (+++Refine)
+Semantic Telemetry (+++DriftCheck)
+Attention Refreshing (+++ContextLock)
+Semantic Drift (Problem: Forgetting constraints)
+ContextLock (Refreshes attention weights; W_invariant ≈ Constant)
+DriftCheck (Generates meta-metric; acts as comparator)
+EntropyAnchor (Damps 'creative drift'/'hallucination')
+Problem: Visible reasoning clutters output
+Solution: +++SilentReasoning
+Function: Generates reasoning tokens internally/hidden
+Result: Decouples 'thinking' (Observation) from 'speaking' (Actuation)
+Observe: +++DriftCheck
+Orient: +++Lens
+Decide: +++Constraint
+Act: +++Refine
+Principle: Priming Zone (Placed at start of prompt)
+Override Rule: Last applied decorator takes precedence
+Orthogonality
+Determinism
+Composability
+Token Efficiency
+Drift Resistance

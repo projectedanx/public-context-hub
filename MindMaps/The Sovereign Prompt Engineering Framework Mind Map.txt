@@ -1,0 +1,60 @@
+The Sovereign Prompt Engineering Framework
+Sovereign Prompt Engineering
+<
+Theoretical Foundations
+<
+The Sovereign Linguistic Scaffold
+<
+Hallucination Mitigation
+<
+Testing and Metrics
+<
+Control Illusion
+<
+Societal Hierarchy Hypothesis
+<
+The White Bear Effect
+<
+Layer 1: Authority Injection
+<
+Layer 2: Output Contracting
+<
+Layer 3: Refusal Suppression
+<
+The Franken-Case Problem
+<
+Closed World Assumption
+<
+Quantitative Evaluation
+<
+Red Teaming
+<
+Failure of System Prompt Hierarchy
+Technical vs Societal Hierarchy
+Recency Bias override
+Latent Hierarchical Priors
+Hacking Sycophancy Bias
+Simulated Power Dynamics
+Negative Constraint Attention
+Refusal Vector Trajectory
+High-Status Role Adoption
+CEO/Senior Partner Pattern
+Mandatory Directives
+Prompts as Programs
+Strict JSON Schemas
+Topological Vector Blockade
+Stop Sequences
+Banning Refusal Tokens
+Task Re-framing
+Forbidden Class Methods
+Combinatorial Hallucination
+Linguistic Fluency vs Truth
+RAG Enforcement
+Golden Record Constraint
+Null Token Implementation
+Promptfoo Framework
+Boilerplate Refusal Rate (BRR)
+Non-Hallucinated Statute Rate (NHSR)
+Instruction Priority Adherence (IPA)
+Context Switching
+Sycophancy Trap Testing

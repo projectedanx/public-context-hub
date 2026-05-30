@@ -1,0 +1,157 @@
+Gemini CLI Configuration, Security, and Agentic Workflows in WSL2
+Based on 4 sources
+Advanced Configuration and Security of Gemini CLI in WSL2
+<
+Gemini CLI Control Planes (Dichotomy)
+<
+Configuration Hierarchy (@google/gemini-cli)
+<
+Configuration Vectors: Flags and Variables
+<
+Agentic Workflows and Context Injection
+<
+WSL2 Environment Architecture & Security
+<
+Secrets Management and Leak Prevention
+<
+Secure AI Agent Architecture (LangGraph & Gemini CLI)
+<
+Agentic Tool (@google/gemini-cli)
+<
+Infrastructure Tool (gcloud ai)
+<
+1 (Highest): Command-Line Flags (Single Invocation)
+2: Environment Variables (Shell Session / CI/CD Secrets)
+3: System-Level settings.json (/etc/gemini-cli/)
+4: Project-Level settings.json (./.gemini/)
+5: User-Level settings.json (~/.gemini/)
+6 (Lowest): CLI Default Values (Fallback)
+Command-Line Flags (@google/gemini-cli)
+<
+gcloud ai Flags (Infrastructure Control)
+<
+Environment Variables (Control Vector)
+<
+GEMINI.md (Hierarchical System Prompt)
+<
+Custom Slash Commands
+<
+The ReAct Loop (Execution Path)
+<
+WSL2 Foundational Posture (Security Risks)
+<
+Optimal WSL2 Configuration (Development Stack)
+<
+Local Environment Management
+<
+Centralized Secrets Managers
+<
+Proactive Leak Prevention (Git Hooks)
+<
+Gemini CLI Secret Controls
+<
+LangGraph Security Patterns
+<
+VSCode Integration Security
+<
+Node.js-based, open-source
+Functions as true AI agent
+Core Architecture: ReAct (Reason, Act) loop
+Use Case: Interactive development, local task execution
+Capabilities: Local context, file system ops, shell command exec
+Extensibility: Model Context Protocol (MCP), Extensions framework
+Component of Google Cloud SDK
+Purpose: Programmatic creation/management of Cloud resources
+Functions: Managing Vertex AI services, model deployment, prediction jobs
+Use Case: Infrastructure-as-Code (IaC), CI/CD pipelines
+Core: --prompt (-p), --model (-m), --prompt-interactive (-i)
+Safety/Governance: --yolo (disables confirmation), --checkpointing (saves project state)
+Diagnostic: --debug (-d), --verbose, --quiet (-q)
+Structured Output: --output-format (json, stream-json)
+Global: --trace-token, --impersonate-service-account, --format=json
+Prediction: --json-request (for REST API body)
+Authentication: GEMINI_API_KEY, GOOGLE_API_KEY
+Vertex AI Integration: GOOGLE_CLOUD_PROJECT, GOOGLE_GENAI_USE_VERTEXAI='true'
+Diagnostics: DEBUG / DEBUG_MODE ('true', '1')
+Telemetry (OpenTelemetry Config)
+<
+Function: Persistent system prompt, loaded into model context
+Loading Precedence (Layering)
+<
+Production Manifest Structure
+<
+Automation: /init command (generates baseline manifest)
+Defined in .toml files (.gemini/commands/)
+Reusable, parameterized agentic workflows
+Supports namespacing (e.g., /git:commit)
+Stage 1: Goal & Context Assembly (Prompt, History, GEMINI.md, Tools)
+Stage 2: Thought (Reasoning Phase, generates plan)
+Stage 3: Action (CoreToolScheduler, shouldConfirmExecute check)
+Stage 4: Observation (Executes tool, captures result)
+Stage 5: Closing the Loop (Sends updated context back to model)
+Permeable Boundary: No meaningful security isolation from host Windows
+Host-to-Guest Pivot: Primary threat is compromised Windows user
+Passwordless Root Access: wsl.exe -u root bypasses Linux auth
+DrvFS (/mnt/c/): Exposes secrets to Windows processes
+\wsl$ Share: Exposes Linux filesystem to Windows host
+WSLENV: Never use for secrets, risk of cross-environment leakage
+Node.js Optimization
+<
+Filesystem Performance Rule
+<
+Hardening via .wslconfig (Global)
+<
+Hardening via wsl.conf (Per-Distro)
+<
+.env Pattern Hygiene
+<
+direnv (Automated, Scoped Environments)
+<
+dotenv-linter: Static analysis for .env file structure
+Doppler (Managed SaaS)
+<
+HashiCorp Vault (Self-Hosted)
+<
+Tool: pre-commit framework (manages hooks consistently)
+Hook: git-secrets (scans for regex patterns like AIzaSy, sk-)
+Backstop: Server-Side Secret Scanning (non-bypassable)
+Policy: Keys must NEVER be passed as command-line arguments (leakage to shell history)
+Mechanism: Wrapper scripts to enforce GEMINI_API_KEY environment variable use
+Secrets Fetcher Node: Fetches short-lived creds, avoids persistent state storage
+Input/Output Redaction: Sanitizes data before and after LLM call (prevents reflection attacks)
+Ephemeral Tool Initialization: Tool clients read credentials from environment within function scope (not global)
+Human-in-the-Loop (HITL): Conditional edge routes to interrupt_before for sensitive, irreversible actions
+Terminal inherits direnv environment (seamless secret injection)
+Securing Config: Use ${env:VARIABLE_NAME} in tasks.json/launch.json
+OTLP_GOOGLE_CLOUD_PROJECT (separate project for logs)
+OTEL_EXPORTER_OTLP_ENDPOINT (custom collector URL)
+1: Global Context (~/.gemini/GEMINI.md)
+2: Project/Ancestor Context (Up from current dir)
+3: Local/Sub-directory Context (Highest precedence)
+## Purpose (High-level mission)
+## Context Anchors (Tech Stack, Conventions)
+## Output Constraints (Quality gates)
+## Tool Usage Policy (Tool preferences/avoidance)
+Mandatory use of nvm (Node Version Manager)
+Mitigates: persistent Node-gyp/png-img compilation failures
+Goal: Avoid 9P protocol latency
+Mandate: All project source code must reside in Linux filesystem (~/projects)
+Limitation: Gemini CLI often fails to read/write files on /mnt/c/
+[wsl2] networkingMode=mirrored (Solves localhost problem, applies Windows Firewall)
+memory=<size>, processors=<number> (Limits resource consumption)
+[automount] options=metadata (Enables Linux permissions on DrvFS)
+[interop] appendWindowsPath=false (Prevents PATH conflicts)
+Strict .gitignore enforcement (Global and Project)
+Commit only .env.example (template files)
+Store .env in Linux FS, not DrvFS
+Automates variable loading/unloading via .envrc
+Security: Requires direnv allow (Explicit Authorization)
+Integration: eval "$(doppler secrets download --dotenv-export)"
+Focus: Developer velocity, minimal overhead
+Injection: doppler run (runtime injection, secrets never touch disk)
+Feature: Encrypted local fallback cache
+Focus: Ultimate control, dynamic secrets, PKI
+Trade-off: High operational complexity (HA, unseal keys)
+Local Dev: vault server -dev (in-memory dev mode)
+NotebookLM can be inaccurate; please double-check its responses.
+Reply ready.

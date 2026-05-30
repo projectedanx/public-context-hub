@@ -1,0 +1,212 @@
+Epistemology, Models, and AI Systems in Inquiry
+Knowledge, Models, and Systems in Inquiry
+<
+Epistemological Concepts
+<
+Scientific Models & Abstraction
+<
+AI/LLM System Engineering
+<
+Social & Innovation Dynamics
+<
+Knowledge
+<
+Understanding
+<
+Faith
+<
+Cognitive Drives
+<
+Nature of Models
+<
+Model Types (Form/Technique)
+<
+Model Types (Purpose/Application)
+<
+Economic Model Examples
+<
+Machine Learning Models
+<
+Abstraction
+<
+Prompt Engineering (Tactical)
+<
+Context Engineering (Strategic Discipline)
+<
+Retrieval-Augmented Generation (RAG)
+<
+Failure Modes & Mitigations
+<
+Evaluation
+<
+Innovation & Growth
+<
+Socio-Technical Frameworks
+<
+Knowledge Discourse Modes
+<
+Sociolinguistic Dynamics
+<
+Definition
+<
+Types of Beliefs
+<
+Acquisition/Verification
+<
+Definition
+<
+Philosophical Views
+<
+Wisdom
+<
+Trust/Confidence beyond physical evidence
+Act of will and commitment
+More important than assent (as trust)
+Can be expressed propositionally
+Curiosity (Epistemic)
+<
+Insight (Aha! Moment)
+<
+Simplified approximation of a system
+Act as surrogate systems for reasoning
+Used for explanation, visualization, and prediction
+All models are wrong, but some are useful (Box)
+Built on deliberate simplification/idealization
+Qualitative/Conceptual (Flowcharts, Diagrams)
+Quantitative/Mathematical (Equations, Statistical)
+Physical/Structural
+<
+System Dynamics (Levels, Rates, Feedback Loops)
+Graphical Models (Bayesian Networks, DBNs)
+Descriptive Analytics (Historical review, what happened)
+Predictive Analytics (Forecasting, what will happen)
+Prescriptive Analytics (Recommends actions, what to do)
+Scenario Exploration (What-if approach)
+Computable General Equilibrium (CGE)
+Dynamic Stochastic General Equilibrium (DSGE)
+Overlapping Generations (OLG) Model
+Input-Output (IO) Models
+Supervised Learning
+<
+Unsupervised Learning
+<
+Generative Models
+<
+Thought process where ideas are distanced from objects
+Progressive exclusion of detail
+Crucial role in economics (homo economicus, the market)
+Core Principles
+<
+Basic Techniques
+<
+Advanced Techniques
+<
+Structured Output
+<
+Focus on information ecosystem architecture
+Distinct from prompt engineering
+Critical for robust, stateful AI systems
+Context Components
+<
+RAG Architectures
+<
+Context Optimization
+<
+Graph RAG
+<
+Structured RAG (SRAG)
+<
+Hallucination/Fabrication
+<
+In-Prompt Forgetting/Catastrophic Drift
+Context Poisoning (amplified error)
+Context Clash (contradictory information)
+Contextual Fixation (irrelevant detail focus)
+Online/Continuous Monitoring
+LLM-as-a-Judge (e.g., G-Eval)
+Metrics (Accuracy, Precision, Recall, F1-score)
+Benchmarking golden dataset
+Schumpeter's Creative Destruction (economic mutation)
+Positive Feedback (knowledge fuels more knowledge)
+R&D expenditures as proxy for innovation
+Innovation Adoption S-Curve
+Psychological Safety (Google Project Aristotle)
+Self-Determination Theory (Competence, Autonomy, Relatedness)
+Upper Tail Human Capital (Mokyr)
+Shared Mental Models (SMM)
+Knowledge Sharing (simple transmission)
+Knowledge Construction (building on prior ideas)
+Knowledge Creation (advancing collective understanding)
+Psycholinguistics (mental processes of language)
+Pragmatics (contextual meaning, speech acts)
+Code Theory (Restricted vs. Elaborated Codes)
+Feedback Loops (Dialogic, Transformative)
+Acquaintance with facts, truths, or principles
+Possession of accurate information
+Verified ideas tested against reality
+Justified True Belief (JTB) concept
+Vulnerable to epistemic luck
+Provisional (scientific knowledge)
+Communal (critical social enterprise)
+Intuitive Beliefs (gut feeling)
+Reasoned Beliefs (deliberate, analytic thought)
+Observation
+Testing/Experimentation
+Falsifiability (Popper)
+Self-Derivation through Integration
+Grasping explanatory/causal relationships
+Knowing why something is the case
+Less susceptible to epistemic luck
+Requires reasoning with concepts
+Phenomenology of Understanding (Aha! moment)
+Understanding a Theory (UT, matter of skill/judgment)
+Understanding a Phenomenon (UP, adequate explanation)
+Applies knowledge with discernment
+Ability to determine relevant facts
+Insight is the engine of wisdom
+Impulse towards better cognition
+Motivates learning and exploration
+Arises from perception of a knowledge gap (Loewenstein)
+Peaks in Region of Proximal Learning (RPL)
+Sudden comprehension/solution
+Associated with neural reward signal
+Processing Fluency Account
+Ball-and-stick (Molecular)
+Ribbon diagrams (Proteins)
+Classification (Decision Trees, SVM, Logistic Regression)
+Regression/Forecasting (Linear Regression)
+Clustering (K-Means, Hierarchical, DBSCAN)
+VAEs
+GANs
+Diffusion Models
+Clarity and Specificity
+Context and Structure
+Iteration
+Zero-shot prompting
+Few-shot prompting (examples)
+Chain-of-Thought (CoT)
+Tree-of-Thoughts (ToT)
+Prompt Chaining (sequential workflow)
+Prompt Ensembling (combining outputs)
+Reflexive Prompting (AI self-review)
+Enforcing JSON Schema
+Grammar-based decoding
+System Prompt
+Short-Term/Conversational Memory
+Long-Term/Persistent Memory (Vector Database)
+Tool Definitions
+Structured Data
+Naive RAG
+Advanced RAG (Pre/Post-retrieval optimization)
+Modular RAG (interchangeable modules)
+Agentic RAG (reasoning loop)
+Compression (e.g., Sentinel Proxy Model)
+Isolate (Compartmentalizing context)
+Re-ranking retrieved documents
+Uses structured knowledge graphs
+Enables multi-hop reasoning
+SQL-driven Extraction-Retrieval
+Transforms text to relational tables
+Mitigation: Structured Output Generation
+Mitigation: Strict Rules Enforcement
+Mitigation: Semantic Layer Integration

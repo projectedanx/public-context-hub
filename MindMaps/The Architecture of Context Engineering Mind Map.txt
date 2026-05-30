@@ -1,0 +1,95 @@
+The Architecture of Context Engineering
+Context Engineering
+<
+Foundational Concepts
+<
+System Components
+<
+Production Strategies
+<
+Agentic Workflows
+<
+Challenges & Risks
+<
+Definition
+<
+Core Principles
+<
+Vs Prompt Engineering
+<
+Instructions
+<
+Knowledge Retrieval
+<
+Memory Systems
+<
+Tools & State
+<
+Optimization
+<
+Control Mechanisms
+<
+Verification
+<
+Reasoning Patterns
+<
+Orchestration
+<
+Automation
+<
+Failures
+<
+Security
+<
+Bias & Ethics
+<
+Architecting the environment
+Dynamic context assembly
+Write
+Select
+Compress
+Isolate
+Architectural vs linguistic
+Dynamic vs static
+Systemic vs heuristic
+System prompts
+Product-Requirements Prompt (PRP)
+Modular scaffolds
+RAG
+GraphRAG
+Knowledge Graphs
+Vector Databases
+Short-term (Context Window)
+Episodic (Past experiences)
+Semantic (Facts/Preferences)
+Procedural (Behaviors)
+API schemas
+State management
+MCP (Model Context Protocol)
+KV-Cache design
+Context compaction
+Semantic caching
+Logit masking
+Response prefill
+State machines
+Fix Until Green loop
+LLM-as-a-Judge
+Guardrails
+Chain-of-Thought (CoT)
+ReAct
+Tree-of-Thought (ToT)
+Single agent
+Multi-agent systems
+Agent hierarchy
+Evolutionary prompt search
+Genetic algorithms (GAAPO)
+Self-refining loops
+Context rot
+Hallucination
+Context drift
+Promptware crisis
+Prompt injection
+Control-plane attacks
+Brevity bias
+Hermeneutical erasure
+Assumption fallacy
