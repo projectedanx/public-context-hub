@@ -1,0 +1,67 @@
+Mindmap
+Bioluminescence and Biomimetic Healthcare Design
+Bioluminescence & Biolux-SDL: Biomimetic Design in Healthcare
+<
+I. Bioluminescence Principles
+<
+II. Biomimetic Healthcare Design
+<
+III. Biolux-SDL Framework (Architecture)
+<
+IV. Interoperability and Ethics
+<
+Nature and Evolution
+<
+Primary Functions (Evolutionary Logic)
+<
+Signal Syntax and Cognition
+<
+Luminous Logic Case Studies
+<
+Tiered Signaling Framework (Alert Fatigue Mitigation)
+<
+Neuroaesthetic Principles
+<
+Foundational Paradigms
+<
+Three Pillars of Architecture
+<
+Sensory Protocols (DSL)
+<
+System Interoperability
+<
+Ethical and Security Safeguards
+<
+Chemiluminescence (Luciferin/Luciferase)
+Evolved independently (~40 times)
+High metabolic cost (Economy of Light)
+Offense (Predation: Luring/Illumination)
+Defense (Protection: Startle, Smoke Screen, Burglar Alarm)
+Communication (Mating, Species ID, Coordination)
+Camouflage (Counter-illumination)
+Modulation (Color, Duration, Rhythm, Intensity)
+Cognitive Concepts (Interpretation Stress, Aesthetic Load)
+Vampire Squid (Proportional Alert Systems)
+Flashlight Fish (On-Demand Information Access)
+Green Bomber Worm (Decoupled Notification)
+Lanternfish (Layered System Architecture)
+Tier 1: Ambient (Baseline/Normalcy)
+Tier 2: Advisory (Awareness/Slow Pulse)
+Tier 3: Critical (Immediate Action/Startle Flash)
+Tier 4: Decoupled (Support Team Alert)
+Color Psychology (Blue/Green=Calm, Red=Alert)
+Polyvagal Ladder Mapping
+Ambient Intelligence (AmI) / Adaptive Ecosystem
+Affective Computing and Embodied Cognition
+Multimodal Actuators
+1. Symbolic Control (Master Context Intent Layer)
+2. Temporal Choreography (Synchronization/Entrainment)
+3. Biometric Adaptation (Closed-Loop Feedback)
+Haptic Protocol (Affective Haptics/Soft Actuators)
+Osmic Protocol (State-Aware Pulsed Delivery)
+Environmental Protocol (Chromo-Luminance, Sono-Acoustics)
+Data Standards (HL7 FHIR, W3C WoT)
+Messaging (MQTT, MIDI-inspired symbolic messages)
+Time Synchronization (PTP)
+Triad of Risk (Persuasion, Affective Computing, Biometrics)
+Safeguards (Autonomy, Transparency, Data Security, Bias Mitigation)

@@ -1,0 +1,160 @@
+Mind map
+Engineering Principles for Prompt Design
+Engineering Principles for Prompt Design (Systems Engineering Discipline)
+<
+The Engineering Stance: A New Paradigm
+<
+Ten Foundational Engineering Principles (The Translation Layer)
+<
+The Prompt Systems Design Checklist (Workflow)
+<
+Shift from Art to Discipline
+<
+LLM as a System Under Uncertainty
+<
+Systems Engineering Definition (NASA)
+<
+1. Optimization
+<
+2. Control Theory
+<
+3. Information Theory
+<
+4. Formal Languages & Type Theory
+<
+5. Numerical Stability & Conditioning
+<
+6. Dimensional Analysis
+<
+7. Graph Theory & Topological Ordering
+<
+8. Robust Optimization
+<
+9. Experimental Design & Statistical Rigor
+<
+10. Game Theory & Adversarial Design
+<
+Specify & Define
+<
+Structure & Constrain
+<
+Control & Correct
+<
+Robustify & Generalize
+<
+Measure & Validate
+<
+Secure & Defend
+<
+Document & Maintain
+<
+Initial Stage: Creative Art & Trial-and-Error
+New Paradigm: Hard Engineering Discipline (Systems Engineering)
+Nature: High-dimensional, stochastic dynamical system
+Challenge: Creating reliable interface for human intent
+Prompt Function: Primary control interface/signal
+Solution: Apply math methods (Optimization, Control, Info Theory)
+Methodical, multi-disciplinary approach
+Focus: Design, realization, technical management, operations
+Core Goal: Managing complexity and trade-offs
+Core Concept: Minimizing cost function / Maximizing reward function
+Translation: Prompt refinement is finding P that minimizes Cost(O)
+Practical Techniques:
+<
+Core Concept: Use closed-loop systems with feedback for robustness
+Translation: Single prompt is open-loop; use Plan-Act-Check-Repair cycle
+Practical Techniques:
+<
+Core Concept: Maximize mutual information (Signal) and minimize corruption (Noise)
+Translation: Prompt maximizes mutual info between prompt and desired output
+Practical Techniques:
+<
+Core Concept: Use precise grammars for deterministic verification
+Translation: Shift output specification from prose to machine-readable definition
+Practical Techniques:
+<
+Core Concept: Well-conditioned problem (small input change = small output change)
+Translation: Prevent 'prompt brittleness' or sensitivity to minor rephrasing
+Practical Techniques:
+<
+Core Concept: Ensure physical consistency; rigor of units
+Translation: Transform vague requests into precise, quantitative specifications
+Practical Techniques:
+<
+Core Concept: Sequence tasks based on dependencies (Directed Acyclic Graph / DAG)
+Translation: Order prompt instructions logically based on implicit dependencies
+Practical Techniques:
+<
+Core Concept: Find solution that remains feasible across a range of uncertainties
+Translation: Design prompts that work across different models, versions, and tasks
+Practical Techniques:
+<
+Core Concept: Ensure results are objective, valid, and reproducible (Statistical analysis)
+Translation: Move beyond anecdotal success; validate changes with data
+Practical Techniques:
+<
+Core Concept: Model conflict between attacker (user input) and defender (system prompt)
+Translation: Design systems resilient to Prompt Injection and manipulation
+Practical Techniques:
+<
+Define Objectives & Constraints
+Write Acceptance Tests First
+Define Output 'Units' (Principle 6)
+Model Instruction Dependencies (Topological Sort, Principle 7)
+Use a Formal Schema (JSON Schema, EBNF, Principle 4)
+Employ Delimiter Grammar (Principle 3)
+Implement a Closed-Loop Pattern (Self-Refine, Manager/Verifier, Principle 2)
+Set Budgets (Tokens, tool calls)
+Test for Brittleness (Principle 5)
+Diversify Examples (Mixture of Formats / MOF)
+Test Across Multiple Models (Principle 8)
+Run Against Test Harness
+Measure with Statistical Rigor (Principle 9)
+Conduct A/B Tests
+Model Threats (Principle 10)
+Apply Least Privilege
+Implement Architectural Defenses
+Create a Pattern Card (Template, versioning, risks, performance summary)
+Test-Driven Prompt Development (Define objectives/constraints first)
+Automated Prompt Optimization (Gradient-Based, Evolutionary Algs)
+Defining Hard Constraints (JSON schema, Latency budget, Tool call limit)
+Proportional (P) Control: Re-prompting with error (e.g., schema violation)
+Integral (I) Control: Maintaining memory of failures; escalating ambiguity
+Derivative (D) Control: Loop counter/budget to detect cycles
+Self-Refinement and Reflexion (Generate → Critique cycle)
+Manager/Verifier Agents (Supervisory control layer)
+RAG/Tool Use (Expands reachable set of outputs)
+Increase Signal: Use precise, high-information verbs ('extract', 'classify')
+Reduce Noise: Use Delimiter Grammar (XML tags, Markdown fences)
+Strategic Redundancy: Repeat critical instruction at the end ('last-line supremacy')
+Chain-of-Thought (CoT): Guides along trajectory of maximum information gain
+JSON Schema (For structured data output)
+EBNF Grammars (For custom formats; constrains token selection)
+Regular Expressions (Regex) (For pattern-based constraints)
+Fail-Fast Validation and Repair (Immediate parsing check)
+Condition Checking (Test prompt across semantically equivalent paraphrases)
+Adding Structure (Formal schemas, clear delimiters)
+Mixture of Formats (MOF) (Diversify few-shot example styles for robustness)
+Task Decomposition (Break complex tasks into simpler, stable sub-problems)
+Define Length Units (tokens, words, bullet points)
+Define Evidence Units (citations, direct quotations)
+Define Creativity Unit (temperature parameter)
+Define Format Compliance Unit (schema ID)
+Unit-Consistent Prompts (Instructions match verifiable units)
+Modeling Prompt as DAG (Identify instruction dependencies)
+Ordering Heuristics (Constraints/Roles First, Task Input Last)
+Advanced Reasoning Structures (CoT, Tree-of-Thoughts, Graph-of-Thoughts)
+Cross-Model Evaluation (Benchmark against 2-3 diverse models)
+Identification of Universal Patterns (Avoid model-specific 'hacks')
+Constrained Optimization (Max performance on Model A, cap loss on Model B)
+A/B Testing (For online evaluation of variants)
+Offline Evaluation Suites ('Golden Dataset' / Test Harness)
+Quantitative Metrics (Task Success Rate, LLM-as-a-Judge scores, Cost Metrics)
+Statistical Significance (Hypothesis Testing, Confidence Intervals, p-values)
+Threat Modeling (Identify attacker goals/capabilities: data exfiltration, harmful content)
+Architectural Defenses (Most critical defense)
+Principle of Least Privilege (Minimum permissions/tools for agent)
+I/O Filtering/Sanitization (Firewall for input and output)
+Dual LLM / Overseer Architectures (Guardrail agent)
+Proactive Vulnerability Discovery (Red Teaming)
+NotebookLM can be inaccurate; please double-check its responses.

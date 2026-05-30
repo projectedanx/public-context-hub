@@ -1,0 +1,69 @@
+Architectural Frameworks for Persona Stability in LLMs
+Persona-Conditioned LLMs and Context Collapse
+<
+Contextual Failure Modes
+<
+Frameworks for Stability
+<
+Technical Mitigation Strategies
+<
+Multi-Agent Orchestration
+<
+Evaluation & Safety
+<
+Contextual Collapse
+<
+Contextual Essentialism
+<
+Persona Drift
+<
+Epistemic Matrix
+<
+RPTF Architecture
+<
+Persona Drift Cascade Engine
+<
+Grounded Identity
+<
+Memory Management
+<
+Prompt Hardening
+<
+Specialised Personas
+<
+Coordination Protocols
+<
+Psychological robustness tests
+Adversarial Policy Drift monitoring
+Expected Calibration Error (ECE)
+Red Teaming and jailbreak defense
+Uniform reasoning style
+Loss of persona heterogeneity
+Surface prompts vs identity
+Failure to internalize roles
+Semantic drift within outputs
+Cognitive load pressures
+Goal Orientation
+Output Fidelity
+Communication Style
+Tooling Constraints
+Proactive self-regulation
+Metacognitive prompting
+Tiered anomaly response
+Stage 1: Ignitor (Semantic)
+Stage 2: Amplifier (Concept)
+Stage 3: Payload (Forgetting)
+RAG-based anchoring
+Identity vector databases
+Recursive summarization
+Short-term vs Long-term silos
+Instruction shielding
+Syntax reinforcement
+Layered verification
+Backend Architect
+Frontend Mentor
+Security Integrator
+Epistemic Custodian
+Standard Operating Procedures
+Finite State Machines
+Publish-subscribe environments

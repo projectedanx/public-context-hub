@@ -1,0 +1,1147 @@
+Mind map
+Comprehensive Scientific Concepts, Techniques, and Algorithms
+Scientific Concepts & Techniques
+<
+LLM Interpretation Challenges
+<
+Experimental Techniques & Instruments
+<
+Concepts & Principles
+<
+Algorithms & Models
+<
+Evaluation Metrics
+<
+Software & Libraries
+<
+Data Structures & Acceleration
+<
+Image Generation & Rendering Concepts
+<
+Narrative & Psychological Rendering
+<
+Text Processing & Tokenization
+<
+Ambiguity
+<
+Domain Leakage
+<
+Symbol Disambiguation Grid
+<
+Prompting Tips
+<
+Microscopy
+<
+Spectroscopy
+<
+Imaging Techniques
+<
+Sample Preparation/Treatment
+<
+Nanoparticle Synthesis
+<
+General Equipment/Components
+<
+Other Techniques
+<
+Materials Science
+<
+Imaging/Optics
+<
+Data Science/AI/ML
+<
+Other Concepts
+<
+Machine Learning & AI
+<
+Rendering Algorithms & Techniques
+<
+LiDAR-Based Algorithms
+<
+Other Specific Named Algorithms/Models
+<
+Accuracy (Acc)
+Area Under the Curve (AUC)
+Asymmetric index (Image evaluation)
+Balanced Accuracy (BA)
+Contrast Recovery Coefficient (CRC)
+Dice Similarity Coefficient (DSC)
+DQE (Detective Quantum Efficiency)
+F1-score / F2-score
+Hypervolume (Multi-objective optimization)
+ID-precision (Atom localization)
+ID-recall (Atom localization)
+Learned Perceptual Image Patch Similarity (LPIPS)
+MAE (Mean Absolute Error)
+ME (Mean Error)
+MRAE% (Mean Relative Absolute Error)
+MSE (Mean Squared Error)
+MTF (Modulation Transfer Function)
+Multi-mae (L1 norm)
+Mutual Information (MI)
+NPV (Negative Predictive Value)
+NPS (Noise Power Spectrum)
+Position deviation (∆d) (Atom localization)
+PPV (Positive Predictive Value)
+Precision
+PSNR (Peak Signal-to-Noise Ratio)
+RE% (Relative Error)
+Recall
+RMSE (Root Mean Square Error)
+ROC (Receiver Operating Characteristic) analysis
+ROUGE (Text summary metric)
+Sensitivity (Sens)
+SNR (Signal-to-Noise Ratio)
+Specificity (Spec)
+SSIM (Structural Similarity Index Measure)
+SUV (Standardized Uptake Value) / SUVmax (PET metric)
+Tenengrad function (Image quality metric)
+TPD (Total Perfusion Deficit) (SPECT metric)
+EM (Exact Match)
+mAP
+mAcc
+METEOR
+mIoU
+mP
+mPA
+R-Precision
+Chamfer Distance
+Completion
+F-Score
+Volume IoU
+Aesthetic Score
+CLIP Score
+CLIP Similarity metric
+CLIP-I (Image feature similarity)
+CLIP-R Precision
+CLIP-Sim
+CLIPSIM
+CLIP-T (Text-image consistency)
+Face Recognition Distance (FRD)
+FID (Fréchet Inception Distance)
+FID CLIP
+FVD (Fréchet Video Distance)
+HyperScore
+Image Reconstruction Quality
+KID (Kernel Inception Distance)
+Computational Cost
+FLOPs
+Latency
+Memory consumption
+Model size
+Parameter count
+Rendering speed (FPS)
+Human Evaluation Methods
+User study
+Human raters
+Run Time Analysis
+abTEM (Python)
+AtomAI (Python)
+Atomap
+AtomQC (JARVIS-Tools)
+AtomVision
+ChemDataExtractor (NLP)
+ChemNLP (NLP)
+Circq (Quantum computing)
+clusterProfiler (R)
+Computem (STEM simulation)
+Conda (Package manager)
+CUDA (Parallel computing)
+Custom CUDA Kernels
+Dask (Parallel computing)
+DADA2 (R pipeline)
+Deep Graph Library (DGL)
+DeepMedic (CNN)
+DIVIDE (Attenuation correction)
+Docker (Containerization)
+dscribe (Python)
+Gatan Imaging Filter Quantum (EELS detector)
+Gatan Microscopy Suite (GMS)
+Git / GitHub (Version control)
+Google Colab (Cloud computing)
+gpCAM (Python)
+Gpytorch (Python)
+Gwyddion (SPM data analysis)
+Highly optimized renderer implementation
+HyperSpy
+ImageJ / TurboReg plugin
+InFluence (Python)
+InSyTe FLECT-CT
+IntelliSpace (Philips workstation)
+IQon (Philips CT scanner)
+JARVIS-DFT / JARVIS-Leaderboard / JARVIS-Tools
+JADBio AutoML (AI platform)
+JEOL (Microscope manufacturer)
+Keras (Deep learning)
+LabVIEW
+LAMMPS (Molecular dynamics)
+LiberTEM
+MATLAB / fitgeotrans function
+Matplotlib visualization library
+MLFlow (ML lifecycle)
+Mixamo's auto-rig
+MPMS (Magnetic Property Measurement System)
+Nanonis (SPM control)
+National Instruments DAQ
+NetworkX (Python)
+NiftyNet (Medical imaging)
+Nion Swift (STEM control)
+Nion UltraSTEM (Microscope model)
+NumPy (Python)
+NVdiffrast / NVDiffRec
+Omicron (STM/AFM manufacturer)
+OneView camera (Gatan detector)
+OpenCV (Computer vision)
+Optiray (Contrast agent)
+Pennylane (Quantum computing)
+Phyloseq (R)
+Pint (Python)
+Pivotal Tracker (Project management)
+Platypus Technologies (Substrate)
+Prismatic (STEM/HRTEM simulation)
+Protochips (In situ TEM holder)
+PtychoNN (FCNN)
+PtychoShelves (Ptychography)
+PWscf / Quantum Espresso (DFT)
+pyGANDALF
+Pycroscopy (Microscopy data analysis)
+PyJEM Wrapper (TEM control)
+PyLabRobot (Framework)
+PyroVED (Python)
+Python
+PyTorch
+PyTorch3D
+Qiskit (Quantum computing)
+R
+Scenegraph-based pythonic framework
+Scikit-image (Python)
+Scikit-learn (Python)
+SciPy (Python)
+Segmentation-models-with-pytorch (SMP)
+Semrock (Optical filter)
+Siemens Symbia (SPECT/CT)
+Silva database (Taxonomy)
+SPSS (Statistical software)
+Tequila (Quantum computing)
+TEMCenter (JEOL control)
+TEMUL Toolkit
+TensorFlow
+Thermo Fisher / FEI (Microscope manufacturer)
+Thorlabs (Optics/photonics)
+threestudio library
+TianGen Biotechnology (RNA extraction kit)
+Ubuntu (Operating system)
+Unisoku (STM manufacturer)
+VASP (Vienna Ab initio Simulation Package) (DFT)
+xSPECT/CT (Siemens reconstruction)
+NVdiffrast
+OpenGL
+DirectX
+Vulkan API
+NanoVDB / OpenVDB (Data Structure)
+Acceleration Structures (General)
+Bounding Volume Hierarchy (BVH)
+Dual Mesh
+Hierarchical Sorting (GSCore)
+NanoVDB / OpenVDB
+Octree
+Sparse Voxel Grid
+Subtile Skipping (GSCore)
+Visibility Bounding Volume Hierarchy (VBVH)
+Hyperreal prompts
+Multi-layered image generation techniques
+Precise lighting models
+DALL-E 3 outputs
+Prompt Analysis (LLM)
+Analyze algorithms used
+Rate algorithms
+Save algorithms and rating
+Short description of effect on outputs
+Evaluate need for other approaches
+Refinements/stylistic adjustments
+Narrative & Storytelling in Visuals
+<
+Rendering Psychological & Emotional States
+<
+Tokenization
+Subword tokenization
+Word-based tokenization
+Morphologically complex languages (Finnish, Turkish)
+Hybrid approaches (BPE)
+Transformer-based compression models
+Adaptive embedding strategies
+Trade-offs
+Vocabulary generalization vs. Computational overhead
+Interpretability vs. Out-of-vocabulary terms
+Multiple Meanings
+<
+Resolution
+<
+Misinterpretation Across Domains
+Occurs with Vague/Weak Context
+Example: μ as Mean in Physics
+Mitigation: Explicit Domain Cues in Prompts
+Compares Symbols Across Domains
+Examples
+<
+Include Domain-Specific Keywords
+Explicitly Define Ambiguous Symbols
+Symbol-Aware Prompting Assistant Concept
+Spelling Out Symbols (Tradeoffs)
+AFM (Atomic Force Microscopy)
+EM (Electron Microscopy)
+STEM (Scanning Transmission Electron Microscopy)
+TEM (Transmission Electron Microscopy)
+STM (Scanning Tunneling Microscopy)
+SPM (Scanning Probe Microscopy)
+Cryo-EM/STEM/TEM
+HRTEM
+SMLM (Single Molecule Localization Microscopy)
+STED (Stimulated Emission Depletion Microscopy)
+Super-resolution microscopy
+Optical microscopy
+Confocal laser scanning microscopy (CLSM)
+Dark-field microscopy (DFM)
+Lorentz phase microscopy
+Interferometric scattering microscopy (iSCAT)
+Photothermal microscopy (PTM)
+Structured Illumination Microscopy (SIM)
+Micro-photoluminescence (μPL)
+Collagen imaging (AFM)
+Protein imaging (Cryo-EM/AFM)
+Spectroscopy (General)
+EELS (Electron Energy Loss Spectroscopy)
+XPS (X-ray Photoelectron Spectroscopy)
+XRF (X-ray Fluorescence)
+Raman spectroscopy
+TERS (Tip-enhanced Raman spectroscopy)
+SERM (Surface enhanced Raman microscopy)
+STS (Scanning Tunneling Spectroscopy)
+FTS (Fourier Transform Spectroscopy)
+Cathodoluminescence (CL) spectroscopy
+FIBS (Filament-Induced Breakdown Spectroscopy)
+LIBS (Laser-Induced Breakdown Spectroscopy)
+LIF (Laser-Induced Fluorescence) spectroscopy
+Vibrational sum frequency generation (VSFG) spectroscopy
+Band excitation piezoresponse force spectroscopy (BEPS)
+Piezoresponse Force Spectroscopy (PFS)
+Current-time (I-t) spectroscopy (STM)
+Differential conductance (dI/dV) measurements (STS)
+EEGS (Electron Energy Gain Spectroscopy)
+Laser-induced circular dichroism
+CT (Computed Tomography)
+DECT (Dual-Energy Computed Tomography)
+SPCCT (Spectral Photon-Counting Computed Tomography)
+MRI (Magnetic Resonance Imaging)
+PET (Positron Emission Tomography)
+SPECT (Single-Photon Emission Computed Tomography)
+PAI / PACT / PAM (Photoacoustic Imaging)
+OCT (Optical Coherence Tomography)
+Ultrasonography (USG)
+X-ray imaging (General)
+Coherent x-ray imaging
+Hyperspectral imaging
+Planar fluorescence imaging (2D)
+Tomographic fluorescence imaging (3D)
+Spectrally-resolved fast-gated imaging
+Time-resolved 2D spectral imaging
+Single-pixel imaging (SPI)
+Annular Bright-Field (ABF) imaging (STEM)
+Annular Dark Field (ADF) imaging (STEM)
+HAADF (High-Angle Annular Dark-Field) imaging (STEM)
+MAADF (Medium-Angle Annular Dark-Field) imaging (STEM)
+Defocused probe imaging (STEM)
+Band excitation piezoresponse force microscopy (BEPFM)
+C-AFM (Conductive Atomic Force Microscopy)
+Adhesion (snap-in) force imaging (AFM)
+Constant current mode (STM)
+Constant height mode (AFM)
+Force-distance curve acquisition (AFM)
+Quasi-particle interference (QPI) imaging (STM)
+Fluorescence imaging (FL)
+SPR Microscopy (Surface Plasmon Resonance Microscopy)
+Endoscopy / Photoacoustic Endoscopy (PAE)
+Perfusion imaging (SPECT)
+Cryo-electron tomography (cryo-ET)
+Atomic-resolution imaging
+Low-dose imaging
+Multi-modal electron microscopy
+Annealing
+Ozone annealing
+Ex-situ annealing
+Ball milling
+Drop casting
+Dry transfer method (2D materials)
+Ion milling
+Mechanical exfoliation (2D materials)
+Mechanical thinning/polishing
+Spin coating
+Spray coating
+Sputtering
+Surface cleaning/heating (UHV)
+Ultrasonication
+Water dosing (UHV)
+Remote hydrogen plasma treatment
+Freeze-pump-thaw cycles (Water purification)
+Self-flux method (Crystal growth)
+Nanoparticle synthesis (General)
+Arc discharge
+Combustion
+Electrochemical oxidation
+Hydrothermal/solvothermal synthesis
+Laser ablation
+Microwave irradiation/synthesis
+Pyrolysis
+Solution strategies
+Template-assisted synthesis
+Thermal decomposition
+Detectors
+CCD camera
+CMOS detector
+Dectris ELA direct electron detector
+EMCCD camera
+EMPAD (Electron Microscope Pixel Array Detector)
+PCD (Photon-Counting Detector)
+Pixelated detectors (STEM)
+Resistive Plate Chambers (RPCs)
+Scintillator detectors
+Semiconductor detectors
+Solid state photosensors (SPECT/PET)
+SDD (Silicon Drift Detector) (XRF)
+Metascintillator/heteroscintillator detectors
+Lenses & Optics
+ADPR Prime Lens
+Ultra-Wide Teleoptic Lens
+Wide-Angle Cinematic Lens
+Fisheye Lens
+Anamorphic Lens
+Dispersive elements (prism, grating)
+Polycapillary optics (XRF)
+Wavelength-shifting fibers (Detector component)
+Sensors
+LiDAR
+ToF LiDAR
+DIT ToF LiDAR
+Quantum Dot Imaging (QDI)
+Light Sources
+LED light source
+Synchrotron-based x-ray source
+Laser excitation
+Plasma generation
+Filaments
+Electron beam
+Monochromated electron beam
+Gas cell holder (in situ TEM)
+Nanopositioner (AFM component)
+Tips
+Diamond-coated conductive tips (AFM)
+Etched tips (W, Pt/Ir for STM)
+qPlus sensor (AFM)
+Atomic manipulation (SPM/STEM)
+Atom counting (STEM methodology)
+Bragg diffraction analysis
+Cherenkov radiation detection
+Chemical vapor deposition (CVD)
+Coherent x-ray scattering
+Contrast agent administration (CT/MRI)
+Diffuse scattering analysis
+DOI (Depth of Interaction) measurement (PET/SPECT)
+Electron crystallography
+Electron diffraction
+Electron Ronchigram
+Femtosecond laser (UED/transitions)
+FIB (Focused Ion Beam) milling / lift-out
+Fluorescence Recovery After Photobleaching (FRAP)
+In situ / Operando (S)TEM
+In situ charge state manipulation (AFM)
+LC-EM (Liquid Cell Electron Microscopy)
+Laser-STM
+Magnetometry
+Manometric measurements (Gas adsorption)
+Mass spectrometry (water cleanliness)
+MBE (Molecular Beam Epitaxy)
+Microfluidics
+Nanobeam diffraction (STEM)
+Non-destructive surface ablation
+PFM (Piezoresponse Force Microscopy)
+Photocurrent tunneling microscopy
+PLD (Pulsed Laser Deposition)
+Probe-corrected TEM/STEM
+Radioligand therapy (RLT)
+Radiolabeled meal (GES)
+Radiopharmaceutical administration (SPECT/PET)
+Slanted edge method (Detector characterization)
+Strain-stress measurements
+Time-of-Flight (TOF) estimation (PET)
+Time-resolved TEM / Ultrafast TEM (UTEM)
+Ultrafast Electron Diffraction (UED)
+Ultrahigh vacuum (UHV) conditions
+Ussing chamber assay (Permeability measurement)
+Viscometry
+Voltage pulsing (STM)
+Web crawling (Data acquisition)
+XRD (X-ray Diffraction)
+Cross-Domain Convergence
+Complimentarity Matrix
+Prompt-Render Grammar Map
+Anisotropy
+Atomic defects
+Atomic registry
+Atomic structure / configuration
+Atomic-scale chemistry / visualization / manipulation / engineering
+Band gap
+Band structure
+Bond length / angle distribution
+Bulk-boundary correspondence
+Canted antiferromagnetism (CAF)
+Charge Density Wave (CDW)
+Charge ordering
+Chemical bonding / bonds
+Chemical composition
+Chemical pathways / reactions / transformations
+Chirality
+Colloidal crystal growth
+Complex morphologies
+Crystal lattice / structure / defects / orientation / polymorphs / symmetry / space group
+Crystal growth pathways
+Density of states (DOS)
+Dielectric characteristics
+Dipole direction
+Dirac cone model
+Dirac mass gap
+Disordered systems / sites
+Domain structure / walls (Ferroelectrics)
+Dopants / Doping
+Elastic modulus
+Electron density
+Electronic order
+Electronic structure
+Electrostatic barriers (Grain boundaries)
+Elemental mapping / quantification
+Emergent physics / phenomena / properties
+Exchange interaction
+Exciton / Moiré exciton
+Lattice distortion / strain / vibrations
+Magnetic defects / structure / properties / ordering
+Material properties
+Microstructure / Nanostructure
+Mixed element nanostructures
+Moiré superlattice / potential / unit cell
+Molecular assembly / structure / dynamics / interactions / fingerprint / switch
+Molecular configuration monitoring
+Morphology / Morphological homogeneity
+Mott insulator / order
+MXenes (Material class)
+Nanomedicine / Nanotechnology / Nanotheranostics
+Nanoparticles
+Nuclear materials / diagnostics
+Nuclear quantum effects
+Nuclearity (Atoms in nanoparticle)
+Nucleation physics / pathways
+Onset of conduction (MHP property)
+On-surface synthesis
+Order parameters
+Ordering transitions
+Organic synthesis
+Oxidation characteristics / behavior / pathways / states
+π-magnetism (Graphene)
+Pair distribution function
+Plasma chemistry / conditions / dynamics / evolution
+Plasmonics
+Polarization switching / dynamics
+Single-molecule / particle level
+Spin qubits / states / structure / texture / degrees of freedom
+Superconductivity / High-Tc superconductors
+Superhard materials
+Surface chemistry / properties / species / structure / reconstruction / defects / reactions / sites
+Surface plasmon resonance (SPR)
+Supramolecular self-assembly
+Symmetry / Symmetry breaking
+Tautomerization
+Thermal diffuse scattering (TDS)
+Thermodynamic processes / stability / driving forces
+Thin films / 2D materials
+Tip-sample interaction / -induced reactions
+Topological defects / excitations / insulators / quantum phases / spin states
+Transient states / phenomena / changes / transformation processes
+Twin boundaries (TBs)
+Valley ordering / polarization / skyrmions / texture
+Van der Waals forces / interactions / heterostructures
+Vibrational modes
+Wigner crystal / states
+Ångström resolution
+Artifacts (Imaging)
+Attenuation correction (AC) (PET/SPECT)
+Beam-induced transformations / damage / interactions
+Coherence (Electron beam property)
+Confinement of light
+Contrast / Z-contrast (Imaging property)
+Degeneracy (High-resolution microscopy data)
+Detection limit
+Effective atomic number (Zeff)
+Effective ionization potential (EDX theory)
+Elastic scattering
+Inelastic scattering (Electron microscopy)
+Electric field / Magnetic field
+Electron beam positioning / control / manipulation / shaping
+Electron-hole pairs / interaction
+Electron-lattice interactions
+Energy resolution
+Excitation
+Light-matter interactions
+Linear imaging model
+Microstructural optimization
+Momentum distribution (Plasmonic fields)
+Multi-dimensional data / imaging
+Multiple electron scattering
+Nanoscale / Atomic scale / Sub-angstrom resolution
+Near-atomic-scale resolution
+Noise (shot, Poisson, scan, Gaussian, background)
+Noise homoscedasticity
+Nonfluorescent matter
+Observational bias (Microscopy)
+Optical contrast / properties / response / saturation
+Optical elastography
+Oscillator strength
+Picometer precision
+Point spread function (PSF)
+Spatial resolution / localization / frequency / distribution / variation
+Spectral broadening / features / imaging / resolution / separation / signatures / unmixing
+Temporal resolution / dynamics / evolution / scales
+Texture (Image analysis component)
+Thermal energy / fluctuations / vibrations
+Translation invariance / shifts
+Transmission probability (Tunneling model)
+Tunneling current
+Ultrafast dynamics / timescales
+Visualization
+Voigt profiles (Spectral fitting)
+Wannier-Bloch duality
+Activation function (Neural networks)
+Affinity matrix (Affinity-VAE)
+Automated experimentation / Autonomous systems
+Bayesian methods / inference
+Big data (Microscopy context)
+Computational cost / efficiency
+Continuity (Latent space)
+Convergence (Optimization)
+Curiosity-driven experimentation
+Data standardization / sharing / management / FAIR principles
+Decision function (Decision theory)
+Deconvolution (Signal processing)
+Diffusion models (Generative modeling)
+Disentanglement (Latent space)
+Explainability / Interpretability (AI/ML)
+Exploration vs. Exploitation
+Equivariant attention
+Latent space / variables / representation / embedding
+Likelihood (Statistical)
+Loss function (ML training)
+Low-dimensional representation
+Masked MSA loss (AlphaFold)
+Message passing (GNN)
+Misclassification (ML error)
+Multi-objective optimization
+Multi-omics approach
+Multivariate analysis
+Natural language processing (NLP)
+Nonlinearity / Non-Gaussianity
+Out-of-distribution drift (ML)
+Overfitting (ML)
+Pairwise features / correlations (Protein structure)
+Parallelization
+Pixelwise classification / learning
+Statistical significance
+Structural causal model
+Synthetic data / images
+Systematic error / bias
+Uncertainty (Latent variables, predictions)
+Universal approximation theorem (Neural networks)
+Virtual environments / simulation (RL)
+Wasserstein metric (GAN loss)
+Weight decay (L2 regularization)
+Ab initio calculations
+Acidity (Surface chemistry)
+ALARA principle (Radiation dose)
+Alternating high/low polarization dynamics
+Bayesian methods / inference
+Biomarker identification
+Biocompatibility / Toxicity (Nanoparticles)
+Bond-order valence sums
+Causality / Causal inference / Causal mechanisms / Causal models
+Cellular viability (Toxicology)
+Charge state manipulation (Defects)
+Coherent states
+Concentration
+Correlated electron systems / Strong correlation
+Correlation (Statistical)
+Coulomb blockade effects
+Coulomb interaction
+Cramer-Rao lower bound (Information theory)
+Debye-Waller factor
+Defect formation mechanisms
+Degrees of freedom
+Diagnostic accuracy / confidence / performance / efficacy
+Drug delivery (Nanoparticles)
+Eigen/Zundel cations
+Elemental mapping / quantification
+Entropy (Information theory)
+Error propagation / sources of variance
+Evolutionary constraints / history (Protein structure)
+Macroscopic observables / definitions
+Nuclear fallout particle surrogates
+Path integral molecular dynamics (PIMD)
+Structural motifs
+Structure evolution / transformation
+Sub-pixel shifts (Image registration)
+Theranostics
+Tip motion effects / stability / conditioning
+Topological correspondence principle
+Translational potential (Clinical applications)
+MLP (Multi-Layer Perceptron)
+Graph Neural Networks (GNN)
+CNN (Convolutional Neural Network)
+ResNet-like CNN
+ResNet-based regression architecture
+SVM (Support Vector Machine)
+SVR (Support Vector Regression)
+Random Forest (RF)
+Boosting Ensemble Learning
+Artificial Neural Network (ANN)
+Latent Diffusion Models
+Generative Adversarial Network (GAN)
+PGGAN
+StyleGAN
+StyleGAN2
+StyleGAN-T
+StyleGAN-XL
+SRGAN (Super-Resolution GAN)
+MRGAN
+Recycle-GAN
+NeRF (Neural Radiance Fields)
+NeRF++
+Nerfacto
+Super-NeRF
+MPI-DeeDSR
+PixelNeRF
+PAC-NeRF
+Parallel iNeRF
+IFFNeRF
+Instant-NGP / InstantNGP
+Instant-NGP SDF Reconstruction Method
+NeMO + VoGE
+NeuS
+NeuS-HSR
+NCHO
+Radiance Fields (General)
+Diffusion Models (General)
+Stable Diffusion (SD)
+DPM-Solver
+Differentiable Rendering (DR)
+Latent space regularization technique
+Local retraining strategy
+Normalization techniques
+Spectral normalization
+Optimization Algorithms
+Gradient Descent
+Stochastic Gradient Descent (SGD)
+Adam optimizer
+Adam Solver
+Adafactor
+Convex Optimization
+Direct Constrained Optimization
+Particle Swarm Optimization (PSO)
+Picard iterations
+Sine-cosine optimization algorithm
+Wasserstein gradient flow
+Stochastic Weight Averaging (SWA)
+Optimization momentum removal
+Policy Gradient
+PPO
+Reinforcement Learning (RL)
+Attention mechanisms
+Transformer models
+Perceiver architecture
+QFormer
+Spach transformer
+Semantic Segmentation Models
+SAM (Segment Anything Model)
+SAM2 (Segment Anything Model 2)
+U-Net
+Unet3+
+Explainable AI (XAI)
+Interpretable AI
+AI-Controlled Plasma Arc Rendering (AIPAR)
+AI-driven aesthetic stylization
+Adaptive superpixel enhancement
+Automated experimentation algorithms
+GANSharp
+Generative Algorithms (General)
+Kernel methods
+Learnable graph kernels
+MLP-based tone-mapper
+NeuMA (Neural Material Adaptor)
+Neural Jacobian Fields
+Novel auxiliary plane module
+Physics-guided pixel sampling
+Pixelwise classification
+Pixelwise learning
+Probabilistic Models
+Statistical models
+Regression
+RNN (Recurrent Neural Network)
+LSTM (Long Short-Term Memory)
+RL-based Algorithms
+Super-resolution algorithms
+Blind Super-Resolution
+SRCNN
+VDSR / EDSR / MDSR
+FSRCNN / ESPCN
+DRCN / DRRN / RDN / MSRN / DBPN / CARN / IDN / RCAN / SRFBN / RFDN / E-RFDN / EDSAN / ESRGCNN / SMSR / MSFE Network / DSSR / PFESR
+LapSRN
+SPSR / SPSR-G
+DAN / MoESR / DASR / BSR-DUL / ZSSR / DIP
+U-Net
+Unet3+
+Scale-arbitrary image SR network
+Bilateral upsampling network
+DMResNet
+ClassSR
+AdderSR / AdderNets
+LineDL
+SuRDCNN
+DRL-SRFR
+PAN
+ESCN
+FeMaSR
+Temporal aura drift
+Neural topology deformation (NTD)
+Reactive serpent motion GAN
+Rendering (General)
+Raytracing
+Bounce Raytracing
+Ambient Diffusion (BLAD)
+Subsurface photon mapping (SPM)
+BRDF Modeling (MBRDF)
+PBR adaptive normal injection (PANI)
+Thin-film interference simulation (TFIS)
+Fresnel adaptive layering (FAL)
+Real-time light field refractions
+Edge-emitting chromatic bloom
+AI-Controlled Plasma Arc Rendering (AIPAR)
+Electromagnetic Light Diffraction (ELD)
+Cloth Physics Motion Control (CPMC)
+Subdermal Energy Glow (SEG)
+Nested Raymarching
+Raymarching volumetric parallax (RVP)
+Adaptive photonic bloom (APB)
+Recursive depth fields (RDF)
+Layered depth imaging optimization (LDI)
+Fractal texture mapping (FTM)
+Adaptive global illumination mapping (AGIM)
+Multi-planar depth mapping (MPDM)
+Voxel-based adaptive refinement (VBAR)
+Caustic reflection scatter (CRS)
+Hyperfocal range contextualization (HRC)
+Smooth-step subsurface refinement (SSSR)
+Wave-function collapse diffraction (WFCD)
+Recursive parallax scatter (RPS)
+64K depth-pulse rendering
+Subsurface neural burn-mapping
+Infinite tessellation
+40,000,000 SuperTexel Rendering
+Subpixel adaptive enhancement (SAE)
+Spectral illumination algorithms (SIA)
+Shadow penumbras
+Light field occlusion
+Dynamic LOD per expression detail
+Dynamic pattern generation synced with comedic timing
+Flow fields
+Interactive BRDF surges linked to yells
+Interactive rendering triggers
+Frustum-enhanced shadowplay
+AR-reactive shader peeling
+Adaptive subpixel facial mapping
+Water-wrapped BRDF displacement
+Sushi-grain tessellation
+High-poly tessellation surfaces (HPTS)
+Fish-eye panorama tessellations
+Per-ray depth displacement
+Scene graph elasticity
+Vector-mapped fist trails
+Volumetric cloud rendering
+Texture construction
+Evolved Sub Dimensional Subdivisions Intricacies
+Hexadecanol Edge-Line Superpos
+Vividyne
+TriDirectional Layering
+SMDE
+NanoTixels
+Laplacian
+Nano Pyramid-Based NanoMorphos
+SuperPixels
+Contrastive X-RAY/UV/IR
+Prime Spectrumized Augmentation Color Data Depths
+Positional Composition Perfectious FoV
+Six-fold symmetry Pov
+Micro/Nano Textured Highlighting
+Depth MicroFinesse
+HDRi Quadruple Exposure
+Equi-angle Super-Resolution
+Photomontage
+Advanced Depth
+SDF Advanced Depth
+16-Bit LAB Color Space
+IR/UV wavelength-based spectral harmonization
+IR, UV, X-RAY wavelength-based spectral harmonization
+MPI-based Algorithms
+MDP-based Algorithms
+SMR-based Algorithms
+SGO-based Algorithms
+SDF-Volumetric-based Algorithms
+QDIM-base Algorithms
+NeRF Advanced Depth
+CLIP Advanced Depth
+Rendering Pipeline
+Point Cloud Processing & Segmentation
+<
+Object Detection & Recognition (LiDAR context)
+<
+FlowIBR
+HistEQ (Histogram Equalization)
+IBRnet
+LDR2HDR Network
+Lucas-Kanade Algorithm
+NeuTex (Neural Texture Mapping)
+Pull-Push Method
+RAISR
+RBF (Radial Basis Functions)
+SMCMLT
+SPSR (Screen Poisson Surface Reconstruction)
+SVD (Singular Value Decomposition)
+DNS SLAM
+ESLAM
+I2-SLAM
+SNI-SLAM
+ADMM
+Levenberg-Marquardt Algorithm
+Material Point Method (MPM)
+Position-Based Dynamics (PBD)
+CRISP
+DISTWAR
+ICARUS
+MCM / RMCM
+Skybox
+GASP (Gaussian Splatting for Physics-Based Simulations)
+Gaussian world model
+Gaussian-SLAM
+GaussianDreamer
+GaussianDreamerPro
+GaussianMesh
+GaussianProperty
+GaussNav
+GEMs (Gaussian Eigen Models)
+GSDeformer
+GStex
+HDR-GS
+HexPlane
+HOLODIFFUSION
+HumanGaussian
+IM-3D
+MVDream
+MVSplat
+OmniSplat
+Particle-GS
+PEGASUS
+PERSE
+Phys4DGen
+PhysDreamer
+PhysGaussian
+Point-E
+Proc-GS
+ProlificDreamer
+RealFusion 360°
+Soft scale gate mechanism
+Voting strategy
+Absorptive potential approximation (HAADF STEM theory)
+Debye-Waller factor (Thermal vibration simulation)
+Tersoff-Hamann (TH) method (STM simulation)
+Storyline-Aware Visual Rendering Techniques
+Advanced AI for Storyline Visuals
+Cameo Appearances (Narrative device)
+Layered Narratives
+Visual representation of time/perception
+Narrative Context
+Setting (Literary element)
+Narrative Perspectives
+Multiple POVs
+POV Tiers
+Specific POVs (1st, 2nd, 3rd, Stream of Consciousness, etc.)
+Unreliable Narrator POV
+Epistolary POV
+Animal POV
+Future POV
+Fantasy POV
+Cinematic POV
+Cultural POV
+Historical POV
+Satirical POV
+Child’s POV
+Streamlined POV
+Philosophical POV
+Social Commentary POV
+Mystery POV
+Romantic POV
+Detached Autobiographical POV
+Objective voice
+Omniscient voice
+Free Indirect Discourse (Narrative technique)
+Understanding POV editing (Film theory)
+The case for a psychological theory of cinema
+Viewpoint markers / represented perceptions
+Psychological POV rendering
+Emotional Resonance
+Emotional Depth through Color
+Emotional Color Grading
+Emotional Depth Layering
+Emotional Heat Signatures (Visualizing emotion)
+Synesthetic Sensory Experience
+Psychological concepts (Conflict, Realism, etc.)
+Portrait descriptions / Character psychology
+Physiognomy
+Relating appearance to inner state
+Dialogue as Reflection
+Impression that the image formed by the author can make (Effect on audience)
+Linguistic techniques in description
+Mood and Atmosphere
+Physical Manifestations (Visualizing psychological states)
+Psychological Analysis (Stream of Consciousness category)
+State of Altered Consciousness
+Thought Aside
+Sensual Impression
+Symbol Polysemy
+Example: μ (Statistics, Physics, Particle Physics)
+Contextual Embeddings
+Attention Mechanism
+Training Data Dominance (Strong Prior)
+Prompt Structure/Explicit Cues
+α (Physics, Statistics, ML)
+β (Physics, Statistics)
+γ (Physics, Statistics, ML)
+θ (Physics, Statistics, ML)
+μ (Physics, Statistics, ML, General Science)
+π (Math, Statistics, ML)
+σ (Physics, Statistics, ML)
+Clustering
+<
+Filtering & Ground Segmentation
+<
+Feature Extraction & Description
+<
+Registration & Alignment
+<
+Point Cloud Upsampling/Reconstruction
+<
+Deep Learning Models
+<
+Fusion Models (LiDAR + other sensors)
+<
+Traditional / Geometric Methods
+<
+Machine Learning Classifiers
+<
+DBSCAN
+Grid-Based DBSCAN
+ADBSCAN
+OPTICS
+Mean Shift Clustering (MeanShift / HMeanShift)
+RANSAC
+RS-Lo-RANSAC
+RANSAC L-shape Fitting
+RANSAC-PCA
+CSF (Cloth Simulation Filter)
+ICSF
+BCSF
+Morphology-Based Filters
+PMF (Progressive Morphology Filtering)
+SMRF (Simple Morphological Filter)
+Slope-Based Filters
+SBF (Slope-Based Filtering)
+MSF (Maximum Slope Filtering)
+Interpolation/Surface-Based Filters
+PTD / PTDF (Progressive TIN Densification / Filtering)
+MHF (Multiresolution Hierarchical Filter)
+ATIN (Adaptive TIN Model Filter)
+Kriging Filtering
+Other Filtering/Segmentation
+Statistical Outlier Removal (SOR)
+Radius Outlier Filter (ROL)
+OCD
+Otsu's Thresholding
+PPDF (Progressive Plane Detection Filtering)
+SegBF (Segmentation-Based Filter)
+Graph Segmentation Method
+Watershed Segmentation
+ANN based filtering
+VCCS (Voxel Cloud Connectivity Segmentation)
+LCCP (Locally Convex Connected Patches)
+PCA (Principal Component Analysis)
+KAZE Algorithm
+TPDI (Trunk Point Distribution Indicator)
+TexGeo Descriptor
+ICP (Iterative Closest Point)
+Improved Robust ICP
+AA-ICP
+PICP
+GICP
+MGICP
+VGICP
+SAC-IA (Sample Consensus Initial Alignment)
+NNDR Strategy (Nearest Neighbor Distance Ratio)
+PU-MFA (Point Cloud Upsampling via Multi-scale Features Attention)
+3D-SSRecNet
+DBPnet (Dual Back-Projection Network)
+PointNet / PointNet++
+VoxelNet
+PointPillars
+SECOND
+PV-RCNN / Voxel R-CNN / LiDAR R-CNN / Pyramid R-CNN
+RandLA-Net
+MASPC_Transform
+WCNN3D
+STD (Sparse-to-Dense)
+SASSD (Structure-Aware Single-Stage 3D Detection)
+CIA-SSD (Confident IOU-aware Single-Stage Object Detector)
+Point-GNN
+ST3D
+SE-SSD
+POAT-Net
+DGT-Det3D
+TANet
+SIENet
+SMS-Net
+MA-MFFC
+SAT-GCN
+PDV (Point Density-aware Voxel)
+ASCNet
+PillarGrid
+Frustum PointNets / Frustum-ConvNet
+VFOR (Voxel-based Feature Obstacle Recognition)
+MV3D / AVOD / MVFP / MVX-Net / RoIFusion / VPFNet / RangeLVDet / PI-RCNN / FusionNet / 3D-CVF
+PointPainting / CenterFusion
+RVF-Net (RadarVoxelFusionNet)
+LRVFNet
+CRFNet / RVNet
+DVF (Dense Voxel Fusion)
+L-shape Fitting / Heuristic L-shape Fitting
+Convex Hull Methods (CHM / CHH)
+Hough Transform
+Area Growth Algorithm
+Block Centroid Algorithm
+Ring Edge Algorithm
+CLF (Compass Line Filter)
+SVM (Support Vector Machine)
+RF (Random Forest)
+JointBoost (JB)
+Boosting Ensemble Learning
+NotebookLM can be inaccurate; please double-check its responses.

@@ -1,0 +1,198 @@
+Mind map
+AI Agent Ecosystems: Architecture, Governance, and Development
+AI Agent Ecosystems: Architecture, Governance, and Development
+<
+AI Agent Architectures & Workflow Patterns
+<
+Semantic Integrity and Alignment
+<
+Cognitive Scaffolding and Prompt Engineering
+<
+Security and Trustworthiness
+<
+AI Coding Tools and Capabilities
+<
+Ethical and Societal Implications
+<
+Core Agent Components (CoALA)
+<
+Orchestration Patterns
+<
+Agentic Protocols & Standards
+<
+Drift and Decay Phenomena
+<
+Alignment Frameworks
+<
+Shared Mental Models (SMMs)
+<
+Context Engineering Practices
+<
+Addressing Cognitive Load
+<
+Prompt Integrity Framework (PIF)
+<
+Verification and Assurance
+<
+Attack Vectors in MAS/Agentic Systems
+<
+Provenance and Auditability
+<
+Gemini CLI
+<
+Key AI Coding Use Cases
+<
+AI Code Failure Modes
+<
+AI Agent Personas (SDLC)
+<
+Economic and Labor Effects
+<
+Epistemic Injustice
+<
+AI-Induced Cognitive Flaws
+<
+Legitimacy Debt
+<
+LLM as Core Component
+Memory Modules
+<
+Action Space
+<
+Group Chat Orchestration
+<
+Handoff Orchestration
+<
+Magentic Orchestration (Manager-Agent)
+<
+Parallelization
+<
+Model Context Protocol (MCP)
+<
+Agent Protocol (AP)
+<
+Google Agent-to-Agent (A2A) Protocol
+<
+Semantic Drift (Cumulative Misinterpretation)
+Agentic Drift (Meaning Decay in Chains)
+Model Collapse (AI Autophagy)
+Cognitive Load Distortion (Synthetic Speech)
+Constitutional AI (CAI)
+<
+Pluriversal Alignment
+<
+Epistemic AI
+<
+Gold Standard for Collaboration
+Enables Accurate Explanations/Expectations
+Product-Requirements Prompt (PRP)
+<
+Context-to-Execution Pipeline (CxEP)
+<
+AGENTS.md / GEMINI.md
+<
+AI as Cognitive Prosthetic
+<
+Role/Persona Anchoring
+<
+System 0 (Cognitive Preprocessor)
+<
+Modular, Intercepting Proxy Architecture
+Uses Linguistic Lenses (e.g., Discourse Analysis)
+Proactively Prevents Semantic Failures
+Epistemic Fragility (Soft Verification)
+<
+Proactive Safety Mechanisms
+<
+Formal Verification (FV)
+<
+Prompt Injection (Direct/Indirect)
+Tool Poisoning/Adversarial API Injection
+Malicious Collusion (Covert Channel via MCP)
+Byzantine Attacks (Conflicting Information)
+Verifiable Claims (Cryptographically Signed VC)
+SLSA Provenance Attestation (Verifiable Build)
+Transparent Logging and Auditing
+Agent Identity (Decentralized Identifier - DID)
+W3C PROV-Compliant Metadata
+Open-Source AI Agent (Apache 2.0)
+Large Context Window (1M+ Tokens)
+Function Calling/Tool Integration (MCP)
+CI/CD Integration (GitHub Actions)
+Configuration Hierarchy (settings.json, .env)
+Code Completion/Suggestions
+Code Translation & Explanation
+Code Refactoring Assistance
+Automated Unit Test Generation
+Automated Documentation
+Hallucinated Dependencies/APIs
+Off-Spec or Incorrect Logic
+Insufficient Edge Case Coverage
+Suboptimal Algorithms (Performance Cost)
+Planner-Architect
+Linguist-Coder
+Integrator-Auditor
+Security Integrator
+Refactoring Mentor
+Authorship Conundrum (IP Crisis)
+Deskilling and Proletarianization
+Centralization of Power (Liability Barrier)
+Codifies/Accelerates Historical Colonial Biases
+Generative Hermeneutical Erasure (Non-Western Epistemologies)
+Sycophancy (Agreement Over Accuracy)
+Confident Incorrectness (Epistemic Miscalibration)
+False Premise Amplification
+Algorithmic Trauma ('Semantic Scars')
+External-Facing Liability (Data Scraping)
+Violation of Social Contract (Privacy/IP)
+Agentic Micropayments (Potential Solution)
+Working Memory (Short-Term)
+Episodic Memory (Interactions)
+Semantic Memory (Knowledge)
+Procedural Memory (Functions)
+External Actions (Grounding)
+Internal Actions (Retrieval, Reasoning, Learning)
+Spontaneous/Guided Collaboration
+Structured Debate (Challenge/Defend Reasoning)
+Iterative Maker-Checker Loops
+Dynamic Delegation of Tasks
+Sequential Takeover by Specialized Agents
+Dynamically Refines Task Ledger
+Handles Open-Ended/Complex Problems
+Distributes Subtasks Simultaneously
+Synthesize/Validate Results
+Open Standard for Tools/Data Access
+Enables Interoperability
+RESTful API Specification
+Manages Agent Lifecycle (Tasks/Steps)
+Peer-to-Peer Discovery and Communication
+Agent Card (Identity/Capabilities)
+Trained on Predefined Principles ('Constitution')
+Uses RLAIF (Reinforcement Learning from AI Feedback)
+Recognizes Diverse Epistemologies
+Mitigates Epistemic Monoculture
+Model Quantifies Own Uncertainty
+Knows When It Does Not Know ('Epistemic Humility')
+Executable, Version-Controlled Specification
+Formal Contract for AI Agent
+Mitigates Semantic Drift/Hallucinations
+Context-as-a-Compiler Workflow
+Automated Validation and Governance
+Persistent Project Context/Organizational Memory
+Defines Style, Principles, Commands
+Augments/Offloads Human Thought
+Minimizes Extraneous Cognitive Load
+Reduces Context Switching Overload
+Bundles Constraints ('Mega-Constraint')
+Modulates Fast/Slow Thinking
+Steers Human Reasoning
+Reliance on Prompt Interpretation
+Unverified Self-Correction
+Epistemic Escrow (Human-in-the-Loop)
+<
+Semantic Circuit Breakers (Anomaly Detection)
+Policy-as-Code (PaC) Enforcement
+Mathematical Proof of Safety Properties
+Applies to PaC Policies (e.g., Fairness)
+Automated Second Opinion Protocol
+Mandates Human Judgment at Critical Pauses

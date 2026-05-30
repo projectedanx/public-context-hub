@@ -1,0 +1,166 @@
+Cognitive Ergonomics for Gemini CLI in WSL2
+Cognitive Ergonomics Framework for Gemini CLI in WSL2
+<
+Theoretical Foundations & HCI Principles (Part I)
+<
+GEMINI.md: The Cognitive Contract (Part II & III)
+<
+Command Lexicon and Tooling Protocol
+<
+WSL2 Environment Architecture (The Foundation)
+<
+Workflows, Integration, and Automation
+<
+AI as Cognitive Prosthesis
+<
+Norman's Action Cycle: Bridging the Gulfs
+<
+Operationalizing Nielsen's 10 Usability Heuristics
+<
+Purpose and Structure
+<
+Core Principles (Mandates)
+<
+Context Layering (Hierarchy of Context)
+<
+Custom Slash Commands (User-Facing API)
+<
+Tool Definitions (Gemini Function Calling)
+<
+WSL2 Architecture & Performance
+<
+Optimal WSL2 Configuration
+<
+Visual Studio Code Integration
+<
+Automation Patterns
+<
+Extensibility Ecosystem
+<
+Goal: Reduce Cognitive Load
+<
+Shift from Conversational AI
+Aligns with Human-Centered Design
+Gulf of Execution (Translating Goal to Action)
+<
+Gulf of Evaluation (Perceiving System State)
+<
+Proactive Assistance (Chained Actions)
+Visibility of System Status (#1)
+<
+User Control and Freedom (#3)
+<
+Error Prevention (#5)
+<
+Recognition Rather Than Recall (#6)
+<
+Single Source of Truth
+Translates Craftsmanship to Protocol
+Format: Markdown (Keep Knowledge in Plain Text)
+Functions as Anti-Entropy Guardian
+Code Generation Principles
+<
+Interaction & HCI Principles
+<
+Global Context (~/.gemini/GEMINI.md) - Lowest Precedence
+Project Root (./GEMINI.md) - Primary Manifest
+Component/Sub-directory Context - Highest Precedence
+/init command automates baseline creation
+/refactor <file> [pattern=SRP|DRY|SOLID]
+<
+/test [--scaffold] <file>
+/explain <file[:range]>
+<
+/docs <file[:range]>
+/wsl <shell_command>
+<
+/help (For Discoverability)
+file_reader(path: string)
+file_writer(path: string, content: string)
+<
+wsl_shell_exec(command: string)
+<
+Safety Layer: Explicit Confirmation Protocol
+<
+Lightweight Utility VM (Real Linux Kernel)
+Filesystem Boundary Problem (9P Protocol)
+<
+Path Translation Layer (Context Awareness)
+<
+Resource Allocation (.wslconfig)
+<
+Networking Mode
+<
+Dependency Management
+<
+Systemd Integration
+<
+Remote-WSL Extension (Client-Server Architecture)
+Gemini CLI Companion Extension
+<
+Headless Mode (-p, --prompt) for Scripting
+Piped Input (Unix Philosophy)
+<
+Automating Commit Messages (Git Hooks)
+Integration into CI/CD (GitHub Actions)
+<
+Model Context Protocol (MCP)
+<
+Gemini CLI Extensions Framework
+<
+Principle-Aware & Context-Sensitive
+Ergonomically Optimized
+Bridged by Slash Commands (Signifiers)
+Example: /refactor --pattern=SRP
+Shifts burden from Recall to Recognition
+Bridged by Rich Feedback Loop
+Mandatory Feedback Components
+<
+Announce intent before calling ANY tool
+Non-negotiable Confirmation Prompt (Destructive Actions)
+Default Option is 'No'
+Automatic WSL2 Path Translation
+/help command
+Proactive suggestions for next steps
+DRY (Don't Repeat Yourself)
+SOLID Principles (SRP, OCP, LSP, ISP, DIP)
+KISS (Clarity and Simplicity)
+Meaningful Naming
+Unix Philosophy (Small, Simple, Composable)
+Safety First (Confirmation)
+Visibility of System Status
+Provide Rationale (Cite Principle)
+Use Diffs for Changes
+Rationale: Clear Mapping (Norman's Terminology)
+Functions as 'Rubber Ducking' Partner
+Explicit Bridge to OS
+Gated by Mandatory Safety Confirmation
+Destructive Action
+Potentially Destructive
+Only for Destructive Tools (file_writer, wsl_shell_exec)
+Prevents Accidental Data Loss
+Slow I/O on Windows Mount (/mnt/c/)
+Fast I/O on Linux Native Filesystem (ext4)
+Cardinal Rule: Store Projects inside WSL2 filesystem
+Automated Conversion: C:\path to /mnt/c/path
+Removes Cognitive Friction
+memory=<size>
+processors=<number>
+autoMemoryReclaim=gradual (Manages vmmem usage)
+Default: NAT Mode (Causes Localhost Problem)
+Recommended: mirrored Mode (Solves Localhost, improves VPN compat)
+Mandatory use of NVM for Node.js (Version 20+)
+Disable Windows PATH Append (/etc/wsl.conf: appendWindowsPath=false)
+Enabled via /etc/wsl.conf [boot] systemd=true
+Allows running complex services (e.g., Docker, snapd)
+Provides Real-Time IDE Context (Selection, Cursor)
+Enables Native Diffing (Side-by-Side Review)
+Example: git diff | g -p 'Generate Commit Message'
+Requires GEMINI_API_KEY as secret
+Use Cases: PR Reviews, Issue Triage
+Universal Tool Adapter (Connects to External Services)
+Packaging and Sharing Capabilities
+Bundles MCP configs, Custom Commands, GEMINI.md
+State Reasoning (Cite Principle)
+Present Clear Diff
+Request Confirmation for State Changes

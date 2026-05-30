@@ -1,0 +1,96 @@
+
+The Channel Priority Hypothesis: Ambiguity Management in LLMs
+Channel Priority Hypothesis (CPH)
+<
+Core Premise & Goal
+<
+Comparison to Status Quo (LLMs)
+<
+Theoretical Foundations & Mechanism
+<
+Architectural Implications: Channel Awareness
+<
+Central Tension & Validation
+<
+Reframing Ambiguity
+<
+Central Tenet (Principle)
+<
+Paradigm Shift (Goal)
+<
+Ambiguity Stewardship
+<
+Current Problem: Ambiguity Drift
+<
+Current Mitigation Strategy (User Burden)
+<
+CPH Solution (Model Integration)
+<
+Curriculum Learning (CL)
+<
+Taxonomy of Ambiguity (Learning Target)
+<
+The Two Faces of Language
+<
+Channel Awareness
+<
+Architectural Analogy: Semantic Layer
+<
+Implementation Mechanisms
+<
+Precision-First Counterpoint (Code Paradox)
+<
+Synthesis: Hybrid/Interleaved Curricula
+<
+Empirical Validation (Future Research Plan)
+<
+Not a flaw, but intrinsic feature of human language
+Primary learning objective (not error to circumvent)
+Teach ambiguity first, precision second
+Precision is a subset, not a correction
+Ambiguity Elimination (Current) → Ambiguity Management (CPH)
+Shift from classification problem to reasoning problem
+Recognize presence of ambiguity
+Understand potential range of interpretations
+Strategically decide: informed assumption or seek clarification
+LLMs default to single high-probability path
+Leads to inaccuracy, misleading output, hallucination
+Prompt Engineering (Ambiguity Elimination)
+Users must be 'Clear, Direct, and Specific'
+Imposes cognitive and economic cost (Alignment Tax)
+User acts as a pre-processor
+Transfers cognitive labor from user to model
+Model's default state becomes 'Uncertain'
+Enhances robustness and safety by design
+Training strategy: progress from simpler to more complex examples
+CPH provides novel axis for difficulty (Semantic Determinism)
+Inverts traditional difficulty metrics (syntactic complexity)
+Lexical Ambiguity (homonymy, polysemy)
+Syntactic/Structural Ambiguity (multiple parses)
+Semantic Ambiguity (lack of context)
+Advanced Types
+<
+Human Face: contingent, contextual, probabilistic
+Computational Face: deterministic, binary, exact
+Ability to differentiate human vs. machine channel
+Taught by contrasting training data (e.g., chat vs. code)
+CPH structure is modular and layered
+Primary Layer: Human Semantics (context, intent, probabilistic)
+Overlay Layer: Formal Logic (execution, deterministic)
+Benefit: Isolation of errors (interpretable, auditable)
+Channel Classification Module (Bifurcation Node)
+Routing: directs flow to appropriate layers
+Hyperparameter Modification (e.g., higher temperature for Human Channel)
+Represents systematic attempt to teach Pragmatics
+Training on code (pure determinism) enhances general NL reasoning
+Provides powerful logical scaffolding (Logic-Based Pre-training)
+Optimal path may involve mixing difficulty levels
+Model learns to differentiate channels based on context
+Sequencing may be domain-specific
+Curriculum A: Ambiguity-First (CPH)
+Curriculum B: Precision-First (Reverse Sequence)
+Control Group: Random Shuffling
+Evaluation: Measure Human Channel (CLAMBER, AmbiEnt) and Machine Channel (LogiQA, Code Gen)
+Scopal Ambiguity
+Elliptical Ambiguity
+Collective/Distributive Ambiguity

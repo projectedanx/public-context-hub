@@ -1,0 +1,176 @@
+Mind map
+Cognitive Models: Blending, AI, and Pattern Matching
+Cognitive and Computational Models: Blending, AI, and Pattern Matching
+<
+Conceptual Blending Theory (CBT/CIT)
+<
+AI, LLMs, and True Intelligence
+<
+Pattern Matching and Analysis
+<
+Applications of NLP and Blending in Systems
+<
+Core Architecture (Four-Space Model)
+<
+Key Mechanisms and Concepts
+<
+Types of Blending Networks
+<
+Computational and AI Applications
+<
+LLM Capabilities and Limitations
+<
+Measuring Intelligence
+<
+LLM Techniques in Practice
+<
+Pattern Matching Algorithms
+<
+Abstract Interpretation (AI)
+<
+Abstract Domains (Numerical)
+<
+Record Linkage/Data Matching
+<
+Sentiment Analysis
+<
+Requirements Engineering (NLP4RE)
+<
+AI System Assurance
+<
+Input Spaces (Source/Target)
+<
+Generic Space
+<
+Blended Space (The Blend)
+<
+Cross-Space Mapping
+<
+Emergent Structure
+<
+Compression
+<
+Vital Relations
+<
+Accommodation/Fusion
+<
+Double-Scope Blending (DSCB)
+<
+Single-Scope Network
+<
+Mirror Network
+<
+Fictive Interaction (FI)
+<
+Computational Realization
+<
+PopBlends System (LLMs)
+<
+Generative Creativity
+<
+Pattern Recognition Engine (System 1 Thinking)
+Struggles with System 2 Thinking (Deliberate Reasoning)
+Reliance on Literal Features (Naming Dependence)
+<
+Memorization/Approximate Retrieval Systems
+Weak Generalization Power
+Abstraction and Reasoning Corpus (ARC)
+<
+Distinction from Pattern Recognition
+<
+Test Case Generation
+<
+Speculative Execution
+<
+Exact Matching (e.g., KMP, Brute-force)
+Inexact/Approximate Matching
+<
+Matcher Cells
+<
+Suffix Data Structures
+<
+Formal method for static program analysis
+Approximation is a core design choice (Epistemic Commitment)
+Goal: Soundness (no false negatives)
+Mechanisms
+<
+Non-relational
+<
+Relational (Higher Precision/Cost)
+<
+Deterministic Linkage (Brittle to typos)
+Probabilistic Linkage (Fellegi-Sunter model)
+Fuzzy Record Linkage
+<
+Novel Integration: Semantically-Informed AI
+<
+Determines emotional tone (Positive, Negative, Neutral)
+Rule-based (Limited by complex negation/metaphors)
+Machine Learning-based (Statistical inference, higher accuracy)
+Challenges: Subjectivity, context, irony
+Most targeted phase: Requirements Analysis
+Tasks: Quality Defect Detection, Trace Link Recovery, Classification
+Benefits: Automates tedious tasks, speeds review, corrects errors at origin
+Epistemic Assurance Metric (EAM)
+<
+Human Interpretation Failures
+<
+Contain partial structure
+Abstract core idea/schema
+Structural commonalities
+Novel, hybrid mental space
+Emergent structure/inferences
+Links counterparts between inputs
+New meaning not in inputs
+Generated via Composition, Completion, Elaboration
+Fusing/scaling down space links
+Compressing Time, Space, Identity, Cause-Effect
+Basis for compression
+Target yields to source (Metaphorical Fusion)
+Inputs have different frames; both project key structure
+Unique to modern humans
+Example: Lion-Person (Löwenmensch)
+Two inputs; one frame organizes the blend
+Example: CEO fight as Boxing Match
+Same frame organizes both inputs
+Conversation frame structures non-conversational states
+Candidate for cognitive universal blend
+Amalgams lifted into Category Theory
+Model is essentially equivalent to Pushout Model
+Uses GPT-3 for divergent/convergent thinking support
+Strategies: No-GPT, Half-GPT, Full-GPT (Ensemble Learning Potential)
+AI alignment with Kaleidoscopic Reasoning
+Anonymizing names degrades performance
+IQ Test for machines
+Requires developer-aware generalization
+True intelligence requires program synthesis
+From NL feature specifications
+Uses Transformer-based architectures
+Techniques: QLoRA, Prompt Engineering (Few-shot, DSP)
+Used in LLM decoding for faster inference
+Proposed for Abstract Interpretation (Speculative Semantic Engine)
+Handles typos, variations (e.g., Edit Distance)
+Crucial in Bioinformatics (DNA sequences)
+Self-replication algorithm
+Flexibility via composable rules
+Turing-complete expressiveness
+Semantic rules: One Match at a Time, Always Start a Match
+Trees, Arrays, Automata (for O(m) search time)
+Abstract Domains (Represent simplified states)
+Abstraction/Concretization Functions
+Fixed-Point Computation (Widening/Narrowing)
+Sign Abstraction
+Interval Abstraction (Upper/Lower bounds)
+Polyhedral Abstraction (Linear inequalities)
+Octagonal Abstraction (±x ± y ≤ c constraints)
+Difference-Bound Matrices
+Linear Equalities
+Uses Fuzzy Matching, Fuzzy Set Theory
+Manages imprecision (typos, missing data)
+Abstract domains enforce semantic constraints (e.g., Hypernym-Hyponym)
+Quantifies Formal Confidence (C_formal)
+Quantifies Calibrated Human Trust (T_calibrated)
+Includes Emergence Risk Factor (R_emerge)
+Cognitive Biases (Automation Bias, Confirmation Bias)
+Alert Fatigue (from False Positives)
+Misinterpretation of Ambiguity (e.g., 'maybe' answers)

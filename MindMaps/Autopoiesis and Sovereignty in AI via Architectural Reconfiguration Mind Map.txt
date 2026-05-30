@@ -1,0 +1,114 @@
+Autopoiesis and Sovereignty in AI via Architectural Reconfiguration
+<
+Core Concept: Material Anchors
+<
+Loci of Self-Modification (Autopoiesis)
+<
+Architectural Patterns & Constraints
+<
+Definition & Function
+<
+Comparison to Pure Cognition
+<
+Implementation in Engineering (DevOps)
+<
+Negative Anchoring (The Book of Scars)
+<
+Autopoietic Schematization (Reflexion Loops)
+<
+Schema Evolution
+<
+Metacognitive Buffer (Cognitive Workspace)
+<
+Tiered Anchoring
+<
+Cognitive Prosthetics
+<
+Failure Modes
+<
+Transition
+<
+Counteracts Epistemic/Semantic Drift
+<
+External, Immutable Artifacts
+<
+Mechanism of Stability
+<
+Pure Cognition (LLM) is Fragile/Fluid
+<
+Sovereignty is Structural Property of Architecture
+<
+Infrastructure as Code (IaC)
+<
+Drift Detection
+<
+Reconciliation Loops (Control Loop)
+<
+Mechanism: Crystallizes failure into persistent artifact (scars.json)
+Functions as a Navigation Hazard
+<
+Modification Locus: Interface of Failure
+<
+Process: Agent acts, fails/succeeds, reflects, and writes its own anchor
+Modification Locus: The Skill Library (Code as Cognition)
+<
+Outcome: Phase shift from Fluid (Thought) to Solid (Code)
+Observation: Fit Error (reality cannot map to rigid schema)
+<
+Modification: Proposes update to schema itself
+<
+Observation: Detects context window filling or Attention Decay
+<
+Modification: Actively moves info from Active Context to Long-Term Store
+<
+Pattern: Active Memory Management
+Hard Anchors (Tier 1)
+<
+Firm Anchors (Tier 2)
+<
+Soft Anchors (Tier 3)
+<
+Tools offload cognitive burden
+<
+Extended Mind Thesis: Tool is part of cognitive circuit
+Semantic Drift (Entropy)
+<
+Procrustean Bed (Rigidity)
+<
+From Prompt Engineering (Persuasion via Text)
+To Epistemic Architecture (Compulsion via Code)
+Drift is deviation from persona/protocol
+Drift is probabilistic entropy
+Examples: YAML, JSON Schemas, Vector Stores
+Serves as 'Cognitive Ballast'
+Borrows rigidity of material world
+<
+Epistemic Architecture (Compulsion via Code)
+Working memory limited (Context Window)
+Attention Decay ('Lost in the Middle')
+Intelligence is Fluid Property of Model
+Configuration files are Source of Truth
+Compares Desired State (Anchor) vs. Actual State (Runtime)
+Triggers Correction Event if Drift > threshold
+Forces runtime state back to alignment
+Avoids cognitive reef where agent previously grounded
+Transforms ephemeral errors into permanent constraints
+Writes executable code/skills to immutable, reusable tools
+Agent transitions from passive subject to active architect
+Avoids The Procrustean Bed effect
+Allows 'map' to evolve with the 'territory'
+Manages own entropy/cognitive load
+Uses structured buffer/scratchpad
+Identity, Ethics, Refusal Logic
+<
+Factual grounding (Vector Stores, Context Brokers)
+Tone/Style (System Prompts)
+<
+Examples: Calculators, Python Interpreters, Vector DBs
+Cause: Weak anchors, Attention Decay
+Symptom: Persona Amnesia, Tone Shift
+Cause: Rigid, immutable schemas/rules
+Symptom: False Precision, Mutilation of input
+Holds conceptual relationships fixed
+Enforced via Constrained Decoding/BNFs
+Subject to drift

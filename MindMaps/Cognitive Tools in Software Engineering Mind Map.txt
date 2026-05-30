@@ -1,0 +1,277 @@
+Mindmap
+Cognitive Tools in Software Engineering: An AI Co-Engineering Perspective
+Based on 4 sources
+Cognitive Tools in Software Engineering
+<
+Part I: Cognitive Economy of Software Engineering
+<
+Part II: Cognitive Scaffolding Technologies (Feature Analysis)
+<
+Part III: Multi-Agent Cognitive Audit of Engineering Ecosystem
+<
+Part IV: Structured Reflexive Architecture
+<
+Part V: Synthesis & Strategic Recommendations for AI Co-Engineering
+<
+Meta-PRP Generator (Architectural Specification)
+<
+Visual Semantics to Executable Logic (AI-Assisted Architecture)
+<
+Engineer's Mental Model
+<
+Cognitive Load Theory (CLT)
+<
+Schemas and Heuristics (Expertise Currency)
+<
+Tools for Mental Model Externalization & Introspection
+<
+Tools for Stabilizing & Sharing Mental Models
+<
+Frontend Engineer Persona
+<
+Backend SRE Persona
+<
+ML Engineer Persona
+<
+Causal Matrix: Tool ↔ Cognitive Role ↔ Feedback Loop
+<
+Recursive Reasoning Audit Log (Feature Lifecycle)
+<
+Semantic Drift Trajectory Map
+<
+Drift Integrity Score
+<
+Final Insight: Engineering the Epistemic Bridge for AI Collaboration
+<
+I. Strategic Mandate: Meta-PRP Factory
+<
+II. Architectural Blueprint for Meta-PRP Generator
+<
+III. Anatomy of a Generated Artifact: Dynamic Cognitive Contract
+<
+IV. Protocol for Verifiable Engineering (Advanced Testing)
+<
+V. Implementation Roadmap & Governance
+<
+The Semantic Chasm: Visual Intent to Computational Ambiguity
+<
+Context Engineering as the Bridge
+<
+The PRP Architecture: Formal Grammar for Functional Specification
+<
+Deconstructing the Diagram: Systematic Translation Protocol
+<
+Navigating the Fog of Interpretation: Managing Ambiguity
+<
+Ensuring System Integrity: Prompt Flow Integrity (PFI) Framework
+<
+Synthesis & Integration: Executable Context Bundle (CxB)
+<
+Central Artifact: Internal Representation
+Iconic and Analogous
+Ephemeral and Incomplete
+Code as Social Artifact (Cognitive Archaeology)
+Cognitive Debt (Vicious Cycle)
+Primary Constraint: Working Memory Limits
+Intrinsic Cognitive Load (Inherent Difficulty)
+Extraneous Cognitive Load (Unproductive Load)
+Germane Cognitive Load (Productive Learning)
+Zero-Sum Cognitive Economy
+Heuristics: Rules of Thumb
+Design Patterns: Formalized Solutions
+Chunking: Reducing Cognitive Load
+Tool Design: Chunk Alignment
+Visual Studio Code (IntelliSense)
+<
+Jupyter Notebooks
+<
+React & Redux DevTools
+<
+Figma & Excalidraw
+<
+Static Type Checkers (Pyright/MyPy)
+<
+Linters & Formatters (ESLint, Prettier, Black)
+<
+Git & GitHub/GitLab
+<
+Docker & Docker Compose
+<
+Postman
+<
+Challenge: Managing velocity and state complexity
+Risk: Interpretive Fracture
+Toolchain in Action
+<
+Challenge: Ensuring stability in legacy systems
+Risk: Latent Defect Archaeology, Symbolic Drift Resilience
+Toolchain in Action
+<
+Challenge: Managing probabilistic, data-centric workflows
+Risk: Concept Drift, Pipeline State Juggling
+Toolchain in Action
+<
+VSCode + IntelliSense: Real-Time Model Validation (Real-Time, All)
+Jupyter Notebooks: Reasoning Flow Externalization (Asynchronous, ML Engineer)
+React DevTools: State Introspection (Real-Time, Frontend Engineer)
+Redux DevTools: Cognitive Archaeology (Historical/Real-Time, Frontend Engineer)
+Pyright / MyPy: Expectation Stabilization (Asynchronous, ML/Backend SRE)
+ESLint / Prettier / Black: Shared Model Synchronization (Asynchronous, All)
+Git + GitHub: Shared Cognition (Asynchronous/Historical, All)
+Docker + Docker Compose: Cognitive Encapsulation (Build-Time/Run-Time, All)
+Postman: API Contract Externalization (Asynchronous, Backend/Frontend)
+Figma / Excalidraw: Pre-coding Cognitive Modeling (Pre-Coding/Asynchronous, Frontend)
+Initial State (Figma): Vague visual intent
+Formalization (Jira/Ticket): Unit of work
+Model Negotiation (GitHub PR #1): Align architectural mental model
+Model Synchronization (GitHub PR #1 - Update): Aligned architecture in Git
+Fracture Discovery (Bug Report): Model mismatch (cross-tab state)
+Cognitive Archaeology (Redux DevTools): Pinpoint state divergence
+X-Axis: Commit History (Time)
+Y-Axis: Reconstructed Intent Fidelity (0-1 Score)
+Trajectory Narrative: Fluctuating fidelity based on practices (e.g., senior dev leaves, rushed deadlines, recovery efforts)
+Holistic metric for ecosystem resilience
+Factors: Automation, Externalization, Introspection, Synchronization
+Cognitive load is about epistemic strain
+AI as true cognitive collaborators, not black-box generators
+Effective AI Co-Engineering Partner Must:
+<
+From Artisanal to Industrialized Infrastructure (Epistemic Engineering)
+Enforcing Cognitive Continuity Across Ecosystem
+Codifying Test-Driven Epistemology
+Core Components & Workflow (Terraform & Cookiecutter Hybrid)
+<
+Scaffolded Meta-PRP Structure (YAML)
+<
+Automating the Four Pillars of Cognition
+<
+From Unit Tests to Multi-Layered Verification
+Layer 1: Foundational Correctness & Semantic Similarity
+<
+Layer 2: Robustness & Logical Invariance
+<
+Layer 3: Fairness, Bias, & Safety
+<
+Layer 4: Path to Formal Verification (Future Goal)
+Phase 1: Foundational Templating (Cookiecutter Core)
+Phase 2: Schema Enforcement & State Management (Terraform Layer)
+Phase 3: Advanced Module Automation (Intelligent Scaffolding)
+Phase 4: Ecosystem Integration & CI/CD
+Governance of the Generator
+Expressive Power & Limitations of Visual Languages (Informal DSLs)
+Semantic Architecture: Formalizing Meaning of Diagrams
+Problem of Symbolic Drift & Contextual Decay
+From Prompt Crafting to Context Architecture
+Components of a Rich Context (System Prompt, User Input, Short-Term Memory, RAG, Tools, Structured Output, Workflow Engineering)
+Anatomy of a Product-Requirements Prompt (PRP)
+<
+'Context-as-a-Compiler' Workflow
+<
+Protocol for Visual Deconstruction
+<
+Function Contract: Applying Design by Contract (DbC)
+<
+Taxonomy of Visual Ambiguity
+<
+Strategies for Disambiguation
+<
+Clarification: From PIF to Prompt Flow Integrity (PFI)
+Core PFI Mechanisms for Agentic Security
+<
+Defining the Executable Context Bundle (CxB)
+<
+CxB Lifecycle: Generation to Execution
+<
+Integration into AI Coding Assistant's Reasoning Layer
+Function: Real-time semantic dialogue
+Cognitive Impact: Memory Offloading, Error Prevention, Visual Chunking
+Function: Literate programming (code + narrative)
+Cognitive Impact: Reasoning Flow Externalization, State Chunking
+Function: Inspect UI components, time-travel debugging
+Cognitive Impact: State Introspection, Causal Chain Reconstruction
+Function: Collaborative visual design, prototyping
+Cognitive Impact: Interpretive Fracture Prevention, Cognitive Load Reduction in Handoff, Low-Stakes Externalization
+Function: Analyze code for type errors before execution
+Cognitive Impact: Ambiguity Reduction, Cognitive Offloading
+Function: Enforce consistent code style
+Cognitive Impact: Choice Elimination, Shared Model Synchronization
+Function: Version control, collaborative platforms
+Cognitive Impact: Commits as Mental Checkpoints, Branches as Counterfactual Spaces, Pull Requests as Model Synchronization
+Function: Containerize applications and environments
+Cognitive Impact: Cognitive Encapsulation, Environment Parity
+Function: Build, test, document API interactions
+Cognitive Impact: Executable Specification, Shared Living Documentation
+Figma -> React (Intent-to-Interaction Mapping)
+React DevTools (Component Boundary Check, Cognitive Load Distortion)
+ESLint/Prettier (Stylistic Consistency, Extraneous Load)
+Git + GitHub (Cognitive Archaeology, Rebuild Mental Model)
+Docker (Safe 'Cognitive Unit', System-Level Hypothesis Testing)
+Postman (Define API Contract, Strangler Fig Modernization)
+Jupyter Notebooks (Concept Drift Back-propagation, Externalize Analytical Process)
+Pyright/MyPy (Schema Correctness, Reduce Tracking Load)
+Git/DVC (Versioning Model Artifacts, Historical Traceability)
+Externalize Its Own Reasoning
+Participate in Model Negotiation
+Act as a Cognitive Load Damper
+Adhere to 'Language of Chunks'
+Declarative Input Layer (meta-prp-spec.json)
+Templating Engine (Jinja2 Core)
+Core Orchestrator (prp-gen CLI)
+Schema Validation and Enforcement Layer
+State Management Protocol (codex.state)
+Integration Interface (CodexVault API)
+meta (name, version, author, purpose)
+anchors (dependencies)
+modules (PCA, DCM, AST, VAT_Generator)
+runtime_testing_protocol (validation_criteria)
+Persistent Context Anchoring (PCA)
+Dynamic Context Management (DCM)
+Algorithmic Self-Therapy (AST)
+VAT_Generator (Verifiable Attestation & Tracing) & Runtime Testing
+Correctness Testing
+Similarity Testing
+Hallucination Testing
+Metamorphic Testing
+Invariance Testing
+Bias and Fairness Audits
+Toxicity and Stereotype Detection
+Constitutional Adherence
+function_name
+description
+role
+input_spec
+output_spec
+constraints
+purpose_vector
+meta
+Set Up Global Rules (CLAUDE.md)
+Create Initial Feature Request (INITIAL.md)
+Generate the PRP (/generate-prp)
+Execute the PRP (/execute-prp)
+Identify System Boundaries and Actors
+Enumerate Core Components (Nodes)
+Analyze Connectors (Edges)
+Translate Visual Attributes (Line Styles, Icons, Color/Grouping)
+Iterate and Refine
+Preconditions (input_spec, constraints)
+Postconditions (output_spec)
+Invariants (constraints for stateful entities)
+Attachment Ambiguity
+Segmentation Ambiguity
+Occlusion Ambiguity
+Lexical Ambiguity
+Rule-Based and Heuristic Resolution
+Probabilistic Resolution and Epistemic Tagging (meta block)
+Interactive Clarification and Fallback Behavior (fallback_behavior)
+Agent Isolation (Trusted Agent AT, Untrusted Agent AU)
+Secure Untrusted Data Processing (Data ID Replacement, Computation Offloading)
+Privilege Escalation Guardrails (Data Flow Guardrail, Control Flow Guardrail)
+Manifest (cxb.json)
+PRP Specifications (/prps)
+Validation Gates (/tests)
+Static Context (/context)
+Generation
+Validation
+Versioning
+Loading
+Execution

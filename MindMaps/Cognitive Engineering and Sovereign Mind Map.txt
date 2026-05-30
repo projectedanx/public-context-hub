@@ -1,0 +1,77 @@
+Cognitive Engineering and Sovereign AI Ecosystem Framework
+Cognitive Engineering & Sovereign AI Ecosystem
+<
+Architectural Frameworks
+<
+Cognitive Operators & Protocols
+<
+Failure Modes & Stability
+<
+Security & Governance
+<
+Epistemic Lenses
+<
+Sovereign Cognitive OS
+<
+Modular Intelligence Ecosystems (MIE)
+<
+AgentOS Modules
+<
+Core Operators
+<
+Prompt Description Languages
+<
+Model Context Protocol (MCP)
+<
+Drift Types
+<
+Model Collapse
+<
+Monitoring Metrics
+<
+Threat Mitigation
+<
+Provenance & Trust
+<
+Sandboxing Patterns
+<
+Critical Legal Lens
+Thermodynamic Lens
+Topological Data Analysis
+Decolonial Theory
+Context Anchors
+Cognitive Contracts
+Epistemic Escrow
+Composable AI
+Multi-Agent Systems (MAS)
+Workflow Automation
+Entropic Sieve
+Dialectical Engine
+Drift Monitor
+DDx Exclusion Protocol
+Montage Synthesize Collision
+Stare Decisis Lock
+Atlas Specification
+PDL v1.0 Decorators
+Prompt Compilation
+Standardised Tooling
+Sovereign Bridges
+JSON-RPC Validation
+Semantic Drift
+Contextual Dilution
+Architectural Entropy
+Model Autophagy
+Lexical Impoverishment
+Semantic Stagnation
+Semantic Reynolds Number
+MTLD Lexical Diversity
+Distinct-N Phrasal Diversity
+Anti-Slopsquatting
+Negative Constraint Bounding
+Instruction Injection Defense
+AI Bill of Materials
+Verifiable Credentials
+C2PA Manifests
+gVisor/Firecracker
+Network Egress Filtering
+Workload Identity (SPIFFE)

@@ -1,0 +1,170 @@
+DALL-E 3 Prompt Engineering: Styles and Techniques Compendium
+DALL-E 3 Prompt Engineering & Creative Techniques
+<
+Mastering Artistic Styles & Genres
+<
+Advanced Prompt Construction
+<
+Simulating Photography Techniques
+<
+Conceptual & Creative Applications
+<
+Advanced Model Control Features
+<
+Foundational Styles (Conceptual Fusion)
+<
+Niche & Specialized Styles
+<
+Hyperrealistic Protocol
+<
+Systematic Fusion & Blending
+<
+Using Descriptive Language
+<
+Typography & Text Integration
+<
+Camera & Lens Specification
+<
+Lighting & Atmosphere
+<
+Advanced Techniques & Effects
+<
+Narrative & Storytelling
+<
+Texture, Material & Details
+<
+Color Theory & Grading
+<
+AI Integration & Hybrid Workflows
+<
+Prompt Weighting (Emphasis using numerical values)
+Negative Prompts (Suppressing undesired content)
+ControlNet (Guiding composition with sketches/poses)
+Inpainting & Outpainting (Precise image modification)
+Depth Maps & 3D Awareness (Accurate spatial rendering)
+Custom Models (Fine-tuning for niche styles)
+Punk Styles (Retro-Futurism)
+<
+Historical Movements
+<
+Modern & Abstract
+<
+Photography-Art Hybrids
+<
+Sculpture & Printmaking
+<
+Style Prescription (e.g., Hyperrealism)
+Detail & Texture Specification (Verbose list)
+Technical & Photographic Protocol (Camera settings)
+Conceptual Contrast (Merging disparate ideas)
+Style Transformation (Applying modern aesthetic to classical work)
+Clear & Specific Descriptions
+Conjunctions & Modifiers (e.g., 'and,' 'dominant')
+Keywords & Short Phrases (Conciseness)
+Adjectives & Verbs (e.g., 'cascading,' 'ethereal')
+Hierarchical Structuring (Most important info first)
+Brevity vs. Detail (Shorter concept prompts often better)
+Iterative Refinement (Test and adjust based on outputs)
+Stylistic Descriptors (e.g., grunge, serif)
+Calligraphy & Script (Medieval, modern brush)
+Text as Design Element (Layering, forming shapes)
+Text-Based Imagery (Image formed by words)
+Focal Lengths
+<
+Specialized Lenses
+<
+Camera Settings
+<
+Lighting Styles
+<
+Technical Lighting
+<
+Physics & Effects
+<
+Motion Effects
+<
+Depth & Focus
+<
+Perspective & Framing
+<
+Conceptual Art (Concept over aesthetics)
+Symbolism and Metaphor
+Time Period Specifics (e.g., Cyberpunk, Victorian)
+Emotional Prompts (e.g., melancholy, joy)
+Leather, Silk, Velvet, Chainmail
+Advanced Material Combinations
+Scales and Reptilian Textures
+Microscopy Art (SEM, Fluorescence filters)
+Complementary Colors (Dynamic contrast)
+Analogous Colors (Harmony, tranquility)
+Warm vs. Cool Tones (Mood association)
+Color Grading (Cinematic look, split toning)
+Generating Custom Elements (Backgrounds, textures)
+Composite Editing (Seamless blending/masking in Photoshop)
+3D Photography Enhancement (Depth maps, stereoscopic views)
+AI-Enhanced Post-Processing (Refining quality, adding effects)
+Steampunk
+<
+Cyberpunk
+<
+Dieselpunk (Grittier, industrial machinery)
+Atompunk (1950s aesthetic, sleek designs)
+Biopunk (Organic materials, biotech integration)
+Nanopunk (Microscopic elements, nanotechnology)
+Neon-noir (Cyberpunk + film noir shadows)
+Renaissance (Realism, balanced composition)
+Baroque (Dramatic lighting, grandeur)
+Romanticism (Emotion, sublime nature)
+Cubism (Geometric forms, multiple perspectives)
+Surrealism (Dream-like, unexpected juxtapositions)
+Fauvism (Vivid, non-naturalistic colors)
+Minimalism (Simplicity, negative space)
+Photorealism (Highly accurate, lifelike images)
+Digital Art (3D rendering, vector art)
+Art Deco (Geometric shapes, luxurious materials)
+Abstract Expressionism (Gestural brushwork)
+Street Art / Graffiti (Urban textures, bold colors)
+Pointillism (Simulated dot patterns)
+Chinese Ink Wash (Flowing style, subtle gradients)
+Vaporwave (80s/90s nostalgia, low-res aesthetics)
+Wabi-Sabi (Aged beauty, simplicity, asymmetry)
+Xerox Art (Photocopied, distorted textures)
+Soft Sculpture (Fabric, texture, pliability)
+Lithography (Stone texture, grease pencil effects)
+Kinetic Art (Simulated motion, dynamic elements)
+Bio Art (Representing life processes/phenomena)
+Wide-Angle (Exaggerates space)
+Telephoto (Compresses background)
+Macro (Extreme close-up)
+Tilt-Shift (Miniaturization effect)
+Fisheye (Distorted, wide field of view)
+Defocus Control (Artistic bokeh shapes)
+Aperture (f-stop value for DoF control)
+Shutter Speed (e.g., 1/4000s to freeze motion)
+ISO (Noise/grain control)
+RAW Format (Simulating high data capture)
+Golden Hour (Warm, soft light)
+Low-Key (Dramatic shadows, high contrast)
+Chiaroscuro (Strong contrast of light and shadow)
+Rim Lighting (Glowing outline)
+Backlighting (Emphasizes silhouette)
+Softbox (Diffused, even lighting)
+Colored Gels (Surreal/moody hues)
+HSS Flash (Freezing motion, balancing ambient light)
+Reflections & Refractions (Glass, water)
+Subsurface Scattering (Light through translucent objects)
+Volumetric Light (Light filtering through mist)
+Long Exposure (Motion blur, light trails)
+Panning (Sharp subject, blurred background)
+Double Exposure (Layered, surreal imagery)
+Shallow Depth of Field (Blurred background/bokeh)
+Focus Stacking (Entire subject in sharp focus)
+HDR (High dynamic range, balanced exposure)
+Aerial/Bird's Eye View
+Forced Perspective (Optical illusions)
+Rule of Thirds / Golden Ratio
+Leading Lines
+Victorian-era machinery
+Intricate gears, brass details
+Neon lighting, digital elements
+Dystopian future, societal decay

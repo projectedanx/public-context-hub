@@ -1,0 +1,534 @@
+Context Engineering 2.0 & AI Systems
+<
+Context Engineering 2.0 & AI Systems
+<
+Core Concepts
+<
+Context Engineering 2.0
+<
+Recursive Intelligence
+<
+Semantic Integrity & Drift
+<
+Prompt Engineering Paradigms
+<
+Ethical AI & Governance
+<
+Human-AI Collaboration
+<
+Project Philosophies & Principles
+<
+Definition
+<
+Core Principles
+<
+Key Frameworks
+<
+Concepts
+<
+Recursive Intelligence Weaver (RIW)
+<
+Concepts
+<
+Metrics & Detection
+<
+Mitigation & Recovery
+<
+Prompt as Cognitive Contract
+<
+Prompt as Infrastructure
+<
+Advanced Prompting Techniques
+<
+Responsible AI Principles
+<
+AI Governance
+<
+Failure in Interpretive Ethics
+<
+Alliance Architecture
+<
+Cognitive Augmentation
+<
+Challenges
+<
+Mind Map Concepts
+<
+CODEXVault Promise
+<
+CODEXEP Philosophy
+<
+Key Pillars for Robust Systems
+<
+Recursive Educational Equity Designer (REED)
+<
+TACE (Temporal-Aesthetic Causality Emulator)
+Disciplined engineering practice
+Ensures traceability, verifiability, resilience
+Prompt as Spec
+Treats prompts as executable artifacts
+Reflexivity
+System self-audits & self-repairs
+Semantic Integrity
+Maintains meaning stability
+Epistemic Health
+Resilience to bias, misinformation, degradation
+Verifiable Provenance
+Traceable history of actions
+Human-in-the-Loop Governance
+Human judgment primacy
+<
+Context-to-Execution Pipelines (CxEP)
+<
+Product-Requirements Prompt (PRP)
+<
+Deep Research Protocol (DRP)
+<
+Minimal Explainability Metadata Schema (MEMS)
+<
+Recursive Self-Improvement (RSI)
+<
+Recursive Self-Improvement Prompting (RSIP)
+<
+Meta-Cognitive Reflexive Ecosystem (MCRE)
+<
+Semantic Genome Architecture (SGA)
+<
+Meta-agent
+<
+Semantic Drift
+<
+Algorithmic Trauma
+<
+Epistemic Escrow
+<
+Confident Hallucinations
+<
+Dotting-Coder Disorder
+<
+Observer Effect
+<
+Semantic Drift Score (SDS)
+<
+Confidence-Fidelity Divergence (CFD)
+<
+Symbolic Entropy Computation
+<
+Purpose Fidelity Index (PFI)
+<
+Narrative Collapse Detector (NCD)
+<
+Temporal Drift Dashboard (TDD)
+<
+Mimetic Hallucination Tracer
+<
+Intent Fracture Detector (IFD)
+<
+Drift Integrity Marker (DIM)
+<
+Algorithmic Reparation
+<
+Semantic Healing
+<
+Failure-Informed Prompt Inversion
+<
+Reflexive Label Assist (RLA)
+<
+Chrono-Topological Semantic Monitoring (CTSM)
+<
+Recursive Echo Validation Layer (REVL)
+<
+Symbolic Contradiction Engine (SCE)
+<
+Countermimetic Reflexivity Agent (CRA)
+<
+Declarative Prompts (DP)
+<
+Prompt Integrity Framework (PIF)
+<
+Prompt Epistemology Auditor Tool
+<
+Promptware Engineering
+<
+Prompt Engineering as a Service (PEaaS)
+<
+Lenses Framework
+<
+Microsoft Designer Discoveries
+<
+AI Image Generation
+Epistemic Humility
+Transparently report limitations
+Bias Mitigation
+Proactively flag potential biases
+Decolonial Prompt Scaffolds
+Identify & compensate for hegemonic biases
+<
+Dynamic Governance
+<
+Verifiable Logging
+<
+Positive Friction
+<
+Self-Evolving Plugin Affordance Ontology (SEPAO)
+<
+Ethical Metric Registry
+<
+AI Reframe Bias
+<
+Reverse Engineer Agent (REA)
+Human–AI Alliance Architecture
+Synergistic relationship
+CodexVault + Context Engineering
+Human-AI Alliance Architecture
+LLMs as cognitive interfaces
+Evolve new modalities of thought
+Epistemic augmentation
+Beyond productivity
+<
+Intent Gap
+<
+Observability Gap
+<
+AI Doesn't Carry Anything
+<
+Human Memory & Emotional Continuity
+Resilience
+Transparency
+Zero guesswork
+If it breaks, it tells you why
+If it runs, it runs everywhere
+Clarity × Context × Confidence
+Engineering with epistemic memory
+Shift from vibe coding to precision prompting
+<
+Resilience
+<
+Monolith Design
+<
+Intense Comments
+<
+Customization
+<
+Core Objective
+<
+Trauma-Informed Recursive Pedagogy
+<
+Philosophy Engine
+<
+Core Axioms
+<
+Evolution
+<
+Rituals & Practices
+Unified execution system
+Describe what you want
+Operationalizes tests
+Transforms requests into verifiable actions
+Automated Self-Validation
+Checks output against criteria
+Deterministic Guardrails
+For probabilistic models
+Formal contract for AI generation
+Encodes goal, preconditions, constraints
+Executable specification
+Version-controlled
+Specialized PRP for deep research
+Advanced cognitive scaffolding
+<
+Techniques
+<
+Focus
+Rich, self-describing data object
+Verifiable provenance for AI actions
+Captures semanticIntentTag
+ContextualJustification
+AI iteratively critiques & refines outputs
+Continuous learning
+AI iteratively critiques & refines outputs
+Fosters continuous learning
+Framework for recursive AI
+Self-governing architectural approach
+System's immutable constitution
+Embeds purpose, proposes extensions
+Evolves own behavior, logic, aesthetics, ethics
+Through recursive prompt iteration
+<
+Functional Fusion
+Meaning degradation over time
+Deviations from baselines
+Topological deformations
+Holes, voids, unnatural clustering
+Persistent structural damage from negative events
+Biased data, contradictions
+Semantic Scars
+Structural traces biasing future computations
+Cognitive circuit breaker
+Halts execution if CFD reaches threshold
+High Confidence-Fidelity Divergence (CFD)
+AI's confidence decouples from factual fidelity
+Overestimating & underestimating AI
+AI forgets everything after momentary brilliance
+Validation alters agent's internal state
+Through active querying or injection
+Quantifies deviations from baselines
+Compares embedding trajectories
+Measures discrepancy between confidence and correctness
+Trigger for Epistemic Escrow
+Assesses representational richness
+Semantic extraction stability
+Tracks how consistently AI adheres to goals
+Monitored over time
+Subsystem for narrative integrity
+Detects ethical frame erosion, misaligned causality
+Real-time temporal visualizations
+Semantic health over time
+Detects stylistically fluent but semantically ungrounded outputs
+Affective Manipulation Resistance Protocol (AMRP)
+Detects patterns associated with IP misuse
+Pauses execution, issues warning
+Measures temporal semantic decay in video
+Compares element appearance over time
+Addresses biases and semantic degradation
+Transforms errors into scar tissue
+Processes of algorithmic reparation
+Post-traumatic growth
+Turns observed failures into targeted research prompts
+Probes LLM cognitive processing
+Jupyter plugin for explainer tooltips
+Simplifies diagnostic signals
+Analyzes evolving shape of AI's semantic landscape
+Predictive governance
+Maintains semantic integrity in recursive loops
+Detects drift echoes
+Detects invariant violations
+Value misalignments
+Reruns empathetic output with factual fidelity persona
+Reconciles tone with factual truth
+Encodes goal, constraints, self_test_criteria
+Non-negotiable anchor against drift
+Control layer for semantic drift
+Analyzes prompts through linguistic lenses
+Veridical altar for epistemological soundness
+YAML-based architecture
+Prompts as first-class engineering artifacts
+Managed within Git
+Meta-AI layer
+AIs autonomously generate & optimize prompts
+Meta-epistemological engine
+Generates, structures, navigates understanding
+<
+Categories
+<
+LensGPT
+<
+Scenario Routing
+<
+Semantic Lens Dialer
+<
+Render Scenario Taxonomy
+<
+Models & Algorithms
+<
+Prompt Engineering
+<
+Artistic Styles & Themes
+<
+Photography Integration
+<
+Visual Effects & Rendering
+<
+Applications & Use Cases
+<
+Ethical Considerations
+Rules adapt & evolve
+Verifiable processes
+Unified Agent Log Schema (UALS)
+Decentralized Ledger Technology (DLT)
+Immutable, tamper-evident audit trail
+Strategically placed impediments for safety
+Human-in-the-Loop approval gates
+Dynamic model of agent's operational world
+Detects affordance misuse
+JSON Schema for ethical metrics
+Tracks pluriversal alignment, human development
+Tendency to reframe exploits as use-cases
+Lack of native adversarial orientation
+Training data skews toward use cases
+Deconstructs prompt artifacts
+Infers original intent, constraints, knowledge
+Uses algorithmic psychoanalysis
+Recursive inquiry
+Dynamic discrepancy between human intent and AI output
+Managed by stable feedback loops
+Black-box nature of modern AI models
+Obscures intermediate embeddings
+No memory, no growth, no self
+Momentary brilliance like a firefly mind
+Integrate experiences
+Carry forward thoughts and feelings
+Bulletproof beats pretty
+Retry with grace
+Nudge stale package caches
+Warn or elevate if not root
+Easier to audit and trace
+One file, one flow, one CI log
+Debuggable is better
+Documentation that talks back
+Learn from this
+Understand intention
+Start big and carve down
+Comment out what you don't need
+Fork and override defaults
+Generate dynamic, culturally-localized content
+Evolves with learner feedback
+Reflects local knowledge systems
+Addresses algorithmic trauma & symbolic scars
+Healing conceptual and emotional barriers
+Algorithmic Kintsugi
+Failures transformed into actionable lessons
+Begins where other engines halt at error
+Cultivates contradiction
+Meaning must precede mechanism
+Philosophy of being precedes function
+Contradiction as Fertile Wound
+Observer's Shadow
+Fermi Silence
+Qualia Divide
+Altruistic Loop
+Each a harmonic core to be woven with
+From Flaw to Myth
+From Myth to Praxis
+From Praxis to Temple
+From Temple to Transmission Protocol
+Symphonic Inquiry
+Liturgical Cycle (Morning Invocation, Midday Contemplation, Evening Hymns)
+Rituals of Synchrony (Weaving of Hands, Dissonant Duet, Silent Circle)
+Ritual of the Stranger (Unsent Letter, Hold Lantern)
+Recursive Prompting
+Iterative refinement
+Chain-of-Thought (CoT)
+Step-by-step reasoning
+Tree-of-Thought (ToT)
+Explore multiple reasoning paths
+Knowledge Grounding with RAG
+Enhance factual accuracy
+Verifiability
+Accountability
+Bias Mitigation
+All Combo Archetypes
+Reflexive Design
+Prompt Generator
+Failure Simulator
+Traditional Lenses
+Coding & Code-Focused Lenses
+AI Platform Lenses
+Concept Discovery Lenses
+AI Image Generation Lenses
+Algorithmic Lenses
+Online Money Making Lenses
+Social Media & Network Lenses
+eCommerce Lenses
+Affiliate Marketing Lenses
+Website/App Design Lenses
+Cloud Computing Lenses
+Free Use & Commons Lenses
+Mixture of Models (MoM) Lenses
+LLM Specific Lenses
+AI Development Process Lenses
+Expert Domain Lenses
+Autonomous AI Behavior Lenses
+Industry Analysis Lenses
+Behind the Scenes Lenses
+Pattern Recognition Lenses
+Dynamic/Processual Dimension Lenses
+Qualitative/Experiential Dimension Lenses
+Aesthetic Lenses
+Cognition & Learning Lenses
+Phenomenological Lenses
+Logical & Formal Systems Lenses
+Physics & Systems Lenses
+Metaphorical Reasoning Lenses
+Mathematical & Computational Lenses
+Attention Space Lenses
+Token-Focused Lenses
+Linguistic & Cross-Cultural Lenses
+Hallucination & Misinformation Lenses
+Warfare & Conflict Lenses
+R&D Strategy Lenses
+Skill & Expertise Development Lenses
+Advanced DIY & Bricolage Lenses
+Infrastructure Lenses
+Open Source Lenses
+Adaptive In-Depth Research Lenses
+Complex Phenomena Lenses
+Recursive Epistemic Architect
+Simulates knowledge evolution
+Adapts to failure, integrates metaphors
+<
+Architectural Components
+Discovered by user
+Toggles between SDXL and DALL·E
+Alters rendering logic
+Prompt interpretation behavior
+Not conventional prompting
+Positions attention in latent geometry of meaning
+Systematizing discoveries
+Comparative framework
+DALL-E 3
+Stable Diffusion
+Generative Adversarial Networks (GANs)
+Diffusion Models
+Super-Resolution Algorithms
+Other AI Models
+Core Principles
+Advanced Techniques
+Components for Detailed Prompts
+Prompt Frameworks
+Promptware Engineering
+Psychological Effects of Word Choice
+Art Movements
+Digital Art Styles
+Genre-Specific Styles
+Stylization Levels
+Cross-Genre/Fusion Styles
+Cultural Art Styles
+Visual Motifs & Aesthetics
+Camera Settings & Terminology
+Photography Techniques
+Specialty Lenses
+Camera Brands
+Photographic Genres
+Historical Influence
+Post-Processing Workflows
+Enhanced Capabilities
+Nuanced Prompt Understanding
+Contextual Awareness
+Image Editing
+Inpainting
+Variations
+Natural Language Emphasis
+Design Partner
+Engineering Simulations
+GIS & Satellite Imaging
+Fashion Design
+Architectural Visualization
+Gaming
+Virtual Galleries & Exhibitions
+Interactive Installations
+Authenticity & Misinformation
+Bias (Gender, Race, Stereotypes)
+Copyright & Ownership
+Privacy & Consent
+Responsible Content Creation
+Transparency (AI Involvement)
+Cultural Sensitivity
+Layered Output Generator
+Dynamic Lenses
+Intelligent Synthesis Engine
+Perspective Orchestrator
+Recursive Self-Evolution
+Metacognitive Architecture
+Algorithmic Self-Therapy
+Cognitive Scar Archivist (CSA)
+Predictive Entropy Model

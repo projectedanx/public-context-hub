@@ -1,0 +1,66 @@
+Architectural Blueprint for Sovereign Cognitive Networks
+Hybrid Cognitive Edge & Sovereign Core
+<
+Core Architecture Patterns
+<
+Key Architectural Decisions (ADRs)
+<
+Implementation Roadmap
+<
+Risk & Mitigation
+<
+Local-First Hybrid
+<
+Sovereign Core Inversion
+<
+Intelligence & Routing
+<
+Data & State
+<
+Governance
+<
+Phase 1: Foundation
+<
+Phase 2: Integration
+<
+Phase 3: Autonomy
+<
+Technical Risks
+<
+Human Factors
+<
+Validation Metrics
+<
+WASM Cortex
+Local SLM Inference
+Cloud-Augmented LLM
+Fractal Micro-Kernels
+Intent-Based Bus
+Active-Inference Swarm
+Sovereignty-Aware Cascading
+Model Router Abstraction
+Epistemic Wrapper Protocol
+CRDT-based Session State
+Crypto-Shredding Erasure
+Semantic Batching Actor
+Adversarial Compilation
+Airgap Filter Gateway
+Economic Circuit Breakers
+Promptsmith / Shadowing
+Golden Config Seed
+Local Privacy Perimeter
+The Architect / Cannibalisation
+Cloud Gateway Deployment
+Semantic Diff Generation
+The Mentor / Detonation
+Workflow Optimization Coach
+Cognitive Mesh Activation
+Entropy Collapse
+Vector Search Paradox
+WASM Resource Contention
+Cognitive Vertigo
+Alert Fatigue
+Ghost Coach UI Flow
+P95 Latency <75ms
+100% Secret Stripping
+Cross-kernel Dependency Reductions

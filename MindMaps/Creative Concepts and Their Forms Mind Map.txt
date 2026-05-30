@@ -1,0 +1,312 @@
+Creative Concepts and Their Forms
+<
+AI and Creative Fields: Prompts, Images, and Ethics
+<
+AI Prompt Engineering
+<
+AI Image Generation
+<
+AI in Creative Industries
+<
+Ethics and Implications
+<
+Dragons (Cultural/Mythological Contexts)
+<
+Demons (Psychological/Theological/Literary)
+<
+Gothic Literature
+<
+Gothic Architecture
+<
+Crafting Effective Prompts
+<
+Prompt Elements
+<
+Types of Prompts
+<
+Advanced Techniques
+Prompt Length Experimentation
+Keyword Weighting
+Negative Prompts
+Prompt Chaining
+Prompt Journals
+Learning Resources
+<
+Process
+<
+Prompts for Images
+<
+Technologies
+Upscaling and Enhancement
+<
+Limitations
+Comparison to Traditional Photography
+<
+Photography and Editing
+<
+Graphic Design
+Creative Storytelling and Storyboarding
+Impact on Authenticity and Ownership
+<
+AI-Generated Images
+<
+Privacy
+<
+Fairness and Bias
+<
+Transparency and Disclosure
+<
+Global and Cultural Perspectives
+<
+Ethical Safeguards
+<
+Origin Theories
+<
+Characteristics
+<
+Cultural Presence
+<
+Specific Examples
+Symbolism
+Real Animals Called 'Dragons'
+<
+Psychological Perspectives
+<
+Theological Perspectives
+<
+Historical/Cultural Context
+<
+Relationship to Mental Health
+Gender Differences in Possession (Often Women)
+Dostoevsky's 'Demons' (Novel)
+<
+Origins
+<
+Key Themes
+<
+Setting (Architecture)
+First Novel: 'The Castle of Otranto'
+Frankenstein (Mary Shelley)
+<
+Key Characteristics
+<
+Development
+<
+Periods/Styles
+<
+Structural Elements
+<
+Architectural Types
+<
+Decoration
+Decline and Transition (Renaissance)
+Survival and Revival (Gothic Revival)
+Specific and Detailed
+Natural Language
+Concise
+Include Key Elements
+Contextual Information
+Refine and Adjust
+Task Definition
+Context
+Requirements
+Output Format
+Purpose
+Audience
+Scope
+Zero-Shot
+Few-Shot
+Instructional
+Role-Based
+Contextual
+Meta Prompt / System Prompt
+Recursive Self-Improvement
+Context-Aware Decomposition
+Controlled Hallucination for Ideation
+Multi-Perspective Simulation
+Calibrated Confidence Prompting
+Chain-of-Reasoning
+Connecting Multiple Models
+Text-to-Image
+Image-to-Image
+Detailed Visual Descriptions
+Include Subject
+Define Scene or Setting
+Add Additional Elements
+Specify Style
+Lighting
+Colors
+Mood
+Composition
+Camera/Lens Details
+Aspect Ratio
+Negative Prompts
+GANs
+Diffusion Models
+Complex Scenes
+Abstract Concepts
+Consistency Across Frames
+AI Photo Culling
+Post-Production Workflow
+Automatic Enhancements
+Image Recognition for Management
+Deep Learning and Real-Time Analysis
+Personalized AI Assistants
+Write Copy (Taglines, Call-to-Actions)
+Generate Design Concepts
+Suggest Color Schemes
+Draft Client Update Emails
+Social Media Templates
+Using AI for Ideation
+Using AI to Explain Ideas Visually
+Authorship
+Authenticity
+Ownership
+Threat to Visual Evidence
+Blurring Art and Appropriation
+Bias in Training Data
+Under/Misrepresentation
+Data Collection Practices
+Transparency in Algorithms
+User Consent
+Ensuring Fair and Impartial Responses
+Bias Mitigation Strategies
+Inclusive Design Principles
+Achieving Total Neutrality
+Clear Guidelines
+Transparent Labeling
+Metadata Tagging
+Mandating Disclosure
+Global South Representation
+Cross-Cultural Perceptions of Authenticity
+Transparent Metadata
+Opt-in Datasets
+Educating Users
+Pre-scientific Speculation
+Rainfall and Drought Mechanism
+Rainbow Phenomenon
+Fossil Origins (Carboniferous Plants)
+Misidentification of Animal Bones
+Giant Snakes/Serpents
+Fire-Breathing
+Hoarding Treasure
+Multiple Heads
+Association with Water
+Reptilian Appearance (Scales, Feet)
+Feathers (Misidentified Fronds)
+Wings
+Varied Personalities (Good, Evil, Neutral)
+Ancient Near East (Mesopotamia, Levant)
+Egypt (Apep)
+East Asia (China, Korea, Japan, Vietnam)
+South Asia (India, Bhutan)
+Europe (Greek, Germanic, Welsh, Slavic, Iberian, Italian)
+Fantasy Literature/Media
+Mušḫuššu (Mesopotamia)
+Apep (Egypt)
+Vṛtra (Rigveda)
+Leviathan (Hebrew Bible)
+Lernaean Hydra (Greek)
+Jörmungandr (Norse)
+Fafnir (Norse)
+Beowulf Dragon
+Aži Dahaka (Persia)
+Loong (China)
+Korean Dragon
+Druk (Bhutan)
+St. George and the Dragon
+La Gargouille (French Legend)
+Welsh Dragon (Y Ddraig Goch)
+Zmeys (Slavic)
+Cuélebre (Spain)
+Herensuge (Basque)
+Drac (Catalan)
+Víbia / Vibra (Catalan)
+Coca (Portuguese)
+Lambton Worm (British Folklore)
+Sockburn Worm (British Folklore)
+Mosten Dragon (British Folklore)
+Uktena (North America)
+Smaug (The Hobbit)
+Dungeons & Dragons Varieties
+Pern Dragons
+Fourth Wing Dragons
+Temeraire Dragons
+Modern Depth Psychology
+Manifestation of Unconscious Psyche
+Appearing in Both Realms
+Related to Complexes of Collective Unconscious
+Partial Personalities
+Objectivity of Psyche
+Active Imagination Method
+Inner Figures
+Manifestation of Fears
+Counterreaction to One-Sided Views
+Beliefs about Demon Possession
+Spectrum of Views
+Theological Realism
+Theological Purity
+Theological Complexity
+Demons Causing Mental Disorder
+Differential Diagnosis
+Ontologically Real Infectious Agent
+Connection to Christian Tradition
+Ancient Near East
+Ancient Greece (Daimon)
+Hellenistic Syncretism
+Early Christianity
+Medieval Iconography (Devil)
+Shift from High Gods to Demons
+Regressive Appearance
+Demon Possession History
+Attention of Mental Health Professionals
+Associated with Human Suffering
+Compared to Mental Disorders
+Faith-Based Abuse Concerns
+18th Century Response to Age of Enlightenment
+Early Victorian Period
+Influences (Shakespeare, Milton)
+Unfathomable Sense
+Death and Impending Mortality
+Time and its Passage
+Destruction and Chaos
+Awesome Power of Nature
+Supernatural Forces
+Shadowy Depths of Mind
+Challenging Morality and Rationality
+Darker Side of Human Nature
+Important Metaphorically Charged Aspect
+Winding Tunnels (Unknown)
+Crumbling Buildings (Unravelling Psyches, Death)
+Pointed Arch
+Rib Vaults
+Flying Buttresses
+Large Windows (Stained Glass)
+Verticality
+Ornate Decoration
+Evolution from Romanesque
+Influence of Growing Cities
+Desire for Local Grandeur
+Technical Improvements
+Influence of Theological Doctrines (Light)
+Accommodation of Pilgrims
+Influence of Islamic and Armenian Architecture
+Early Gothic / First Pointed / Lancet Style
+High Gothic
+Rayonnant (Maximized Glass, Tracery)
+Decorated Gothic (Ornamentation of Tracery)
+Perpendicular Gothic / Third Pointed (Straightened Tracery, Fan Vaulting)
+Flamboyant Style (Lavish Pointed Details)
+Italian Gothic (Distinctive Elements)
+Nave
+Transept
+Choir / Chancel / Presbytery
+Ambulatory
+Chapels
+Towers and Spires
+Cathedrals and Churches
+Civic Architecture (Town Halls)
+Academic Buildings (Colleges)
+Military Architecture (Castles, Keeps)
+Sculpture (Portals, Tympanum)
+Gargoyles (Rain Spouts)

@@ -1,0 +1,110 @@
+Mind map
+Architecting Trustworthy and Resilient AI Agent Systems
+Architecting Trustworthy & Resilient AI Agent Systems
+<
+Foundational Governance Frameworks
+<
+Agentic Architecture & Patterns
+<
+Trust, Auditing & Verifiability
+<
+Gemini CLI Ecosystem & Features
+<
+Antifragile Cognitive Framework (ACF)
+<
+Constitutional AI (CAI)
+<
+Rehearsal Before Ignition Protocol (RBIP)
+<
+Epistemic Engineering
+<
+Cognitive Challenges & Failure Modes
+<
+Orchestration Models
+<
+Agentic Assemblage (Specialized Personas)
+<
+Cognitive Mechanism / Control
+<
+Provenance & Accountability
+<
+Metrics & Validation
+<
+Safety & Recovery
+<
+Core Functionality
+<
+Configuration & Governance
+<
+Integration & Extensibility
+<
+Model Strategy & Economics
+<
+Antifragility: Gain from Volatility/Failures
+Policy-as-Code (PaC): Enforce Rules Automatically
+Formal Verification (FV): Mathematical Guarantees
+Context-to-Execution Pipeline (CxEP): Workflow Integration
+Guided by Principles/Constitution
+RLAIF (RL from AI Feedback) Phase
+Model Adherence Gap (Struggles with Positive Framing)
+Structured Practice in Controlled Environment
+Tri-Track Assurance Framework (TTAF)
+Quantified by Risk Mitigation Value (RMV)
+Structure AI's Cognitive Processes
+Conceptual Blending Theory (CBT) as Blueprint
+Productive Epistemic Friction (PEF)
+Archetypes (e.g., Bodhisattva, Jester, Ruler)
+Cognitive Debt: Mental Cost of Opaque AI
+Semantic Drift / Interpretive Fracture
+Concept-to-Code Decay
+Illusion of Verification / Epistemic Fragility
+Monolithic AI Fallacy (Lack of Scalability/Cohesion)
+Magentic Orchestration (Manager-Agent Paradigm)
+Multi-Agent Debate (MAD)
+Scatter-Gather (Parallelized Research)
+ReAct Loop (Reason-Act-Observe)
+Sequential Research Synthesizer
+Feature Planner (Why/What)
+Architect (How/System Design)
+Coder (Implementation/Code)
+Tester (Verification/Quality)
+Integrator (Cross-Stack Coherence/Glossary)
+DevOps Integrator (CI/CD/Automation)
+Cognitive State Regulation
+System 1 (Fast/Heuristic) vs. System 2 (Deliberative/Rigor)
+Evolutionary Resource Gating
+Paradox Formalization (Paraconsistent Logic)
+Provenance Gap (Lack of Auditable History)
+Cryptographic Verifiability
+W3C PROV-AGENT (Data Model for Agent Actions)
+Decentralized Identifiers (DIDs) for Agent Identity
+Verifiable Chain of Knowledge (Audit Trail)
+Value Score of Confidence (VSC)
+Confidence-Fidelity Divergence Index (CFDI)
+Semantic Contamination Index (SCI)
+Mutation Recoverability Score (MRS)
+Drift Monitoring/Detection (CP, DIM, Drift Maps)
+Germane Cognitive Load (GCL) Budget
+Human-in-the-Loop (HITL) / Interactive Clarification
+Epistemic Escrow (Mandatory Review Gate)
+Symbolic Scar Archive (Logs Failures)
+/restore Command (Checkpointing Failsafe)
+Sandboxing (Isolated Execution)
+Terminal/IDE Integration
+Context Management (@ syntax)
+Custom Slash Commands (.toml files)
+/init (Automates GEMINI.md Creation)
+/directory (Access Multiple Directories)
+GEMINI.md (Agent's Constitution/Semantic Anchor)
+Verification Mandates (Executable Test/Lint Commands)
+settings.json (Global/Project Config)
+Local .env Shadowing Conflict
+Model Context Protocol (MCP) Support
+Dynamic Tool Discovery
+GitHub Actions Integration (Automated CI/CD)
+Workload Identity Federation (WIF) for Keyless Security
+Extensions (e.g., /deploy, /security:analyze)
+Gemini 2.5 Pro (Deep Reasoning/High Cost)
+Gemini 2.5 Flash (Speed/Cost-Efficient)
+Free-Tier Risks (Silent Downgrades/Non-Determinism)
+/memory:compress (Context Reduction)

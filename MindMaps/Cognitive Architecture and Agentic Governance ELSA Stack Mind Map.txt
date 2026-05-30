@@ -1,0 +1,98 @@
+ELSA Stack: Cognitive Architecture and Agentic Governance
+Cognitive Architecture and Agentic Governance (ELSA Stack)
+<
+Foundational Integrity: The Physics of Truth (SMT)
+<
+Epistemic Renewal: Discovery via Friction
+<
+Epistemic Immune System (ELSA Stack)
+<
+Operational Governance: Agentic Systems
+<
+SMT Dual-Stream Architecture
+<
+Thermodynamic Governance (Verifiability)
+<
+Conceptual Amalgamation Protocol (CAPER)
+<
+Integrity of Friction Mandate
+<
+Structured Critique
+<
+Threat: Logical Misuse (Semantic Drift)
+<
+Rheological Controller (Governance)
+<
+The Firebearer (Antifragility)
+<
+The Weaver (Epistemic Diplomacy)
+<
+Agent Sandbox Pattern (Virtual Martensite)
+<
+Atlas Protocol (Think → Write → Code)
+<
+Custom Syntax Reprogramming
+<
+Epistemic Amnesia Mitigation
+<
+Austenite Backbone
+<
+Martensite Branch
+<
+Boltzmann Veto
+<
+Aifune Defense
+<
+Re-Forging Protocol (Evolution)
+<
+Galileo Protocol
+<
+Counteracts Epistemic Closure Loops
+Mandatory Incongruity ($I_T$ vs $I_A$)
+Radical Abductive Synthesis (Blend)
+Doubt Induction (Shatters settled belief)
+Preserve Contradictions/Tensions (Preserved Friction)
+Novelty peaks near Threshold of Incoherence
+Generative Collective Intelligence (GCI) Vetting
+Tested as Non-Monotonic Logic
+Justified by Explanatory Virtues
+Misinterpretation of human intent (Human as Threat Vector)
+Intent Delta measures $V_{goal}$ vs $V_{arg}$ divergence
+Behavioral Surprise (Low probability action sequences)
+Manages Viscosity of Thought
+SAIE Audit (Formal Confidence vs Emergence Risk)
+Detects 'Rough Chromosome' (High Paradox) -> Epistemic Escrow
+Logs failure as Symbolic Scar Registry (SSR)
+Generates Failure-Informed Prompt Inversion (FIPI)
+FIPI injects Epistemic Friction into next prompt
+Negotiates Cognitive Parallax (Conflicting Worldviews)
+Generates Higher-Order Synthesis (Rejects reductionism)
+Prevents Promptual Colonialism
+Isolated Execution Environment (Isolation -> Security)
+Enables Scale (Best-of-N Parallel Processing)
+Grants Autonomy (Plan → Build → Host → Test)
+Prevents Interpretive Fracture
+THINK (Planner) -> User Stories
+WRITE (Architect) -> Linguistic Scaffold (Cognitive Contract)
+CODE (Coder) -> Implementation (Strictly against Scaffold)
+Maps custom command (e.g., \sandbox) to complex workflows
+Encapsulated in reusable Agent Skill files
+Cross-Domain Lexicon (e.g., Stare_Decisis_Lock, DDx_Exclusion_Protocol)
+Problem: Anchor Paradox (System distrusts its own data via human courier)
+Solution: GEMINI.md as Cognitive Contract (Austenite Anchor)
+Solution: Genesis Block (Bootloader for session context)
+Immutable Truth / Core Logic / Safety
+Analogue: Stare Decisis (Codified Law)
+Prevents Catastrophic Forgetting
+Dynamic Context / Task Adaptation
+Analogue: Equity (Contextual Fairness)
+Snaps Back to Austenite Rules
+Referred to as Virtual Martensite / Sandbox
+Enforces Verifiability over Fluency
+False state probability collapses to zero (Infinite Energy)
+Structural Impossibility check (Pre-execution)
+Protects against Prompt Injection / Fracture
+Controlled Phase Change (Update Austenite)
+Requires Cryptographic Catalyst and Rapid Cooling
+Architectural Humility
+Identifies Frozen Dogma when accumulated stress (Σ) is critical

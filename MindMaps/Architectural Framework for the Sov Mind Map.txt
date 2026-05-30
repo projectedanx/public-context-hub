@@ -1,0 +1,51 @@
+Architectural Framework for the Sovereign Cognitive Operating System
+Sovereign Cognitive Operating System (SCOS)
+<
+Three-Tier Sovereignty Gradient
+<
+Epistemic Matrix (E = <G, G-, C, T, H>)
+<
+Agent Forge Council
+<
+G2Pv2 Implementation Pipeline
+<
+Public Membrane (Tier 0)
+<
+Core Problems Addressed
+<
+Tier 1: Personal Sovereign OS
+<
+Tier 2: Local Sovereign Swarm
+<
+Tier 3: Cloud Sovereign Swarm
+<
+G: Goals (Strategist)
+G-: Anti-Goals (Immunologist)
+C: Communication (Linguist)
+T: Tools & Output (Engineer)
+H: History (Historian)
+Conductor (The Sovereign)
+Recursive Flow (Discovery to Finalization)
+ECDSA P-256 Signing
+Symbolic Scar Registry
+P0: Refactored Router
+Artifact-as-Contract
+Bounded Rework Loops
+Provenance Hashing
+Ontological Diplomacy
+Knowledge Capsules (HTML/JSON/JSON-LD)
+Anionic Architecture
+Transparency of Omission
+Keyhole Problem (Linear Bottleneck)
+Cognitive Debt (Agency Decay)
+Semantic Drift (Misalignment)
+Token Collapse (Coherence Loss)
+Mirror System
+Cognitive Capacity Preservation
+Agentic Forge
+Orchestration Layer
+G2Pv2 Pipelines
+Human-in-the-Loop (HITL)
+Industrial Layer
+Parallel Sandboxes
+Thermodynamic Containment

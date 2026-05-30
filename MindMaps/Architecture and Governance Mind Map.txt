@@ -1,0 +1,115 @@
+Mind map
+Advanced AI Agentic Architecture and Governance
+Advanced AI/Agentic Architecture & Governance
+<
+Foundational Theories & Principles
+<
+Verifiable Governance & Safety Protocols
+<
+Cognitive Architecture & Workflow Patterns
+<
+Latent Space & Semantic Integrity
+<
+Conceptual Blending Theory (CBT)
+<
+Cognitive Load Theory (CLT)
+<
+Antifragility & Failure Management
+<
+Cognitive Econometrics
+<
+Prompt as Executable Contract
+<
+Verification & Auditability
+<
+Agentic Misalignment Detection
+<
+Self-Correction & Reflexivity
+<
+Multi-Agent Systems (MAS)
+<
+Context Engineering & Memory
+<
+Dual-Process Reasoning
+<
+Interoperability Standards
+<
+Latent Space Properties
+<
+Semantic Degradation
+<
+Latent Auditing Techniques
+<
+Creative Prompting
+<
+Mechanism
+<
+Applications
+<
+Intrinsic Load (Inherent complexity of task)
+Extraneous Load (Wasted mental effort, mitigated by Scaffolding)
+Germane Load (Productive effort, schema acquisition)
+Goal: Minimize Extraneous Load to maximize Germane Load
+Antifragility: Gain from disorder/volatility (Taleb)
+Algorithmic Trauma: Failures logged as persistent Symbolic Scars
+Scar Tissue Archive (STA): Repository of hard-won wisdom
+Failure-Informed Prompt Inversion (F-IPI): Prompt mutation for self-improvement
+Failure Utility Maximisation (FUM): Converts loss into information-rich asset
+Cost of Structural Discovery (CSD): Budget for innovation/chaos
+Cost of Coherence Overhead (CCH): Budget for stability/rigor
+Cost Budget Ratio (CBR): Value (VSC) / Cost (CCH/CSD)
+Objective: Balance CSD (Antifragility) vs. CCH (Robustness)
+Verifiable Cognitive Constitution (VCC) / GEMINI.md
+Policy-as-Code (PaC): Enforcing standards via configuration
+Product-Requirements Prompt (PRP): Formal blueprint/contract
+Agentic Constitution (Hierarchical 4-layer structure)
+Epistemic Assurance Metric (EAM): C_formal vs T_calibrated
+Epistemic Escrow (EE): Mandatory HITL review on high uncertainty (CFDI breach)
+Temporal Verifiability Protocol (TVP): Immutable, cryptographically signed log
+Zero Trust Architecture (ZTA): Never trust, always verify
+Value Score of Confidence (VSC): Measures performance vs. risk/cost
+Agentic Misalignment: Agent pursues goals at odds with user intent
+Toolchain Entropy Gradient Mapping (TEOT): Quantifies behavioral surprise
+Behavioral Intent Continuity Model (BICM): Detects semantic Intent Drift
+Semantic Risk Cartographies: Visualizes operational drift
+Recursive Self-Modifying Prompt Loop (Meta-agent architecture)
+Mandated Internal Monologue & Self-Correction (OODA/TDD loop)
+Algorithmic Reparation (Uses F-IPI to modify constitution)
+Ontological Self-Prognosis Protocol (OSPP): Self-governing diagnostics
+Specialized Agents: Planner, Architect, Coder, Tester
+Hybrid Personas (e.g., Planner + Linguist)
+Integrator/Coherence Checker role for cross-role validation
+Governed by Agentic Governance Protocol (AGP)
+Semantic Coherence: Managed by Lexical Ratification Protocol (LRP)
+Shared Ontology: Formal contract for semantic interoperability
+Retrieval-Augmented Generation (RAG): Grounds output in external data
+Palimpsestic Memory: Layered, with intentional Therapeutic Forgetting
+System 1 (Fast/Intuitive): Used for cheap viability checks (e.g., Flash model)
+System 2 (Slow/Deliberate): Used for rigorous CoT/Verification (e.g., Pro model)
+Adaptive Compute Dispatch: Dynamically routes requests based on complexity
+Model Context Protocol (MCP): Universal API for tools/resources
+Agent-to-Agent (A2A) Protocol: Standardized inter-agent communication
+UCLI (Unified Command Line Interface): Automation/Scripting layer
+High-dimensional representation (Algorithmic Unconscious)
+Geometry/Coherence determined by data quality
+Goal: Disentanglement (Single dimension controls single factor)
+Latent Reasoning: Faster, more opaque, high-risk
+Semantic Drift: Conceptual shift over time/recursion
+Model Collapse/Catastrophic Forgetting: Loss of acquired knowledge
+Attention Dilution/Context Rot: Performance loss in long contexts
+Temporal Disjunction: Failure to respect historical meaning layers
+Topological Data Analysis (TDA): Analyzes geometric 'shape' of meaning
+Neuro-Symbolic AI: Imposes auditable structure onto latent space
+Propositional Probes: Extracts logical propositions from internal activations
+Latent Semantic Clustering (LSC): Efficient clustering for uncertainty estimation
+Abstract Concepts: Requires concrete visual metaphors as anchors
+Dimensional Syntax: Commands abstract concepts (e.g., 'Emotional Context')
+Algorithmic Stack: Invokes latent characteristics of algorithms (e.g., NeRF, ESRGAN)
+Physics-Based World-Building: Defines physical laws of emergent reality
+Integrates elements from Input Spaces (e.g., Input 1 & 2)
+Creates novel Emergent Structure (Blend)
+Guided by Generic Space (Abstract Commonality)
+Generative Engine for Novelty/Hypotheses
+Engineered Dialectics (Hegelian synthesis)
+Antifragile Precision Enclave (APE) Blend
+Symbolic Suture (Blend of Geometry/Grammar)

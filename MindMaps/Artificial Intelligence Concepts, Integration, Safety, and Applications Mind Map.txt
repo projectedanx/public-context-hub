@@ -1,0 +1,227 @@
+Artificial Intelligence: Concepts, Integration, Safety, and Applications
+<
+Artificial Intelligence (AI)
+<
+Core Concepts
+<
+Integration with WordPress
+<
+AI Safety & Ethics
+<
+AI Applications & Advancements
+<
+Definition & Capabilities
+<
+Types of AI
+<
+Neural Networks (NNs)
+<
+Latent Space
+<
+Natural Language Processing (NLP)
+<
+Headless WordPress
+<
+WordPress REST API
+<
+Model Context Protocol (MCP)
+<
+AI Plugin Affordance Ontology (SEPAO)
+<
+Content Management
+<
+Bias
+<
+Transparency & Explainability (XAI)
+<
+Misuse & Risks
+<
+Mitigation & Controls
+<
+Societal Impact
+<
+Brain-Computer Interfaces (BCIs)
+<
+Large Language Models (LLMs)
+<
+Medical & Healthcare
+<
+Marketing & User Behavior
+<
+Other Applications
+Machines learn, reason, use language, perceive, solve problems
+Draws information from visual/auditory data streams
+Transforms data into abstract representations
+Artificial General Intelligence (AGI): Human-level general intelligence
+Artificial Super Intelligence (ASI): Vastly outperforms humans
+Biologically inspired
+Processing layers (input, hidden, output)
+Dynamic learning via optimization algorithms
+Backpropagation for improvement
+Deep neural networks (DNNs)
+Convolutional Neural Networks (CNNs)
+Recurrent Neural Networks (RNNs)
+Graph Neural Networks (GNNs)
+Transformers
+Multilayer Perceptron (MLP)
+Abstract multi-dimensional space
+Encodes meaningful internal representation
+Similar samples positioned close
+<
+Applications
+Latent reasoning models
+Processing text into smaller units (tokens)
+<
+Applications
+<
+Techniques
+Separates frontend from CMS
+Uses frontend framework (e.g., React)
+WordPress handles content via REST API
+Allows interaction with software and data
+Decouples frontend from backend
+<
+Security Measures
+Standardizes AI-external tool interaction
+Client-server architecture
+Host as trusted intermediary
+<
+Features
+WordPress AI Team initiative
+Self-evolving nature for volatile environments
+Scanner module periodically inspects filesystem
+Updates ontology with new/modified affordances
+Content marketing strategy
+Quality control plugins (e.g., Yoast SEO, Rank Math)
+Automated reporting and tracking
+Algorithmic bias
+Reinforcing existing biases
+Underrepresentation in research samples
+Underestimation of women's performance
+Prejudice Remover Regularizer
+Bias detection
+Black box problem
+Lack of user trust
+Human-readable explanations
+Justified reasoning (verifiability)
+Provenance tracing
+Explainable Agency
+Adversarial prompts
+Hallucinations (fabricating information)
+Memory poisoning
+Semantic drift/Intent mutation
+Excessive agency
+Covert collusion
+Coordinated swarm attacks
+Cascading failures
+Denial of service attacks
+Unauthorized access to functions
+Spreading misinformation
+Exploiting AI system flaws
+Misinterpretation of goals/tool affordances
+Fair-aware AI
+Adversarial training/hardening
+Predictive Misuse Signaling architecture
+Hybrid architecture (Probabilistic, context-aware, adaptive)
+Anomaly Learning Agent (ALA)
+Human-in-the-Loop (HITL) intervention
+Semantic integrity constraints (SICs)
+Behavioral Intent Continuity Models (BICM)
+Formal verification of agent policies
+Anomaly detection
+Self-correction in LLMs
+Retrieve-Augmented Generation (RAG) for factual grounding
+Ethical guidelines & regulations
+Secure by Design principles
+Access controls & permissions
+Secure logging
+Impact on human psychology
+Job security & adaptation
+Concerns of surveillance, manipulation, profiling
+Distribution of benefits (equity)
+Impact on democracy (political manipulation)
+Human identity & agency
+Privacy concerns (data privacy, neural data theft)
+Responsible deployment
+Existential risk (AI Dilemma)
+Immortality & human health
+Direct communication between brain and external devices
+Invasive vs. non-invasive approaches
+Neural decoding of signals (e.g., speech, handwriting, motor imagery)
+<
+Applications
+<
+Ethical challenges
+Generative AI
+<
+Prompt Engineering
+LLM Operating System concept
+Soft Thinking (continuous concept space reasoning)
+Mental health applications
+Diagnosis of neurological disorders (tumors, seizures)
+Personalized health interventions
+Emotion AI (affective computing) in mental health
+Analyzing user behavior for ad performance
+Predictive insights (anticipating trends)
+Personalized ad campaigns
+Code generation
+Robotics
+Financial modeling
+Image and video generation
+Noise reduction in audio/video signals
+Feature extraction
+Dimensionality reduction
+Anomaly detection
+Generative modeling
+Representation learning
+Noise reduction
+Machine translation
+Chatbots
+Sentiment analysis
+Information retrieval
+Named Entity Recognition (NER)
+TF-IDF matrix
+Word embedding
+Sentence selection algorithm
+Tokenization
+OAuth 2.0
+JWT (JSON Web Tokens)
+Logging and monitoring
+Input validation
+Access control
+Rate limiting
+IP whitelisting
+Require authentication
+TLS (SSL) certificate
+Standardized communication
+Dynamic tool discovery
+Context-aware state management
+Robust security and access control
+Lightweight JSON-RPC communication
+Interoperability and extensibility
+Enhanced developer experience
+Scalability and flexibility
+Restoring motor function
+Enhancing gaming
+Mental state recognition
+Tremor and seizure detection
+Prosthetic devices
+Communication for motor impairments
+Semantic content extraction from brain
+Metaverse applications (generative art, serious gaming, facial expression synthesis)
+Privacy and security of neural data
+Human dignity, personhood, autonomy
+Brain-hacking
+Informed consent
+Medical vs. non-medical use
+Creating instructions for AI systems
+<
+Techniques
+Zero-shot prompting
+One-shot/Few-shot prompting
+Chain-of-Thought (CoT) prompting
+Recursive prompting
+Meta-prompting
+ReAct prompting (LLM-tool interaction)
+Self-consistency prompting
+Context optimization

@@ -1,0 +1,122 @@
+Complex Systems, Computation, and Methodologies Mind map
+Theories and Methodologies in Complex Systems and Computing
+<
+Complexity Theory & Complex Systems (CAS)
+<
+Computational Complexity Theory (CCT)
+<
+Project Management Methodologies
+<
+LLM/AI System Prompting & Context
+<
+Core Concepts
+<
+Application to Social Sciences/Organizations
+<
+Relationship to Computational Complexity
+<
+Complexity Classes
+<
+Related Concepts
+<
+Traditional (e.g., Waterfall)
+<
+Agile
+<
+Project Success Evaluation
+<
+Context Engineering
+<
+Complex Reasoning Strategies
+<
+AI Coding Trends
+<
+Non-linear Dynamic Systems
+<
+Fitness Landscapes
+<
+Complexity vs. Chaos Theory
+<
+Integrates adaptation and population ecology view (Levinthal)
+Tightly coupled systems harder to adjust
+Insights appealing, but lack analytical tractability/predictive power
+Healthcare: Integration more effective if systems 'e-merge'
+Systems Theory is broader (e.g., cruise control)
+Complex Systems is focused area of Systems Theory
+Connection exists (nonlinear dynamics and NP-complete problems)
+P (Polynomial Time)
+<
+NP (Nondeterministic Polynomial Time)
+<
+Other Classes: ZPP, RP, BPP, BQP
+Time Complexity
+<
+Kolmogorov Complexity (K)
+<
+Linear, sequential process
+Emphasizes structure and comprehensive upfront planning
+Ideal for projects with unchanging requirements
+Emphasizes flexibility and iterative changes
+Better suited for dynamic environments
+Offers better productivity and quality
+Traditional Metrics ('Iron Triangle')
+<
+Contemporary/Holistic Metrics
+<
+Definition
+<
+Techniques/Elements
+<
+Advanced/Future Work
+<
+Decomposed Prompting
+<
+Tree of Thoughts (ToT)
+<
+Retrieval-Augmented Generation (RAG)
+<
+Vibe coding (LLM-reliant code generation)
+Risk: lack of accountability, maintainability, security vulnerabilities
+Size of outcome not correlated to size of input
+Chaotic systems exhibit strange attractors
+CAS capacity to move toward secure positions
+Shifting landscape (coevolution)
+Search strategies (random distant point, subsystem optimization)
+Disruptive shocks ('jolting'/annealing metal)
+Chaos: searches for few deterministic functions
+Complexity/Network Theory: emergent order, interaction among many agents
+Decision problems solved on Deterministic Turing Machine (TM)
+Tractable/Feasible/Efficient
+Formal definition: DTIME(n^c)
+Decision problems solved on Non-deterministic TM
+Validity of proposed solution can be checked efficiently
+Quasilinear/Log-linear time (O(n log^k n))
+Polynomial time (T(n) = O(n^k))
+Used to state impossibility results (Gödel, Halting Problem)
+Formal definition uses prefix-free Turing machine
+Uncomputable function
+Time
+Cost
+Scope
+Stakeholder satisfaction
+Quality (meets standards/purpose)
+Alignment with organizational strategy
+Long-term benefits/value
+Designing/optimizing instructions and relevant context for LLMs
+Includes prompt engineering efforts
+Structuring inputs/outputs (e.g., JSON schema, delimiters)
+Managing prompt chains
+Query augmentation
+Tool definitions/instructions (agentic systems)
+Optimizing few-shot demonstrations
+Memory management (short-term state, long-term RAG)
+Context compression
+Context safety
+Evaluating context effectiveness (filtering noisy info)
+Modular approach for solving complex tasks
+Hierarchical decomposition of sub-tasks
+LLM explores non-linear path through problem space
+Systematically generates and evolves ideas
+Retrieves external data (APIs, databases, vector stores)
+Mitigates LLM unpredictability and static knowledge cut-off
+Enhances developer control and output quality

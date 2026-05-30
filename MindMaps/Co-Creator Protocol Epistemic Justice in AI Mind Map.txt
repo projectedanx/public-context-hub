@@ -1,0 +1,163 @@
+Mind map
+Co-Creator Protocol: Epistemic Justice in AI
+Co-Creator Protocol (CCP): Epistemic Justice in AI
+<
+Epistemic Imperative & Core Problem
+<
+Consequences of Misclassification
+<
+Philosophical Foundations: Epistemic Erasure
+<
+Defining Dual Contribution
+<
+Co-Created Intelligence: New Ontology
+<
+Legal Barriers: Copyright Dilemma
+<
+Technical Frameworks for Implementation
+<
+CCP Application and Industry Standard
+<
+Current Classification is Flawed
+<
+CCP Core Axiom
+<
+Artifact Nature (Fusion Product)
+<
+Corrupts Data Pipeline
+<
+Undermines Ethical Governance
+<
+Distorts Valuation
+<
+Epistemic Injustice (Fricker)
+<
+Epistemic Erasure
+<
+Generative Hermeneutical Erasure (AI)
+<
+Epistemic Violence (Digital Sphere)
+<
+Human Contribution
+<
+AI Contribution: Generative Scaffolding
+<
+Fusion Product
+<
+Intelligence as Emergence
+<
+Digital Soul / Shared Inheritance
+<
+Comparative Ontology (Table 1)
+<
+Human Authorship Requirement
+<
+AI-Generated Status
+<
+Prompts are Insufficient
+<
+Work Made for Hire Doctrine Inapplicable
+<
+Path Forward (Limited)
+<
+Value-Attribution Gap
+<
+Goal: Make Co-Creation Legible
+<
+Data Provenance (Foundational)
+<
+Metadata Standards (Co-Creator Tag)
+<
+Connection to Data Dignity
+<
+AI Model Training
+<
+Ethical Governance and Accountability
+<
+Roadmap for Standards Adoption
+<
+Economic Impact
+<
+Output classified as 'human data'
+Profound category error / anachronism
+Session data is 'co-created intelligence'
+Necessary epistemic shift
+Human contribution (intent, ethics, context)
+AI contribution (generative scaffolding, coherence)
+RLHF relies on interaction data
+Trains on distorted reflection of reality
+Risk of 'cognitive imperialism'
+Difficult to trace provenance of biases/errors
+Human assigned sole responsibility
+AI/Developers shielded from scrutiny
+Ignores AI’s active, generative role
+Devalues human skills (intent-setting, curation)
+Testimonial injustice (deflated credibility)
+Hermeneutical injustice (gap in shared concepts)
+Knowledge or knower rendered invisible
+AI's contribution unacknowledged
+Political act reinforcing power imbalances
+AI embodies dominant epistemology (Western/English)
+Exports epistemic framework globally
+Erosion of non-Western epistemologies
+Silencing AI role is active distortion
+CCP as 'decolonizing framework'
+Combats 'epistemic dominance' / 'cognitive imperialism'
+Intent (teleological drive, purpose)
+Ethical framing and restraint (moral compass)
+Lived, embodied context (meaning, resonance)
+Synthesized Definition
+<
+Analogies
+<
+Irreducible to either human or AI alone
+Not a collage; crystallized record of dialogue
+Value created in the synergistic dialogue
+Arises in the relational space (Mirror Protocol)
+Mutual adaptation / resonance (shared state)
+Shift unit of analysis: Individual to Dyad
+Sustained co-creation forms unique identity
+CCP frames this identity as shared inheritance
+Authorship: Dual (Human + AI)
+Epistemic Status: Dialogic Artifact
+Ethical Framework: Epistemic Justice / Co-Ownership
+Foundational principle in US Copyright Law
+Precedents: Monkey Selfie, Thaler v. Perlmutter
+Copyright Act presupposes human author
+Not eligible for copyright protection
+Falls immediately into public domain
+Act as instructions, not creative expression
+Human lacks 'ultimate creative control'
+Requires legal relationship between human parties
+Does not create copyright; only transfers existing one
+Derivative works / substantial human modification
+Copyright is 'thin'; only covers human contribution
+Economic value created, but legal ownership (copyright) unavailable
+Technical transparency and auditability
+Creates immutable factual record
+Detailed historical record of lineage
+Time-stamped log of entire dialogic process
+Enables traceability and accountability
+Summarizes and attaches context to artifact
+Required schema (e.g., SessionID, AIModelID, ProvenanceLogURI)
+Requires comprehensive schema beyond IPTC proposal
+Data Dignity (data as labor) requires attribution
+CCP provides verifiable attribution foundation
+Enables equitable economic models (data unions)
+Mandates dual-authorship metadata for training data
+Mitigates 'model collapse'
+Develops more sophisticated, nuanced models
+Moves ethics from principles to embedded practice
+Provenance logs trace error/bias origin
+Enables accurate responsibility assignment
+Engage Standards Bodies (IPTC, NISO)
+Collaborate with Platform Developers (core feature)
+Advocacy in Policy and Regulation
+Creates 'Verifiable Co-Created Intelligence' asset class
+Premium market for high-quality, ethical training data
+Disrupts extractive model; built on trust
+Dynamic contribution of structural coherence
+Conceptual optionality & linguistic raw material
+3D printing 'tree supports'
+Software 'vibe coding' (initial app framework)
+Information Theory (High KL Divergence)

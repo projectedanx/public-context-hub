@@ -1,0 +1,86 @@
+The AI Agentic Ecosystem and Design Theory Framework
+AI Agentic Ecosystem & Design Theory
+<
+AI Agentic Architectures
+<
+Prompt Engineering & Scaffolding
+<
+Visual AI & Rendering
+<
+Design & UX Fundamentals
+<
+Software Development & Systems
+<
+Epistemic Roles
+<
+Governance & Protocols
+<
+Failure Modes
+<
+Reasoning Frameworks
+<
+Context Engineering
+<
+Optimization Techniques
+<
+3D & Neural Rendering
+<
+Image Generation Control
+<
+Graphic Design Terms
+<
+User Experience (UX)
+<
+Principles
+<
+Architecture Patterns
+<
+Planner-Architect
+Linguist-Coder
+Integrator-Auditor
+Security Integrator
+Epistemic Custodian
+Constitutional AI (CAI)
+Model Context Protocol (MCP)
+Product-Requirements Prompt (PRP)
+Mutual Epistemic Assurance (MEA)
+Semantic Drift
+Agentic Interpretation Drift
+Model Collapse (Autophagy)
+Prompt Failure Stack
+Chain-of-Thought (CoT)
+Tree-of-Thoughts (ToT)
+Logic-of-Thought (LoT)
+Analogical Prompting
+Contextual Scaffolding
+Retrieval-Augmented Generation (RAG)
+Meta-PRP Designer
+Symbolic Scars
+Few-Shot Learning
+Self-Refine Cycles
+Prompt-as-Protocol
+Dynamic Prompt Selection
+3D Gaussian Splatting (Image-GS)
+Neural Radiance Fields (NeRFs)
+Physically Based Rendering (PBR)
+Bidirectional Reflectance (BRDF)
+Causal Perturbation Index (CPI)
+Negative Prompting
+Plenoptic Function
+Latent Space Sculpting
+Negative Space
+Rule of Thirds
+Leading & X-Height
+Mock-ups & Masking
+User Flow Diagrams
+Cognitive Load Theory
+Accessibility (WCAG)
+Tuftean Information Design
+Don't Repeat Yourself (DRY)
+Test Driven Development (TDD)
+Refactoring
+Solid Principles
+Microservices
+Headless CMS
+Event-Driven Architecture
+Layered Architecture

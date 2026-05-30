@@ -1,0 +1,141 @@
+Mind map
+Conceptual Blending and Metaphor Theory
+Conceptual Blending & Metaphor
+<
+Conceptual Blending (Integration) Theory (CBT)
+<
+Conceptual Metaphor Theory (CMT)
+<
+Neural Theory of Metaphor
+<
+Embodied Cognition & Meaning
+<
+Metaphor as a Linguistic Phenomenon
+<
+Temporal Metaphors
+<
+Cultural Variation
+<
+Prehistoric/Ancient Metaphor Usage
+<
+Core Idea
+<
+Four-Space Model
+<
+Cognitive Operations (Emergent Structure)
+<
+Types of Blends
+<
+Principles (Fauconnier & Turner)
+<
+Relationship with CMT
+<
+Critiques/Challenges
+<
+Applications
+<
+Essence of metaphor: understanding one thing in terms of another
+Metaphors work by mapping from source domain to target domain
+Source domain: readily understood area of experience
+Target domain: abstract conceptual domain (internal mental/emotional world)
+Examples: 'Time flies', 'More is Up', 'Happiness is Brightness'
+Updates metaphor theory based on brain research
+Focuses on neural bindings (connections between concepts)
+Explains biological basis of image schemas and physical metaphors
+Metaphors and blends are different on neural level
+Mind is inherently embodied
+Thought is mostly unconscious
+Abstract concepts are largely metaphorical
+Image Schemas: Dynamic patterns from bodily interactions/perceptions
+Primary Metaphors: Arise from universal physical movements/relationships
+Meaning is relational (connections to past, present, future experiences)
+Meaning is naturally affective (emotion & cognition intertwined)
+Not special abnormal figurative speech
+Fundamental, central aspect of linguistics
+Gave rise to much work post-Lakoff & Johnson ('Metaphors We Live By')
+Two central metaphors for motion and time
+Ego-Moving
+<
+Time-Moving
+<
+Different answers based on metaphor used (e.g., Friday vs. Monday for 'move Wednesday meeting forward')
+Subjective perception (e.g., 'visiting parents goes faster/slower')
+More complex organisation than standard theory suggests
+Universal basic metaphors can be elaborated differently across cultures
+Example: ANGER IS A PRESSURIZED CONTAINER (English, Zulu, Japanese variations)
+Broader cultural context influences metaphor/metonymy
+Common in cultures throughout history (e.g., Ice Age Europe, 4th century BCE Sino-Tibetan, ancient Rome)
+Art of ancient poets described metaphorically as 'stitching' or 'sewing'
+Human-animal composites (e.g., Löwenmensch, Sorcerer of Les Trois Frères) as evidence of blending
+Music as complex web of metaphors/blends
+Physical/bodily experience fundamental to meaning of art
+Combines elements from two or more familiar inputs/concepts to make new meaning
+Yields emergent meaning/novel artifacts
+Basic mechanism of human thought
+Input Space 1 & 2
+<
+Generic Space
+<
+Blended Space (The Blend)
+<
+Composition
+<
+Completion
+<
+Elaboration ('Running the Blend')
+<
+Single-Scope Blend
+<
+Double-Scope Blend (DSCB)
+<
+Mirror Network
+<
+Topology Principle (inner-space & outer-space)
+Pattern Completion Principle
+Integration Principle
+Maximization and Intensification of Vital Relations
+Web Principle
+Unpacking Principle
+Relevance Principle
+Explains much of same linguistic data
+Unifies metaphor analysis with other linguistic/conceptual phenomena
+Treats metaphor as conceptual (not purely linguistic)
+Involves systematic projection of language/imagery/inferential structure
+Allows more than two mental representations (CMT allows two)
+Not strictly directional (CMT is)
+Emphasises on-line process (CMT analyses entrenched relationships)
+Over-generalising/too wide application
+Lack of specification of conceptual representation/mental spaces
+Imprecision in methodological background
+Falsifiability issues
+Insufficient empirical evidence (need psychological studies)
+Metaphor
+Analogy/Analogical reasoning
+Scientific creativity
+Literature
+Ritual
+Humour
+Music analysis/creativity
+Cultural identity
+Advertising
+Delusion formation (psychiatry)
+Selfhood/personal development ('Personal Empowerment Kit')
+Navigating complex systems ('Navigating Creative Chaos')
+Reasoning/problem-solving ('Kaleidoscope of Reason')
+Understanding AI ('Philosopher's Labyrinth')
+Emotion (integrated emotions theory)
+Person moving, times stationary ('we move through time', 'we approach Christmas')
+Ego stationary, times moving towards ego ('the two hours went by painfully')
+Distinct conceptual domains/mental spaces
+Abstract structure and roles common to both inputs
+Novel mental space where meaning is constructed
+Selectively inherits structure from inputs & generic spaces
+Develops emergent structure (new ideas/inferences)
+Bringing together elements for new relationships/scenarios
+Recruiting background knowledge (cultural frames, long-term memory)
+Dynamically simulating events to explore consequences/generate inferences
+One input's organising frame projected to blend
+Blend's organising frame includes parts of both input frames + emergent structure
+All spaces share the same organising frame
+NotebookLM can be inaccurate; please double-check its responses.
+Reply ready.

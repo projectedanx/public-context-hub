@@ -1,0 +1,140 @@
+DALL·E and Photography: Creative Imaging Synthesis
+Creative Image Generation (DALL·E & Photography)
+<
+AI Integration & Workflow
+<
+Advanced Photography Techniques
+<
+Camera Settings & Hardware Simulation
+<
+Artistic & Compositional Principles
+<
+Photography Genres & Subjects
+<
+AI-Assisted Metadata Generation
+<
+DALL·E 3 Creative Use
+<
+Post-Processing Software
+<
+Ethical & Legal Considerations
+<
+Exposure & Motion Control
+<
+Focus & Depth
+<
+High Resolution & Detail
+<
+Time-Lapse & Hyperlapse
+<
+Settings Terminology
+<
+Lens & Sensor Effects
+<
+Specialized Imaging
+<
+Film & Vintage Effects
+<⁫
+Compositional Rules
+<
+Colour Theory & Mood
+<
+Aesthetic Styles (Traditional & Niche)
+<
+Lighting Concepts
+<
+Commercial & Editorial
+<
+Portraiture & Lifestyle
+<
+Nature & Environment
+<
+Conceptual & Documentary
+<
+Automated Tagging & Categorization
+Video Metadata Generation
+Historical Archiving
+Concept Generation & Storyboarding
+Generating Custom Elements (Props/Backdrops)
+Enhancing Composites with AI
+Simulating Specific Styles (Anime/Baroque)
+Adobe Photoshop (Compositing/Layering)
+Adobe Lightroom (Organizing/Color Grading)
+Capture One Pro (Color Grading/Tethered Shooting)
+AI Tools (Topaz Labs, Luminar AI, DeepArt)
+Transparency & Disclosure (AI Use)
+Copyright & Content Ownership
+Bias Mitigation in AI Training Data
+Informed Consent & Privacy
+High-Speed Sync (HSS) Flash
+Long Exposure (Motion Blur/Light Trails)
+Panning Shots
+Multiple Exposure/Double Exposure
+Focus Stacking (Macro/Landscape)
+Shallow Depth of Field (Wide Aperture)
+Deep Depth of Field (Narrow Aperture)
+Bokeh Effect
+HDR (High Dynamic Range) Imaging
+Gigapixel Photography (Stitching)
+Super-Resolution/AI Upscaling
+Macro Photography
+In-Camera Modes
+Interval Ramping/Speed Ramping
+HDR Time-Lapse
+Stabilization (Gimbals/Warp Stabilizer)
+Aperture (f-stop)
+Shutter Speed (Freeze/Blur Motion)
+ISO Sensitivity (Noise/Grain)
+RAW vs. JPEG Format
+White Balance
+Wide-Angle Lens (Exaggerated Perspective)
+Telephoto Lens (Compressed Depth)
+Fisheye/Anamorphic Lens (Cinematic Flare)
+Full-Frame/Medium Format Sensor
+Macro/Tilt-Shift Lenses
+Astrophotography (Deep Sky/Planetary)
+Microscopy (Fluorescence/Super-Resolution)
+Infrared Photography (False Color/Ethereal Look)
+Telescopic Photography
+Film Grain/Expired Film
+Cross-Processing (X-Pro)
+Lomography Style
+Polaroid/Instant Camera Look
+Rule of Thirds (Power Points)
+Golden Ratio
+Leading Lines
+Symmetry and Patterns
+Negative Space
+Forced Perspective
+Color Wheel (Complementary/Analogous)
+Warm vs. Cool Colors
+Triadic/Split-Complementary Schemes
+Color Grading (Cinematic Look)
+Gel Lighting (Color Contrast)
+Baroque (Chiaroscuro, Grandeur)
+Surrealism (Dreamlike, Juxtaposition)
+Cubism (Geometric Fragmentation)
+Vaporwave (Neon, Retro-Futurism, Glitch Art)
+Wabi-Sabi (Imperfection, Simplicity)
+Kinetic Art (Simulated Motion)
+Golden Hour (Warm, Diffused Light)
+Rembrandt/Butterfly Lighting
+Backlighting/Rim Lighting
+Scattering and Subsurface Scattering
+Studio Lighting (Softboxes/Ring Lights)
+Product Photography
+Fashion Editorial (Narrative/High-Fashion)
+Corporate/Business
+Advertising Photography
+Candid/Environmental Portraits
+Fine Art/Conceptual Portraits
+Lifestyle Portraits (Authentic Moments)
+Tattoo Photography
+Landscape/Seascape
+Wildlife (Action/Behavioral)
+Aerial Photography
+Land Art (Environmental Integration)
+Surveillance/Secret Photography
+Conceptual Art (Symbolism/Metaphor)
+Photojournalism
+Cultural Documentation

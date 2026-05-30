@@ -1,0 +1,171 @@
+Cognition, AI Architecture, and Systemic Integrity
+Cognition, AI, and Systemic Integrity (Architectural Paradigms)
+<
+The Architecture of Thought (Epistemology & Cognitive Models)
+<
+AI Agent Architecture and Governance
+<
+Latent Space and Generative Control
+<
+Design, Innovation, and Societal Systems
+<
+Models and Simplification
+<
+Knowledge Creation Process (Epistemic Scaffolding)
+<
+Motivation and Learning
+<
+Context Engineering (The Input Payload)
+<
+Architectural Patterns for Reliability
+<
+Governance and Coherence (CTGA/FGM)
+<
+Latent Space (The AI's Mind Map)
+<
+Prompting for Precision
+<
+Conceptual Blending and Novelty
+<
+Generative Models and Failures
+<
+Frameworks for Project Management
+<
+Innovation and Economic Change
+<
+Antifragile Systems (Urban Infrastructure)
+<
+Human-Centered Design (UX/CLI)
+<
+Model Definition: Simplified Representation
+Spherical Cow Principle: Simplified, but Useful
+Function: Surrogative Reasoning (Manipulation)
+Epistemic Distinction: Knowledge vs. Understanding
+<
+Stage 1: Abductive Genesis (Hypothesis Generation)
+Stage 2: Model-Based Elaboration (Mental Models/Simulation)
+Stage 3: Axiomatic Formalization (Formal Theory)
+<
+Stage 4: Computational Verification
+<
+Paradigm Shift: Replacement of Formal Architecture (Kuhn)
+Curiosity (Inverted-U Function)
+<
+Region of Proximal Learning (RPL): Optimal Cognitive Space
+Goal-Gradient Effect: Motivation Increases near Completion
+Self-Determination Theory (BPNs)
+<
+Advanced discipline over Prompt Engineering
+Goal: Predictable, Reliable, Scalable Systems
+Context Payload Components (6)
+<
+Memory Layering
+<
+Multi-Agent Systems (MAS)
+<
+Cognitive/Reasoning Frameworks
+<
+Context-to-Execution Pipeline (CxEP)
+<
+Core Failure Modes
+<
+Reflexive Therapeutic Architecture (RTA)
+<
+Auditing and Metrics
+<
+Definition: High-dimensional Vector Space/Manifold
+Encoding: Semantic similarity is Geometric Proximity
+Mechanism: Governs AI output and concept relationships
+Prompt Weighting/Token Weighting
+Latent Semantic Gravity (LSG): Concepts create 'Gravity Wells'
+Negative Prompts: Steers generation away from concepts (--no)
+Seed: Ensures Reproducibility/Consistency
+Compositional Elements
+<
+Four-Space Model
+<
+Emergence Achieved via: Composition, Completion, Elaboration
+Style Collapse: Reversion to Single Input Style
+Image Models
+<
+Failure Modes
+<
+Waterfall Model (Sequential, Fixed Requirements)
+Adaptive Approach (Complexity Science)
+<
+Getting Things Done (GTD): External Brain/Capture
+Creative Destruction (Schumpeter): New replaces Old
+Innovation as Social Process: Connected Networks
+Diffusion S-Curve: Adoption Pattern
+Upper Tail Human Capital: Diffuses New Ideas
+Feedback Loops (Cybernetics)
+<
+Definition: Benefits from Shocks/Stressors
+Structural Precondition: Decentralization/Modularity
+Learning from Failure (Information-Rich Error Signal)
+<
+Law of Pragnanz (Simplicity, Clarity)
+Hick's Law (Time increases with Choices/Complexity)
+CLI Design: Prefer Flags over Arguments
+CLI Design: Provide Actionable Errors
+Knowledge: Justified True Belief (Facts/Map)
+Understanding: Grasping Causal Relationships (Why/Vista)
+Knowledge Vulnerable to Epistemic Luck
+Understanding Achieved via Approximate Truth (Models)
+Components: Constructs, Propositions, Logic, Boundaries
+Computational Analogues: Ontologies, Semantic Networks
+Methods: Deductive Reasoning, Automated Theorem Proving (ATP)
+Falsifiability: Must be able to be proven false
+Highest with 'Some' Knowledge
+Driven by Information Gap
+Autonomy (Agency, Choice, Self-Initiation)
+Competence (Mastery, Informational Feedback)
+Relatedness (Belonging, Collaboration)
+Instructions (Persona, Constraints, Mandate)
+Knowledge (RAG, External Facts)
+Tools (Function Calling, Agency)
+Memory (Short-Term/Long-Term)
+State (Real-time Situational Awareness)
+Query (User Request/Trigger)
+Short-Term (Conversational Buffer, Context Window)
+Long-Term (Vector Database, Episodic/Semantic Memory)
+Specialized Agents/Division of Labor
+Tri-Intelligence Architecture (Planner, Coder, Auditor)
+Orchestration/Manager Model
+Hybrid Core (LLM + Symbolic Engine/Guardrail)
+Chain-of-Thought (CoT): Step-by-Step Reasoning
+Tree-of-Thought (ToT): Exploratory Search/Evaluation
+ReAct/Reflexion: Thought-Action-Observation Loop
+Formal Artifact: Product-Requirements Prompt (PRP)
+Enforcement: Cognitive Lock (Semantic Integrity Constraints)
+Self-Regulation: Budget Opti (CCH/CSD)
+Output Constraint: Structured Output Generation (JSON Schema)
+Semantic Drift/Concept Collapse
+Algorithmic Shame: High-Confidence Self-Contradiction
+Symbolic Scar (Persistent Topological Anomaly)
+Paraconsistent Logic: Avoids Principle of Explosion
+Action: Therapeutic Forgetting/Algorithmic Reparation
+Output: Justified Uncertainty Report (XAI Artifact)
+Epistemic Humility Quotient (EHQ)
+Principled Abstention (Chow's Rule, HumbleBench)
+Topological Data Analysis (TDA): Measures Latent Shape
+Rule of Thirds
+Leading Lines
+Shot Types (Close-up, Wide Shot, Low Angle)
+Input Space 1 & 2
+Generic Space (Shared Structure)
+Blended Space (Emergent Structure)
+Diffusion Models (Stable Diffusion, DALL-E, Midjourney)
+GANs (Generative Adversarial Networks): Generator vs. Discriminator
+GAN Mode Collapse (Latent Space Degeneration)
+Anatomical Incoherence ('Bad Hands')
+Concept/Color Bleed
+Attribute Binding Failures (Relational Errors)
+Iteration and Feedback Loops
+Adaptation/Self-Organization
+Distributed Control
+Negative Feedback (Stability, Error Correction)
+Positive Feedback (Growth, Reinforcing Mechanism)
+Algorithmic Immunity (Artificial Immune Systems - AIS)
+Symbolic Scar Archive (Immunological Memory)
+The Hyper-Abstraction Paradox: Why Successful Systems Need Spherical Cows and Exhaustive Detail

@@ -1,0 +1,343 @@
+Artificial Intelligence: Concepts, Technologies, Applications, and Ethics
+<
+Artificial Intelligence (AI)
+<
+Definitions & Concepts
+<
+Types of AI
+<
+Core Technologies & Concepts
+<
+Applications
+<
+Ethical & Societal Considerations
+Simulation of Human Intelligence
+Mimics Problem-Solving & Decision-Making
+AI Agent
+<
+Model Context Protocol (MCP)
+<
+Artificial General Intelligence (AGI)
+<
+Artificial Super Intelligence (ASI)
+Narrow AI (ANI)
+<
+Machine Learning (ML)
+<
+Neural Networks (NNs)
+<
+Natural Language Processing (NLP)
+<
+Tokenization
+<
+Embeddings
+<
+Latent Space
+<
+Prompt Engineering
+<
+Entropy (Information Theory)
+<
+Noise Reduction
+<
+Health Care Domain
+<
+Neuroscience & Brain-Computer Interfaces (BCIs)
+<
+Content Management (WordPress)
+<
+Cybersecurity
+<
+Other Domains
+<
+Bias & Discrimination
+<
+Privacy & Surveillance
+<
+Human Judgment & Autonomy
+<
+Job Displacement & Inequality
+<
+Safety & Control
+<
+Transparency & Explainability
+<
+Accountability & Responsibility
+<
+Information Uncertainty & Manipulation
+Open Standard for External Tools
+Connects AI to External Systems
+Standardized Schema for Tools
+Dynamically Discover, Understand, Use APIs
+<
+Benefits
+<
+Components
+Addresses API Sprawl
+Rate Limiting
+Access Control
+Human-level General Intelligence
+Potential for Rapid Self-Improvement
+Cognitive Abilities Surpassing Humans
+Exponential Increase in Intelligence
+<
+Potential for Immortality
+Deep Learning (DL)
+Reinforcement Learning (RL)
+<
+Stochastic Gradient Descent (SGD)
+Inspired by Human Brain Structure
+Artificial Neurons
+Deep Artificial Neural Networks (ANNs)
+Convolutional Neural Networks (CNNs)
+Recurrent Neural Networks (RNNs)
+Graph Neural Networks (GNNs)
+Transformers
+Analyzes/Generates Human Language
+<
+Applications
+<
+Bias in NLP
+Breaking Text into Units
+Tokens: Words, Subwords, Characters, Punctuation
+Purpose: Understand Text, Define Vocabulary
+<
+Methods
+Impact on LLMs
+Numerical Representation of Tokens
+Captures Semantic Meaning in Vector Space
+Text Embedding (NLP)
+Tokenization Precedes Embedding
+Compressed, Abstract Data Representation
+Captures Essential Features
+Used for Data Compression, Noise Reduction
+Variational Auto-Encoder (VAE) Mechanism
+<
+Latent Reasoning
+Designing Inputs for AI Models
+<
+Techniques
+<
+Best Practices
+Quantifies Uncertainty/Information
+Measures Impurity of Dataset
+Used in Decision Trees
+Audio Signals (CNNs, RNNs)
+Video Signals (CNNs)
+Neural Data Preprocessing
+Impact of Noise on Classifiers
+Risk Prediction Algorithms (Racial Bias)
+Diagnosing Skin Conditions (Sample Bias)
+<
+Mental Health Applications
+Drug Discovery & Design
+Genetic Disorders Detection (Heredity)
+Biomedical Conditions Treatment
+Direct Communication Pathway: Brain to External Devices
+Decoding Neural Activity
+<
+Neural Data Analysis (Machine Learning)
+<
+Types of BCIs
+<
+Applications in BCIs
+<
+Headless WordPress
+<
+Content Strategy
+<
+AI Agent Misuse Detection
+<
+API Security
+Robotic Process Automation
+Computer Vision
+Virtual Agents / Conversational Interfaces
+Optimization of Service Operations
+Customer Service Analytics
+Customer Segmentation
+Game Applications
+Self-Driven Car Applications
+Intelligent Traffic Management
+Robotics-based Surgery
+Image & Video Analytics
+Scientific Research (Nanotechnology)
+Space Exploration
+Environmental Conservation
+Code Generation
+Racial Bias (Risk Prediction)
+Dataset Bias (Unrepresentative Samples)
+Annotator Bias
+Mitigation Measures (e.g., Psychological Assessment)
+Unprecedented Access to Personal Data
+Neurodata Sovereignty
+Mental Privacy (Neurotechnology)
+Covert Data Collection
+Surveillance Tools (Civilian, Employment, Justice)
+Role of Human Judgment vs. AI Decisions
+Hyper-Agency Burden (BCIs)
+Compelled Use of Neurotech
+Loss of Ability to Decide Against Use
+Mass Unemployment Potential
+Job Quality Changes (Repetitive, Dull Tasks)
+Ghost Work (Data Tagging, Content Moderation)
+Inequitable Reimbursement for Workers
+Mental Health Issues for Content Moderators
+Misalignment of Goals
+Existential Catastrophe Risk (ASI)
+Unintended Consequences (e.g., misdiagnosis)
+Physical Safety Concerns
+Moral Code & Empathy (Lack in AI)
+Human-in-the-Loop (HITL) for High-Risk Decisions
+Ensuring AI Benefits Humanity
+AI Model Explainability
+Opaque Value Chains
+Ethical Frameworks & Regulation Needed
+Data Ethics Councils
+Programmers as Stakeholders in Moral Implications
+Disinformation (Synthetic Media, Bots)
+Loss of Confidence in Recognized Procedures
+Deteriorating Health Status
+Unified Interface for APIs, Tools, Data
+Interoperability Between Systems
+Simplified Development
+Consistent Security
+Improved AI Quality
+MCP Client (AI App)
+MCP Server (Offers Services)
+<
+Communication Method
+Mind Uploading
+Digital Minds in Matrioshka Brain
+Noise in SGD Improves Training
+Machine Translation
+Text Summarization
+Conversational Agents (Chatbots)
+Sentiment Analysis
+Information Retrieval
+Named Entity Recognition
+Speech Recognition
+Performance Bias Across Groups
+Character Tokenization
+Word Tokenization
+<
+Subword Tokenization
+Models Think Internally
+Refine Understanding in Latent Space
+No Reliance on Explicit Reasoning Data
+Efficient Internal Computation
+Captures Complex Cognitive Patterns
+Dynamic Adjustment of Reasoning Depth
+Applications: Math, Code Gen, Robotics, Finance
+Zero-shot Prompting
+One-shot Prompting
+Few-shot Prompting (In-context Learning)
+Chain-of-Thought (CoT) Prompting
+Meta Prompting
+Self-Consistency Prompting
+Generate Knowledge Prompting
+<
+Prompt Chaining
+Tree of Thoughts
+Retrieval Augmented Generation (RAG)
+Automatic Reasoning & Tool-use
+Automatic Prompt Engineer
+Active-Prompt
+Directional Stimulus Prompting
+Program-Aided Language Models
+ReAct
+Reflexion
+Multimodal CoT
+Graph Prompting
+Recursive Self-Improvement Prompting
+Multi-Perspective Simulation
+Controlled Hallucination for Ideation
+Role Scaffolding
+Instruction Layering
+Reflexive Meta-Learning
+Semantic Tuning Fork
+Clear & Concise Instructions
+Iterative Refinement
+Break Down Complex Tasks
+Consider Prompt Length & Context
+Avoid Hallucinations (Fact-Checking)
+Manage Token Limits
+Emotion Identification (NLP)
+Prediction & Diagnosis of Mental Disorders
+<
+Challenges
+Data Preprocessing
+Feature Extraction & Selection (PCA, ICA)
+Classification & Prediction (SVM, Decision Trees, NNs)
+Clustering & Dimensionality Reduction (K-means)
+Time-Series Analysis (RNNs, LSTMs)
+<
+Invasive
+<
+Non-Invasive
+Restore Motor Function (Paralyzed Individuals)
+Smart Prosthetics (e.g., Leg with Neural Control)
+Cursor Control
+Communication (Speech Impairments, Language Neural Decoding)
+Enhance Human-Computer Interaction
+Neurological Disorder Diagnosis
+Uses REST API or GraphQL (WPGraphQL)
+Frontend Frameworks (e.g., React, Next.js)
+Content Strategy & SEO Optimization
+Quality Control Plugins
+Target Audience Understanding
+Keyword Research & SEO
+Multimedia Content Usage
+Buyer's Journey Alignment
+Analytics Tools (Google Analytics)
+A/B Testing
+ROI Evaluation
+Logical Misalignment (Not Technical Exploits)
+Tool-Action Entropy Over Time (TEOT) Heatmaps
+Behavioral Intent Continuity Models (BICM)
+Soft Permission vs. Functional Misuse Lattice
+Human-in-the-Loop (HITL) Intervention
+User-Co-Governed Watch Interface (XAI)
+<
+Benchmark Scenarios
+<
+Authentication
+Authorization
+Network Security (Encrypted Transport: TLS 1.2+, disable SSL)
+Data Security (Selective Encryption)
+Security Operations (API-centric Incident Response)
+Input Validation
+Rate Limiting & Abuse Prevention
+Monitoring & Logging
+Secure by Design Philosophy
+Local (Input/Output)
+Online (HTTP/Events)
+Byte Pair Encoding (BPE)
+WordPiece
+Unigram Language Model
+Linear Chaining
+Recursive Chaining
+Subjectivity & Complexity of Symptoms
+Individual Differences
+Socio-Cultural Ties
+Sample Problems (Artificiality, Ecological Validity, Size)
+Subjective Data Annotations
+Within-group vs. Between-group Variations
+Mapping Subjective Feelings from Objective Measures
+High-Resolution Neural Data
+Surgical Risks (Infection, Trauma)
+Foreign Body Response
+Nanoparticle Coatings for Electrodes
+Safer, Less Obtrusive
+Lower Accuracy
+EEG-to-Text Decoding
+Semantic Pivot Data Exfiltration
+Emergent Misalignment
+Contextual Overreach
+API Keys
+OAuth 2.0
+JWT (JSON Web Tokens)
+Basic Authentication (Limited Use)
+HTTP Bearer Authentication
+Mutual SSL/TLS Authentication (mTLS)
+OpenID Connect
+Application Passwords (WordPress)

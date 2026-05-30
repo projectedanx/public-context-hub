@@ -1,0 +1,144 @@
+Mind map
+Engineering Reliability in Agentic AI
+Engineering Reliability in Agentic AI (Gemini CLI)
+<
+Pillars of Trustworthy Automation
+<
+Agentic AI Paradigm
+<
+Gemini CLI ReAct Architecture
+<
+Model Context Protocol (MCP)
+<
+Systemic Risks & Mitigation
+<
+Governance (Policy-as-Code)
+<
+Security (Keyless Authentication)
+<
+Auditability (Provenance Frameworks)
+<
+Human Oversight (Failsafe Mechanisms)
+<
+Defining Agentic AI
+<
+Architectural Foundations
+<
+Taxonomy of Architectures
+<
+Reason-and-Act (ReAct) Loop
+<
+Interaction Model is Declarative (State Desired Outcome)
+Power of Massive Context
+<
+Practical Development Applications
+<
+Open Standard for Tool Integration
+Standardized Two-Way Communication Protocol
+Enables LLM to Take Meaningful Action (Side Effects)
+Promotes Decentralized, Service-Oriented Architecture
+Technical Architecture
+<
+MCP vs. RAG
+<
+Use Cases & Extensibility
+<
+Epistemic Fragility
+<
+Cognitive Debt
+<
+Unreliability of Consumer-Grade Models
+<
+Enforce Predictability & Intent
+GEMINI.md (Persistent Memory)
+<
+Custom Slash Commands
+<
+Workload Identity Federation (WIF)
+<
+Mitigates Security Risk in Automated Workflows
+PROV-AGENT Framework
+<
+Unimpeachable Ledger of Decision-Making
+Human-in-the-Loop (HITL)
+<
+/restore Command (Checkpointing)
+<
+Autonomous Goal Pursuit
+Exhibits Autonomy & Adaptability
+Core Factors of Agency
+<
+Perception Module (Ingests Signals)
+Memory System (Two-Tiered)
+<
+Planning Engine (Decomposes Goals)
+Action Execution Layer (Invokes Tools/APIs)
+Feedback Loop (Refines Plans)
+Reactive vs. Deliberative
+<
+Single-Agent vs. Multi-Agent Systems
+<
+Reason (Analyze Intent, Formulate Plan)
+Act (Select Tool: file_read, terminal, web_search)
+Observe (Process Tool Output, Update Memory)
+Repeat (Iterative Refinement)
+Gemini 1.5 Pro (1 Million Token Window)
+Reasons over Entire Codebases Simultaneously
+Prerequisite for Architectural Refactoring
+Autonomous Bug Fixing (Test, Analyze, Fix, Verify)
+Feature Implementation with Planning (User Approval)
+CI/CD Automation (GitHub Actions, Issue Triage)
+MCP Host (Gemini CLI Application)
+MCP Client (Translates Requests/Responses)
+MCP Server (External Tool Functionality)
+Transport Layer (JSON-RPC 2.0)
+<
+RAG: One-way Information Retrieval (Know More)
+MCP: Two-way Action Execution (Do More)
+Connecting to Internal Services (Proprietary APIs)
+Integrating with Third-Party Platforms (GitHub, Slack)
+Advanced Generative Services (Imagen, Veo)
+Risk of Verification Breakdown
+AI-driven Drift in 'Correctness'
+Mitigation: Human-Curated 'Golden' Test Suites
+Erosion of Developer Expertise/Skills
+Accumulation of Mental Effort Outsourcing
+Mitigation: AI as Socratic Partner (Thinking First)
+Risk of Silent Downgrades
+Problem of Non-Determinism (Reproducibility Bug)
+Imperative: Enterprise-Grade Models (SLAs, Consistency)
+Hierarchical Context Management
+<
+Mitigate Context Bloat (Gated Execution)
+Policy-as-Code (Reusable Prompts)
+Enforce Quality/Security Checks
+Namespacing (.toml files)
+Eliminates Static Credentials
+Keyless Standard for CI/CD
+OAuth 2.0 Token Exchange
+Grant IAM Roles to Federated Identity
+Formal Provenance Model for Agents
+Extends W3C PROV Standard
+Captures Agent-Centric Metadata
+Enables Root Cause Analysis & Traceability
+Mandatory Approval Gate
+Pauses before State-Altering Action (File/Shell/Git)
+Combats Cognitive Debt
+Automatic Git Snapshot Before Modification
+Instant Rollback of Changes
+Safe Sandbox for Experimentation
+Intentionality (Form Plans)
+Forethought (Anticipate Outcomes)
+Self-reactiveness (Respond to Changes)
+Self-reflectiveness (Learn from Experience)
+Short-term (Working) Memory
+Long-term (Persistent) Memory (Vector DBs)
+Reactive (Low Latency, Simple Rules)
+Deliberative (Internal Model, Reasoning, Planning)
+Single-Agent (Simple, Bottleneck Risk)
+Multi-Agent (Scalable, Specialized Cooperation)
+stdio (Local Resources, Low Overhead)
+SSE (Remote Resources, Real-time Streaming)
+Global Context (~/.gemini/)
+Project/Ancestor Context
+Sub-directory Context

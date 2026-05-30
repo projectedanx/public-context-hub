@@ -1,0 +1,361 @@
+Mindmap
+Computer Graphics and Rendering: Concepts & AI Applications
+Computer Graphics & Rendering
+<
+Physically Based Rendering (PBR)
+<
+Ray Tracing
+<
+AI in Computer Graphics
+<
+Image Synthesis Techniques
+<
+Applications
+<
+Prompt Engineering (Image Generation)
+<
+Software Development Methodologies
+<
+Academic & Industry Collaboration
+<
+Core Concepts
+<
+pbrt System Overview
+<
+Light Distribution
+<
+Light Scattering at Surfaces (BSDF)
+<
+Indirect Light Transport (Global Illumination)
+<
+Subsurface Scattering (SSS)
+<
+Simulates Accurate Lighting, Reflections, Shadows
+High Computational Cost
+Ray-Object Intersection Stage
+Recursive Ray Tracing
+<
+Shadow Rays
+<
+AI-Powered Rendering
+<
+Deep Learning Super Sampling (DLSS)
+<
+Diffusion Models for Image Generation
+<
+Neural Rendering
+<
+Procedural Generation (AI-PCG)
+<
+PBR-Net
+<
+Camera Models & Projections
+<
+Depth of Field (DoF)
+<
+Lighting and Shading
+<
+Texture & Surface Rendering
+<
+Volumetric Effects
+<
+Rendering Algorithms
+<
+Computational Principles
+<
+Photorealism & Realism Types
+<
+Color Accuracy & HDR
+<
+Architectural Visualization
+Product Development
+Gaming & Simulation
+Animated Films
+Virtual Production
+Scientific Visualization (SciVis)
+Fluid Simulation
+Hall-Effect ICs (Sensing Magnetic Fields, Current)
+Keywords: Foundation of Creative Vision
+Special Characters & Modifiers (Parentheses)
+Techniques
+<
+Prompting for LLMs
+<
+Agile
+<
+Design Thinking
+<
+Rapid Prototyping (RAD)
+MLOps (Machine Learning Operations)
+Alliance4Life (CEE Health Research)
+Technology Transfer
+Industry Relations Platform
+Mini-Conferences
+Funding Options (Spin-outs, Translational Grants)
+Reduce Bureaucracy
+Continuous Education (Confidentiality, IP)
+Collaborative Research Clusters
+Energy Conservation
+Light Interaction with Surfaces
+Radiance Measurements
+Geometric Interface (Chapter 6)
+Acceleration Interface (Chapter 7)
+Phases of Execution
+Scene & Integrator Creation
+Integrator Interface
+<
+Data Structures & Optimization
+<
+Advanced Capabilities (v4)
+<
+Point Lights (Simple)
+Area Light Sources
+Geometric Distribution
+Radiometric Distribution
+Power per Area (1/r^2)
+Incident Lighting
+Scattering back to Camera
+Bidirectional Scattering Distribution Function (BSDF)
+Microfacet Theory
+<
+Fresnel Term (F)
+<
+Rough Refractions (BTDF)
+Layered Materials
+Recursive Nature (Whitted, 1980)
+Specular Reflection
+Transmission
+Path Tracing
+Bidirectional Path Tracing (BPT)
+Metropolis Light Transport (MLT)
+Photon Mapping
+<
+Translucency
+Light enters, absorbed, scattered, re-emitted
+Examples: Skin, Marble, Milk, Wax
+BSSRDF (Bidirectional Scattering Surface Reflectance Distribution Function)
+Diffusion Profile Sampling
+Wavelength Dependent Diffusion
+Optimizations (K nearest primitives)
+Refraction
+Reflection
+Ray Calls Itself
+Determine Visibility to Light Source
+Computationally Intensive
+Transmittance in Participating Media
+Accelerating Workflows
+Enhancing Realism
+Automating Tasks (Lighting, Textures, Materials)
+Reducing Production Time/Costs
+Real-time Rendering Capabilities
+Nvidia Technology
+Uses Deep Learning & Tensor Cores
+Upscales Lower Resolution Images
+Increases Frame Rates
+Improved Visuals
+DLSS 3.8.10 (Preset E & F)
+DLSS 4 (New Model)
+Competitors
+<
+High-Quality Sample Generation
+Iterative Noise Addition/Removal
+Computational Cost & Efficiency Challenges
+Applications
+Image Denoising
+Inpainting
+Super-resolution
+Semantic Segmentation
+Image-to-Image Translation
+Text-to-Image Generation (DALL-E, Imagen, Stable Diffusion)
+Text-to-Video Generation
+Types
+<
+Neural Implicit Surfaces (SDF + MLP)
+Neural Voxels
+Neural Radiance Fields (NeRF)
+Novel View Synthesis
+Inverse Rendering
+Hardware Acceleration (Tensor Cores)
+AI-Powered Digital Humans
+AI-Streamlined Virtual Cinematography
+Generates Varied Levels/Environments
+Applications: Gaming (Minecraft, No Man's Sky)
+Urban Planning & Architecture
+Reinforcement Learning Enhanced
+Wave Function Collapse (WFC) Algorithm
+Deterministic Algorithms
+Variational Autoencoders (VAEs)
+Imitates PBR using Deep Neural Network
+Shading Network
+Composition Network
+Perceptual Loss
+Pinhole Camera
+Perspective Projection
+Focal Length
+Camera Coordinate System
+World to Camera Transformation
+Surveyed by Barsky & Demers
+Hardware Acceleration (GPU Pixel Shader)
+Postprocessing
+Blur Size & PSF (Gaussian)
+Cinematic/Dramatic Lighting
+Rim Lighting
+Contrast-Enhanced Lighting
+Soft/Hard Shadows
+Ambient Occlusion
+Light Scattering
+Shadow Mapping
+Specular Highlights
+Deferred Shading
+Texture Mapping (2D)
+Planar Projection
+Interpolation of Fractional Coordinates
+Scaling Texture
+Filter (Clipping, Smoothing)
+Output Type (Alpha, Color, Normal)
+Bump Map
+Normal Mapping
+Displacement Mapping
+Texture Synthesis
+Detail-Dependent Shading
+Procedural Enhancement of Scanned Data
+Participating Media (Smoke, Fog, Dust)
+Absorption
+Scattering
+Emission
+Equation of Transfer
+Phase Function (Isotropic, Anisotropic)
+Transmittance
+In-scattering
+Volumetric Sunlight
+Control Noise
+Monte Carlo Integration
+Variance Reduction
+Importance Sampling
+Multiple Importance Sampling (MIS)
+Russian Roulette
+Splitting
+Low-Discrepancy Sampling (Quasi-Monte Carlo)
+Adaptive Sampling and Reconstruction
+Edge-Avoiding Wavelet Transform
+Coordinate Systems & Vectors
+Points vs. Vectors
+Cartesian Coordinate System
+Right-Hand Rule
+Cross Product
+Dot Product
+Transformations (Translation, Rotation, Scale)
+Look-At Transformation
+Homogeneous Coordinates
+Signed Distance Function (SDF)
+Raymarching
+Goal: Closely Resemble Real-Life
+Artistic Process vs. Effect
+Uncanny Valley
+<
+Functional Realism
+Perceptually-Based Rendering
+Reproduce Hues as in Reality
+Enhanced Viewer Engagement
+Calibration Tools
+Gamma Correction
+White Balance
+Brightness & Contrast
+High Dynamic Range Imaging (HDRI)
+10-bit color
+Chromatic Calibration (HDR Displays)
+Artistic Styles & Substyles
+Photography Techniques
+Graphic Design Principles
+Hyper Realistic
+Cinematic Lighting
+Lens Flare
+Chromatic Aberration
+Bokeh
+Long Exposure
+Macro Photography
+Deconvolution for Clarity
+Localized Detail Enhancement
+Fractals
+Paradoxical Spatial Layers
+Multi-Perspective Rendering
+Specify Camera Equipment
+Weather and Atmospheric Conditions
+Time of Day and Lighting Direction
+Narrative Elements
+Fusion of Realism and Abstraction
+Empirical Approach
+Start Simple, Add Complexity
+Zero-shot Learning
+Few-shot Prompting
+Chain of Thought (CoT) Prompting
+Auto-CoT (Question Clustering, Demonstration Sampling)
+Tree of Thoughts
+Self-Consistency
+Program-Aided Language Models
+Iterative Approach
+Product Backlog
+MVP Scope
+Sprints
+Retrospection
+Human-Centric Design Process
+Cooperative & Iterative Approach
+Identify & Solve Problems Quickly
+Low Fidelity Prototypes
+High Fidelity Prototypes
+Fail Quickly in Safe Environment
+Render() method
+SamplerIntegrator
+WhittedIntegrator
+PathIntegrator
+SimplePath Integrator
+Shape & Primitive Abstraction
+Acceleration Structures
+Bounding Volume Hierarchies (BVHs)
+Kd-Trees
+Bounding Boxes (Bounds3)
+Memory Allocators
+Ray Differentials
+Error Handling & Numerical Stability
+Volumetric Scattering
+Emissive Volumes
+Chromatic Media
+Spectral Rendering
+Reflection Models (BSDFs)
+Light Sampling (Many-light)
+GPU Rendering
+Microfacets
+Distribution Function (D)
+Shadowing-Masking Term (G)
+V-Cavity Model
+Smith Model
+Reflected Light Amount
+Index of Refraction
+Extinction Coefficient
+Schlick's Approximation
+Packets of Energy (Photons)
+Stored on Diffuse Surfaces
+Caustics
+Kd-trees for Organization
+AMD FSR (FidelityFX Super Resolution)
+Intel XeSS
+Denoising Diffusion Probabilistic Models (DDPM)
+<
+Denoising Diffusion Implicit Models (DDIM)
+<
+Latent Diffusion Models (LDM)
+Non-Gaussian Denoising Diffusion Models
+Nearly Realistic but Imperfect Human Characters
+Perceptual Mismatch
+Markovian Reverse Process
+High Quality, High Computational Resources
+Noise Schedule
+U-Net Architecture
+Mean Squared Error Loss
+Optimized Sampling Process
+Deterministic Reverse Process
+Fewer Iterations for Denoising
+Faster Generation
+DDIMCache for Mobile Devices
+NotebookLM can be inaccurate; please double check its responses.
+Reply ready.

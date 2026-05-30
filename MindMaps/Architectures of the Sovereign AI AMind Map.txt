@@ -1,0 +1,83 @@
+Architectures of the Sovereign AI Agent Ecosystem
+AI Agent Ecosystem & Frameworks
+<
+Sovereign Cognitive OS (SCOS)
+<
+Google Antigravity
+<
+VS Code Agent Integration
+<
+Multi-Agent Frameworks
+<
+Security & Governance
+<
+Core Philosophy
+<
+System Components
+<
+Workflow Primitives
+<
+Execution Surfaces
+<
+Artifact Lifecycle
+<
+Interface & UX
+<
+Context Engineering
+<
+Extensibility
+<
+AutoGen
+<
+LangGraph
+<
+CrewAI
+<
+OpenAI Agents SDK
+<
+Risk Mitigation
+<
+Trust Boundaries
+<
+Identity Foundry
+Verifiable Identity Kernels
+Epistemic Matrix ($G, $O, $C, $T)
+Token Economics Engine
+Cognitive Protocol (Budgeting)
+Cryptographic Signatures (ECDSA)
+Skills (SKILL.md)
+Rules (GEMINI.md)
+Workflows (Active Orchestration)
+Editor Access
+Terminal Execution Policy
+Integrated Browser Runtime
+Implementation Plans
+Task Lists
+Closed-Loop Verification Walkthroughs
+Chat Participant API
+Unified Chat View (Ask/Edit/Agent)
+Custom Agents (.agent.md)
+AGENTS.md
+Copilot Instructions
+Workspace Indexing (#codebase)
+Model Context Protocol (MCP)
+Custom Editor API
+Language Server Protocol (LSP)
+Conversational Philosophy
+AutoGen Studio (No-code UI)
+AgentChat & Core APIs
+State Machine Philosophy
+Cyclical Graph Workflows
+Visualizers & Debuggers
+Role-Based Delegation
+CrewAI AMP (Deployment)
+Hierarchical Crews
+Minimalist Design
+Functional Handoffs
+Built-in Guardrails
+Least Privilege Tooling
+Input Sanitization
+Secret Management (SecretStorage API)
+Workspace Trust Modes
+Explicit Approval for Terminal
+Confused Deputy Defense

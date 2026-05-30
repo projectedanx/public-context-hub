@@ -1,0 +1,1010 @@
+Mind map
+Developer Resources: Languages, Tools, Learning, and AI Trends
+
+Developer Resources & Learning
+<
+Chrome Extensions for Developers
+<
+Programming Languages
+<
+Coding Resources for Learning
+<
+API Documentation & Tools
+<
+Database Design Principles
+<
+AI & Emerging Tech
+<
+Career & Productivity
+<
+Benefits & Importance
+<
+Categories & Examples
+<
+Development Workflow
+<
+Built-in AI in Chrome (Experimental)
+<
+DEV Community Forems
+<
+General Purpose
+<
+Web Development
+<
+Mobile Development
+<
+Data Science & Machine Learning
+<
+Game Development
+<
+Embedded Systems & IoT
+<
+Scripting Languages
+<
+Functional Programming
+<
+Statistical & Mathematical
+<
+Database & Query Languages
+<
+Blockchain & Smart Contract
+<
+Scientific Computing & Numerical
+<
+Other Specialized
+<
+Online Platforms & Courses
+<
+Tutoring & Mentorship
+<
+Bootcamps
+<
+Books & Reading
+<
+YouTube Channels
+<
+Project-Based Learning
+<
+Practice Platforms
+<
+Other Resources
+<
+What is API Documentation?
+<
+Key Components
+<
+Best Practices for Documentation
+<
+API Documentation Tools
+<
+Software Documentation (General)
+<
+Why it Matters
+<
+Key Principles
+<
+Schema Design Best Practices
+<
+Table Design Best Practices
+<
+Security & Access Control
+<
+Database Management Systems (DBMS)
+<
+Database Design Tools
+<
+SQL Learning Resources
+<
+Database Careers
+<
+AI Models & Capabilities
+<
+AI Integration & Applications
+<
+AI Development & Challenges
+<
+AI Governance & Transparency
+<
+Computer Graphics Fundamentals
+<
+Career Resources
+<
+Learning Strategies
+<
+Developer Resources Lists
+<
+Hosting Resources
+<
+Optimization Resources
+<
+Open Source Contributions
+<
+Software Development Lifecycle (SDLC)
+<
+Enhance Browser Functionality
+Boost Productivity & Efficiency
+Save Time and Cost
+Improve Existing Products
+Dominant Market Share (65.55% in 2025)
+Testing & Accessibility
+<
+Development & Debugging
+<
+Design & UI
+<
+Productivity & Utility
+<
+AI-Powered
+<
+How to Find & Add
+How to Manage
+How to Develop & Publish
+<
+Debugging Techniques
+<
+Security Best Practices
+<
+Local Storage (IndexedDB)
+<
+Not yet standardized
+Subject to change
+Disk Space + Hardware Requirements (1.5-2GB model, 22GB free disk, 4GB VRAM)
+Input Length Limits
+Powered by Gemini AI Model (v127.0.6512.0+ Dev version)
+Prompt API (window.ai.assistant)
+Stateful API (LanguageModelSession)
+Resource Management (unload sessions, context window management)
+Interoperability & Compatibility Challenges
+Future-proofing (separate entrypoints, supplementary material)
+Prompt Injection concerns
+Forem Feed
+Gamers Forem
+Future (AI, VR, Crypto, Quantum Computing)
+Music Forem
+DUMB DEV Community (Memes)
+Vibe Coding Forem (AI Dev)
+Python
+<
+Java
+<
+C
+<
+C++
+<
+C#
+<
+Swift
+<
+Rust
+<
+Go
+<
+Kotlin
+<
+Dart
+<
+Ruby
+<
+Vala
+<
+Julia
+<
+Nim
+<
+Perl
+<
+JavaScript
+<
+TypeScript
+<
+PHP
+<
+HTML/CSS
+<
+Razor
+<
+Elixir
+<
+Erlang
+<
+ASP.NET
+<
+Objective-C
+<
+Java
+<
+Flutter (Dart)
+<
+React Native (JavaScript)
+<
+Xamarin (C#)
+<
+Python
+<
+R
+<
+MATLAB
+<
+SAS
+<
+Scala
+<
+Octave
+<
+Wolfram Language
+<
+Stan
+<
+JAX
+<
+C# (Unity)
+<
+UnrealScript (Unreal Engine)
+<
+GDScript (Godot Engine)
+<
+Haxe
+<
+GameMaker Language (GML)
+<
+LibGDX (Java, OpenGL)
+<
+cocos2d-x (C++)
+<
+MonoGame (.NET)
+<
+Panda3D (Python, C++)
+<
+Assembly Language
+<
+Ada
+<
+Forth
+<
+MicroPython
+<
+NXC (Not eXactly C)
+<
+VHDL
+<
+Verilog
+<
+PIC Assembly Language
+<
+Nim
+<
+Lua
+<
+Tcl (Tool Command Language)
+<
+PowerShell
+<
+Bash
+<
+AWK
+<
+Fish Shell
+<
+BeanShell
+<
+Haskell
+<
+F#
+<
+OCaml
+<
+Elm
+<
+Idris
+<
+PureScript
+<
+Scheme
+<
+Lisp
+<
+Agda
+<
+Clojure
+<
+Racket
+<
+Maple
+<
+Maxima
+<
+SageMath
+<
+J
+<
+SQL
+<
+PL/SQL
+<
+T-SQL
+<
+Cypher
+<
+SPARQL
+<
+Datalog
+<
+Solidity
+<
+Vyper
+<
+Michelson (Tezos)
+<
+Simplicity
+<
+Move (Diem)
+<
+Hoon (Urbit)
+<
+Clarity (Stacks)
+<
+FORTRAN
+<
+OpenCL
+<
+CUDA C/C++
+<
+Chapel
+<
+Futhark
+<
+Pony
+<
+Crystal
+<
+Red
+<
+Codecademy
+<
+freeCodeCamp
+<
+Udemy
+<
+Coursera
+<
+Khan Academy
+<
+Skillcrush
+<
+Sololearn
+<
+Google's Python Class
+<
+Dataquest
+<
+learnPhyton.org
+<
+Pluralsight (3 months free with MS dev-essentials)
+Treehouse's Tech Degree (premium, code reviews, support)
+Udacity's Nanodegree (premium, code reviews, support)
+Codecademy Code Foundations
+Online Coding Tutoring
+<
+Wiingy
+<
+Codementor
+<
+Superprof
+<
+Fullstack Academy (live online, various languages)
+TripleTen (Intermediate, 28 hours, Certificate)
+General Assembly (Python, JavaScript, testing, Version Control, Cloud Computing)
+App Academy (Python, JavaScript, testing, Version Control, Cloud Computing)
+Python Crash Course, 2nd Edition
+Data Science from Scratch
+Eloquent Javascript by Marjin Haverbeke (online free version)
+SQL Fundamentals by Mike Chapple
+Derek Banas (TensorFlow, Time Series Analysis)
+Programming with Mosh (Python for Beginners, ML, cheat sheets)
+CS Dojo (YK Sugi - Google, Python, algorithms, data structures, interview prep)
+freeCodeCamp YouTube channels
+Steve Skeina's lectures (CSE373)
+Build a website for a restaurant (online course example)
+Hangman Game (Python, PySimpleGUI)
+Social Media Network Database (Intermediate)
+Frontend Mentor (HTML/CSS/JS challenges)
+Work on a project you are passionate about
+LeetCode
+Codewars
+HackerRank
+Stack Overflow (QA site)
+GitHub (portfolio, track progress)
+DEV Community blogs/articles
+CodeNewbie
+Learn to Code With Me Blog & Podcast (Laurence Bradford - job advice, free guides, reviews)
+Learn to Code with Me Community (Facebook group)
+w3schools
+Mozilla Docs on HTML and CSS
+Medium articles
+don'tfeartheinternet (web dev overview)
+Blockly (visual programming editor by Google)
+Google Technical Writing (for developers and coders)
+User manual for developers
+Integrate and work with an API
+Includes: Contextual info, technical guidelines, code examples, protocols, error codes, response formats, endpoints
+Reduces support needs, encourages adoption, seamless developer experience
+API Specification (overview, endpoints, methods, parameters, responses)
+API Reference (technical rules, data I/O, authentication, troubleshooting)
+Identify your audience
+Clarity & Conciseness
+Logical Organization (headings, descriptions)
+Consistent Terminology
+Don't forget media (screenshots)
+Provide examples, images, videos, code samples
+Define terms and acronyms
+Provide links to relevant resources (API references, tutorials, FAQs)
+Test the documentation (user testing, internal review)
+Collaborate with others
+Keep documentation up-to-date
+Use a style guide
+Regularly update (significant changes)
+Collect feedback (support tickets, usage patterns, surveys, forums)
+Balance new & experienced developer needs
+General Purpose
+<
+Specific Tools
+<
+Templates & Specifications
+<
+Crucial part of development
+Shared responsibility (devs, tech writers, stakeholders)
+Types: Requirements, Architecture/Design, Technical, User, Marketing
+Docs as Code (treat as software code)
+Literate programming (write with code)
+Elucidative programming (source code and docs separate)
+Efficient, scalable, maintainable systems
+Enhances application performance
+Consistent data integrity
+Reduces technical debt
+Simplifies onboarding
+Normalization
+<
+Denormalization
+<
+Primary Keys (PK) & Foreign Keys (FK)
+<
+Scalability Considerations (future growth)
+Non-redundancy
+Data validation
+Atomicity (divide info into logical parts)
+Indexing for faster queries
+Choosing data types (smallest adequate type, avoid generic)
+Naming Conventions
+<
+Modularization
+<
+Schema Partitioning (for large schemas, e.g., by access or update frequency)
+Avoid Redundancy (normalize, use 3NF initially, ER diagrams)
+Null Values (only allow if truly unknown/missing/non-applicable)
+Avoid Overuse of JOINs (use wisely, ensure indexes, cache reports, denormalize selectively)
+Define all constraints
+Authentication (register users, factors, password recovery)
+Define user permissions by roles and levels
+Conceal Sensitive Information (encrypted/hashed data)
+Don't Store Authentication Keys (store hashes instead)
+Avoid security by obscurity (non-obvious names)
+Relational (SQL-based): IBM Db2, Oracle, MySQL, Microsoft SQL Server
+Non-relational (NoSQL): Document-oriented, Graph, Array DBMS
+In-memory database
+Active database
+Cloud database
+Data warehouses
+Deductive database
+Distributed database
+Embedded database system
+End-user databases
+Federated database system
+Hypertext/Hypermedia database
+Knowledge base
+Mobile database
+Operational databases
+Parallel database
+XML database
+Semantic model
+Content store
+Event store
+Time series model
+dbForge Edge
+<
+Codecademy Learn SQL
+Khan Academy Intro to SQL
+Raspberry Pi Foundation & Teach Computing (FutureLearn)
+University of Michigan (Coursera) Intro to SQL
+freeCodeCamp SQL Tutorial (Video)
+Learning SQL queries (Gianluca Quercini Tutorial)
+Back-end web developer
+Full-stack web developer
+Data analyst
+Data scientist
+Data engineer
+Database administrator
+Systems engineer
+Gemini AI Model (Google)
+Gemini Nano v2/v3
+MediaPipe (Text Classification, Language Detection)
+Amazon Nova Lite (for summarization, translation)
+LLMs (Large Language Models)
+Visual Language Model (VLM) Architectures
+Generative AI (text, image, audio)
+Conversational AI (chatbots)
+Built-in AI in Chrome (Prompt API)
+Customer Response Application (MediaPipe, Chrome Prompt API)
+AI-powered security protections in Chrome
+AI in web browsing
+Web AI applications without backend server
+Automating documentation aspects
+Smart city development
+Healthcare (clinical decision-making, diagnosis)
+Multimodal inputs/outputs
+Constraints & Semantics
+Client-first vs. server-based APIs
+On-device models (resource management, context window)
+Interoperability & Compatibility
+Sampling hyperparameters
+Device constraints (on-device, GPU)
+Prompt injection
+Fast-evolving space, web keeping up
+Regulating emerging AI technologies
+IEEE P7001 standard (transparency, accountability)
+U.S. Department of Health and Human Services HTI-1 Final Rule (healthcare data, APIs, patient access)
+CLeAR Framework (Consistent, Understandable, Usable, Sustainable)
+U.S. Research, Innovation and Accountability Act (proposed, legally compel standards)
+Data protection laws (Africa, EU GDPR)
+China's AI Governance Principles (people-centered, national sovereignty, risk assessment)
+European Parliament Artificial Intelligence Act (AI Act) (prohibits harmful uses, risk-based)
+India's regulation of AI (clearance for untested systems, bias, electoral integrity)
+Japan's AI governance (focus on safe, reliable, interoperable AI)
+OECD's AI Principles (investment, secure digital ecosystem, flexible policy, workforce preparedness, collaboration)
+Russia's national AI strategy (until 2030)
+ASEAN Guide (flexible, non-binding, cultural differences)
+Balancing transparency with privacy, IP rights, security
+Compulsory vs. voluntary compliance
+Theory & Concepts (2D/3D representations, coordinate systems)
+Graphics Libraries (OpenGL/DirectX)
+Real-time rendering & optimization
+Applied AI in graphics
+Software & Hardware relationship (OS, CPU, GPU)
+The Golden Guide to Landing a Developer Position (resume, interviewing)
+Glassdoor Common Interview Questions
+jobscan.co (optimizes cover letters/resumes)
+Practice for the Whiteboarding Interview
+How to Tackle Something You Have No Idea How to Do
+How to: Work at Google — Example Coding/Engineering Interview
+HigherEdJobs (higher education jobs)
+Chronicle Vitae (universities/colleges)
+Minority PostDoc
+Diversity Jobs
+Science Careers
+U.S. Government Jobs
+After College (AI-powered job curation)
+University of Miami Resume and Cover Letter Help
+University of Buffalo Resume Tips
+Interview Tips from the University of North Georgia
+Learn How To Learn
+Work on Fundamentals (basic programming concepts)
+Code Regularly (LeetCode, Codewars, HackerRank)
+Apply knowledge to real-world issues
+Build a portfolio (GitHub)
+Focus on problem-solving skills
+Avoid 'tutorial hell' (focus on creating something)
+Learning by project-making
+HTML
+CSS
+JavaScript
+React
+WordPress
+Git & CLI
+Netlify Build (trigger builds to live site)
+Netlify Tutorials (free course)
+Simple Contact Form Submission With Netlify (mail server setup)
+PHPStorm FTP Server Connection to Remote Host (SFTP/FTP tutorial)
+Front End Web Optimization Workflow (CDNs, optimizing assets)
+rel=canonical : the ultimate guide (Canonical URLs)
+MDN Lazy Loading
+SEO Web Development Tutorial for Beginners
+MOZ Page Speed (check poor page speeds)
+The Art of Debugging
+Collaborative effort globally
+English as lingua franca (documentation, comments, forums)
+Essential English Skills: Reading Comprehension, Writing Skills, Technical Vocabulary
+Effective Communication: Clear inquiries, constructive feedback, cultural sensitivity
+Practice: Codecademy, Khan Academy, GitHub Discussions, Stack Overflow
+Methodologies (Code and fix, Waterfall, Iterative, Agile, DevOps, DevSecOps)
+Steps: Feasibility, Analysis, Design, Programming, Testing, Production
+Workers: Developers, testers, tech writers, graphic designers, product managers
+Models & Tools: CASE, Documentation, IDE, Version Control, Fitness Functions
+BrowserStack Live
+BrowserStack Accessibility
+Percy
+Check My Links
+Lighthouse
+Test IE
+AXE DevTools
+Talend API Tester
+JavaScript and CSS Code Beautifier
+Web Developer
+JSON Viewer / Pro
+Wappalyzer
+React Developer Tools
+Redux DevTools
+CodingBuddy
+User JavaScript and CSS
+ColorZilla / ColorPick Eyedropper
+Window Resizer
+CSSViewer
+CSS Peeper
+WhatFont
+Visual CSS Editor
+PerfectPixel
+Stylebot
+Code Cola
+Session Buddy
+Ghostery
+ClickUp
+HubSpot Guide Creator
+Scribe
+Loom for Chrome
+OctoLinker
+Weava
+Notion Web Clipper
+Fake Filler
+Clear Cache
+Google Keep
+Automa
+Library Sniffer
+Image downloader - Imageye
+SessionBox
+BuiltWith Technology Profiler
+EditThisCookie
+Bitly
+BuzzSumo
+Pinterest Save Button
+Save to Facebook
+RiteTag
+Buffer
+Reddit Enhancement Suite
+SocialAnalyzer
+GIPHY
+Bookmark Sidebar
+Distill Web Monitor
+LibKey Nomad
+MyBib: Free Citation Generator
+Everhour — Time Tracking
+Dark Mode
+LINER: ChatGPT & Highlighter
+Lightshot (screenshot tool)
+Agenty - Web Scraper
+Toby for Chrome
+1Password – Password Manager
+Momentum
+Initab
+GitHub Downloader
+Awesome Autocomplete for GitHub
+Manganum
+Raindrop.io
+Tab for a Cause
+Windscribe - Free Proxy and Ad Blocker
+Chrome's Built-In Prompt API
+MediaPipe Text Classification
+MediaPipe Language Detection
+Gemini AI Model (Local)
+AIChrome
+AI-Powered Security Protections
+An AI Chrome Extension to understand any web page (summarize, translate, simplify)
+Use HTML & CSS for UI
+JavaScript for Logic
+Service Workers for Background Events
+Content Scripts for Web Page Interaction
+Toolbar Action for Popups
+Side Panel for Custom UI
+Manifest File Configuration
+Debugger & Testing
+Publish on Chrome Web Store
+Chrome Developer Tools
+Console.log()
+Breakpoints
+Elements Panel
+Event Listener Breakpoints
+Async Call Stack
+Chrome's Remote Debugging
+Error Handling (try-catch)
+Performance Auditing (Performance tab, Heap snapshots)
+Limit Privileges (Manifest, Host Permissions)
+Restrict Externally Connectable
+Minimize Web-Accessible Resources
+Include Content Security Policy (CSP)
+Avoid document.write() and innerHTML
+Use Content Scripts Carefully (isolated world, data leakage, limited actions)
+Validate & Sanitize Inputs (onMessageExternal, onMessage)
+No special permissions needed
+Background Script for DB operations
+Populate Database
+Add, Get, Update, Delete records
+Easy-to-read syntax
+Extensive libraries
+Multiple paradigms
+Data science, web dev, automation, ML
+Platform-independent (JVM)
+Strong memory management
+Enterprise apps, Android, server-side
+Low-level memory access
+High performance
+OS, embedded systems
+Object-oriented
+STL
+Game dev, system software
+.NET library support
+Cross-platform (.NET Core)
+Unity game dev, Windows apps
+Safe, concise syntax
+High performance
+iOS/macOS app dev
+Memory safety
+Concurrency
+System programming, web assembly
+Simple, clean syntax
+Built-in concurrency (goroutines)
+Web servers, cloud computing
+Interoperable with Java
+Null safety
+Android dev, web dev (JVM)
+Optimized for UI
+Flutter framework
+Mobile/web app dev
+Concise, readable syntax
+Dynamic typing
+Web dev (Rails), scripting
+C#-like syntax
+Compiles to native code
+GNOME desktop apps
+High performance (JIT)
+Scientific computing, data analysis
+Speed, safety, expressiveness
+Python-like syntax, C-level perf
+System, game, web dev
+Text-processing
+System administration, web dev
+Dynamic, interactive web content
+Most popular
+Front-end, back-end (Node.js)
+Static typing
+Builds on JavaScript
+Large-scale web apps
+Server-side scripting
+Powers WordPress
+Dynamic websites, backend
+Foundational languages
+HTML structures, CSS styles
+Static pages, UI, responsive design
+HTML + C# in ASP.NET
+Dynamic web pages
+.NET ecosystem
+Functional, concurrent
+Scalability, resilience
+Real-time, distributed systems
+Functional, concurrent
+Fault-tolerant design
+Telecom, messaging systems
+Microsoft framework
+Multiple programming models
+Enterprise web apps, APIs
+Legacy iOS/macOS
+Primary Android language
+UI toolkit
+Cross-platform (single codebase)
+Component-based approach
+Cross-platform (shared codebase)
+.NET ecosystem
+Cross-platform (native APIs)
+Readability, versatility
+Data science, ML, automation
+Statistical computing, data visualization
+Data manipulation, graphical representation
+Numerical computation, data analysis
+Mathematical functions, toolboxes
+Advanced analytics, business intelligence
+Data handling, predictive modeling
+Object-oriented & functional
+Big data, Apache Spark
+Open-source, numerical computations
+MATLAB-like syntax
+Symbolic language
+Scientific, engineering, mathematical fields
+Statistical modeling (Bayesian inference)
+Google ML library
+High-performance numerical computing
+2D/3D games, AR/VR
+Legacy AAA games
+Python-like syntax
+Cross-platform compile
+2D game dev, beginner-friendly
+Cross-platform
+2D games
+Cross-platform
+3D rendering, game dev
+Low-level, hardware access
+Reliable, secure applications
+Stack-based, low-resource environments
+Python for microcontrollers
+Lego Mindstorms
+Hardware description language
+Hardware description language
+Microchip PIC microcontrollers
+System programming, web applications
+Lightweight, embeddable
+Game dev, embedded systems
+Rapid prototyping, automation
+Microsoft task automation
+Windows environments
+Unix-based shell
+System administration, automation
+Data manipulation, text processing
+User-friendly shell
+Embeddable Java interpreter
+Purely functional, lazy evaluation
+.NET integration, functional-first
+Multi-paradigm (functional, imperative, OO)
+Front-end web dev, no runtime exceptions
+Dependent types, formal proofs
+Purely functional, Haskell-like
+Minimalist Lisp dialect
+Symbolic computation, metaprogramming
+Dependently typed, formal proofs
+Modern Lisp (JVM), concurrency
+Lisp family, language-oriented
+Symbolic & numeric computing
+Open-source computer algebra system
+Python-based, integrates math libraries
+Array-oriented, functional, mathematical
+Manage/manipulate data
+Standardized
+Retrieval, insertion, update, delete
+Oracle extension of SQL
+Procedural capabilities
+Microsoft SQL Server extension of SQL
+Neo4j graph database
+RDF data, semantic web
+Declarative logic programming
+Ethereum blockchain
+DApps, DeFi
+Python-based, secure smart contracts
+Stack-based, low-level
+Bitcoin blockchain, verifiable
+Resource-oriented, digital assets
+Functional, unique syntax
+Non-Turing complete, predictable
+Numerical, scientific calculations
+Cross-platform parallel programming
+NVIDIA GPUs, parallel processing
+Parallel computing, scalability
+GPU acceleration, data parallelism
+Concurrency, memory safety
+Ruby-like syntax, C-like performance
+High- & low-level programming
+Free basic plan
+Interactive lessons (type code, see result)
+Projects, quizzes, badges
+HTML & CSS, PHP, Python, SQL
+Free curriculum
+Deeper front-end & back-end
+Responsive design, JSON APIs, Node.js, Algorithms
+Build projects independently (figure it out)
+Certificates, strong community, forums, articles, podcast, YouTube
+Courses on various languages (e.g., HTML, CSS, JavaScript, Coding for Beginners 1)
+Paid, but often discounted
+Videos, reading material, quizzes, projects
+Certificates available
+Courses from top universities (e.g., University of Michigan for SQL)
+Some free options
+Certificates available
+Free Intro to SQL course
+Challenges to practice queries
+Focus on digital skills for women
+Break into Tech program (paid)
+Free coding camp (HTML & CSS, JavaScript, design)
+Career advice, job listings
+Free mobile app (Google Play, iTunes)
+Teaches different languages (diagrams, text, videos)
+In-app text editor, quizzes, certificates
+Free course for those with development experience
+Written content, lecture tapes, code assignments
+Materials for Python (some free)
+Free, hands-on approach
+Variables, dictionaries, loops, functions, data science fundamentals
+Personalized 1-on-1 support
+Overcome challenges, accelerate learning
+1-on-1 sessions (concepts, projects, assignments)
+Experienced coders, free trial, $28/hr+
+Perfect Match Guarantee
+Personalized sessions
+Hourly or flat project rates
+Subscription plans for regular assistance
+Consult tutors free, discuss needs
+Find ideal tutor (price, qualification, reviews)
+Student Pass for unlimited access
+Automate doc generation
+Minimize errors from manual work
+Keep docs accurate and current
+Build trust, drive API adoption
+Apidog
+<
+Stoplight
+<
+FastAPI
+<
+Readme
+<
+@apidevtools/swagger-parser
+<
+swagger-jsdoc
+<
+Postman
+SoapUI
+RAML
+OpenAPI Specification (Standard format for describing APIs)
+API Blueprint (Markdown syntax for API details)
+Internal templates (custom for orgs)
+Minimize redundancy & dependency
+Ensure data integrity
+Divide large tables into smaller, related ones
+Normal Forms
+<
+Combine normalized tables for read performance
+Increases redundancy, reduces joins
+Goals: Optimize performance, simplify queries
+When to use: Frequent reporting, read-heavy apps, pre-aggregated data
+PK: Unique identifier for each row
+FK: Links tables by referencing PK of another table
+Enforce referential integrity
+Build strong, traceable connections
+System-assigned integers often used for PKs
+Descriptive, intuitive, standardized
+Avoid unclear abbreviations
+Consistent singular/plural
+Prefixes/suffixes for clarity
+Standard casing (snake_case, camelCase)
+Break schema into logical, functional modules (e.g., Sales, Inventory)
+Organize data by business functions/microservices
+Apply security/permissions by module
+All-in-one database powerhouse
+Visual schema designer (drag-and-drop, spot issues)
+Query Profiler, Execution Plan Analyzer, Index Manager
+Schema comparison & synchronization
+Data generation, test data creation
+Supports MySQL, SQL Server, Oracle, PostgreSQL
+Cloud-based, user-friendly
+Design, document, test APIs
+Automatic doc generation
+Integrates with Postman, Swagger
+Free hosting
+Style guide editor
+Visually appealing UI
+Open-source projects: Elements, Dev Portal (outdated)
+Lack of metrics
+Python web framework
+Automatic interactive docs (Swagger UI, ReDoc)
+High performance
+Less popular than OpenAPI Spec
+Enterprise-style interactive API hubs
+API usage metrics, feedback loop
+Troubleshooting with API logs
+Hard-coded code samples, no link validation
+Parse, validate, dereference OpenAPI (Swagger) specs
+No built-in validation for generated docs
+Integrates into CI/CD pipelines
+Validates & resolves specs, doesn't generate docs itself
+Part of Swagger ecosystem
+Generate Swagger docs from JSDoc comments
+User-friendly, straightforward
+Integrates into Node.js apps
+Documentation generated automatically
+Growing community (Node.js)
+1NF: Atomic values, unique records
+2NF: 1NF + non-key attributes fully depend on PK
+3NF: 2NF + no transitive dependencies
+Boyce-Codd Normal Form (BCNF): Stricter 3NF

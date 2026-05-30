@@ -1,0 +1,143 @@
+Architecting Human-First Command Line Interfaces
+Command Line Interface (CLI) Design and Architecture
+<
+User Experience (UX) & Human-First Design
+<
+Development & Tooling
+<
+AI Agent CLIs (Gemini CLI)
+<
+Documentation & Testing
+<
+Design Philosophy
+<
+Interaction & Input
+<
+Output & Messaging
+<
+Exit Codes
+<
+Language & Distribution
+<
+Core Implementation
+<
+Configuration Precedence (Highest to Lowest)
+<
+Configuration Files
+<
+Security & Risk
+<
+Versioning (Semantic versioning, provide --version flag)
+Architecture & Flow
+<
+Model Context Protocol (MCP)
+<
+User Control & Modes
+<
+Developer Feedback/Tradeoffs
+<
+Documentation
+<
+Testing
+<
+Human-first design (Primary goal)
+Serve both humans and programs (Central challenge)
+Be consistent (Structure, Naming)
+Minimize user effort (Smart defaults, Auto-filled values)
+Avoid ambiguity
+Arguments & Options
+<
+Prompts
+<
+Structure
+<
+Command Autocompletion (e.g., Tab to complete, Complete values)
+Human-readable output is paramount
+Machine-readable output (e.g., --json) for scripting
+Proper use of STDOUT (API for other programs)
+Standard Error (stderr) is for non-normal output (Warnings, Progress, Errors)
+Always indicate progress/status (Keep user in loop)
+Suggest next commands (Workflow guidance)
+Fail gracefully (Informative and friendly errors)
+Error Messages
+<
+Color and Formatting
+<
+0 = Successful execution
+Non-zero = Failure (1=general failure)
+Range: 0 ≤ exit code ≤ 123 (Shell uses 124-127, >128 for signal receipt)
+Convey semantic meaning of error/status
+Standardized constants (sysexits.h)
+Rust/Golang: Compile static binaries for easy distribution (No dependencies)
+Python: Requires dependency management (virtualenv, pip)
+Node.js: Uses package manager (npm)
+Containerize the CLI (Docker image) for dependency-free use
+Rust: Better handling of breaking API changes (Compiler errors)
+Use command-line parsing frameworks (e.g., Click, argparse, clap, cobra)
+Avoid manually building filesystem paths (Use path.join)
+Use double ampersand (&&) or double pipe (||) for command chaining (Cross-platform)
+Implement custom actions/logic (e.g., argparse.Action, Click decorators)
+CLI flags/arguments
+Environment variables (12-Factor App)
+Registry (Windows specific)
+Config files
+Defaults (Secure minimal config)
+Store config in the environment (12-Factor App)
+Read environment variables from local .env files
+User-level config: ~/.app-name (dot-prefixed file)
+Do not use .env as substitute for proper config file
+Argument Injection Attacks (Validate untrusted user input)
+Static Binaries/Libraries (Still require security updates)
+AI Code Security (Configure AI Tools with security-first rules)
+Core Agent Loop: Get input -> Call LLM (Respond/Tools) -> Execute tools -> Repeat
+Technical Stack: TypeScript/Node.js
+Uses React/Ink for modern terminal UI
+Tool System/Registry
+<
+Scalable framework for context management/coordination
+Enables integration with external data sources/tools (e.g., GitHub, APIs)
+Client complexity is lower (Client calls server)
+Reusability is high (Decoupled tool)
+Dynamic instructions (Personalization, Session data)
+Context Configuration (settings.json, GEMINI.md)
+Default mode asks permission for execution
+YOLO mode executes without permission (Use with caution)
+Authentication Mechanisms (Google Login, API Key, Vertex AI)
+Special Syntax (@path/to/file, /command, ! shell mode)
+Pros: Response speed, handles complex tasks, 'agentic experience'
+Cons: Latency, frequent 429 errors, Hallucination issues (non-existent function calls)
+UX Debate: Verbose 'thinking' process (Transparency vs. Annoyance)
+Paramount importance
+Getting Started section is most important (80/20 rule)
+Provide copious examples (Intuitive description, show patterns)
+Good website (SEO, search functionality)
+Generated docs (Doc generation, man pages)
+CLI tools often overlooked in end-to-end testing
+Tests should resemble user usage (Maximize confidence)
+Test business logic (Verify file creation, operation based on input)
+Automate interactive CLI testing (Expect scripts: spawn, send, expect)
+Use frameworks like Tush (Check stdout, stderr, return values)
+Mock external dependencies (Ensure reproducible runs)
+Integrate automated a11y linter into CI pipeline
+Positional arguments for non-optional values
+Flags/Options should be order-independent
+Use single dash for short options (-l)
+Use double dash for long options (--long)
+Allow special word 'none' for optional values
+Prefer flags to arguments (Additive changes)
+Desirable for first-time users (Guide)
+Never mandate prompts (Allow automation override)
+Input/Password prompts (Hide input)
+Use topics (Nouns) and commands (Verbs)
+Use subcommands for specific actions
+Command structure: platform-cli [noun] [verb]
+Should be actionable (Tell fix)
+Include reference numbers or error codes (E4002)
+Use color with intention (Highlight errors)
+Disable color if not TTY or user requested (--no-color, NO_COLOR env)
+Don't use color as the only way to convey information
+File operation tools (write-file, read-file, edit)
+System command execution
+Network request tools
+Search/Browse tools (grep, glob, ls)
+AI analyzes user intent to decide tool calls

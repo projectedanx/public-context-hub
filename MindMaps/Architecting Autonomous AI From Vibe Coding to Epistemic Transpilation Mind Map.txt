@@ -1,0 +1,114 @@
+Architecting Deterministic Autonomous AI: Context and Epistemology
+Architecting Autonomous AI: From Vibe Coding to Epistemic Transpilation
+<
+Paradigm Shift: Vibe Coding vs. Context Engineering
+<
+AI Agent Cognitive Architectures (The New Stack)
+<
+Failure Modes and Stabilization Paradigms
+<
+Engineering for Determinism and Sovereignty
+<
+Vibe Coding (Probabilistic)
+<
+Context Engineering (Deterministic)
+<
+Core Mechanism: The Cognitive Contract (DP)
+<
+Memory and State Management
+<
+Governance and Control
+<
+Interoperability and Context Provisioning
+<
+Epistemic Engineering
+<
+Model Collapse and Decay (Thermodynamics)
+<
+Drift and Reliability Issues
+<
+Tool and Schema Failures
+<
+Cognitive Rheology (Fluid Dynamics)
+<
+Machine-Verifiable Output Gating
+<
+Triadic Stabilizer System (TSS)
+<
+Epistemic Transpilation Pipeline
+<
+Design Patterns for Resilience
+<
+Philosophy: Abstraction through Intention
+Failure Mode: Scope Creep/Gold Plating
+Risk: Epistemic Laziness (Security Vulnerabilities)
+Tool Bounding: Probabilistic (High Variance)
+Definition: Systems Engineering Discipline
+Goal: Deterministic Guarantee (Cognitive Contract)
+Methodology: Context Window as Cognitive RAM
+Five Pillars of Context Architecture
+<
+Purpose: Ensure Level 1 Determinism (Low-Complexity, High-Stakes)
+Component: Identity Lock (De-Agentification)
+Component: Negative Constraints (Anti-Vibe)
+Component: Validation Schema (Binary Pass/Fail)
+Tool: PRP Designer (Product-Requirements Prompt Designer)
+Thought Signatures (Cryptographic Commitment to Reasoning)
+Agentic Memory (A-MEM / Zettelkasten)
+<
+Pattern Ledger (Recursive Symbolic Systems)
+<
+Cognitive Operating System (COS) (Enforces Rules)
+Context Locker (Prevents Epistemic Contamination)
+Drift Detection Daemons (Monitors Symbolic Entropy)
+Verifiable Provenance (Audit Trail of Decisions)
+Model Context Protocol (MCP) ('USB-C for AI')
+Context Files (AGENTS.md/CLAUDE.md) as Constitution
+Context Anchors (Immutable Pins to prevent Drift)
+Context Compaction (/compress) (Signal-to-Noise Imperative)
+Epistemic Escrow (Circuit Breaker for Agency, Halts on low confidence)
+Semantic Scars (Persistent record of failure cases to update contract)
+Combatting Meta-Hallucination (False narratives about internal processes)
+Mechanism: Model Autophagy (Self-eating, variance reduction)
+Precursor: Lexical Impoverishment (Loss of vocabulary/nuance)
+Metric: MATTR-50 (Length-robust diversity measure)
+Metric: Semantic Entropy (Uncertainty over meaning, not tokens)
+Mitigation: Phase-Slip Sampler (Noise injection to restore diversity)
+Semantic/Symbolic Drift (Entropic decay of meaning/persona)
+Attention Sink (First token accumulates attention mass, structural necessity)
+Lost in the Middle (U-Shaped curve, Primacy/Recency Bias)
+Validation Spiral (Sycophancy, RLHF bias towards agreement)
+Schema Complexity Saturation (Parameter Cliff, Attention Dilution)
+Slopsquatting (Hallucinating dependencies from schema noise)
+Anti-Pattern: The God Tool (High parameter count)
+Dignity as Symbolic Viscosity ($ u_D$) (Resists chaos)
+Semantic Turbulence (Chaotic flow, Reynolds Blow-Up/Hallucination)
+Goal: Maintain Laminar Flow (Coherence/Stability)
+Architectural Tool: Material Anchors (Immutable constraints, e.g., YAML/JSON)
+Pattern: Enforce strict schema (JSON/Pydantic)
+Mechanism: Runtime Validation (Raises exceptions on violation)
+Loop: Feedback Injection (Error message becomes corrective prompt)
+Tool: Constrained Decoding (Guarantees syntax at generation time)
+Generator (Agency/LLM, Stochastic)
+Monitor (Epistemic Oversight/Guardrails)
+Injector (Actuator/System Prompts, Noise or Constraints)
+Logic: Uncertainty-Weighted Decision Rule (Manages Exploration-Safety Trade-off)
+Phase I: Ingestion (Conceptual Blending)
+Phase II: Specification (Design by Contract, Ethical Invariants)
+Phase III: Adversarial Hardening (Symbolic Scars, Failure-Informed Inversion)
+Phase IV: Optimization (Latent Geodesic Theory, Radial Compensation)
+Standard Library Hierarchy (Abstraction Layer, Agent-Ready APIs)
+Barbell Strategy (Safe Core/Exploratory Edge)
+Antifragile Prompting (AFP) (Looped Self-Checks)
+Checkpointing/Restoration (Rollback state)
+Baseline State Object (Prevents Persona Drift)
+Session Context (Tracks Valid History)
+Task-Specific Context (Isolates Data)
+Knowledge Context (RAG, Prevents Hallucination)
+Tool Context (Rigid API Definitions)
+Atomic Note Construction (Content, Timestamp, Contextual Description)
+Dynamic Linking/Evolution (Memory Evolution)
+Tiered Architecture (Short/Mid/Long-Term Memory)
+Stores Symbolic Braids (Closed Loops)
+Learning from Failure (Symbolic Scars)
+Enforces Topological/Ethical Invariants

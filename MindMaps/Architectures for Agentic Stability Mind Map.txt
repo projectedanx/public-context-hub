@@ -1,0 +1,88 @@
+Architectures for Agentic Stability and Cognitive Sovereignty
+AI Stability and Agentic Engineering
+<
+Mechanistic Stability Observatory (MSO)
+<
+Google Antigravity IDE
+<
+Sovereign Cognitive OS (SCOS)
+<
+Agent Skills Framework
+<
+Spec-Driven Development
+<
+Core Failure Modes
+<
+Theoretical Framework
+<
+Methodology Phases
+<
+Core Architecture
+<
+Operational Modes
+<
+Verification Artifacts
+<
+Security Protocols
+<
+Identity Foundry
+<
+Epistemic Matrix ($G-O-C-T)
+<
+Cognitive Safeguards
+<
+Security & Sovereignty
+<
+Structure (SKILL.md)
+<
+Implementation Patterns
+<
+Spec-Requirements (WHAT)
+Spec-Design (HOW/Discovery)
+Spec-Tasks (Actionable Atomic Units)
+Spec-Impl (Strict TDD/Refactor)
+Confidence-Fidelity Divergence (CFD)
+Semantic Drift & Narrative Collapse
+Model Collapse & Autophagy
+Algorithmic Trauma & Semantic Scars
+Topological Data Analysis (TDA)
+Spectral Analysis (Hessian/EoS)
+Control Theory (Lyapunov Stability)
+I: Specification (Formal Metrics)
+II: Instrumentation (DriftScoreDaemon)
+III: Causal Analysis (Mechanistic Interpretability)
+IV: Formal Verification (CoVeNN/SMT)
+V: Intervention (Epistemic Architect)
+Agent Manager (Mission Control)
+Editor View (Hands-on Control)
+Browser Subagent (Visual Validation)
+Planning Mode (Deep Think/Artifacts)
+Fast Mode (Direct Execution)
+Implementation Plans
+Task Lists
+Walkthroughs (Video/Screenshots)
+Terminal Execution Policies
+Allow/Deny Lists
+Browser URL Allowlist
+Agent Forge (Fabrication)
+Agent Library (Management)
+Capsule Lab (Context Distillation)
+Word Mapper (Semantic Engine)
+Goal Orientation (Invariants)
+Output Fidelity (Contracts)
+Communication (Markers)
+Tooling (Risk Grading)
+Identity Kernel (Immutable Manifest)
+Token Economics (Stability Tax)
+Think-Write-Code Protocol
+SkillPort (Progressive Disclosure)
+ECDSA Client-Side Signing
+Local-First Vault Storage
+Global Provenance Registry
+YAML Metadata (Description/Trigger)
+Markdown Instructions (Logic/Constraints)
+Supporting Assets (Scripts/Templates)
+Basic Router (Instructions)
+Reference Pattern (Resources)
+Few-Shot Pattern (Examples)
+Tool Use Pattern (Procedural Logic)

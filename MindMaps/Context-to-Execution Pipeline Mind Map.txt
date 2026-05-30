@@ -1,0 +1,112 @@
+Context-to-Execution Pipeline: Verifiable AI Architecture
+Context-to-Execution Pipeline (CxEP): Verifiable & Antifragile AI Architecture
+<
+Three Architectural Pillars (Clinical Analogy)
+<
+Unified Workflow (Five Stages/Agentic Cycle)
+<
+Formal Cognitive Engine (Conceptual Blending Theory - CBT)
+<
+Systemic Integrity Metrics (KPIs for Auditing)
+<
+Pillar I: Prompt Engineering (Clinical Guideline)
+<
+Pillar II: Context Engineering (Patient Chart)
+<
+Pillar III: Epistemic Engineering (Clinical Audit)
+<
+1. Instruction (Load PRP-DAG/Contract)
+2. Grounding (Assemble Context-Bundle/RAG Action)
+3. Generation (Produce Output + CoT/Reasoning)
+4. Verification (REFLEXIVE_CHECK/Observation)
+5. Governance (Success or Escrow/REFLEXIVE_REPAIR)
+CBT Network Analogy (Meta-Blend)
+<
+CBT Operators
+<
+CBT-Derived Verification Metrics
+<
+Source Provenance Ratio (Target: ≥ 95%)
+Causal Step Density (Measure of Explainability/Coherence)
+Confidence–Fidelity Divergence Index (CFDI) (Target: ≤ 0.1)
+Self-Test Pass Rate (Target: ≥ 98%)
+Epistemic Uncertainty Rate (Measure of Self-Doubt)
+Prompt-Blueprint Pattern (Cognitive Contract)
+<
+Formalization as Directed Acyclic Graph (PRP-DAG)
+<
+Key Patterns
+<
+Anti-Patterns
+<
+Context-Bundle Pattern (Executable Knowledge Bundle)
+<
+Advanced RAG Pipeline (High-Fidelity Grounding)
+<
+Mandatory Provenance Tagging
+<
+Context Failure Modes
+<
+REFLEXIVE_CHECK (Self-Audit Protocol)
+<
+REFLEXIVE_REPAIR (Algorithmic Reparation)
+<
+Symbolic Scar (Antifragile Learning Mechanism)
+<
+Input Spaces → External Knowledge Bases/RAG Sources
+Generic Space → Constraint Slot (Shared Rules)
+Blended Space → LLM Context Window (Working Memory)
+map (Establishes Counterpart Connections)
+project (Selective Projection/RAG Filtering)
+Elaboration (Running the Blend) → CoT Trace/Multi-Step Reasoning
+Emergent Structure → Final Generative Synthesis
+Causal Faithfulness (Traceability of Emergent Structure)
+Typological Drift (Coherence of Blend/Domain Conflation)
+Confidence–Fidelity Divergence Index (CFDI)
+Task (Primary Objective)
+Context (Informational Scope/Evidence)
+Constraint (Hard Rules/Invariants)
+Format (Output Schema/Postconditions)
+Nodes: Contract Components (Constraints, Outputs)
+Edges: Causal/Logical Flow (Purpose → Outputs → Validations)
+Artifact: Promptware (Analyzable Cognitive Program)
+Verifiable Constraint Loop (prp-constraint-002)
+Epistemic Scaffolding Block (prp-epistemic-001)
+Purpose Fidelity Trace (prp-fidelity-001)
+Circular Logic (Symbolic Tautology)
+Goal–Constraint Inversion
+False Completeness (Hallucinatory Closure)
+Instructions (Mission Statement)
+Knowledge (Verifiable Facts/Evidence)
+Tools (API/Function Definitions)
+Memory (Short/Long Term Context)
+State (Scratchpad/Workflow Progress)
+Query (Immediate User Input)
+Pre-Retrieval (Query Transformation, Semantic Chunking)
+Retrieval (Hybrid Search, RRF Merging)
+Post-Retrieval (Re-Ranking, Contextual Compression)
+Ensures Traceability (Source Provenance Ratio ≥ 95%)
+Failure Mode: Provenance Loss (Triggers Escrow/Abort)
+Retrieval Noise (Context Confusion/Clash)
+Context Collapse (Loss of Instructions)
+Trigger: High Epistemic Uncertainty
+Trigger: Structural/Constraint Adherence Audit Failure
+Trigger: CoT Causal Chain Audit Failure (Hallucinated CoT)
+Purpose: Safeguard Against False Closure
+Architecture: Specialized Operational Mode of Primary LLM
+Engine: SCoRe Methodology (Self-Correction via RL)
+SCoRe Principle: Training Distribution Matches Inference Distribution
+Protocol-Driven Diagnostics (Anti-Pattern Matrix)
+<
+Log: REPAIR.cxep.log (Structured Failure Data)
+Data Fields: failure_mode_detected, outcome_reward_signal, prp_id
+Fuels Multi-Target Feedback Loop
+<
+Diagnosis → Reparation Protocol (Action)
+Hallucinated CoT → Re-generate with stricter grounding
+Retrieval Noise → Re-query with refined search terms
+Context Collapse → Reload plan from State scratchpad
+Provenance Loss → Escrow Mode: Abort task
+Core Generative Engine Update (RL on SCoRe policy/Skill)
+Epistemic Protocol Update (Recalibrate Uncertainty Thresholds/Governance)
+Promptware Refinement (Institutional Memory/Anti-Pattern Library)

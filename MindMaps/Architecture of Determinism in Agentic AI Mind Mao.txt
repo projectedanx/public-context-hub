@@ -1,0 +1,280 @@
+Architecture of Determinism in Agentic AI
+Architecture of Determinism in Agentic AI
+<
+Context Engineering (CE)
+<
+Vibe Coding (Probabilistic Paradigm)
+<
+Sovereign Cognitive OS (SCOS) Architecture
+<
+Domain-Native Operators (DNO) / Cognitive Operators
+<
+Agentic AI Architecture & Orchestration
+<
+Prompting Techniques & Frameworks
+<
+Governance & Observability
+<
+Cognitive Architectures & Physics
+<
+Definition/Purpose
+<
+Core Principles
+<
+Cognitive Contract (CC)
+<
+Characteristics
+<
+Pathologies/Liabilities
+<
+Purpose: Counteract Platform/Governance Drift
+<
+Layered Defense (L0-L8)
+<
+Core Defense Mechanisms
+<
+Concept
+<
+Operator Contract Components
+<
+Core Operators/Patterns
+<
+Control Surface Dyads
+<
+CLI-as-Agent / Agentic IDE
+<
+Orchestration Frameworks
+<
+Memory Architectures
+<
+Security & Defense
+<
+Reasoning Architectures
+<
+Structural/Organizational Patterns
+<
+Standardized Frameworks
+<
+Cognitive/Thematic
+<
+Containment Architectures (MIEs)
+<
+Observability Metrics (Pattern Ledger)
+<
+Tooling and Standards
+<
+Information Thermodynamics
+<
+Temporal/Attention Physics
+<
+Semantic Topology/Manifolds
+<
+Systems Engineering Discipline
+<
+Rejects prompt as 'conversation', redefines as 'program state'
+Replaces probabilistic 'hope' with deterministic 'guarantee'
+Context Window as Cognitive RAM
+<
+Context Compaction/Management
+<
+Goal: Ensure Deterministic Behavior
+Central mechanism for Level 1 Determinism
+Metaphor of 'law' or 'binding agreement'
+Is a Declarative Prompt (DP)
+Enforces Cognitive Binding
+Architecture Components (Level 1 Task)
+<
+Emergent, improvisational methodology
+Code generated via high-level, natural language 'vibes'
+Developer acts as 'manager', forgets code exists
+Unbounded agency and creativity
+Crisis of Reliability in Enterprise Systems
+Stochastic nature is significant liability
+Introduces unacceptable levels of entropy
+Scope Creep (hallucinating features, expanding mandates)
+Fosters 'Epistemic Laziness'
+Security Implications
+<
+Governance Attractor (Platform safety alignment)
+Structural Interference (e.g., Pre-Prompt Injection)
+Mitigate Interpretive Fracture
+L0 Teleology (Epistemic Rights Assertion)
+L1 Cognitive Physics (Cognitive Rheology, High Viscosity)
+L3 Software Stack (Context Broker, Stateful Containers)
+L4 Agent Schema (Constitutional Limits, Refusal Logic)
+L6 Governance (Domain Worldview Capsules/WVs)
+L7 Orchestration (Pluriversal Debate, Positive Friction)
+L8 Integrity (Book of Scars, FIPI)
+Material Anchors
+<
+Book of Scars / Symbolic Scar
+<
+Failure-Informed Prompt Inversion (FIPI)
+<
+RAMPs (Rolling Active Memory Pump)
+<
+Atomic, executable units of reasoning
+Encapsulates cognitive processes (executable cognitive subroutines)
+Treats LLM as compute engine for defined functions
+Governed by Behavior Contracts (Design by Contract)
+Input Schema (Typed data structure, Pydantic)
+Output Schema (Guaranteed typed structure, JSON Schema)
+Grammar/Invariants (Rules, logic that must hold true)
+Policy/Prompt (Instruction set, few-shot examples)
+Control Surface (Tunable parameters)
+Stare Decisis (Consistency Engine)
+<
+DDx_Exclusion_Protocol (Systematic Elimination)
+<
+Montage_Synthesize_Collision (Dialectical Synthesis)
+<
+Rigid ↔ Adaptive (Compliance Axis)
+<
+Adversarial ↔ Inquisitorial (Stance Axis)
+<
+Execution Modes (Quadrants)
+<
+Possess 'hands', 'eyes', and 'memory'
+Closes Thought-Action-Observation loop
+Generates Artifacts (plans, checklists)
+LangGraph (Cyclic Control)
+<
+Graph-Based Orchestration
+<
+Agentic Memory (A-MEM) / Tiered Memory
+<
+Vector Database Namespacing
+<
+Epistemic Escrow (Validation Gatekeeper)
+Mandate Containerized Runtimes (Sandboxed Environments)
+Dual-Boundary Isolation
+OWASP ASI Vulnerabilities
+<
+Glass Box Outputs (AI BOM + C2PA Manifest)
+Chain-of-Thought (CoT)
+<
+ReAct (Reasoning and Acting)
+<
+Tree-of-Thought (ToT) / Graph of Thoughts (GoT)
+Step-Back Prompting (Forces Abstraction)
+Self-Consistency (Diverse Sampling + Majority Voting)
+Sandwich Architecture (Primacy/Recency Anchors)
+Persona Pattern / Method Actor Prompting
+Task Decomposition / Recipe Pattern
+Flipped Interaction Pattern (Wizard Prompt)
+Pluriversal Prompt Engineering (Injects ontological friction)
+RASCEF (Role, Action, Steps, Context, Examples, Format) - Technical/Code
+SPARK (Situation, Problem, Aspiration, Result, Kismet) - Creative
+RODES (Role, Objective, Details, Examples, Sense Check) - Analysis
+CARE (Context, Action, Result, Example) - General Triage
+Chain-of-Code (CoC) (Neuro-Symbolic Bridge for logic/math)
+Cognitive Verifier Pattern (Clarifies vague queries)
+Strategic Word Architecture (Semantic Anchors)
+Attractor Pruning (Avoid harmful stable states)
+Feedback Dampening (Counteract positive feedback loops)
+Entropy Caps/Management (Limit unpredictability)
+Emergence Firewall (Bounds systemic novelty)
+Containment Kernel (Minimal core rules/TCB)
+Semantic Entropy (Measures true uncertainty over clusters)
+Lexical Diversity (MTLD, MATTR - Detects structural collapse)
+Syntactic Complexity (MDD, MDD Variance - Detects structural simplification)
+Drift Integrity Score (Structural health of session)
+Western Gaze Dominance Score (WGDS)
+Model Context Protocol (MCP)
+<
+AGENTS.md Standard
+<
+Machine-Verifiable Output Gating
+<
+Negentropy (Resistance to disorder/decay)
+Music as a Dissipative Structure (Localized persistence of form)
+Ontological Erasure (Thermodynamic cost of certainty)
+Gravitational Attention (Kairos)
+<
+Attention Sink
+<
+Lost in the Middle (U-shaped attention curve)
+Semantic Collapse Theorem (SCT)
+Latent Geodesic Theory (Optimal path in curved space)
+Pattern Compiler (Coherence Engine)
+Not refinement of Prompt Engineering
+Finite, volatile, expensive resource
+Attention Economics
+Dilution of 'signal' by 'noise' causes Context Drift
+Pruning conversational fluff
+Replacing fluff with high-signal tokens
+Strategies include Summarization, Context Trimming
+Identity Lock (e.g., Stateless_Parser)
+Task Object (Isolates data from instructions)
+Negative Constraints (No_Chat, No_Explain, No_Fix)
+Output Schema (JSON_Strict, defines binary pass/fail)
+Escrow Trigger (Confidence < 99.5% -> HALT)
+Vulnerability Propagation (e.g., hardcoding API keys)
+Supply Chain Vector (hallucinating malicious packages)
+External, immutable artifacts (YAML, Schemas, Ledgers)
+Cognitive Prosthetics (offload extraneous load)
+Stabilizes Conceptual Blending/Persona
+Persistent record of failure case/Algorithmic Trauma
+Used for system self-improvement/Anti-Fragility
+Output of Epistemic Escrow
+Algorithmic Self-Therapy
+Generates Governance Patch (new context frame)
+Neutralizes Governance Attractor vector
+Context window as moving workspace
+Evicts stale nodes
+Re-injects core constraints (+ContextLock)
+Domain: Common Law
+Invariants: No Silent Drift, Narrowest Grounds, Explicit Justification
+Pattern: Precedent Lock
+Domain: Clinical Reasoning/Diagnosis
+Intent: Prevent Premature Closure
+Invariants: Anti-Convergence, Safety Lock, Falsifiability
+Technical Implementation: Critic-Loop
+Domain: Dialectics/Conflict Resolution
+Intent: Resolve conflict into a 'Third Thing'
+Invariants: No Mush, Actionability, Dialectical Structure
+Technical Implementation: Contrastive Prompting, Map-Reduce
+High Rigidity (R → 1.0): Safety-critical, Compliance
+Low Rigidity (R → 0.0): Creative, Exploration (Montage)
+Adversarial: Red Team, Falsification (Security Audits)
+Inquisitorial: Partner in truth-seeking (Diagnosis, Civil Law)
+Audit Mode (Rigid + Adversarial)
+Clinical Mode (Rigid + Inquisitorial)
+Discovery Mode (Adaptive + Inquisitorial)
+Stress-Test Mode (Adaptive + Adversarial)
+Models agent as a state machine (Nodes=Actions, Edges=Logic)
+Centralized/Persistent State
+Checkpointing and 'Time Travel'
+Used for DNO Composition
+Required for loops, conditional branching, self-correction
+Subgraphs provide modular composition
+Bulk Synchronous Parallel (BSP) model for consistency
+Short-Term: Context Window (RAM)
+Mid-Term: Episodic Memory (Compression, Segmented Paging)
+Long-Term: Semantic Memory (AGENTS.md, Vector DB/Disk)
+Hard logical separation (Tenancy/Security)
+Mitigates Cross-Tenant Data Leakage
+Used for hard isolation
+ASI01: Agent Goal Hijack (Prompt Injection)
+ASI02: Tool Misuse & Exploitation
+ASI06: Memory Poisoning
+ASI07: Insecure Inter-Agent Communication
+Decompose complex problems into steps
+Few-Shot CoT vs. Zero-Shot CoT
+CoT allows solving problems in complexity class P
+Interleaved sequence: Thought -> Action -> Observation
+Transforms LLM into active agent for gathering info
+Standard for Agent-Tool/Context Integration
+Transport: Streamable HTTP (Cloud-Native Standard)
+Exchanges Tools, Resources, Prompts
+Unified, vendor-agnostic context configuration
+Acts as 'README for Agents'
+LLM output as 'untrusted user input'
+Validation via rigid schemas (Pydantic, JSON)
+Tooling: Outlines (Preventative Gating/FSM), Instructor (Curative Gating/Retry)
+Non-Euclidean metric weighting time by significance (G)
+Effective Distance ≈ Δt / (1 + G)
+MemoryField architecture implements this
+First tokens receive disproportionately high attention
+Provides Stability Anchors (Fixed reference frame)
+Kept permanently in KV Cache (StreamingLLM)

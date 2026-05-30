@@ -1,0 +1,130 @@
+Mind map
+Pattern Matching: Definition, Algorithms, and Applications
+
+Pattern Matching
+<
+Definition
+<
+Terminology
+<
+Algorithms & Techniques
+<
+Applications
+<
+Challenges
+<
+Checking sequence of tokens
+Exact match required
+In contrast to pattern recognition
+Patterns as sequences or tree structures
+Also known as destructuring
+Matching
+Pattern
+Discriminant (subject value/scrutinee)
+Continuation
+Substitution
+Binding
+Wildcard (discard/catch-all/hole)
+Guard
+Predicate
+View pattern
+Constraint
+Literal pattern (atomic pattern)
+Compound pattern
+Alternative (or-pattern)
+Macros
+Exact Matching
+<
+Inexact/Approximate Matching
+<
+Machine Learning
+<
+Formal Methods/Automata
+<
+Bit-parallel
+Hybrid approaches
+Matcher Cells Algorithm
+<
+Natural Language Processing (NLP)
+<
+Computer Vision
+<
+Software Engineering & QA
+<
+Cyber Security
+<
+Temporal Sequence Analysis
+<
+Customer Feedback Analysis
+Social Media Monitoring
+Reputation Management
+Ambiguity (in NLP)
+Irony & Sarcasm
+Negation
+Data Quality and Quantity
+Overfitting and Generalization
+Interpretability and Explainability
+Computational Overhead
+Dynamic Features in Languages (for static analysis)
+Lack of Flexibility (traditional algorithms)
+Brute-force
+Knuth-Morris-Pratt (KMP)
+Boyer-Moore (BM)
+Rabin-Karp
+Hash Chain (HC)
+Sentinel-Hash-Chain (SHC)
+Weak Factor Recognition (WFR)
+Fuzzy Approach to Record Linkages
+Damerau-Levenshtein distance
+k-difference (k-mismatch)
+Hirschberg's algorithm
+Baeza-Yates and Perleberg
+Supervised learning
+Unsupervised learning (clustering, HMM)
+Self-supervised learning
+Deep Learning (CNNs, RNNs, Transformers)
+Genetic Algorithms
+Finite-State Automata (FSA)
+Deterministic FSA (DFA)
+Non-deterministic FSA (NFA)
+Finite-State Transducers (FST)
+Regular Expressions (Regex)
+Self-replication inspired
+Flexible matching semantics
+Composition of simple rules
+Object-oriented architecture (TypeScript/Java)
+Turing-complete expressive
+Sentiment Analysis
+Speech Recognition
+Text Generation
+Named Entity Recognition
+Translation
+Text Classification
+Topic Modeling (LDA)
+Word Embeddings
+Bag-of-Words (BoW)
+TF-IDF
+Semantic analysis
+Syntactic analysis
+Image Recognition
+Object Detection
+Face Recognition
+Fingerprint Recognition
+Medical Image Analysis (CAD)
+Automated Car Manufacturing
+Code Review
+Static Code Analysis
+Dynamic Symbolic Execution (Pex)
+Test Case Generation
+Requirements Analysis
+Requirements Traceability
+Anomaly Detection
+Defect Prediction
+Root Cause Analysis (RCA)
+Specification Mining
+Intrusion Detection
+Fraud Detection
+Web Spambot Detection
+Genomics (DNA/Protein sequences)
+Ambient Acoustic Event Detection
+NotebookLM can be inaccurate; please double-check its responses.

@@ -1,0 +1,60 @@
+Architectural Blueprint for the Sovereign Cognitive Operating System
+Sovereign Cognitive OS
+<
+Core Principles & Physics
+<
+Architectural Layers
+<
+The Triadic Stabilizer
+<
+Domain-Native Operators
+<
+Failure Modes & Mitigations
+<
+Operational Tools
+<
+Epistemic Physics
+Cognitive Rheology
+Material Anchors
+Sovereign Context
+Dignity Cliff
+Layer 0-2: Foundations & Language
+<
+Layer 3-4: Software & Agents
+<
+Layer 5-8: Execution & Integrity
+<
+Generator (The Idea)
+Monitor (The Audit)
+Injector (The Guardrail)
+The Minimal Trilogy
+<
+Systemic Risks
+<
+Defensive Strategies
+<
+CPH Router
+Model Context Protocol (MCP)
+LangGraph (Orchestration)
+C2PA Provenance
+Teleology
+Strategic Word Architecture
+Prompt Decorators (PDL v1.0)
+Context Broker (CxB)
+Rheological Controller
+Agent Persona Prompt (APP)
+Sovereign Co-Mind Triad
+Petzold Loop
+Book of Scars
+Drift Coefficient (Cd)
+Stare Decisis (Constraint)
+Differential Diagnosis (Exclusion)
+Montage (Synthesis)
+Interpretive Fracture
+Semantic Drift
+Epistemic Monoculture
+Model Collapse
+Bicameral Architecture
+Epistemic Escrow
+Failure-Informed Prompt Inversion
+Dual-Boundary Isolation

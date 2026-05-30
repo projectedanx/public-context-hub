@@ -1,0 +1,297 @@
+Dragons, Demons, and Digital Creation
+<
+Dragons
+<
+Mythology and Folklore
+<
+In Religion
+<
+In Literature and Pop Culture
+<
+In Science and Nature
+<
+Related Concepts
+<
+AI and Creativity
+<
+Cultural Variations
+<
+Characteristics and Symbolism
+<
+Dragon Slaying Motif
+Pagan Gods becoming Demons (Christianity)
+<
+Biblical References
+<
+Saintly Interactions
+Demonic Possession (Christian demonology)
+Water beings in ancient religions (hydrolatry)
+<
+Fantasy Literature
+<
+Films
+<
+Games
+Komodo Dragon (Varanus komodoensis)
+Bearded Dragon (Pogona)
+Agamidae family of lizards ('dragons')
+Unearthed fossils interpreted as 'dragon bones'
+<
+Demons
+<
+Gothic
+<
+Liminality/Anti-structure
+<
+AI Image Generation
+<
+Prompt Engineering
+AI in digital marketing/advertising
+AI for accessibility (voice command, gesture recognition)
+AI as collaboration tool, not total substitution
+<
+European
+<
+East Asian
+<
+Near Eastern
+<
+Greek
+<
+British Isles (General)
+<
+Native American
+Ambivalence (good/evil)
+Supernatural strength
+Terrifying appearance
+Man-eating habits
+Inhabiting deserted places (outside community)
+Most active during night
+Associated with conflict embodiment
+Reflect interactions/feelings about nature
+Guardians of treasure/hoards
+Can be summoned/commanded via magic
+Often represent forces of darkness/Hell (Christianity)
+Symbolize struggle against evil
+Association with chaotic/pathological conflict situations
+Heroic act (often by a knight or saint)
+Associated with gaining land/reward
+Methods vary (sword, arrow, cunning)
+Vulnerable underside (Scandinavian lore)
+Explaining geographical features/place names
+Leviathan
+Great Red Dragon (Revelation, associated with Devil/Satan)
+Serpent in Genesis
+Michael's fight against the Dragon
+St. George (most famous, martyred)
+St. Martha (subdues with holy water/cross)
+St. Margaret (swallowed, bursts out)
+St. Carantoc (leads with stole)
+St. Petroc (leads with staff)
+St. Columba (vanishes with prayer)
+St. Germanus (leads with handkerchief)
+St. Patrick (drives snakes into sea)
+St. Senan
+St. Keyne (tames serpents)
+<
+J.R.R. Tolkien
+<
+A Song of Ice and Fire (George R.R. Martin)
+<
+How to Train Your Dragon (Cressida Cowell)
+<
+Other Notable Works
+Modern portrayal as allies or intelligent creatures
+Shift from purely monstrous figures
+Dragonslayer (1981)
+Dragonheart (1996)
+Reign of Fire (2002)
+Beowulf (2007)
+How to Train Your Dragon (2010)
+The Hobbit trilogy (2012-2014)
+Game of Thrones (TV series)
+Parody/Flawed Heroes
+<
+Dungeons & Dragons
+Baldur's Gate (video game series)
+Skyrim
+The Legend of Zelda: Breath of the Wild / Tears of the Kingdom
+From Greek 'daimon' (deity, lesser god)
+Ambivalent in ancient world (good/bad)
+Exclusively evil in Abrahamic religions
+Hierarchies in medieval theology
+Materialization and temptation (sexual connotations)
+Possession (idiom of distress, psychiatric disorder, or real entity)
+Fallen angels
+Devils
+Ethereal demons
+Infernal hierarchies (Lucifer, Satan, Horsemen, Deadly Sins)
+Machine (renegade afterlife empire)
+Demon Lords
+<
+Architecture
+<
+Literature
+<
+Subculture
+Interspace between orders/systems of meaning
+Borderline character
+Regenerative and creative significance
+Breaking normal order (rituals, carnivals)
+Related to identity production (articulating limits)
+Demons as figures in liminal areas
+Mary Douglas (Purity and Danger)
+Victor Turner (The Ritual Process - anti-structure)
+Transforms visual media (photography, design)
+Rivals traditional photography in realism
+Raises ethical questions
+Authorship (algorithm creator, user, dataset contributors)
+Authenticity (synthesizing scenes that never occurred)
+Ownership (legal grey zones, intellectual property frameworks)
+Training data ethics (consent, copyright, provenance)
+Attribution and licensing (shared attribution proposals)
+Potential erosion of trust in visual information
+Used as tool in fine arts/conceptual photography
+Examples (Midjourney, Stable Diffusion, DALL·E)
+Guiding AI response
+Specificity and detail
+Avoiding overloading prompts
+Ignoring style/tone leads to unintended results
+Iteration and experimentation
+<
+Techniques
+AI flaws (factual inaccuracy, hallucination, bias)
+Importance of critical eye
+Developing frameworks of accountability/literacy
+Snakelike/Serpent-like
+Winged
+Fire-breathing
+Treasure hoarders
+Associated with underground lairs (caves, barrows)
+<
+Specific Legends
+<
+Notable Examples
+<
+Chinese (lóng)
+Japanese
+Mesopotamian (ušumgallu, mušhuššu)
+Hebrew (Leviathan, Tannin)
+Egyptian (Apep, Nehebkau, Denwen)
+Cadmus' Dragon
+Lernaean Hydra
+Colchian Dragon
+Legends rooted in early Middle Ages (English invasions)
+Associated with geomantic sites
+Connection to water sources (wells, rivers, coastal areas)
+Association with burial mounds/barrows
+Often slithery/coiling (wyrm)
+Poisonous breath/bite
+Cherokee (Uktena serpent)
+Smaug (The Hobbit)
+Glaurung (The Silmarillion)
+Influence from Scandinavian folklore
+Vulnerable underside motif
+Malice and fondness for riddles
+Daenerys Targaryen (Dragon Mother)
+Dragons born from fossilized eggs
+Bond with humans
+Hiccup (unlikely hero)
+Dragons adapted to environments
+Collaboration with humans
+Earthsea Cycle (Ursula K. Le Guin)
+Wings of Fire (Tui T. Sutherland)
+Temeraire series (Naomi Novik)
+Dragon Slippers series (Jessica Day George)
+Ascendant (Michael R Miller)
+The Bone Ships
+A Natural History of Dragons series
+Dragonlance
+<
+Editions
+<
+Campaign Settings
+Creatures (Beholders, Illithid, Owlbear, Mimic, etc.)
+Player's Handbook, Dungeon Master's Guide, Monster Manual
+Prevalent in Europe (12th-16th century)
+Evolved from Romanesque
+Originated in France
+Key features (pointed arch, rib vaults, flying buttresses, large windows)
+Emphasis on verticality and light
+Ornamentation (gargoyles, sculptures)
+Considered 'barbaric' during Renaissance
+Emphasis on atmosphere, suspense, mystery
+Settings (castles, old mansions, ruins)
+Themes (supernatural, decay, ancestral sins, fear)
+Influenced modern horror
+<
+Notable Authors/Works
+Dark aesthetics
+Music (The Cure, Siouxsie & The Banshees)
+Fashion (black clothes, eyeliner)
+Zero-Shot Prompting
+Few-Shot Prompting
+Instructional Prompting
+Role-Based Prompting
+Contextual Prompting
+Negative Prompting (excluding elements)
+Meta Prompting
+Context-Aware Decomposition
+Calibrated Confidence Prompting
+Keyword Blending
+Using reference images/links
+Saint George and the Dragon
+Lambton Worm
+Knucker of Lyminster
+Sockburn Worm
+Mordiford Dragon
+Moston Dragon
+Grimesditch Griffin
+Deerhurst Dragon
+Bisterne Dragon
+Dragon of Wantley
+Dragon of Loch CorrieMohr
+Ben Vair Dragon
+Dragon of Filey
+Dragon of Kingston St Mary
+Sir Piers Shonks
+Mester Stoor Worm
+Dragon of Le Trou Baligan
+Fáfnir (Norse)
+Beowulf's Dragon
+La Gargouille (French)
+Welsh Dragon (Y Ddraig Goch)
+Associated with good fortune
+Symbol of imperial power (Emperor)
+Associated with weather and water (rainfall)
+Wingless, soaring through clouds
+Expelling wind (not flames)
+Nine anatomical resemblances
+Zhulong
+Original D&D
+AD&D (1st Edition)
+Basic Set
+2nd Edition AD&D
+3rd Edition / 3.5
+4th Edition
+Essentials
+5th Edition (most popular currently)
+One D&D (2024-2025 revisions)
+Retro-clones (OSR)
+Pathfinder (v. 3.75)
+Forgotten Realms (most popular/default)
+Eberron (steampunk/magitech)
+Planescape
+Ravenloft
+Dark Sun
+Greyhawk
+Horace Walpole (The Castle of Otranto)
+Ann Radcliffe (Mysteries of Udolpho, The Italian)
+Matthew Lewis (The Monk)
+Edgar Allan Poe (American Gothic)
+Mary Shelley (Frankenstein)
+Bram Stoker (Dracula)
+Shirley Jackson (The Haunting of Hill House)
+Toni Morrison (Beloved - Southern Gothic)
+M.R. James (ghost stories)
+Guy de Maupassant (Le Horla)

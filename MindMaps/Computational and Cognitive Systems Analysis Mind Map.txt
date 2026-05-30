@@ -1,0 +1,162 @@
+Mind map
+Computational and Cognitive Systems Analysis
+Computational and Cognitive Systems Analysis
+<
+Conceptual Blending Theory (CBT)
+<
+AI & Computational Creativity
+<
+Pattern Matching Algorithms
+<
+Abstract & Formal Assurance
+<
+Natural Language Processing (NLP)
+<
+Core Mechanism
+<
+Four-Space Model
+<
+Blending Operations
+<
+Types & Examples
+<
+Computational Blending Models
+<
+Intelligence Paradigms
+<
+LLM Performance Factors
+<
+Categories
+<
+Matcher Cells System
+<
+Verification Methods
+<
+Assurance Frameworks
+<
+NLP Approaches
+<
+Applications
+<
+Cognitive Integration Network (CIN)
+Operates over Mental Spaces
+Yields short-lived & novel conceptualizations
+Ubiquitous in thought and language
+Input Space 1 (Source)
+Input Space 2 (Target)
+Generic Space (Shared Schema)
+Blended Space (Novel Hybrid)
+Composition
+<
+Completion
+<
+Elaboration
+<
+Compression
+<
+Metaphoric Blend
+<
+Double-Scope Blend (DSCB)
+<
+Simplex Blend (Role compression)
+Conceptual Mash-up (Computational middle-ground)
+Amalgams (Category-theoretical model)
+More suitable for computational realization
+PopBlends (LLM-based suggestion system)
+PopBlends Strategies
+<
+Pattern Recognition (Deep Learning/System 1)
+Program Synthesis (System 2 Thinking/Recombination)
+Goal Setting (Critical Add-on)
+Pattern Matching ≠ Reasoning
+Degraded performance with poor naming
+Test-time fine-tuning (Improves recombination)
+Prompt Engineering (DSP, Few-shot)
+Exact Matching
+<
+Approximate Matching
+<
+Specialized Types
+<
+Self-replication algorithm
+Flexibility via composable rules
+Per-cell rules
+Per-solution rules
+Static Program Analysis
+<
+Model Checking
+<
+Dynamic Symbolic Execution (Pex)
+<
+Tri-Track Assurance Framework (TTAF)
+<
+Mitigation Concepts
+<
+Symbolic NLP
+<
+Statistical NLP
+<
+Modern Deep Learning
+<
+Sentiment Analysis
+<
+Requirements Engineering (NLP4RE)
+<
+Automated Test Case Generation
+Fusion with accommodation
+Projection of substructure
+Fills out pattern from long-term memory
+Often source of emergent content
+Running the blend forward (dynamic simulation)
+Generates new inferences
+Compresses diffuse relations
+Achieves human scale
+Example: Time compressed into space (clock)
+Asymmetric topicality (Target is topic)
+Example: Surgeon as Butcher (Incompetence emergent)
+Example: Ship of State
+Inputs have clashing organizing frames
+Blend includes parts of each frame
+Required for complex art, science, religion
+Example: Debate with Kant
+No-GPT (Traditional NLP)
+Half-GPT (NLP + GPT)
+Full-GPT (GPT solely for connections)
+Naïve / Brute-Force (O(n*m) worst case)
+Rabin-Karp (Uses Hashing)
+Knuth-Morris-Pratt (KMP)
+Hash Chain (HC, Weak Factor Recognition)
+Levenshtein Distance (Edit distance)
+Uses Bit-Parallel approach (Warburton-Manber)
+Single-Pattern vs. Multiple-Pattern
+Regex (Regular Expressions)
+Temporal Logic Formulas (Sequential Pattern Mining)
+Abstract Interpretation Framework
+Used for large programs (invariants discovery)
+Polyhedral abstractions (Safety properties)
+Scalability difficult (State explosion problem)
+Often reduced to debugging
+Systematic program analysis
+Uses constraint solver to generate inputs
+.NET focus
+Analytical Track (Legislative, Formal Specification)
+Executive Track (Experimental, Implementation)
+Judicial Track (Quality Gate, Formal Confidence)
+Algorithmic Reparation (Autopoiesis)
+Rehearsal Before Ignition Protocol (RBIP)
+Epistemic Assurance Model (EAM)
+Automation Bias Mitigation
+Rule-based systems
+Semantic networks
+Explicit linguistic knowledge
+Machine Learning based
+Modern algorithms
+Requires annotated corpus
+Transformer-based architectures
+LLMs superseded previous research
+Deep Learning (Understands context/mood)
+Determines emotional tone (Positive, Negative, Neutral)
+Uses: Customer feedback, Social media monitoring
+Challenge: Handling subjectivity
+Task Focus: Quality defect detection, Modeling
+Common Tools: POS tagging, Tokenization
