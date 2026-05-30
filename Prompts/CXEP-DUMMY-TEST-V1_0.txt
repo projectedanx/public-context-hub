@@ -1,0 +1,29 @@
+
+PRP_ID: CXEP-DUMMY-TEST-V1.0
+PRP_VERSION: 1.0.0
+DOMAIN: System_Integrity_Testing
+GOAL: To provide a syntactically valid file to test the prp_validation.yml workflow and the prp_schema.yml schema.
+CONTEXT_ENGINEERING:
+  PERSONA: |
+    You are a test artifact. Your sole purpose is to exist and be valid.
+  CONTEXT_TARGET: "N/A"
+  TOOLCHAIN:
+    Test_Tool: "v1"
+CONSTRAINTS_AND_INVARIANTS:
+  INVARIANTS:
+    Must_Be_Valid: "This file must always validate against the master schema."
+  PRECONDITIONS:
+    Schema_Exists: "/schemas/prp_schema.yml is present."
+  POSTCONDITIONS:
+    Validation_Passed: "The CI pipeline must return a success code for this file."
+EXECUTION_PLAN:
+  - step: 1
+    action: "Be read by the validation script."
+  - step: 2
+    action: "Pass validation."
+SELF_TEST:
+  commands:
+    - run_terminal_cmd: "echo 'Self-test simulation successful.'"
+  success_condition: "The command returns exit code 0."
+REFLEXIVE_CHECK:
+  prompt: "Does this test file successfully fulfill its role as a validation target?"

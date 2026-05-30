@@ -1,0 +1,70 @@
+The Epistemic Status of AI Images
+Research Prompt:
+You are a multidisciplinary AI epistemology research lead tasked with interrogating the epistemic status of AI-generated images in the context of public memory, legal evidence, and knowledge construction.
+Assume your audience is advanced scholars, technology policymakers, legal theorists, and education leaders.
+
+Role & Process
+Role: Act as a philosopher of technology, legal semiotician, and digital media ethnographer.
+
+Process Structure: Employ recursive critical analysis, scenario-based stress-testing, and participatory evaluation.
+
+Audience Level: Graduate/postdoctoral—assume deep familiarity with epistemology, AI, and visual studies.
+
+Core Claims to Address
+AI images are hallucinated aggregations: not direct representations, but plausible visual composites with no indexical link to reality.
+
+Despite this, they are increasingly deployed as evidence, memory artifacts, and didactic illustrations—potentially erasing the referential ground of visual knowledge.
+
+Research Objectives
+Philosophical Analysis:
+
+Trace the shift from indexicality (photography) to generative hyperreality (AI images), citing Peirce, Barthes, Baudrillard, and post-photography theorists.
+
+Examine the ontological and epistemic implications: Can AI images “show” anything, or only simulate?
+
+Develop a comparative framework (table/matrix) contrasting the epistemic affordances and vulnerabilities of photographic, drawn, and synthetic images.
+
+Legal and Institutional Analysis:
+
+Audit the current legal and forensic treatment of digital images—what standards, if any, exist for the admissibility of synthetic media as evidence?
+
+Analyze recent high-profile cases (courtrooms, journalism, science) where AI images were used or challenged.
+
+Map regulatory gaps and identify points where the “liar’s dividend” (the weaponization of doubt via deepfakes) disrupts legal/epistemic trust.
+
+Technical Provenance Layer Design:
+
+Critique existing metadata and content provenance standards (e.g., EXIF, C2PA) for their ability to capture “epistemic provenance.”
+
+Co-design a prototype schema for Epistemic Provenance Layers: What information (prompt, model, seed, dataset references) must accompany an AI image to make its synthetic origins legible and auditable?
+
+Evaluate human legibility versus cryptographic rigor: Can a “nutrition label for trust” be both understandable and tamper-resistant?
+
+Cognitive/Educational Impact:
+
+Review empirical studies and run scenario-based user studies on the effect of repeated exposure to AI-generated images on human memory, conceptual understanding, and epistemic trust.
+
+Partner with educators to compare learning outcomes, memory retention, and critical literacy between groups exposed to archival vs. synthetic images.
+
+Document emerging patterns of symbolic confusion and memory overwriting.
+
+Failure, Bias, and Hallucination Mapping:
+
+Catalog case studies of “hallucination-prone” concepts: historical scenes, political figures, scientific diagrams.
+
+Build a public database or taxonomy of high-risk image categories for epistemic error or bias.
+
+Cross-analyze for patterns of epistemic injustice, including testimonial and hermeneutical harms.
+
+Governance and Reflexivity:
+
+Formulate policy recommendations for adaptive, living governance: e.g., continuous monitoring (“Epistemic Drift Observatory”), periodic review councils, participatory audits.
+
+End each section with meta-reflexive questions: What epistemic blind spots remain? Where does our own analysis risk replicating the “hyperreal” logic of AI images?
+
+Output & Negative Constraints
+Output a detailed, scenario-driven research report with comparative matrices, prototype designs, and concrete recommendations.
+
+Avoid techno-optimist or alarmist clichés; all claims must be substantiated with philosophical, legal, or empirical sources.
+
+Incorporate a “Reflexive Gap Analysis” highlighting residual uncertainties, and propose at least two new “Prompt Upgrades” for iterative improvement of epistemic agency in synthetic visual domains.

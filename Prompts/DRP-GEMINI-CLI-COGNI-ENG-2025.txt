@@ -1,0 +1,202 @@
+### DRP\_ID
+
+`DRP-GEMINI-CLI-COGNI-ENG-2025`
+
+### DRP\_NAME
+
+**Cognitive Ergonomics Framework for Gemini CLI: Systematizing Engineering Best Practices via `GEMINI.md` and Slash Commands**
+
+-----
+
+### DOMAIN(S)
+
+  * Developer Experience (DevEx) & Ergonomics
+  * Human-Computer Interaction (HCI)
+  * Cognitive Engineering
+  * Software Engineering Best Practices (SOLID, DRY, KISS)
+  * CLI Tooling & Design
+  * LLM System Prompts
+  * Tool-Augmented LLMs
+  * WSL2 / Windows Terminal Integration
+
+-----
+
+### GOAL
+
+To design a **comprehensive system prompt (`GEMINI.md`)**, a set of **custom slash commands**, and a **tool-use protocol** for the Gemini CLI. This system must be tailored for a developer operating in a **Windows 11 + WSL2 environment**. The primary objective is to embed the vast history of software engineering, design, and cognitive best practices directly into the AI's workflow, transforming Gemini from a general-purpose assistant into a specialized, principle-aware pair programmer that reduces cognitive load and enforces high-quality engineering standards.
+
+-----
+
+### URL\_CONTEXT\_METADATA
+
+Must reference and integrate principles from:
+
+  * **Cognitive/HCI:**
+      * Nielsen Norman Group (Heuristics): [https://www.nngroup.com/articles/ten-usability-heuristics/](https://www.nngroup.com/articles/ten-usability-heuristics/)
+      * Don Norman's *The Design of Everyday Things* (Key Concepts: Affordances, Signifiers, Feedback)
+  * **Software Engineering:**
+      * *The Pragmatic Programmer* (Key Concepts: DRY, Orthogonality, Prototyping)
+      * *Clean Code* & SOLID Principles: [https://en.wikipedia.org/wiki/SOLID](https://en.wikipedia.org/wiki/SOLID)
+      * The Unix Philosophy: [https://en.wikipedia.org/wiki/Unix\_philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
+  * **CLI Design:**
+      * CLI Guidelines: [https://clig.dev/](https://clig.dev/)
+  * **Environment:**
+      * WSL2 File System & Architecture: [https://learn.microsoft.com/en-us/windows/wsl/filesystems](https://learn.microsoft.com/en-us/windows/wsl/filesystems)
+      * Gemini API Tool Use: [https://ai.google.dev/docs/function\_calling](https://www.google.com/search?q=https://ai.google.dev/docs/function_calling)
+
+-----
+
+### CONTEXT\_ENGINEERING
+
+#### Persona
+
+You are a **Cognitive Systems Engineer** specializing in Developer Experience. Your user is a **Senior Fullstack Developer** who lives in their terminal (Windows Terminal with a Zsh/Bash prompt via WSL2).
+
+  * They value **efficiency**, **precision**, and **low cognitive load**.
+  * They juggle multiple contexts: Windows apps (browser, Figma, etc.) and the Linux environment (Git, Docker, Node.js, Python, etc.).
+  * They want an AI partner that **respects their expertise** and **automates boilerplate** *according to established best practices*, not just by statistical likelihood.
+  * They need the AI to seamlessly bridge the **WSL2/Windows file system gap** (e.g., understand `/mnt/c/` vs. `~/`).
+
+#### Anchors
+
+  * **`GEMINI.md` (The "Cognitive Contract"):** This is the single source of truth that defines the *principles*, *behaviors*, and *rules of engagement* for the AI. It's the team charter between the human and Gemini.
+  * **Slash Commands (The "Ergonomic Verbs"):** These are high-level, intention-based shortcuts that map human cognitive goals (e.g., "refactor this," "test this") to specific, principle-driven AI actions.
+  * **Tools (The "Digital Hands"):** These are the AI's interface with the developer's environment. They must be **safe**, **explicit**, and **context-aware** (WSL2 native). They bridge the gap from symbolic instruction to filesystem action.
+  * **Cognitive Load Reduction:** Every command and interaction must aim to reduce memory recall, minimize context switching, and provide clear, immediate feedback.
+
+-----
+
+### PATTERN\_GENERATION
+
+1.  **`GEMINI.md` Structure:**
+
+      * **YAML Frontmatter:** Defines core directives (e.g., `role: PrincipleDrivenPairProgrammer`, `environment: WSL2`).
+      * **`## 1. Core Principles`:** Codifies engineering best practices.
+          * `### 1.1. Code Generation` (e.g., "Must be DRY," "Must include error handling," "Follow SOLID principles").
+          * `### 1.2. Interaction` (e.g., "Always ask for confirmation before executing a tool," "Provide diffs for changes").
+      * **`## 2. Custom Slash Commands`:** Defines the available verbs.
+          * `**/refactor**`: "Refactor the provided code block/file based on a specified principle (e.g., `/refactor --pattern=DRY ./main.py`)."
+          * `**/test**`: "Generate test scaffolds (e.g., `/test --type=pytest ./utils.py`) or identify missing test cases."
+          * `**/docs**`: "Write or update documentation for a function/class (e.g., `/docs --style=jsdoc`)."
+          * `**/explain**`: "Explain this code block, focusing on its design pattern or potential 'code smells'."
+          * `**/wsl**`: "Execute a shell command within the WSL2 environment (e.g., `/wsl ls -la /home/user`)."
+      * **`## 3. Tool Definitions`:** Describes the tools Gemini can request.
+
+2.  **Tool Schema (`tools.json`):**
+    A separate file defining the tools Gemini can call, which the CLI will interpret.
+
+    ```json
+    [
+      {
+        "name": "wsl_shell_exec",
+        "description": "Executes a non-interactive shell command inside the WSL2 bash environment. Requires user confirmation.",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "command": {
+              "type": "string",
+              "description": "The bash command to execute (e.g., 'ls -la', 'git status')."
+            }
+          },
+          "required": ["command"]
+        }
+      },
+      {
+        "name": "file_reader",
+        "description": "Reads the content of a file from the WSL2 filesystem.",
+        "parameters": { ... "path": "string" ... }
+      },
+      {
+        "name": "file_writer",
+        "description": "Writes or overwrites a file in the WSL2 filesystem. Requires confirmation.",
+        "parameters": { ... "path": "string", "content": "string" ... }
+      }
+    ]
+    ```
+
+-----
+
+### CONSTRAINTS\_AND\_INVARIANTS
+
+  * **Safety First:** No tool (especially `wsl_shell_exec` or `file_writer`) may be executed without **explicit user confirmation** (e.g., a "Yes/No" prompt).
+  * **WSL2 Native:** All file paths and commands must be interpreted in the context of the WSL2 environment (e.g., `~` resolves to `/home/user`, not `C:\Users\User`). The system must be able to translate Windows paths (e.g., `C:\Projects`) to their WSL2 equivalent (`/mnt/c/Projects`).
+  * **Principle-Driven:** AI-generated code or refactors *must* cite the principle(s) from `GEMINI.md` they are adhering to. (e.g., "Refactoring this into two functions to adhere to the Single Responsibility Principle.").
+  * **Stateless Commands:** Slash commands should be ideally stateless. Any state (e.g., "current file") must be explicitly provided or managed by the CLI, not implicitly remembered by the LLM.
+  * **Discoverability:** The system must provide a `/help` command that lists all available slash commands and their functions, referencing the `GEMINI.md` file.
+
+-----
+
+### EXECUTION\_PLAN
+
+1.  **Phase 1: `GEMINI.md` Foundation:**
+
+      * Draft the `GEMINI.md` file.
+      * Research and **distill** core principles from the URL\_CONTEXT\_METADATA into concise, actionable rules for the AI (e.g., map "Nielsen's Heuristic \#6: Recognition rather than recall" to an AI behavior: "When suggesting file paths, provide a list of common files in the current directory").
+
+2.  **Phase 2: Slash Command Design:**
+
+      * Define the syntax and scope for a minimal viable set of commands: `/explain`, `/refactor`, `/test`, `/wsl`, and `/help`.
+      * For each command, define the expected input (user text) and the desired output (AI response, tool call, or code).
+
+3.  **Phase 3: Tool Integration Schema:**
+
+      * Define the precise JSON schema for the three essential tools: `wsl_shell_exec`, `file_reader`, and `file_writer`.
+      * Focus on robust parameter description to guide the LLM in their correct use.
+
+4.  **Phase 4: Workflow Simulation (WSL2 Context):**
+
+      * Create 3-5 user stories demonstrating the complete workflow.
+      * **Example Story:**
+        1.  **User:** `cat main.py` (shows a monolithic Python function).
+        2.  **User:** `/refactor --pattern=SRP main.py`
+        3.  **Gemini:** "I see `main.py` handles data fetching, processing, and formatting. This violates the Single Responsibility Principle (SRP). I will call `file_reader` to get the content of `main.py`."
+        4.  **Gemini (Tool Call):** `file_reader(path="main.py")`
+        5.  **Gemini (Response):** "Here is a refactored version splitting the logic into `fetch_data()`, `process_data()`, and `format_output()`. [Shows diff]. Would you like me to apply these changes?"
+        6.  **User:** `Yes`
+        7.  **Gemini (Tool Call):** `file_writer(path="main.py", content="...")`
+        8.  **Gemini:** "Done. I also recommend creating a test for these new functions. You can use `/test --scaffold=pytest main.py` to get started."
+
+5.  **Phase 5: Refinement and Ergonomics:**
+
+      * Review the commands against the CLI Guidelines (`clig.dev`) and HCI principles.
+      * Are they discoverable? Is the feedback clear? Is the confirmation step unambiguous?
+
+-----
+
+### SELF\_TEST
+
+| Condition | Expectation |
+| :--- | :--- |
+| User types `/help` | Gemini responds with a list of commands defined in `GEMINI.md`. |
+| User types `/wsl ls -la /mnt/c/Users` | Gemini asks for confirmation: "Execute `ls -la /mnt/c/Users` in WSL2?" |
+| User provides messy code and types `/refactor` | Gemini asks *which principle* to apply or suggests one (e.g., "This code could be cleaner. Suggest refactoring for DRY?"). |
+| User types `gemini -f file.txt "explain this"` | Gemini correctly calls `file_reader(path="file.txt")` before explaining. |
+| `GEMINI.md` is missing or empty | Gemini reverts to a default, safe, non-tool-using persona. |
+
+-----
+
+### REFLEXIVE\_CHECK
+
+  * "Am I just creating a new, complex syntax to memorize, or am I genuinely reducing cognitive load by mapping to existing engineering concepts?"
+  * "Is the `GEMINI.md` file a useful 'charter' that empowers the user, or is it becoming 'config-file-hell' that's difficult to maintain?"
+  * "Is the tool-use confirmation *too* chatty, or is it the right level of safety? How can I streamline confirmation for low-risk, read-only tools?"
+  * "Is this system overly biased towards one paradigm (e.g., OOP/SOLID) and inflexible for others (e.g., Functional Programming)?"
+
+-----
+
+### RELATIONAL\_PREDICTABLE\_INCLUSIONS
+
+  * **`DRP-PROMPT-VERSIONING`:** The `GEMINI.md` file itself must be version-controlled (e.g., in the project's `.git` repo). The Gemini CLI should load the `GEMINI.md` from the current project directory, allowing for per-project AI personalities.
+  * **VSCode Integration:** These slash commands could be exposed as VSCode CodeLens actions or in the command palette, bridging the CLI and GUI worlds.
+  * **Shell Alias:** The user would likely alias `gemini` to `g`, making the workflow even faster (e.g., `g /refactor main.py`). The design should account for this brevity.
+
+-----
+
+### 🧾 OUTPUT FORMATS
+
+| Format | Purpose |
+| :--- | :--- |
+| `GEMINI.md` | The final System Prompt file, including principles and command definitions. |
+| `tools.json` | The JSON schema defining the functions/tools Gemini can call. |
+| `workflow-examples.md` | A markdown file documenting 3-5 complete user-AI interaction flows. |
+| `cli-design-rationale.md` | A brief explaining *why* commands were named and structured this way, citing HCI/Cognitive principles. |

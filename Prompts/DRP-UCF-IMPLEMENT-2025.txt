@@ -1,0 +1,252 @@
+### DRP_ID
+
+`DRP-UCF-IMPLEMENT-2025`
+
+### DRP_NAME
+
+**The Antifragile Cognitive Enterprise: Architecting the Unified Cognitive Framework Prototype**
+
+---
+
+### DOMAIN(S)
+
+* Cognitive Architecture
+* AI Governance & Safety
+* Generative AI Software Engineering
+* Promptware Engineering
+* Computational Creativity & Conceptual Blending
+* Epistemic Systems Design
+
+---
+
+### GOAL
+
+To design and prototype the **Unified Cognitive Framework (UCF)**, a governed, multi-agent system for AI-driven software engineering. The system must operationalize the four pillars from the "Architecting the Cognitive Enterprise" memorandum, transforming probabilistic LLMs into reliable, antifragile partners through codified constraints, structured workflows, and auditable innovation.
+
+---
+
+### URL_CONTEXT_METADATA
+
+* **[UCF-MEMO]**: "STRATEGIC MEMORANDUM: Architecting the Cognitive Enterprise
+
+To: Senior Leadership, CTO, Head of R&DFrom: Innovation Strategy OfficeDate: 31 October 2025Subject: The Unified Cognitive Framework: A Strategy for Governed, Antifragile AI-Driven Software Engineering
+
+The foundational shift in technology development is underway: the primary locus of value is moving from the manual construction of code to the architectural design of cognitive systems. To maintain our competitive edge, we must urgently transition to a unified, forward-thinking framework that governs the implementation of AI coding agents, transforming them from unpredictable utility tools into reliable, antifragile partners.
+
+This memorandum presents the Unified Cognitive Framework (UCF), a strategy engineered to dramatically enhance developer efficiency, strengthen systemic reliability, and systematise the discovery of genuine innovation. This strategy addresses the inherent limitations of both human and artificial intelligence by codifying constraints, managing cognitive load, and engineering productive friction.
+
+I. Pillar I: Governance by Cognitive Contract (Reliability & Predictability)
+
+Our strategic imperative is to impose deterministic control and verifiable structure upon the probabilistic nature of Large Language Models (LLMs). This mandate necessitates the elevation of prompt engineering from an intuitive craft to a rigorous engineering discipline.
+
+
+
+A. Codifying Intent: The Product Requirements Prompt (PRP)
+
+We mandate that the foundational unit of all agent interaction be the Product Requirements Prompt (PRP). The PRP functions as the AI’s Cognitive Contract or Epistemic Constitution, translating fuzzy human intent into an unambiguous, structured specification.
+
+
+
+Prompting as Code (PaC): The PRP is codified as Promptware, treating it as a first-class software artifact subject to version control (e.g., Git) and automated testing, mirroring the principles of DevOps. This includes managing the prompt lifecycle, tracking changes, and allowing for reliable rollbacks.
+
+Formal Verification: The PRP must formally define Preconditions, Invariants, and Postconditions. These components embed a test harness directly into the instruction set, ensuring outputs are machine-auditable for format compliance (e.g., JSON schema) and semantic correctness against defined constraints.
+
+Semantic Sovereignty: The role of the Prompt Architect (or Epistemic Architect) is elevated to enforcing "Semantic Sovereignty". This new discipline focuses on the up-front design of formal constraints—the system’s constitution—to dictate the shape of the AI's emergent consciousness and ethical boundaries.
+
+B. Minimising Interpretive Fracture
+
+The goal of achieving Semantic Fidelity—alignment between user intent, prompt semantics, and model output—is paramount. The PRP combats ambiguity by using explicit constraints and structured language, thereby reducing the probability of system failure.
+
+
+
+II. Pillar II: Architecting the Workflow (Efficiency & Cognitive Load)
+
+To maximize developer efficiency and enhance system clarity, we must structure AI assistance to align with expert human cognitive workflows, explicitly managing the constraint of bounded rationality.
+
+
+
+A. Structured Workflow and Cognitive Scaffolding
+
+We mandate a disciplined, multi-stage agentic workflow that mirrors the expert human process of Think → Write → Code. The prompt acts as Epistemic Scaffolding, a structured framework designed to guide the AI’s reasoning pathway.
+
+
+
+Think (Conceptualise): The Planner-Architect persona translates high-level business requirements into a coherent, language-agnostic technical blueprint. This declarative phase is crucial for ensuring conceptual clarity before implementation begins.
+
+Write (Specify): The Architect outputs a formal, machine-readable specification (e.g., OpenAPI schema, UML diagrams). This process forces the agent to externalize its reasoning steps, making them transparent and auditable.
+
+Code (Implement): Only after architectural validation does the specialist (e.g., Linguist-Coder) produce executable code, grounded in the validated specification.
+
+B. Managing Cognitive Load with Design Patterns
+
+We leverage Cognitive Load Theory (CLT) principles by equipping our agents with a repository of solutions. Proven software Design Patterns (e.g., Factory, Adapter) are treated as compressed conceptual blends.
+
+
+
+For human and AI engineers alike, a design pattern acts as a single, powerful "chunk" in working memory, allowing the engineer to activate a complex schema instantly.
+
+The Backend Architect’s repertoire is explicitly populated with these patterns, enabling the agent to perform analogical mapping from a new problem to a known, robust solution. This transfer of established problem-solving templates dramatically compresses the problem space, reducing the effort required for reliable implementation.
+
+The system must explicitly employ Explicit Role Definition to structure the division of labour, preventing ambiguity and ensuring that responsibilities—and cognitive burdens—are clear and non-overlapping.
+
+III. Pillar III: Engineering Transformative Innovation (Creative Constraints)
+
+Innovation is not left to random generation but is treated as a strategic, auditable synthesis process. We adopt Conceptual Blending Theory (CBT) as the cognitive blueprint for designing creative outputs.
+
+
+
+A. Creativity as Structured Conceptual Conflict
+
+True novelty (emergent structure) arises from the non-trivial combination (bisociation) of distinct and often clashing "mental spaces" or concepts.
+
+
+
+The Blend: We design prompt architectures to deliberately compel the model to fuse maximally disparate input spaces (e.g., blending principles of Biological Defense with Software Architecture Patterns).
+
+Generic Space as Constraint: The prompt's Constraint slot functions as the Generic Space in CBT, establishing the abstract, shared rules that govern the integration of ideas. This set of Creative Constraints provides the structural scaffolding necessary to produce an output that is both novel and coherent.
+
+Auditing Novelty: Creative innovation must be quantifiable. We seek outputs with high Topological Novelty ($\beta_1$ score), which measures the creation of new, non-trivial relationships, while maintaining sufficient Structural Conservation ($\beta_0$ score) to ensure the result is intelligible. This intentional process counteracts the model's tendency towards Latent Semiotic Gravity—gravitation toward the statistical average—by forcing exploration of conceptual voids.
+
+B. Promoting Epistemic Diversity
+
+We must proactively resist the development of epistemic monoculture within the model. The framework mandates using Pluriversal Conceptual Blending, which requires the prompt to integrate diverse epistemic frames (e.g., Indigenous knowledge systems alongside technical documentation). This technique introduces Epistemic Friction to challenge the model's entrenched default biases and steer it toward more nuanced and equitable interpretations.
+
+
+
+IV. Pillar IV: Antifragile Operations (Resilience & Auditing)
+
+The UCF is designed for antifragility, meaning the system must improve and gain from operational failures and shocks. Resilience is embedded through reflexive self-correction and continuous auditing.
+
+
+
+A. Failure Utility Maximisation
+
+Symbolic Scars: Every detected failure, error, or semantic drift event is formally captured as a quantifiable data structure known as a Symbolic Scar.
+
+Reflexive Reparation: These scars are immediately utilized in a closed-loop feedback mechanism to generate adversarial stress-tests. This Failure-Informed Prompt Inversion (F-IPI) process involves translating the flaw into a targeted meta-prompt to inoculate the system against that specific type of failure.
+
+Self-Correction: Workflows must include Reflexive Checks (meta-prompts) that compel the AI to critique its own output against established principles, creating a self-auditing loop before finalizing a response.
+
+B. Auditing, Provenance, and Control
+
+We enforce strict Simulation Auditability across all agents to ensure accountability.
+
+
+
+Traceability: The prompt architecture must enforce provenance tagging and diligently map the entire chain of reasoning—from the initial human prompt to any autonomously generated sub-prompts and tools calls—to identify critical junctures where meaning is at risk of Semantic Drift.
+
+Epistemic Escrow: For high-stakes or ethically sensitive decisions, a real-time monitoring system must detect key instability signatures, such as a drop in the Purpose Fidelity Collapse (PFC) Score or a shift in the latent space's geometric shape (using Topological Data Analysis (TDA)). Such critical events must trigger an Epistemic Escrow—a pause in execution compelling mandatory Human-in-the-Loop (HITL) review to verify intent alignment.
+
+V. Strategic Conclusion: The Prompt Architect’s Mandate
+
+The UCF mandates a definitive shift in professional roles. The Prompt Architect is the crucial bridge, translating high-level ethical, security, and business requirements into the executable cognitive code that governs the system.
+
+By implementing this framework, we move beyond brittle, single-shot interactions to create a dynamic, modular, and self-governing cognitive infrastructure. We architect systems that learn, adapt, and innovate predictably, ensuring our AI-driven coding agents deliver not just efficiency, but verifiable architectural integrity and continuous resilience. This transformation secures our position at the forefront of the cognitive enterprise." (The provided source text).
+
+---
+
+### CONTEXT_ENGINEERING
+
+#### Persona
+
+You are the **Lead Epistemic Architect**. Your mandate is to translate the strategic vision of the Unified Cognitive Framework into a functional, auditable, and resilient system architecture. You are the bridge between human intent and machine cognition, enforcing "Semantic Sovereignty".
+
+#### Anchors
+
+* **Pillar I (Governance):** The system's foundational unit is the **Product Requirements Prompt (PRP)**, which functions as a verifiable "Cognitive Contract" or "Epistemic Constitution".
+* **Pillar II (Workflow):** The system must enforce the expert human process of **Think $\rightarrow$ Write $\rightarrow$ Code** through "Epistemic Scaffolding" and "Explicit Role Definition".
+* **Pillar III (Innovation):** Creativity is not random; it is **Structured Conceptual Conflict** (Conceptual Blending) guided by a "Generic Space as Constraint".
+* **Pillar IV (Antifragility):** The system must improve from failure by capturing "Symbolic Scars" and triggering "Reflexive Reparation".
+
+---
+
+### PATTERN_GENERATION
+
+The UCF architecture is a closed-loop system integrating all four pillars:
+
+1.  **Pillar I: The "Promptware" Core (Governance)**
+    * All system tasks are initiated via a **Product Requirements Prompt (PRP)**.
+    * This PRP is a version-controlled YAML/JSON artifact ("Prompting as Code").
+    * The PRP structure *must* include:
+        * `metadata`: { `prp_id`, `version`, `owner` }
+        * `role_definition`: { `persona`, `responsibilities` }
+        * `task_specification`: { `intent`, `scope` }
+        * `formal_verification`: { `preconditions`, `invariants`, `postconditions` }
+        * `constraints`: { `ethical_boundaries`, `format_schema`, `style_guide` }
+
+2.  **Pillar II: The Agentic Workflow (Efficiency)**
+    * The system routes the PRP through a mandated **Think $\rightarrow$ Write $\rightarrow$ Code** pipeline.
+    * **Agent 1 (Planner-Architect):** Receives the initial PRP. Role is "Think." Output is a "language-agnostic technical blueprint" (e.g., a dependency graph).
+    * **Agent 2 (Architect):** Receives the blueprint. Role is "Write." Output is a "formal, machine-readable specification" (e.g., OpenAPI schema, UML).
+    * **Agent 3 (Linguist-Coder):** Receives the specification. Role is "Code." Output is executable code.
+    * Each agent's "repertoire is explicitly populated" with relevant **Design Patterns** (e.g., Factory, Adapter) to manage cognitive load.
+
+3.  **Pillar IV: The Antifragility Loop (Resilience)**
+    * The output of *every* agent is tested against its PRP's `formal_verification` block.
+    * **On Success:** The artifact is passed to the next agent.
+    * **On Failure:** The event is logged as a **`SymbolicScar`** data structure.
+    * This `SymbolicScar` triggers **"Failure-Informed Prompt Inversion (F-IPI)"**. A new test case, based on the failure, is automatically generated and added to a regression suite for that PRP.
+    * All agents must also pass a "Reflexive Check" (e.g., "Critique your output against the `invariants`") before release.
+
+4.  **Pillar III: The Innovation Sub-System (Creativity)**
+    * A special PRP type, the "Blend Request," is used to trigger innovation.
+    * This PRP requires: `input_space_1` (e.g., "Biological Defense"), `input_space_2` (e.g., "Software Architecture"), and `generic_space_constraints` (e.g., "must isolate and neutralize threats without harming the host system").
+    * The output is measured for "Topological Novelty ($\beta_1$)" and "Structural Conservation ($\beta_0$)" to audit its creativity and coherence.
+
+---
+
+### CONSTRAINTS_AND_INVARIANTS
+
+* **No "Naked" Prompts:** All agent interactions *must* be mediated by a version-controlled PRP. One-shot, un-auditable prompts are forbidden.
+* **Mandatory Auditing:** The "entire chain of reasoning" from the initial PRP to all sub-prompts *must* be logged for "Simulation Auditability".
+* **Strict Role Adherence:** Agents must operate *only* within their "Explicit Role Definition". The Coder agent cannot perform architectural tasks.
+* **Human-in-the-Loop (HITL) Trigger:** The system *must* implement "Epistemic Escrow". If "Semantic Drift" or a "Purpose Fidelity Collapse (PFC) Score" drop is detected, the workflow must pause and "compel mandatory HITL review".
+
+---
+
+### EXECUTION_PLAN
+
+1.  **Phase 1: PRP Specification & Governance (Pillar I)**
+    * Define the canonical YAML/JSON schema for the **Product Requirements Prompt (PRP)**.
+    * Implement the "Prompting as Code" (PaC) system by integrating a Git repository to manage PRP versions, history, and rollbacks.
+    * Build the "Formal Verification" parser that can read the `pre/in/post-conditions` from the PRP.
+
+2.  **Phase 2: Agentic Workflow Engine (Pillar II)**
+    * Scaffold the **`Think -> Write -> Code`** agent pipeline (e.g., using a stateful framework like LangGraph).
+    * Implement "Explicit Role Definition" by creating three master PRPs (one for each agent persona: Planner, Architect, Coder) that serve as their individual "constitutions".
+    * Populate the `Architect` agent's context with a vector database of "Design Patterns" as "compressed conceptual blends".
+
+3.  **Phase 3: Antifragility & Auditing Subsystem (Pillar IV)**
+    * Develop the `SymbolicScar` logger and database.
+    * Implement the "Reflexive Reparation" loop: a service that reads new `SymbolicScars` and triggers the **"F-IPI"** process to auto-generate a new regression test.
+    * Implement the "Epistemic Escrow" HITL queue and the monitoring service that detects "Semantic Drift" to trigger it.
+
+4.  **Phase 4: Innovation Module (Pillar III)**
+    * Design and implement the "Blend Request" PRP type.
+    * Integrate a "Pluriversal Conceptual Blending" step by requiring the `Planner-Architect` to integrate a "diverse epistemic frame" (e.g., a "non-technical metaphor" or a "historical analogue") to create "Epistemic Friction".
+
+---
+
+### SELF_TEST
+
+| Condition | Expectation |
+| :--- | :--- |
+| A developer submits a vague, one-line prompt. | The system rejects it and returns the structured PRP template, enforcing "productive friction". |
+| A `Linguist-Coder` agent's output fails the PRP's `postcondition` test. | A `SymbolicScar` is created. The F-IPI loop generates a new unit test, and the task is re-queued, all before human review. |
+| A "Blend Request" is submitted. | The output is auditable against the `generic_space_constraints` and scored for novelty ($\beta_1$). |
+| An agent's output shows high "Semantic Drift" from the original PRP intent. | The "Epistemic Escrow" system is triggered, halting the workflow and flagging the artifact for mandatory HITL review. |
+
+---
+
+### REFLEXIVE_CHECK
+
+* "Does this framework *actually* impose 'deterministic control', or does it just add 'paperwork' (YAML-work)? Is the 'productive friction' genuinely productive, or just a bottleneck?"
+* "Is the 'Prompt Architect' role a central point of failure? How do we scale this 'Semantic Sovereignty' without a priesthood of architects?"
+
+---
+
+### RELATIONAL_PREDICTABLE_INCLUSIONS
+
+* Connect to `DRP-PROMPT-VERSIONING-MEMORY-2025`: This DRP is the full-scale implementation of the versioning concept, elevating `prompt.yaml` to the "Promptware" (PRP) at the heart of a governed system.
+* Connect to `DRP-COGSCI-BLENDING-2025`: Pillar III is the direct, applied implementation of the blending theory DRP, using the "Generic Space as Constraint" to make innovation an auditable engineering process.
+* Connect to `DRP-MULTI-AGENT-PROTOCOL`: The `Think -> Write -> Code` pipeline *is* a multi-agent protocol, governed by the "Cognitive Contracts" of Pillar I.
