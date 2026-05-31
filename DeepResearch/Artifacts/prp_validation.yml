@@ -1,0 +1,39 @@
+name: PRP Validation
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'prompts/**.yml'
+
+jobs:
+  validate-prp:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v44
+        with:
+          files: prompts/**.yml
+
+      - name: "Validate PRP files against schema"
+        if: steps.changed-files.outputs.any_changed == 'true'
+        uses: OrRosenblatt/validate-yaml-action@v1.0.1
+        with:
+          files: ${{ steps.changed-files.outputs.all_changed_files }}
+          schema: schemas/prp_schema.yml
+
+      - name: Install dependencies
+        run: pip install yamllint
+
+      - name: Lint YAML files
+        run: yamllint .

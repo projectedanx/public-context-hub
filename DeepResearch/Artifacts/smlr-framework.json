@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "id": "smlr-framework",
+    "title": "Shape-Memory Latent Representation (SMLR) Framework",
+    "primary_pill": "Thermodynamic Intelligence",
+    "short_tagline": "A unified framework mapping material physics to latent dynamics for reversible, energy-based adaptation in artificial intelligence.",
+    "tags": [
+      "Shape-Memory Alloys",
+      "Latent Representations",
+      "Thermodynamics",
+      "Neuromorphic Computing",
+      "Energy-Based Models"
+    ],
+    "status": "published",
+    "hero_cta_label": "Explore Framework",
+    "hero_cta_target": "https://example.com/smlr-docs",
+    "research_date": "2025-11-12",
+    "source_papers": [
+      "A Thermal, Mechanical, and Materials Framework for a Shape Memory Alloy Heat Engine",
+      "Memory Formation in Matter (Rev. Mod. Phys.)",
+      "The Reversible Residual Network: Backpropagation Without Storing Activations"
+    ],
+    "worldview_ref": "Physicalist Computationalism",
+    "created_at": 1769391498800
+  },
+  "sections": {
+    "overview": {
+      "title": "The Dual Foundations of State",
+      "intro": "The Shape-Memory Latent Representation (SMLR) framework establishes a rigorous conceptual bridge between the thermodynamic transformations of physical materials and the adaptive processes of computational intelligence. By mapping the crystallographic phases of alloys like Nitinol to latent representations, SMLR introduces a physics-based approach to model stability and plasticity.",
+      "summary_card": {
+        "label": "Core Thesis",
+        "title": "State as Energy",
+        "body": "Computational intelligence is reframed as a series of thermodynamic state changes where learning is 'deformation' and forgetting is 'restoration.' The framework utilizes the Austenite-R-Phase-Martensite (A-R-M) cycle to manage model adaptation with explicit energy costs.",
+        "tags": [
+          "Phase Transition",
+          "Entropy",
+          "Nitinol Analogies"
+        ]
+      },
+      "hero_pills": [
+        "Reversible Adaptation",
+        "Hysteretic Memory",
+        "Plasticity Control"
+      ],
+      "id": "ov-001"
+    },
+    "key_concepts": {
+      "title": "Thermodynamic Principles in Latent Space",
+      "cards": [
+        {
+          "title": "Austenite Ground State (z_0)",
+          "body": "The high-symmetry, minimum-energy 'parent' state of a model. It represents pre-trained core knowledge that is stable, rigid, and thermodynamically protected from spurious perturbations.",
+          "source_refs": [
+            "B2 Phase Crystallography"
+          ]
+        },
+        {
+          "title": "Physical Hysteresis as Memory",
+          "body": "Memory is not stored as an external vector but as a path-dependent state in a hysteretic energy landscape. The model's current behavior is a direct function of its contextual history and the energy barriers it has overcome.",
+          "source_refs": [
+            "Rev. Mod. Phys. 91.035002"
+          ]
+        },
+        {
+          "title": "Clausius-Clapeyron Plasticity Control",
+          "body": "A governing equation for the stability-plasticity dilemma. By tuning a computational 'temperature' parameter (τ), the framework allows for real-time control over the critical stress required to trigger model adaptation.",
+          "source_refs": [
+            "C-C Relation"
+          ]
+        }
+      ],
+      "id": "kc-001",
+      "intro": "These concepts shift machine learning from stateless operations to stateful physical transformations."
+    },
+    "workflow": {
+      "title": "The SMLR Adaptive Cycle",
+      "steps": [
+        {
+          "label": "Canonical Encoding",
+          "summary": "Mapping input data into the stable Austenite basin.",
+          "bullets": [
+            "Input x is compressed via encoder φ to z_0.",
+            "Initial state resides at the global minimum of the internal energy function."
+          ],
+          "id": "wf-1"
+        },
+        {
+          "label": "Contextual Stress Application",
+          "summary": "Injecting contextual perturbations to drive phase shifts.",
+          "bullets": [
+            "Apply context vector 'c' (stress operator Π).",
+            "Deform the energy landscape to create new local minima (Martensite zones)."
+          ],
+          "id": "wf-2"
+        },
+        {
+          "label": "Thermodynamic Restoration",
+          "summary": "Reverting adapted states back to the canonical ground state.",
+          "bullets": [
+            "Apply 'heat' (optimization on internal energy).",
+            "Force z_c to overcome hysteresis barriers and relax back to z_0."
+          ],
+          "id": "wf-3"
+        }
+      ],
+      "id": "wf-001",
+      "intro": "An operational process for managing model states through energy landscapes."
+    },
+    "checklist": {
+      "title": "SMLR Implementation Protocol",
+      "items": [
+        {
+          "label": "Energy Function Design",
+          "bullets": [
+            "Define the internal energy function to stabilize z_0.",
+            "Construct a context-dependent stress potential."
+          ]
+        },
+        {
+          "label": "Temperature Calibration",
+          "bullets": [
+            "Set τ to balance robustness and sensitivity.",
+            "Implement dynamic τ scaling based on task novelty."
+          ]
+        },
+        {
+          "label": "Hysteresis Mapping",
+          "bullets": [
+            "Measure the area of the hysteresis loop for memory depth.",
+            "Verify path-dependence for multi-task stability."
+          ]
+        }
+      ],
+      "id": "cl-001",
+      "intro": "Essential steps for engineers to deploy shape-memory architectures."
+    },
+    "metrics": {
+      "id": "met-001",
+      "intro": "Quantifying the efficiency of thermodynamic state changes.",
+      "items": [
+        {
+          "name": "Restoration Fidelity",
+          "description": "The accuracy with which a model returns to z_0 after deep adaptation.",
+          "signals": [
+            "L2 distance z_0 vs R(z_c)",
+            "Semantic drift coefficient"
+          ]
+        },
+        {
+          "name": "Critical Stress Threshold",
+          "description": "The minimum context magnitude required to trigger a phase transition.",
+          "signals": [
+            "Activation energy peak",
+            "Sensitivity to noise"
+          ]
+        }
+      ],
+      "title": "Performance Indicators"
+    },
+    "resilience": {
+      "failure_modes": [
+        {
+          "name": "Metastable Trap",
+          "description": "Model becomes 'stuck' in an adapted Martensite state due to insufficient restoration energy.",
+          "mitigations": [
+            "Implement high-energy annealing cycles",
+            "Dynamic temperature spikes"
+          ]
+        },
+        {
+          "name": "Semantic Fatigue",
+          "description": "Repeated transformations degrade the sharpness of the Austenite attractor.",
+          "mitigations": [
+            "Periodic re-regularization of the ground state",
+            "Canonical anchoring"
+          ]
+        }
+      ],
+      "id": "res-001",
+      "intro": "Addressing the risks inherent in physicalized latent dynamics.",
+      "title": "Failure Modes & Mitigations"
+    },
+    "structure": {
+      "id": "str-001",
+      "intro": "Comparative classification of the three-state physical model.",
+      "table": {
+        "columns": [
+          "Phase",
+          "Hysteresis",
+          "Computational Analogue",
+          "Stability"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "Austenite",
+              "Zero",
+              "Pre-trained Weights (z_0)",
+              "Absolute"
+            ]
+          },
+          {
+            "cells": [
+              "R-Phase",
+              "Low",
+              "Attention Mechanism (z_r)",
+              "Transient"
+            ]
+          },
+          {
+            "cells": [
+              "Martensite",
+              "High",
+              "Fine-Tuning / Memory (z_c)",
+              "Metastable"
+            ]
+          }
+        ]
+      },
+      "title": "Phase Characteristics Table",
+      "variant": "comparison"
+    }
+  }
+}

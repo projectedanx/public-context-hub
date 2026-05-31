@@ -1,0 +1,9 @@
+column_name,description
+id,UUID assigned per prompt row for stable joins
+source_dataset,Upstream dataset name inferred from raw JSON header
+source_file,Raw JSON filename in data/raw for traceability
+text,Cleaned prompt text with whitespace normalized
+strategy_tags,Semicolon-separated strategy labels detected by heuristics (may be empty)
+primary_strategy,Highest-priority strategy tag (CoT > Few-Shot > Roleplay > Delimiters > System-Constraints > Uncategorized)
+character_count,Character length of the prompt text
+word_count,Word count of the prompt text
