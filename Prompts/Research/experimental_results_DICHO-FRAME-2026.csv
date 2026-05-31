@@ -1,0 +1,11 @@
+pattern,task_family,DIS,CG,BS,FDDR,model,notes
+P01-DIC,Debate/Analysis,0.68,0.42,0.71,0.74,GPT-4-class,Projected; no direct benchmark yet
+P01-DIC,Survey Classification,0.55,0.28,0.6,0.61,GPT-4-class,Lower gain on constrained tasks
+P02-DUAL,Debate/Analysis,0.7,0.51,0.88,0.4,GPT-4-class,High balance gain; FDDR not primary function
+P02-DUAL,Safety/Tool-Guard,0.6,0.35,0.75,0.3,GPT-4-class,Balance improves; FDDR modest
+P03-CONT,Design/Creative Tradeoff,0.58,0.65,0.55,0.52,GPT-4-class,Best CG; spectrum generates options
+P04-ROLE,Debate/Analysis,0.72,0.48,0.82,0.45,GPT-4-class,Established pattern; strong balance + novelty
+P05-PARA,Safety/Tool-Guard,0.8,0.2,0.5,0.6,GPT-4-class,High DIS for injection test; CG not primary metric
+P06-FUZZ,Survey Classification,0.65,0.3,0.7,0.35,GPT-4-class,Calibration improvement measurable via ECE
+NULL,Debate/Analysis,0.0,0.0,0.45,0.12,GPT-4-class,Null baseline
+NULL,Survey Classification,0.0,0.0,0.48,0.1,GPT-4-class,Null baseline
