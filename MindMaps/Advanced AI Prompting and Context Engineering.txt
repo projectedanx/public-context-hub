@@ -1,0 +1,135 @@
+Mind map
+Advanced AI Prompting and Context Engineering
+Advanced AI Prompting and Context Engineering
+<
+Prompt Engineering Fundamentals
+<
+Advanced Prompting Techniques
+<
+Context Engineering Framework (For Agents)
+<
+Multimodality and Specialized AI (Image/Video)
+<
+Practical AI Tools and Applications
+<
+Definition & Evolution
+<
+Prompt Anatomy & Structure
+<
+Refinement & Iteration (TINY CRABS framework)
+<
+Iteration Methods (RAHEN)
+<
+Chain of Thought (CoT)
+<
+Prompt Chaining (Multi-Step)
+<
+Multi-Shot Prompting
+<
+Meta Prompting
+<
+Perspective Switching
+<
+Error Correction
+<
+Definition/Goal
+<
+Core Strategies (4 Pillars)
+<
+Context Management Components
+<
+Multi-Agent Systems (Specialization)
+<
+Failure Modes
+<
+Multimodal Prompting
+<
+AI Image Generation (Nano Banana Focus)
+<
+AI Video Generation (Consistency Workflow)
+<
+CFG (Classifier-Free Guidance) in Diffusion Models
+<
+Code Generation & App Building
+<
+Google AI Studio / Gemini
+<
+Agentic AI / AI Employees
+<
+Business Opportunities
+<
+Prompt Crafting (Real-Time, Single Instance)
+Prompt Engineering (Replicable, Scalable Frameworks)
+Context Engineering (Evolution from Prompt Engineering)
+Task (Verb, explicit action)
+Role/Persona (Expertise, voice, e.g., CFO, teacher)
+Context (Background info, specifics)
+Constraints (Rules, limits, e.g., length, avoid cliches)
+Format/Output (Table, JSON, bullet points)
+Task/Instruction (T)
+Context (C)
+Role/Persona (R)
+Examples/References (E)
+Evaluate/Iterate (I)
+Revisit Framework
+Add/Refine Output Format
+Highlight Keywords/Text
+Introduce Constraints
+Ask model to show reasoning/steps
+Improves accuracy/trustworthiness
+Prevents jumping to conclusions
+Link multiple prompts sequentially
+Best for complex reasoning/tasks
+Ensures working on best text at each stage
+Provide examples (shots) of desired output
+Gives context for nuanced understanding
+Must ensure examples cover all bases (beware of bias)
+Use AI to help write better prompts
+Act as a prompt writing coach
+Useful when stuck on formulating the task
+Analyze decision from multiple viewpoints (e.g., CFO, Strategist)
+Prevents tunnel vision
+Guide AI back on track when output is off-target
+Specify what went wrong (e.g., 'too technical, rewrite')
+Systematic approach to feeding AI the right info at the right time
+Goal: Dynamic intelligence, understanding business
+80% Dynamic Context / 20% Static Instructions
+Writing Context (Saving info outside context window, persistence)
+Selecting Context (Pulling only relevant info for the step, relevance filtering)
+Compressing Context (Summarizing while preserving key details, token optimization)
+Isolating Context (Preventing task interference, specialized environments)
+Memory (Customer history, preferences)
+Tools (API integrations, code execution)
+RAG (Retrieval-Augmented Generation)
+Domain Knowledge (Internal KBs, documents)
+System Instructions (Core behavioral guidelines)
+One AI agent = One job done excellently (Assembly Line Approach)
+Deploy separate specialized agents (Lead Gen, Customer Support, Billing)
+Enables optimized prompting and model flexibility (e.g., GPT for CS, Claude for Coding)
+Information Overload (Stuffing context, context rot)
+Stale Data Pipeline (Info must be accurate/up-to-date)
+Context Confusion (Irrelevant info pollutes working memory)
+Context Clash (Contradictory information in knowledge bases)
+Interpret/Respond to multiple inputs (Text, Image, Audio, Video, Code)
+Example: Write post featuring this image (Gemini)
+Prompt Formula: Subject + Action + Environment + Art Style + Lighting + Details
+Image Editing: Enhance specific elements, replacement (maintaining lighting/shadows)
+Photo Realism Pillars: Realistic Detail, Accurate Lighting, True-to-Life Colors
+Models (Flow, Sora) do not remember details across scenes
+Workflow: Generate Character Image > Create Starting Frame (Precise Reference) > Generate Video Clips > Consistent Voice (Eleven Labs) > Final Edit
+Sora 2 Features: Cameo (Likeliness Consistency), Recut (Maintain Continuity)
+Purpose: Simple correction mechanism for denoiser imperfections
+Fixed CFG: Simple, robust, but suboptimal
+Learned Dynamic Guidance: Adaptive weights, better distributional alignment (lower FID), complex optimization
+Bolt/Cloud Agent: Generate complete application from prompt, inspector mode, plan mode, version history
+Vibe Coding Problems: Hallucinated APIs, poor scalability, brittle tests
+GitHub Copilot Agent Mode: Autonomous coding partner, multi-step tasks, error fixing
+Modes: Chat, Stream, Generate Media (Nano Banana, Imagen, V2), Build (Apps)
+Features: Huge context window (1M tokens), Grounding with Google Search, Custom instructions/preferences
+Autonomous AI that completes multi-step tasks
+Opportunities: Automating repetitive tasks for brick-and-mortar businesses
+AI Wrapper Businesses (UX, better prompting, data capture)
+AI Marketing/Media (HubSpot Toolkit, Go Viral GPT)
+Voice Marketplaces (11 Labs, selling AI voice replica)
+Specialized Verticals (Healthcare/Wellness AI, Educational AI)
+NotebookLM can be inaccurate; please double-check its responses.

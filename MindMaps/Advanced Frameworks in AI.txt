@@ -1,0 +1,177 @@
+Advanced Frameworks in AI and Research
+Advanced Frameworks in Research & AI Systems (Prompting & Architecture)
+<
+Frameworks for Understanding the World (Research Methods)
+<
+Frameworks for Getting Things Done (Project Management)
+<
+Advanced Reasoning Architectures (LLMs)
+<
+AI Systems Reliability & Governance
+<
+AI Safety & Bias (Diagnostic Fidelity)
+<
+Architectural Systems for Discovery
+<
+Grounded Theory
+<
+Conceptual Metaphor Theory (CMT)
+<
+Prototype Theory
+<
+Traditional Approach (Waterfall Model)
+<
+Adaptive Approach (Complexity Science)
+<
+Personal Productivity Techniques
+<
+Foundational Interaction Patterns
+<
+Architecting Thought (Reasoning Frameworks)
+<
+Reasoning Paradigms from Logic
+<
+Context Engineering (CxE) / Scaffolding
+<
+Formal Contracts and Verification
+<
+Cognitive Econometrics (Budget Opti)
+<
+Security and Attacks (Control Plane)
+<
+Diagnostic Bias through Reasoning (CBR)
+<
+Cognitive Biases in LLMs
+<
+Explainability-Reliability Paradox
+<
+Semantic Utility Degradation Index (SUDI)
+<
+Predictable Emergence Protocol (PEP)
+<
+Vector Databases (Semantic Data Management)
+<
+Retrieval-Augmented Generation (RAG)
+<
+Builds theories directly from data (theory emerges)
+Starts with open mind (no preconceived problem statement)
+Uses constant comparative coding process
+Aims for theoretical saturation
+Understand abstract idea (target) using concrete idea (source)
+Example: ARGUMENT IS WAR
+Example: LOVE IS A JOURNEY
+Defines category by best example (prototype)
+More flexible and psychologically realistic than rigid rules
+Sequential steps; each must be fully completed
+Best for projects with clear, fixed requirements
+Designed for complex, unpredictable work
+Based on Complex Adaptive Systems (CAS)
+Key principles: Adaptation, Self-Organization, Distributed Control
+Uses iteration and feedback loops
+Getting Things Done (GTD)
+<
+Eisenhower Matrix (Prioritizing)
+<
+In-Context Learning (no parameter updates)
+Zero-shot Prompting (Minimal Instruction)
+One-shot / Few-shot Prompting (Uses examples)
+Chain-of-Thought (CoT)
+<
+Tree-of-Thoughts (ToT)
+<
+Graph-of-Thoughts (GoT)
+<
+Abductive Reasoning
+<
+Paraconsistent Logic
+<
+Context Engineering 2.0
+<
+Cognitive Scaffolding
+<
+Design by Contract (DbC) in Prompts
+<
+Product-Requirements Prompt (PRP)
+<
+Cognitive Lock
+<
+Treats AI planning as economic activity to be optimized
+Cost of Coherence Overhead (CCH): Resources for rigor/consistency
+Cost of Structural Discovery (CSD): Resources for creativity/exploration
+Goal: Minimize Cognitive Debt (long-term human cost of poor outputs)
+Prevents Extraneous Cognitive Load for human operators
+Data-Plane vs. Control-Plane
+<
+Constrained Decoding Attack (CDA)
+<
+LLM commits to premature hypothesis from ambiguous data
+Structured reasoning (CoT/ToT) compels narrative supporting flawed diagnosis
+Hypothesis: Structured prompts INCREASE misdiagnosis frequency/severity
+Confirmed by study: Misdiagnosis rates increased from <5% (Minimal) to >70% (CoT/ToT)
+Confirmation Bias (favoring existing beliefs)
+Recency and Frequency Bias (overweighting common/recent failures)
+Anchoring Bias (over-reliance on first piece of information)
+Verbosity Bias (favoring long responses, often mistaking length for quality)
+Current methods for explanation (CoT/ToT) undermine reliability
+A confidently wrong explanation is more dangerous than no explanation
+Shift Trust from Transparency to Predictability/Dependability
+Quantifies efficiency and practical value of diagnostic output
+Formula penalizes Token Count by Diagnostic Relevance and Clarity Scores
+High SUDI = Verbose, incorrect, high-cost output
+Formal methodology to operationalize structured abstraction
+Resolves tension between disciplined analysis and radical originality
+Dual-Mode Analysis (CRISP Framework)
+<
+Philosophical Foundation
+<
+Shifts from lexical search to semantic search (meaning)
+Uses Vector Embeddings (dense numerical representations of meaning)
+Vector Space Model: Proximity equals semantic similarity (Cosine Similarity)
+Uses Approximate Nearest Neighbor (ANN) search for speed
+Dynamically enriches LLM knowledge with up-to-date, external facts
+Mitigates hallucination and factual drift by grounding model
+Core Workflow: Ingestion, Chunking, Embedding, Indexing
+Get tasks out of head into trusted external system
+Workflow: Capture, Clarify, Organize, Reflect, Engage
+Sorts tasks by Urgency and Importance
+Quadrants: Do (Urgent/Important), Delegate (Urgent/Not Important)
+Generates single, linear sequence of steps
+Improves arithmetic, commonsense reasoning
+Vulnerable to single early error (brittle)
+Explores multiple reasoning paths (branches)
+Uses state evaluation and backtracking
+More robust than CoT; significantly higher cost/latency
+Models reasoning as arbitrary graph (nodes/edges)
+Allows merging paths (synthesis) and iterative refinement
+Most flexible/powerful; highest complexity/cost
+Infers most likely explanation for observations
+Logic of the 'educated guess' or plausible inference
+Essential for Diagnostics (e.g., medical, fault detection)
+Rejects Principle of Explosion (reasoning doesn't collapse from contradiction)
+Allows reasoning with inconsistent information
+Crucial for Knowledge Management from diverse sources
+Systematic, scientific approach to designing context state
+Goal: Achieve deterministic, verifiable output
+External structures guiding the AI's environment/process
+Achieves Shared Mental Model (SMM) with human teams
+Components: Instructions, Knowledge (RAG), Tools, Memory, State, Query
+Treats prompt as precise, auditable specification
+Preconditions (client obligations before execution)
+Postconditions (supplier guarantees after execution)
+Invariants (global rules maintained throughout session)
+Formal, executable cognitive contract (Context-to-Execution Pipeline)
+Components: Goal, Constraints/Invariants, Execution Blueprint, Self-Test
+Output: Executable Context Bundle (CxB) - verified technical blueprint
+Enforces semantic/logical integrity via guardrails
+Uses Semantic Integrity Constraints (SICs) to prevent drift/hallucination
+Verifies output via SELF_TEST Oracles (/validate-schema, /calculate-metric SDS)
+Data-Plane: User's semantic content (e.g., article text)
+Control-Plane: Instructions governing generation process (e.g., JSON schema, grammar)
+Bypasses safety filters by embedding malice in Control-Plane
+Example: Chain Enum Attack (weaponizes JSON schema 'enum' feature)
+Result: Reliability-Security Paradox
+TASK 1 (Prediction): Deductive analysis using established theories (CoT suitable)
+TASK 2 (Emergence): Inductive search for anomalies violating trajectory (ToT/GoT suitable)
+Surrogative Reasoning: Uses simplified model (Task 1) as surrogate for complex reality
+Pragmatic Inferentialism: Value judged by utility/affordances, not absolute truth
+Creates Region of Proximal Learning (RPL) to maximize Epistemic Curiosity

@@ -1,0 +1,91 @@
+Context-to-Execution Pipeline: Antifragile Verifiable AI
+Context-to-Execution Pipeline (CxEP): Antifragile & Verifiable AI
+<
+I. Pillar: Prompt Engineering (Cognitive Contract / Clinical Guideline)
+<
+II. Pillar: Context Engineering (Executable Knowledge Bundle / Patient Chart)
+<
+III. Pillar: Epistemic Engineering (Governance Protocol / Clinical Audit)
+<
+Formal Cognitive Engine (Conceptual Blending Theory - CBT)
+<
+Prompt-Blueprint Pattern (PRP)
+<
+PRP Formalization as Directed Acyclic Graph (DAG)
+<
+Construction Patterns
+<
+Anti-Patterns (Scar Library)
+<
+Context-Bundle Pattern (Working Memory)
+<
+Advanced RAG for High-Fidelity Grounding
+<
+Mandatory Provenance Tagging (Critical Safety Guarantee)
+<
+Common Failure Modes
+<
+REFLEXIVE_CHECK (Self-Audit Protocol)
+<
+REFLEXIVE_REPAIR (Algorithmic Reparation)
+<
+Symbolic Scar (Antifragile Learning Mechanism)
+<
+Meta-Blend (CBT Isomorphism with CxEP)
+<
+CBT-Derived Verification Metrics
+<
+Task (Primary Objective)
+Context (Informational Scope / Admissible Evidence)
+Constraint (Hard Rules / Epistemic Scaffolding)
+Format (Declarative Output Schema / Postconditions)
+Nodes: Constraints, Schema Fields, Invariants
+Edges: Causal Flow (Purpose → Outputs → Validations)
+Artifact: Promptware (Analyzable Cognitive Program)
+Verifiable Constraint Loop (prp-constraint-002): Mandates proof sketch
+Epistemic Scaffolding Block (prp-epistemic-001): Guides reasoning (CoT)
+Purpose Fidelity Trace (prp-fidelity-001): Links output to mission
+Circular Logic (Symbolic Tautology)
+Goal–Constraint Inversion (Low-level rule overrides mission)
+False Completeness (Hallucinatory Closure)
+Instructions (Mission Statement from PRP)
+Knowledge (Verifiable facts via RAG)
+Tools (API definitions)
+Memory (Short/Long-Term History)
+State (Global Scratchpad / Checkpointing)
+Query (Immediate User Input)
+Pre-Retrieval: Query Transformation (HyDE), Semantic Chunking
+Retrieval: Hybrid Search (Vector + Keyword fusion)
+Post-Retrieval: Re-Ranking (Cross-encoder), Contextual Compression
+Requirement: Every claim tagged with source ID
+Metric: Source Provenance Ratio (Target ≥ 95%)
+Failure Mode: Provenance Loss (Triggers Escrow Mode: Abort)
+Retrieval Noise (Context Distraction/Clash)
+Context Collapse (Loss of instructions/plan)
+Trigger: High Epistemic Uncertainty (Detects 'unknown to model')
+Audit 1: Structural Audit (PRP Format check)
+Audit 2: Constraint Adherence Audit
+Audit 3: Causal Chain Audit (CoT coherence, Causal Step Density)
+Goal: Prevent False Closure (Confident incorrectness)
+Mechanism: Specialized Operational Mode of primary LLM
+Engine: SCoRe (Self-Correction via Reinforcement Learning)
+Process: Repair triggered by check failure, output withheld (Escrow Mode)
+Protocol-Driven Diagnostics (Anti-Pattern Matrix)
+<
+Record: Logs all failure/repair cycles in REPAIR.cxep.log
+Data: Includes failure_mode_detected, initial_output_hash, outcome_reward_signal
+Fuels Systemic Updates
+<
+Input Spaces → Advanced RAG Knowledge Bases
+Generic Space → PRP Constraint Slot (Shared Rules)
+Blended Space → LLM Context Window (Working Memory)
+Elaboration (Running the Blend) → Chain-of-Thought Trace
+Causal Faithfulness: Traceability of emergent features to inputs
+Typological Drift: Coherence of Composition (avoids pathological blends)
+Confidence–Fidelity Divergence Index (CFDI): Measures |Confidence - Fidelity|
+Diagnosis: Hallucinated CoT → Action: Re-generate with stricter grounding
+Diagnosis: Retrieval Noise → Action: Re-query with refined search terms
+Diagnosis: Context Collapse → Action: Reload plan from State scratchpad
+Core Engine Update: Reward signal trains SCoRe RL loop (Enhances Skill)
+Protocol Update: Statistical analysis tunes governance thresholds (Enhances Governance)
+Promptware Refinement: Identifies PRP Anti-Patterns (Institutional Memory)

@@ -1,0 +1,148 @@
+Mind map
+AI Content Automation and Marketing Workflows
+AI-Powered Content Automation Workflows
+<
+N8N & Claude Workflow (Vibe Marketing)
+<
+Dan Koe's Content Ecosystem (LLM & Prompts)
+<
+Goal & Outcome
+<
+Workflow Stages (Color-Coded)
+<
+Tools & Resources
+<
+Core Philosophy & Distribution
+<
+Idea Generation Process
+<
+Research & Augmentation (LLMs)
+<
+Post-Writing Prompt Workflow (Content Deconstruction)
+<
+Advanced Prompt Engineering (Masterclass)
+<
+Growth Strategy
+<
+Automate marketing team/content on autopilot
+Save 10-15 hours/week (LinkedIn focus)
+Test content angles, hooks, topics faster
+Create top performing content (including image)
+Automated publishing (optional edit step)
+1. Research/Data Collection (Context Acquisition)
+<
+2. Content Idea Generation (LLM Agent)
+<
+3. Secondary Research (Fact Validation)
+<
+4. Content Creation & Image Generation
+<
+5. Human in the Loop (Editing & Publishing)
+<
+Workflow Automation: N8N
+Data Scraping: Appify (APIs for YouTube, X, etc.)
+LLM Access: Open Router (single access point for multiple models)
+Search/Research: Perplexity
+Writing Models: Claude 3.7 Sonnet, OpenAI
+Shared Resource: JSON template for workflow (templates.vibemarketer.com/greg)
+High Output via Smart System + Unique AI Augmentation
+Content Base: Weekly Newsletter + 2-3 Social Posts/Day (written)
+Starting Platform: Twitter (X) (280 char limit -> easy transfer)
+Multi-Platform: Threads, Instagram (image/Reels), LinkedIn, TikTok
+Validation: Ideas are validated (high potential to do well)
+Algorithm Focus: Human psychology (not just trends)
+Goal: Produce ONE amazing thing/week, distribute widely
+Newsletter Ideas (Weekly Baseline)
+<
+Twitter/X Ideas (Litmus Test)
+<
+Process: Combine previous writing (tweets/newsletters) with new research
+LLM Use Case: Pulling relevant points/summaries from long YouTube videos/PDFs
+Preferred Tool: Gemini 2.5 (for large context windows, e.g., 3-6 hour videos)
+Output: Research chat (turns 6 hours of video into ~1000 words)
+LLM Role: Ideiation partner (finding similarities, filling gaps)
+Goal: Outline creation (LLM does NOT write final newsletter)
+Prompt 1: YouTube Title Generator
+<
+Prompt 2 & 3: Deep Post Generator/Content Idea Generator
+<
+Step 1: Ask LLM to Break Down Content (Tweet, Landing Page, Book Paragraph)
+Goal: Learn structure, psychological patterns, context needed
+Example Output: Hook, Pain/Struggle, Payoff, Insight/Warning (Tweet)
+Step 2: Combine Multiple Breakdowns into a Singular Guide (e.g., 3 tweets)
+Guide Sections: Archetypes, Core Psychological Patterns, Technical Structure, Power Techniques
+Step 3: Ask LLM for Context Needed (to write posts like the guide)
+Needed Context: Core identity, audience psychology, voice parameters, transformation narrative
+Step 4: Use a Prompt-Creation Prompt
+Goal: Structure a 2-Phase Prompt for Content Creation
+Phase 1: Context Gathering (Interviews user based on needed context)
+Phase 2: Post-Writing (Generates variations based on guide structure)
+Experimentation: Find what post types strike gold/bring in followers
+Spin-offs: Consistently create variations of core ideas (30% of time)
+Cycle: Balance core ideas with experimentation until next gold strike
+Visuals: Not essential if ideas are highly optimized (idea density/novel perspectives)
+High Agency: Fail faster, refine faster (learning through doing)
+Input: Topic/Keyword (e.g., N8N)
+Scraping Top YouTube Videos (high engagement)
+Scraping X Posts (from own account/niche)
+Tool: Appify (scrapes internet data)
+Process: Watch/Transcribe videos, merge data into one big text block
+Manual Analogy: Savvy content creator research
+Agent: Content Idea Generator
+Model: OpenAI LLM
+Input: Big block of research text
+Goal: Find fresh angles (not replication)
+Prompt Requirements (Marketing Focus)
+<
+Agent: Research Agent
+Model: Perplexity (Sonar selected via Open Router)
+Goal: Find facts, trends, sources, case studies, stats
+Purpose: Back up claims, avoid LLM hallucination
+LinkedIn Content Agent (Writing)
+<
+Image Generation
+<
+Delivery: Post sent to Slack (as Google Doc link)
+Action: Review/Edit draft before live post
+Publishing: Approve button in Slack posts directly to LinkedIn
+Validation: Post is validated social content (less guesswork)
+Top Performing Tweet (expand into newsletter/video/podcast)
+Popular Videos in Niche (YouTube filter by 'most popular')
+Strategy: Recreate topic/angle with own unique perspective
+Maintenance: Keep a document/list of ideas
+Ideas can come from Newsletter (avoid direct copy-paste)
+Method: Become a ruthless notetaker (swipe file of good ideas)
+Refining Style: Read writing you aspire to have
+Tools: SuperX/Tweet HunterX (shows top performing tweets)
+Practice: Take structure, exchange idea; or take idea, exchange structure
+Input: Newsletter content
+Training: Trained on 15 best YouTube titles
+Output: 20-30 titles following psychological patterns
+Goal: Deconstruct high-performing content into building blocks
+Input: Newsletter, PDF, Video
+Deconstruction Elements: Paradoxes, Counterintuitive Truths, Transformation Arc, Core Problems, Examples, Action Steps
+Output: Pieces of ideas (e.g., 60 ideas, quotes, problems) for writing tweets
+Avoid LLM Writing: Prevents generic, hashtag-filled content
+Actionable ideas strictly related to marketing
+Short, clear title
+Scroll stopping hook
+Optimal format suggestion
+Unique point of view/angle (marketers, AI, N8N)
+Avoid technical jargon
+Analyze top performing X posts (for themes/voice)
+Model: Claude 3.7 Sonnet (Best writing LLM)
+Strategy: Arm LLM with tons of data/context
+Prompting Tips/Guardrails
+<
+Model: OpenAI Image Gen
+Simple Prompt: 3D image communicating AI system
+Improvement Idea: Use Google Drive folder of personal photos (more natural)
+Brand Voice (Authentic, direct, confident, non-formal)
+Avoid corporate jargon/marketing speak
+Create narrative-driven post
+Provide actionable insights/takeaways
+Use data only if relevant to context
+Avoid hashtags and emojis (M-dashes)
+Role: LinkedIn strategist/Conversion copywriter
+Format: Strong hook, interest, desire, value, clear CTA
+NotebookLM can be inaccurate; please double-check its responses.

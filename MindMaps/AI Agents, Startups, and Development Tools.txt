@@ -1,0 +1,124 @@
+AI Agents, Startups, and Development Tools
+Based on 34 sources
+AI Startup and Agent Development
+<
+AI Agents & Automation
+<
+AI Coding & Development Tools
+<
+Startup Strategies & Business Models
+<
+AI Marketing & Content Creation
+<
+New AI Models & Capabilities
+<
+AI Agent Platforms & Tools
+<
+Agent Use Cases
+<
+Core Coding Tools (Vibe Coding)
+<
+App Building Principles
+<
+Leveraged Agency Model
+<
+MicroSaaS Playbook
+<
+Idea Generation & Validation
+<
+AI Ad Creation Workflow
+<
+Ad Strategies (Arcad)
+<
+Audience Building (Distribution First)
+<
+Paid Acquisition
+<
+Nano Banana (Gemini 2.5 Flash Image)
+<
+Sora 2 / Veo 3 (Video Generation)
+<
+Grok 4 (X Integration)
+<
+Google Flow (Generative Media)
+<
+OpenAI Agent Builder (Visual Workflow)
+Lindy AI (Recruiting, Voice AI)
+Computer Use (Unlocks LinkedIn DMs, Phone Calls)
+Gum Loop (Automation Workflows)
+N8N (Workflows, Self-Hosted via Hostinger)
+Vappy / Synthflow / Retail (Voice AI)
+Claude Skills/Projects (Repeatable Tasks, Custom Scripts)
+Project Mariner (Task-Based Web Navigation)
+Marketing & Sales
+<
+Business Operations
+<
+Local Business/Niche Research
+<
+Cursor (Dev Focus, Self-Correction, CLI/Automation)
+Claude Code (High Quality, Terminal Required, Agent Builder)
+Codeex (OpenAI Plugin, Cloud Agents, Cross-Platform)
+Vercel Vzero (Prototyping, AI Gateway, High Fidelity)
+Devon / Code Rabbit (Integrated PR/Codebase Review, Deep Wiki)
+MVP via PRD (Minimally Viable Product via Product Requirements Doc)
+Use Markdown Files (Agent Input Format)
+Focus on Niche and High Polish (MicroSaaS Strategy)
+Build on Giants (Shopify, Superbase, Netlify)
+GitHub Workflow (Branching, Merging, CI/CD)
+Phase 1: Manual Labor (Find Painful Boring Task, $1K-$5K/mo)
+Phase 2: Build AI System (Automate, Double Margins)
+Goal: Full AI System (Hundreds of Clients, High Margins)
+Benefits: Profitable from Month 1, PMF, High Equity
+Growth Flywheel: Audience -> Pain -> Build -> Word of Mouth -> Reinvest
+Prioritize High Pain / High Willingness to Pay
+Ship Weekly Improvements (Kill Churn)
+Example Ideas: PermitSync, Pod Scriptor, Spec Sheet
+Monetization: Subscriptions, Usage-Based Pricing
+Idea Browser (Daily Ideas, Data Trends, AI Agents)
+Sam Altman's Thesis ('Era of the Idea Guy')
+Analyze Reddit/Facebook Groups (Market Insights)
+Look for Trends (Viral Content, Technical Barriers)
+Scripting (Start with Loose Concepts, Use ChatGPT/Gemini for lines)
+Image Generation (Rev, Nano Banana/Google Flow)
+Video Animation (V3, Sora 2, Extend Feature)
+Editing (Final Cut/CapCut, Fast Pacing, Pattern Interrupts)
+Voice/Avatar (HeyGen, 11 Labs - Natasha Valley Girl)
+Test Real UGC Style vs. Unrealistic Scroll-Stopping Ads (Gorilla, Star Wars)
+Create many variations (High Cadence Testing)
+Use Comedy/Ridiculousness (Mitigate AI Pushback)
+Focus on High LTV/CAC Ratio
+Post Daily (Entertaining, Build in Public)
+Leverage X/Twitter (Jump on Viral Trends)
+Short Form Video (Viral Content Creation Loop)
+Organic Marketing (DM Beta Testers)
+Google Ads (Broad Match, High Keyword Volume)
+Conversion Tracking (Google Tag Manager, Data Layer)
+Facebook/IG Ads (Interest/Behavior Targeting)
+LTV > CAC (Must be > 3 for best apps)
+Image Generation/Editing Model
+Placement, Character Consistency, Scene Changes
+Fast Speed (~4 cents/image)
+Used for AI Ads/Marketing Assets
+Adds Sound Effects/Music
+Limited to 10 seconds (Expansion expected)
+Potential for Meme Branding/IP
+Market Research Agent (To-Doist Pain Points)
+Fundraising Pitch Refinement (VC Agent Mode)
+Customer Feedback Analysis (Categorizes Themes)
+Companions (AI Avatars/Flirting)
+Consistent Characters/Scenes
+Video Extension Feature
+Lightweight Editor (Add scenes, clips)
+AISDR (Supplement Human SDR, Multi-Touch)
+Automated Content Production (TikTok API Scraping)
+Customer Support/Lead Capture (OpenAI Chatkit)
+Webinar Repurposing (Link Magnets)
+Meeting Scheduling (Lindy, replaces Calendarly stigma)
+New Hire Onboarding GPT (Trained on SOPs/HR Docs)
+Data Analytics/Reporting (Graph.com)
+AI Property Manager Voice Line (Urgency Check, Ticket Creation)
+Trade Contractor Answering Service (Slot Booking, Payment)
+Google Maps Data Scraping (Review Volume/Sentiment)
+Identify Underserved Niches (e.g., Garage Organization)
+Analyze Competitor Social Presence/Hours

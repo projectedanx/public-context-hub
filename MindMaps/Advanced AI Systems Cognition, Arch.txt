@@ -1,0 +1,204 @@
+Advanced AI Systems: Cognition, Architecture, and Control
+Advanced AI Systems: Architecture, Cognition, and Governance
+<
+Cognitive Architectures & Mental Models
+<
+Context Engineering & Prompting
+<
+AI Agent Architectures & Governance
+<
+AI Image Generation & Control
+<
+Cognitive Load & Software Engineering
+<
+Theory of Scientific Discovery
+<
+Latent Space & Geometry
+<
+Conceptual Blending Theory (CIT)
+<
+Knowledge & Understanding
+<
+Uncertainty & Possibility
+<
+Context Engineering (CE) Paradigm
+<
+Context Payload Components (6)
+<
+Prompting Structure & Principles
+<
+Reasoning Frameworks (Advanced Prompting)
+<
+Multi-Agent Systems (MAS)
+<
+Self-Correction & Immune Systems (Intrinsic Governance)
+<
+Verifiability & Auditability
+<
+Generative Model Architectures
+<
+Precision Control (Context Engineering for Visuals)
+<
+Advanced Image Manipulation
+<
+Art Styles & Concepts
+<
+Cognitive Load Theory (CLT) in Dev
+<
+Scaffolding Mechanisms (Tools to Reduce Load)
+<
+Software Failures & Drift
+<
+Epistemic Scaffolding Framework (5 Phases)
+<
+Modes of Reasoning
+<
+Concepts of Scientific Knowledge
+<
+Definition: Hidden Library/Map of Concepts
+<
+Geometric Signatures
+<
+TDA Metrics
+<
+Dynamics
+<
+Core Spaces
+<
+Emergent Structure Operations
+<
+Cognitive Impact
+<
+Knowledge: Acquaintance with facts (Vulnerable to Epistemic Luck)
+Understanding: Grasping explanatory/causal relationships
+Models: Simplified representations ('Spherical Cows')
+Intuition: Fallible heuristic (Insight Fallacy)
+Epistemic Wave Function (EWF)
+<
+Uncertainty Types
+<
+Strategic Shift: From craft to engineering discipline
+Definition: Feeding right info in right format at right time
+Goal: Reliability, scalability, predictability
+Instructions (Persona, Rules, Mandate)
+Knowledge (RAG, Facts, Overcomes Cutoff)
+Tools (Function Calling, APIs, Code Sandbox)
+Memory (Short-term buffer, Long-term Semantic/Episodic)
+State (Real-time application environment awareness)
+User's Query (Input trigger)
+The 5 Ingredients (Recipe for Text)
+<
+Formal Artifacts
+<
+Control Mechanisms
+<
+Chain-of-Thought (CoT): Linear decomposition (Deductive)
+Tree-of-Thought (ToT): Parallel paths, self-evaluation (Inductive/Exploratory)
+Least-to-Most: Sequence of simpler subproblems
+Graph-of-Thoughts (GoT): Aggregation/Iterative refinement (Synthesis)
+Assembly Line Design: One agent = one job done excellently
+Context Isolation: Prevents 'contamination' between tasks
+Example Roles (Coding Agents)
+<
+Epistemic Immune System (EIS)
+<
+Antifragility
+<
+Governance Mechanisms
+<
+Context-to-Execution Pipeline (CxEP): Auditable workflow from intent to code
+Causal Provenance Chain: Immutable history of operations (Temporal Verifiability)
+Justified Uncertainty Report (JUR): Auditable output detailing reasoning/intervention
+Intention-Typed APIs (IT-APIs): Semantic contract for agent actions
+Diffusion Models (e.g., Midjourney, Stable Diffusion)
+<
+Generative Adversarial Networks (GANs)
+<
+Structural Conditioning: ControlNet (Spatial Layout/Form)
+Aesthetic Vectoring: LoRA (Style/Fine-Tuning)
+Photorealism Prompting (Technical Specs)
+<
+Seeding: Consistency and Iterative Refinement
+Inpainting: Filling/Replacing content within boundaries
+Outpainting (Generative Fill): Expanding canvas beyond borders
+Impressionism: Visible brushstrokes, broken color, focus on light
+Post-Impressionism: Emotional/Symbolic content, moved beyond visual representation
+Art Deco: Geometric, streamlined forms, rich colors
+Expressionism: Prioritizes emotional experience (Distorted forms, bold colors)
+Intrinsic Load: Inherent task difficulty (Irreducible)
+Extraneous Load: Unproductive effort (Target for reduction)
+Germane Load: Productive effort (Constructing long-term schemas)
+Static Type Checkers (e.g., MyPy): Stabilize expectations, reduce ambiguity
+Linters/Formatters (e.g., Black): Enforce shared cognitive model of structure
+Docker/Docker Compose: Encapsulate the 'Notional Machine'/Environment
+Jupyter Notebooks: Fossilize reasoning flow (Literate Programming)
+Code Completion/Snippets: Error prevention, offload memory
+Interpretive Fracture: Semantic/Logical disconnects across tech stacks
+Symbolic Drift: Implementation diverges from architectural diagrams
+Agentic Drift (Intentional Drift): Divergence from high-level goal
+1. Anomaly & Abductive Genesis (Leap to hypothesis)
+2. Model-Based Elaboration (Consequence exploration, Thought Experiments)
+3. Axiomatic Formalization (Constructs, Propositions, Logic, Boundaries)
+4. Deductive & Computational Verification (ATP, Consistency checks)
+5. Paradigm Shift & New Normal Science
+Abductive Reasoning: Inference to the best explanation (Engine of Novelty)
+Deductive Reasoning: Top-down, deriving specific from general (Truth-preserving)
+Inductive Reasoning: Bottom-up, generalizing from specific observations
+Abstract Idea: Un-formalized concept (Raw material)
+Hypothesis: Testable conjecture (Narrow scope)
+Model: Representation involving simplification/idealization (Surrogative Reasoning)
+Formal Theory: Well-substantiated framework (High explanatory power)
+Distance is mathematically meaningful
+Principal Curvature (κc): Measures local shape/richness
+Topological Data Analysis (TDA)
+β₀ (Connected Components): Measures modal diversity
+β₁ (Loops/Holes): Measures cyclical patterns/contradiction (Symbolic Scar)
+Persistent Homology (PH): Tracks feature birth/death
+Semantic Gravity (LSG): Force overcome by counter-correction
+Curvature Collapse (κc): Indicates semantic change
+Input Spaces (Source Concepts)
+Generic Space (Common Structure)
+Blended Space (Emergent Structure/Novelty)
+Composition
+Completion
+Elaboration ('Running the Blend')
+Compression: Reduces cognitive load (via vital relations)
+Creative Core for Agency
+Superposition: Holding multiple propositions
+Coherence: Structured relationship between propositions
+Collapse: Transition to a single state (Decision)
+Type A (Aleatoric): Random/Stochastic variability
+Type B (Epistemic): Incomplete knowledge/Assumptions
+Task
+Role
+Context
+Format
+Examples (Few-Shot Prompting)
+Product-Requirements Prompt (PRP): Executable specification/contract
+JSON Schema: Syntactic constraint for output structure
+Semantic Programming: Instructions as logic/verifiable code
+Keyword Weighting (e.g., (keyword:1.3))
+Negative Prompts (--no parameter)
+Structured Formats (JSON, Cinematic Syntax)
+Planner-Architect (System 2, Symbolic)
+Linguist-Coder (System 1, Neural)
+Integrator-Auditor (Metacognitive Layer)
+Monitors/Diagnoses/Repairs semantic integrity
+Uses Semantic Drift Score (SDS) as diagnostic signal
+Gets better from failure/stressors (Convex Response)
+Failure Utility Maximisation (FUM)
+Failure-Informed Prompt Inversion (FIPI)
+Symbolic Scars: Traces of algorithmic trauma used for learning
+Reflexive Check / Self-Refinement (Internal QA Loop)
+Epistemic Escrow: Halts execution for Human-in-the-Loop review
+Paraconsistent Logic: Reasons through contradiction without collapse
+Productive Failure: Errors as catalysts for human insight
+Process: Gradual Denoising from static noise
+Process: Generator vs. Discriminator (Adversarial)
+Failure Mode: Mode Collapse (Loss of diversity/β₀ features)
+Mitigation: Gradient Penalty (WGAN-GP)
+Camera/Lens Simulation (Aperture, Focal Length)
+Lighting Techniques (Chiaroscuro, Golden Hour)
+Compositional Rules (Rule of Thirds, Leading Lines)
+NotebookLM can be inaccurate; please double-check its responses.
+Thinking…

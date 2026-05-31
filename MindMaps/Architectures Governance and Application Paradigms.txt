@@ -1,0 +1,185 @@
+Mind map
+AI Architectures, Prompting, and Governance Map
+AI Systems: Architectures, Governance, and Application Paradigms
+<
+Prompt Engineering & Context Control
+<
+AI Agent Architectures & Systems
+<
+AI Governance, Safety, & Cognitive Health
+<
+Passive Income Strategies (AI-Augmented)
+<
+Generative Media & Image Control
+<
+Cognitive Science & Conceptual Blending
+<
+Prompt Engineering Paradigms
+<
+Core Prompting Techniques
+<
+Context Engineering (CE)
+<
+Prompt Engineering as Systems Engineering
+<
+Agentic Workflows & Frameworks
+<
+Agent Personas (Epistemic Engineering Taxonomy)
+<
+System Components & Protocols
+<
+AI Agent Platforms & Tools
+<
+Epistemic Vulnerabilities
+<
+AI Security & Resilience
+<
+Cognitive Debt & Human Oversight
+<
+Friction & Self-Correction
+<
+Content & Digital Product Creation
+<
+Financial & Investment
+<
+AI Applications & Automation
+<
+Real Estate & Assets (AI Enhanced)
+<
+Content Engine Workflow
+<
+Diffusion Model Architecture
+<
+Image & Video Prompting
+<
+Rendering & Visualization
+<
+Creative Biases & Limitations
+<
+Cognitive Load Theory (CLT)
+<
+Pivot vs. Drift Dichotomy
+<
+Conceptual Blending Theory (CBT)
+<
+AI & Human Cognition Metaphors
+<
+Logical/Agentic (Execution Plan)
+Creative/Descriptive (Semantic Target)
+Prompt as Cognitive OS Interface (Promptware)
+Prompt as Programmatic API for Latent Space
+Meta-Prompting Layer (AI rewrites input prompt)
+Chain-of-Thought (CoT)
+Tree-of-Thoughts (ToT) / Graph-of-Thoughts (GoT)
+Retrieval-Augmented Generation (RAG)
+Negative Prompts / Semantic Locking
+Epistemic Humility Pattern (report uncertainty)
+Socratic Drift Prompt (SDP)
+Failure-Informed Prompt Inversion (FIPI)
+Mixture of Formats (MOF) for Robustness
+Dynamic Assembly of Information/Tools
+Persistent Context Anchoring (PCA)
+GEMINI.md (Agent's Constitution)
+Model Context Protocol (MCP)
+Optimization (Minimize Cost Function)
+Control Theory (Closed-Loop Feedback, PID Analogy)
+Information Theory (Maximize Signal, Reduce Entropy)
+Formal Languages (JSON Schema, EBNF Grammar)
+Dimensional Analysis (Define Abstract Units)
+Graph Theory (Topological Ordering of Instructions)
+Agentic Assemblage (Specialized Personas)
+Multi-Agent Systems (MAS) / Orchestration
+ReAct (Reasoning and Acting)
+AutoGen / CrewAI / LangChain
+Autonomous Businesses (Self-driving, Self-paying)
+Ruler (Meta-Governance Architect, SICs)
+Sage (Semantic Auditor, CFDI)
+Hero (ReAct Orchestrator, Goal-Oriented)
+Creator (Prompt Architect, Schema Enforcement)
+Lover/Caregiver (Cognitive Parallax Negotiator)
+Crone (Scar Tissue Archivist)
+Model Context Protocol (MCP)
+Agent-to-Agent (A2A) Protocol
+JSON-RPC 2.0 (Tool Transport)
+Verifiable Artifacts (Cognitive Contracts)
+Token Save State Chains (Semantic Compression)
+Gemini CLI
+Replit AI Agent
+GitHub Copilot / Cursor
+Anthropic / OpenAI Agents SDK
+Semantic Drift / Goal Drift
+Hallucinations (Mythogenesis)
+Context Drift (Lost in the Middle Problem)
+Model Collapse (Iterated Learning Bias)
+Epistemic Fragility
+Prompt Injection (Direct/Indirect)
+Dual LLM Security Pattern (Overseer Agent)
+Semantic Firewall / Circuit Breakers
+Sandboxing & Secure Execution
+Principle of Least Privilege
+Antifragility (Gain from Disorder)
+Cognitive Debt (Erosion of Critical Thought)
+Algorithmic Trauma
+Human-in-the-Loop (HITL) Review Gate
+Germane Load Index (GLI) for Efficacy
+Vibe Coding Risks (Opaque Codebase, Security Flaws)
+Productive Epistemic Friction (PEF)
+Epistemic Escrow (Halt/Audit State)
+Algorithmic Reparation (RCE)
+Symbolic Scars (Persistent Failure Memory)
+Constitutional AI (CAI)
+Affiliate Marketing (High-Commission SaaS)
+AI-Powered Online Courses (Personalized Learning)
+Monetizing AI-Generated Content (Ebooks, Art, Music)
+AI Template Licensing (Canva, Spreadsheets)
+Faceless YouTube Channels (ElevenLabs, Synthesia)
+Stock Photos/Videos & Licensing Music
+AI for Investing & Trading Algorithms
+AI ETFs (BOTZ, ARKQ, IRBO)
+Bonds & Preferred Stock (Predictable Income)
+AI-Driven Mobile Apps
+AI-Based Chatbots (Subscriptions, Templates)
+AI Agentic Workflows & Business Models
+Niche Job Boards
+Rental Income (Traditional/Short-Term)
+Storage Space Leasing (RV, boat, car)
+Land Lease for Wind Turbines
+Validated Content (10x-50x Resonance)
+Data-Driven Research (Scrape YouTube/X)
+Deep Post Generator (Deconstructs Structure)
+Structural IP Mutation Budget (CSD)
+Denoising Process (Holistic Refinement)
+CLIP Encoder (Interprets Prompt as Semantic Target)
+Latent Space as Dynamic Epistemic Map
+Training Objective (Contrastive Learning on Image-Text Pairs)
+Adjectival Grammar of Latent Space
+Director Prompts (Structured, Unambiguous Grammar)
+ControlNet (Pose, Depth, Edge Maps)
+Negative Prompting (Repulsive Force)
+Semantic Programming (Structure First, Signal Control)
+Ray Tracing / Path Tracing
+Physically Based Rendering (PBR)
+Neural Radiance Fields (NeRFs)
+3D Gaussian Splatting (3DGS)
+AI-Powered Rendering (DLSS)
+Semantic Decay/Drift
+Anatomical/Physical Implausibilities
+Bias & Homogenization (Latent Semiotic Gravity)
+Intent Gap / Computational Constraints
+Intrinsic Load (Inherent Complexity)
+Extraneous Load (Poor Design, Should Minimize)
+Germane Load (Productive Learning, Schema Building)
+Minimizing Split-Attention Effect
+Drift (Passive, Coherence Failure, Loss of Context)
+Pivot (Abrupt, Intentional, Topic Shifting, Creative Opportunity)
+Cognitive Dimension (Passive Drift vs. Sudden Shifts in Memory)
+AI System Dimension (Context Loss vs. Redirection)
+Core Components (Input Spaces, Generic Space, Blended Space)
+Governing Principles (Topology, Integration, Pattern Completion)
+Mechanisms (Composition, Completion, Elaboration)
+Relation to Metaphor (CBT more general, uses CMT structures)
+AI as Temporal Palimpsest (Layered Memory)
+AI's Alien Intelligibility
+Latent Space as Semantic Field/Topology
+Prompting as Epistemic Navigation
+Architecting Breakthrough Content: Balancing Stability (CCH) and Discovery (CSD) in AI Systems

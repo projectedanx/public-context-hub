@@ -1,0 +1,67 @@
+Cognitive Frameworks for Biased Inference and Context Engineering
+Biased Bayesian Inference and Context Engineering
+<
+Biased Bayesian Inference
+<
+Context Engineering Pillars
+<
+Deterministic Engineering (CxEP)
+<
+Automated Prompt Optimisation (APO)
+<
+Advanced Reasoning Patterns
+<
+Exponential Bias Model
+<
+Inference Biases
+<
+Neural Implementation
+<
+Write (Externalise)
+<
+Select (Retrieve)
+<
+Compress (Distill)
+<
+Isolate (Partition)
+<
+Reliability Architectures
+<
+Verification Protocols
+<
+Interoperability
+<
+Evolutionary Strategies
+<
+Optimisation Methods
+<
+Chain-of-Thought (CoT)
+Tree-of-Thought (ToT)
+Chain-of-Code (CoC)
+Prior Weight (α)
+Likelihood Weight (β)
+Forgetting (α < 1)
+Stereotyping (α > 1)
+Rigidity (β < 1)
+Flexibility (β > 1)
+Probabilistic Population Coding
+Neural Integrators
+Scratchpads
+Long-term Memory
+RAG
+Knowledge Graphs
+Summarisation
+Context Trimming
+Multi-agent Systems
+Sandboxes
+Deterministic Funnel
+Fix Until Green Loop
+Design by Contract
+Semantic Entropy (Shame)
+Model Context Protocol (MCP)
+Bitemporal Context Graphs
+GAAPO
+DEEVO (Multi-Agent Debate)
+ZERA (Zero-init)
+Genetic Algorithms
+Reinforcement Learning

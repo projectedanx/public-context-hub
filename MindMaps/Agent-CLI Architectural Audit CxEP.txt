@@ -1,0 +1,146 @@
+Agent-CLI Architectural Audit: CxEP Framework for Robust Systems
+Architectural Audit of Stateful Agent & Stateless CLI Interaction (CxEP Framework)
+<
+Architectural Dichotomy (Jules Agent vs. Gemini CLI)
+<
+Context-to-Execution Pipeline (CxEP) Pillars
+<
+Failure Modes and Mitigation Strategies
+<
+Gemini CLI Architecture and Control
+<
+Strategic Recommendations for Robust Systems
+<
+Stateful Autonomous Agent (Jules)
+<
+Stateless Procedural Tool (Gemini CLI)
+<
+The Epistemic Gap (Core Conflict)
+<
+Pillar I: The Cognitive Contract (Advanced Prompt Engineering)
+<
+Pillar II: Executable Knowledge Bundle (Advanced Context Engineering)
+<
+Pillar III: The Governance Layer (Epistemic Engineering)
+<
+Critical Failure Modes
+<
+CxEP Integration Patterns
+<
+Self-Verification (Causal Faithfulness)
+<
+Dual Control Plane
+<
+Configuration Hierarchy (Highest to Lowest Priority)
+<
+Context Injection Artifacts
+<
+Observability and Debugging
+<
+Implement Output Harmonizer Layer
+<
+Develop Success Caching Mechanism
+<
+Formulate Preemption Heuristics (Delegation Boundaries)
+<
+Formalize the Cognitive Contract (GEMINI.md Schema)
+<
+Formalize Symbolic Scar Logging
+<
+Memory (Statefulness Foundation)
+<
+Planning (Cognitive Engine)
+<
+Action (Abstract Plan to Concrete Action)
+<
+Statelessness: Independent, Atomic Transactions
+Procedural Nature: Direct Command-Response Loop (REPL)
+Built-in Tools (Functionality)
+<
+Definition: Difference between Jules's persistent world model and CLI's amnesiac nature
+Result: Jules must manage CLI's state externally
+Risk: Reality Gap (Divergence between belief and ground truth)
+Reframes Prompting as a Discipline (Promptware Engineering)
+Defines Prompt-Blueprint (Formal/Binding Contract)
+Structure (PRP)
+<
+Grounding in Verifiable External Reality
+Advanced RAG Architectures Required
+Provenance-Stamped RAG (Mandatory Provenance Tagging)
+<
+Functions as System's Internal 'Clinical Audit'
+Reflexive Audit Loop (Continuous Monitoring)
+<
+Algorithmic Reparation (Learning Loop)
+<
+Confidence-Fidelity Divergence (CFDI)
+<
+Semantic/Typological Drift
+<
+Recursive Hallucination Loops
+<
+Xenolinguistic Risk (Schema Mismatch)
+<
+Provenance-Stamped RAG: Use metadata as citations
+Telemetry-Audit Loop: External service checks OpenTelemetry stream against rules
+Reflexive Repair Loop: Auto-inject corrective prompt on non-critical failure
+Escrow Mode Abort: Halt execution and save state if Source Provenance Ratio (SPR) drops below threshold
+Reject 'Assumed Success'
+Require dedicated validation step after every state-altering action
+Adopt 'Read-After-Write' semantic for critical operations
+Agentic Tool (@google/gemini-cli): ReAct Loop, Local Context, Debugging
+Infrastructure Tool (gcloud ai): Cloud SDK, Vertex AI Management, CI/CD
+Command-Line Flags (Highest Priority)
+Environment Variables (e.g., GEMINI_API_KEY, DEBUG_MODE)
+System settings.json (/etc/gemini-cli/)
+Project settings.json (./.gemini/)
+User settings.json (~/.gemini/)
+CLI Default Values (Lowest Priority)
+GEMINI.md: Hierarchical System Prompt Injection
+<
+Custom Slash Commands (.toml files): Reusable Agentic Workflows
+OpenTelemetry Integration (Native Support)
+<
+Core Flags: --debug, --verbose, --checkpointing
+Safety Override: --yolo (Bypasses confirmation prompts)
+Middleware governed by Semantic Contract
+Function: Schema Enforcement, Error Normalization
+Stores known-successful action sequences
+Optimizes efficiency vs. reliability trade-off
+If task requires Indeterminate Loop, Jules must manage
+If task requires Cross-Tool Dependency, Jules must orchestrate
+Encourage explicit Persona, Rules, Plan sections
+Structured analysis of failures (Root Cause, Corrective Action)
+Enables long-term systemic learning
+Short-Term Memory (STM): Immediate Workspace/Context Window
+Long-Term Memory (LTM): Persistent Knowledge Bank
+<
+Goal Definition & Decomposition
+Adaptive Planning (Flexibility/Recalibration)
+Generates precise commands for CLI
+File system ops (read_file, write_file)
+Shell commands (run_shell_command)
+Web resources (google_web_search, web_fetch)
+Persona: Defines Role/Expertise
+Rules (Explicit Constraints): Operational Guardrails
+Plan (CoT Scaffolding): Auditable Step-by-Step Logic
+Traceability (Origin, Timestamp, Author)
+Ensures claims link to sources
+Verification and Algorithmic Reparation
+Epistemic Escrow: Cognitive Circuit Breaker (Human Review)
+Logs errors as Symbolic Scar (Auditable trauma)
+Failure-Informed Prompt Inversion (F-IPI)
+Agent is confidently wrong
+Amplified by CoT (Obscures hallucination cues)
+Erosion of meaning over long interactions
+Typological: Deviation from format/syntax
+Caused by misinterpreting tool errors (e.g., write-fail-retry loop)
+Agent operates on false premise
+Agent output does not match tool's expected schema (e.g., object instead of string)
+Global Context (~/.gemini/GEMINI.md)
+Project/Ancestor Context (Layering Instructions)
+Provides full-fidelity tracing of ReAct Loop
+Configurable via settings.json and OTEL_EXPORTER_OTLP_ENDPOINT
+Episodic Memory (Past events)
+Semantic Memory (Facts/Rules)
+Procedural Memory (Learned skills)

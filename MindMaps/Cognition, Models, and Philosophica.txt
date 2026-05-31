@@ -1,0 +1,164 @@
+Cognition, Models, and Philosophical Debates in Society
+Knowledge, Understanding, and Models in Cognition and Society
+<
+The Nature of Knowledge and Understanding
+<
+Curiosity, Innovation, and Cognitive Drivers
+<
+Models and Modeling in Science and AI
+<
+Social and Philosophical Debates
+<
+Knowledge Definition
+<
+Knowledge Types
+<
+Understanding Definition
+<
+Knowledge vs. Wisdom
+<
+Epistemology (Theory of Knowledge)
+<
+Curiosity Mechanisms
+<
+Innovation Drivers
+<
+Innovation Leadership/Culture
+<
+Innovation Hierarchy (Maslow's Needs)
+<
+General Model Concepts
+<
+Types of Models (Scientific/Representational)
+<
+Conceptual Modeling (Complex Systems/AI)
+<
+Economic Modeling Examples (The Treasury)
+<
+Machine Learning Model Types
+<
+Argumentation and Dialogue
+<
+Fallacies
+<
+Political Philosophy Debates
+<
+Acquaintance with facts, truths, or principles
+Cognitive success establishing contact with reality
+Provides reasons for thinking or doing something
+Propositional (knowing that)
+Non-propositional
+<
+A priori / A posteriori
+Often distinct from knowledge (hot topic in philosophy)
+Involves grasping 'p because q' connections
+Can rely on approximations and idealizations (non-factive)
+Can be reduced by unwarranted inconsistency
+Knowledge is facts/erudition
+Wisdom is implied by context, relates to application (not explicitly defined)
+Branches (Scientific, Moral, Social, Historical)
+Structure of Knowledge
+<
+Value of Knowledge
+<
+Information-seeking (broader category)
+Elicited by information gap (Loewenstein's hypothesis)
+Maximized by moderate certainty (Region of Proximal Learning/RPL)
+Neural activity in caudate nucleus (reward anticipation)
+Fueled by curiosity (Einstein quote)
+Necessity is the mother of futile dodges (Whitehead critique)
+Goal is to create and diffuse new ideas
+Schumpeterian Model
+<
+Diffusion of Innovations Theory
+<
+Provide safe space for ideas (Accept failure)
+Allow team to determine the 'how'
+Psychological safety is strategic advantage
+Physiological (Vaccines, water purification)
+Safety (Cyber crime combat, disease diagnosis)
+Social belonging (Social media platforms)
+Esteem (Owning latest tech, online learning)
+Self-actualization (Rocket science, space travel)
+Tool for exploring implications of ideas
+Simplification of reality (abstraction)
+All models are wrong, but some are useful (Box's aphorism)
+Central goal is good generalizability
+Scale models (Naturalistic replica, icon)
+Idealized models (Deliberate simplification)
+<
+Analogue models
+Phenomenological models
+Theoretical models (e.g., in logic/semantic view)
+Abstracting reality for a particular domain
+Creates shared understanding across stakeholders
+Represented by multiple layers
+Tools/Languages
+<
+CGE (Computable General Equilibrium) Models
+Household Microsimulation Models (Equity/Distributional effects)
+OLG (Overlapping Generations) Models (Intergenerational issues)
+Macro-econometric Models (Forecasting, eclectic theory/data)
+Supervised Learning
+<
+Unsupervised Learning
+<
+Approximation Models
+Classification Models (e.g., Binary, Categorical)
+Prediction/Forecasting Models (Time series, future values)
+Forms of Dialogue
+<
+Toulmin Model of Argument (Seminal contribution)
+Pragma-dialectics (Rules for reasonable discussion)
+Socratic Method (Asking/answering questions to test consistency)
+Begging the question (Repetition, no reason given)
+Ignoratio elenchi / Irrelevant conclusion (Misdirection)
+Straw man (Distorting opponent's view)
+Ad verecundiam (Appeal to irrelevant authority)
+Pragma-dialectics views them as rule-breakings
+Ideal vs. Non-Ideal Theory
+<
+Liberalism vs. Perfectionism/Neutrality
+<
+Egalitarianism vs. Alternatives
+<
+Cosmopolitanism vs. Statism (Global Justice)
+<
+Democracy Value
+<
+Knowledge-how (skill, practical ability)
+Knowledge by acquaintance
+Foundationalism (Basic beliefs needed for justification)
+Coherentism (Beliefs mutually support each other)
+Instrumental (helps achieve goals)
+Guides action and expands understanding
+Innovation generates economic growth (endogenous)
+Expressed as 'Creative Destruction'
+Explains spread rate of ideas/technologies
+Adopter Categories (Innovators, Early Adopters, etc.)
+Aristotelian (Stripping away irrelevant properties)
+Galilean (Simplification not 'controlled')
+UML (Complicated software systems)
+ER (Clear visualization of entity relationships)
+Uses labeled data (Structured classification tasks)
+Examples: SVM (Support Vector Machines), Random Forest, Decision Trees
+Uses unlabeled data (Exploratory data analysis)
+Examples: K-Means Clustering, Autoencoders
+Deliberation / Negotiation (Collaborative decision-making)
+Eristic (Victory over opponent)
+Didactic (Teaching)
+Ideal theory ignores injustice to specify principles
+Non-ideal theory addresses real-world inequality
+Neutrality: Policies must not appeal to differing evaluative standards
+Perfectionism: State should promote worthwhile values/ideals
+Liberalism challenged for being excessively individualistic
+Egalitarianism focuses on comparative fairness
+Luck egalitarianism rectifies influence of luck
+Kekes' alternative: People deserve what they earn under reasonable rules
+Cosmopolitanism: Nationality is morally arbitrary
+Statism: Special obligations to compatriots
+Debate over whether justice principles apply globally or only within coercive states
+Instrumental (Justified by consequences)
+Non-Instrumental / Intrinsic (Collective autonomy, mutual sympathy)
+Democracy understood as organization, government mode, and culture
+The Spherical Cow Problem: How We Build, Break, and Believe Knowledge with Incomplete Facts
