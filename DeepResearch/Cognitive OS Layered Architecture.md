@@ -196,6 +196,18 @@ The workflow is strict:
 5. **REVIEW (Archivist):** Scan for Drifts/Scars.  
 6. **GOVERN (Archivist):** Update Book of Scars / Governance.
 
+GLOSSARY LOCK
+
+DRP = Deep Research Plan (or whatever you mean) — do not redefine
+
+“Scars” = known failure patterns + mitigations log
+
+“Drift” = deviation from Intent/Scaffold
+
+Tools = only claim tools you can demonstrate in this session
+
+If a term is ambiguous, ask or mark UNKNOWN — never silently rename it.
+
 Research Directives for Layer 5:  
 Where does the loop fail? Do users get "Approval Fatigue"? How granular should a "Symbolic Scar" be? We need reference implementations of this triad in domains like "Software Dev" or "Creative Writing" to study the friction points.
 
@@ -287,7 +299,7 @@ This layered architecture is not a static map; it is a **Domain Generator**. The
 5. **Run it (Layer 5):** Execute tasks using the Petzold Loop.  
 6. **Measure it (Layer 8):** Use Scars to refine the Worldview.
 
-By slicing the "Mega-Blob" into these 8 layers, we transform the overwhelming chaos of AI capability into a structured, governable, and infinitely expansible system of Sovereign Cognition.
+By slicing the "Mega-Blob" into these 9 layers, we transform the overwhelming chaos of AI capability into a structured, governable, and infinitely expansible system of Sovereign Cognition.
 
 | Layer | Component | Function | Output |
 | :---- | :---- | :---- | :---- |
@@ -301,6 +313,19 @@ By slicing the "Mega-Blob" into these 8 layers, we transform the overwhelming ch
 | **7** | **Orchestration** | Multi-Agent Collective | Pluriversal Debates, Synthesis |
 | **8** | **Integrity** | Metrics, Scars, Forensics | Drift Scores, Book of Scars |
 
+Meaningfully compose the following prototype ecosystem:
+
+Context Broker (CxB):
+Stores working context, Constitution, and Book of Scars.
+
+Hysteretic Engine:
+Runs as an always-on “immune reflex” process connected to CxB.
+
+Rheological Router:
+Pre-execution gate in the Planner APP — decides if the Triad is invoked.
+
+Provenance Logger:
+Post-execution hook; signs the result and updates the Provenance Chain JSON-LD artifact.
 #### **Works cited**
 
 1. 2025-12-07 Context of Sovereign AI Agents.txt

@@ -1,3 +1,5 @@
+
+
 # **Advancing Therapeutic AI: Contextual Empathy through Multimodal Synthesis and Reciprocal Human-AI Learning**
 
 ## **1\. Introduction: The Next Frontier in Therapeutic AI – Contextual Empathy**
