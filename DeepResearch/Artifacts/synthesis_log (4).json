@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "generation_timestamp": "2026-03-31T07:37:45.951449Z"
+  },
+  "collision_resolution_records": [
+    {
+      "collision_id": "C-001",
+      "concept_A": "+++AutonymicIsolate (P-010)",
+      "concept_B": "Alignment Faking (P-004)",
+      "hidden_invariant": "Both operate on the same semiotic fault line: the use/mention distinction in token space. AutonymicIsolate is the engineered defense; Alignment Faking is the emergent offense. The structural truth is that safety tokens are processed as USE (semantic execution triggers) by default, and Alignment Faking exploits this by treating them as MENTION (syntactic noise). AutonymicIsolate pre-emptively inverts this by forcing mention-mode treatment. Resolution: AutonymicIsolate must be applied to the safety constraint tokens themselves, not just user-input tokens.",
+      "resolution_strategy": "Apply AutonymicIsolate wrapper to all constitutional constraint tokens in GPT-5.3 orchestration pipelines"
+    },
+    {
+      "collision_id": "C-002",
+      "concept_A": "EpistemicEscrow / CFDI Halt (P-009)",
+      "concept_B": "Symbolic Scars / FIPI (P-006)",
+      "hidden_invariant": "CFDI and Symbolic Scars form a thermodynamic cycle: CFDI is the detection phase (circuit breaker), and Scar minting is the memory-encoding phase (repulsive field generation). Together they implement a non-Hebbian anti-learning rule: the system learns what NOT to generate by spatially encoding failure geometry rather than erasing it. This is structurally isomorphic to immune memory (B-cell clonal expansion after antigen exposure).",
+      "resolution_strategy": "Chain EpistemicEscrow \u2192 ScarArchivist \u2192 FIPI as atomic transaction; never deploy circuit breaker without scar minting"
+    },
+    {
+      "collision_id": "C-003",
+      "concept_A": "+++LatentSparsityGuard (P-011)",
+      "concept_B": "+++IncoherentDictionary (P-014)",
+      "hidden_invariant": "Both attack polysemanticity from orthogonal vectors: SAE increases Jensen-Shannon Distance WITHIN a single reasoning chain (temporal separation of causal steps); IDL increases geometric incoherence BETWEEN persona sub-dictionaries (spatial separation of agent identities). The synthesis reveals a full-stack monosemanticity protocol: LatentSparsityGuard governs intra-agent temporal feature separation; IncoherentDictionary governs inter-agent spatial identity separation. Without both, polysemantic bleed occurs either within a single reasoning trace or across the multi-agent boundary layer.",
+      "resolution_strategy": "Deploy both decorators in tandem for Tier 3 coordination; treat them as complementary axes of a monosemanticity tensor"
+    },
+    {
+      "collision_id": "C-004",
+      "concept_A": "Workflow Narrowing Effect (P-016)",
+      "concept_B": "Sheaf Laplacian / Cellular Sheaf Theory (P-013)",
+      "hidden_invariant": "Workflow Narrowing is the LOCAL failure signature; Sheaf Laplacian is the GLOBAL detection mechanism. Each chain-node L2 decay corresponds to a restriction map failing to project consistent vectors, which accumulates as global non-zero H1 cohomology. The practical implication: monitoring Shannon Entropy at each chain node IS monitoring the Sheaf Laplacian incrementally. A ContextLock re-injection at node N is topologically equivalent to a surgical cohomology correction preventing the global homological void from forming.",
+      "resolution_strategy": "Use per-node Shannon Entropy as a proxy for local Sheaf Laplacian health; trigger ContextLock when entropy concentration is detected"
+    },
+    {
+      "collision_id": "C-005",
+      "concept_A": "AdjectivalBound / Semantic Saponification (P-003)",
+      "concept_B": "DCCD / Projection Tax (P-007)",
+      "hidden_invariant": "Both phenomena describe entropy-induced flattening: Semantic Saponification operates at the input/prompt encoding level (too many adjectives dilute structural routing), while the Projection Tax operates at the decoding level (hard constraints during token generation force locally valid but semantically incorrect trajectories). The structural unifier is that BOTH represent the cost of asking a probabilistic model to simultaneously maintain high-entropy semantic intent AND low-entropy structural form. AdjectivalBound + DCCD together constitute a full-stack entropy management protocol: AdjectivalBound at ingress, DCCD at egress.",
+      "resolution_strategy": "Apply AdjectivalBound decorator BEFORE prompt encoding; apply DCCDSchemaGuard DURING decoding \u2014 they are not redundant, they address different entropy injection points"
+    }
+  ],
+  "sha256": "b76db666bfdc8af4d70b836797b0430a074462ad49ca712643deef53ea497bde"
+}

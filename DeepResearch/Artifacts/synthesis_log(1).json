@@ -1,0 +1,30 @@
+{
+  "generation_timestamp": "2026-03-28T09:07:26.852923Z",
+  "drp_id": "DRP-CGE-2026-004",
+  "collision_resolution_records": [
+    {
+      "collision_id": "CR-001",
+      "description": "Instagram optimal aspect ratio conflict: 4:5 (1080x1350) vs 3:4 (1080x1440)",
+      "thesis": "4:5 (1080x1350) is the longstanding standard and widely documented.",
+      "antithesis": "Late 2025/2026 Instagram feed shifted to preferring 3:4 (1080x1440) for maximum vertical coverage.",
+      "resolution": "Paraconsistent synthesis: TCGE agent defaults to 1080x1350 (4:5) for maximum cross-platform compatibility (IG + cross-post workflows), but exposes an `aspect_ratio_override` flag in carousel_payload_v1.json for operators who confirm IG-only distribution targeting 3:4.",
+      "pdl_applied": "+++CognitiveFilter(Paraconsistent_Lens='Contradiction -> Opportunity')"
+    },
+    {
+      "collision_id": "CR-002",
+      "description": "TikTok file size spec conflict: 100KB suggested vs 1920x1080 maximum resolution (implies >100KB at high quality)",
+      "thesis": "100KB is stated as the suggested maximum for TikTok carousel images.",
+      "antithesis": "At 720x1280px PNG with meaningful visual complexity, 100KB produces visible compression artifacts, harming the aesthetic fingerprint.",
+      "resolution": "The TCGE agent targets 100KB as a platform-optimized ceiling via WebP conversion with quality=88 as the default; the Spatial Canvas Calculator applies SSIM-guided compression to ensure visual fidelity before upload. The carousel_payload_v1.json stores both `raw_asset_path` and `compressed_asset_path`.",
+      "pdl_applied": "+++MereologyRoute(relation_type='Component-Object') + +++SpatialBind"
+    },
+    {
+      "collision_id": "CR-003",
+      "description": "Creative freedom vs schema determinism in JSON generation",
+      "thesis": "Forcing JSON output simultaneously with ideation causes a Projection Tax, degrading semantic reasoning.",
+      "antithesis": "Free-form drafts without schema enforcement produce API-breaking JSON hallucinations.",
+      "resolution": "DCCD (arXiv:2603.03305) resolves this via bifurcated inference. Phase 1 (THINK): unconstrained semantic draft; Phase 2 (COMPILE): draft-conditioned DFA-masked constrained decoding. This eliminates both failure modes simultaneously.",
+      "pdl_applied": "+++DCCDSchemaGuard(enforcement='draft_conditioned')"
+    }
+  ]
+}

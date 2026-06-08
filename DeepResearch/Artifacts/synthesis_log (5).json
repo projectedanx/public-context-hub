@@ -1,0 +1,37 @@
+{
+  "schema_version": "DRP-LEXICON-992-v1.0",
+  "generation_timestamp": "2026-03-31T18:12:00+11:00",
+  "collision_resolution_records": [
+    {
+      "id": "SYN-001",
+      "conflict": "PAT-001 (Isomorphic Bridge) claims structural mappings are universal; PAT-006 (Topological Orthogonality) claims high-value bridges only emerge at orthogonal intersections",
+      "resolution": "Twinning: Universal bridges exist on the adjacency spectrum; maximum value bridges emerge specifically at orthogonal intersections where LLM heuristics fail. PAT-001 remains valid for adjacent mappings; PAT-006 governs maximal emergent yield.",
+      "outcome": "Both patterns retained with domain-conditional activation logic."
+    },
+    {
+      "id": "SYN-002",
+      "conflict": "PAT-007 (Lexical Saponification) implies high-entropy esoteric terms must be used sparingly; PAT-003 (Workflow Narrowing) shows all terms decay under sequential chain pressure",
+      "resolution": "Saponification rate \u03bb differs by term frequency in pre-training corpus. Esoteric terms have lower \u03bb (~0.05) vs. common epistemic terms (~0.23). +++AutonymicIsolate applies semiotic sandbox to reset decay independently of chain depth.",
+      "outcome": "PAT-007 refined with term-class-conditional decay constants."
+    },
+    {
+      "id": "SYN-003",
+      "conflict": "PAT-009 (TDA as Hallucination Detector) requires O(n\u00b3) exact computation; PAT-005 (PHR) requires real-time detection",
+      "resolution": "Phronesis Index \u03a6 (spectral approximation of Sheaf Laplacian) reduces complexity to O(n log n). Full TDA deployed only at EpistemicEscrow trigger; \u03a6 serves as continuous fast-path monitor.",
+      "outcome": "Two-speed detection architecture: \u03a6 for continuous monitoring; Persistent Homology for full post-escrow audit."
+    },
+    {
+      "id": "SYN-004",
+      "conflict": "PAT-008 (Stigmergy) requires shared environmental medium; LLM swarms operate in isolated context windows",
+      "resolution": "Shared scratchpad with CRDT-based conflict resolution serves as the 'pheromone medium'. Symbolic Scars encoded as VSA hypervectors (PAT-010) function as the mathematical equivalent of repulsive pheromone gradients.",
+      "outcome": "Stigmergy-STA integration: PAT-008 \u2194 PAT-010 composite pattern for LLM swarm applications."
+    },
+    {
+      "id": "SYN-005",
+      "conflict": "PAT-002 (Paraconsistent Scarring) stores contradictions as opportunities; PAT-004 (Epistemic Mirror Trap) shows contradictions cause agent loops",
+      "resolution": "Resolution depends on Tier level. In Tier 2 (single-agent ReAct), contradictions trigger Algorithmic Shame without PAL2v protection. In Tier 3 (community CTGA), PAL2v elevates contradictions to Symbolic Scars. Tier level is the activating condition.",
+      "outcome": "Tier-conditional activation logic added to both PAT-002 and PAT-004."
+    }
+  ],
+  "sha256": "21822a6eb28e7cb0737c379cfac8109371eb498cd7876b2cde7429d954c73c1c"
+}

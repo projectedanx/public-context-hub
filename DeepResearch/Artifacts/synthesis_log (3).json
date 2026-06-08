@@ -1,0 +1,25 @@
+{
+  "schema_version": "KROMA-8_v4.5",
+  "generation_timestamp": "2026-03-29T05:11:00+11:00",
+  "collision_resolution_records": [
+    {
+      "conflict": "Nanite alpha-mask support",
+      "thesis": "Use Nanite for all geometry",
+      "antithesis": "Nanite incompatible with masked/translucent in UE5.4",
+      "synthesis": "Use Nanite for opaque geometry; fallback rasterizer for masked foliage; monitor Epic roadmap for masked Nanite support (ETA 2026)"
+    },
+    {
+      "conflict": "Neural textures vs BC7 ORM",
+      "thesis": "BC7 is optimal for real-time texture compression",
+      "antithesis": "NTBC/Neural BC achieves 70% storage reduction with modest overhead",
+      "synthesis": "BC7 ORM remains production standard for Q1 2026; Neural BC appropriate for memory-critical XR deployments on supporting hardware (DX12 cooperative vectors)"
+    },
+    {
+      "conflict": "TAA vs TSR for WPO-heavy scenes",
+      "thesis": "Enable TSR for maximum quality",
+      "antithesis": "TSR has higher baseline overhead (57ms contribution) and still requires velocity output on WPO",
+      "synthesis": "TSR preferred for cinematic mode; TAA with forced velocity output preferred for gameplay; TSR dramatically reduces Lumen+Nanite internal resolution cost offsetting its base overhead"
+    }
+  ],
+  "sha256": "d0f66f6dc5aa159ec3abd5a96ed24326e969ccea227581cd787677ce7022b7fe"
+}

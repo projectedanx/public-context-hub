@@ -1,0 +1,37 @@
+{
+  "artifact": "synthesis_log.json",
+  "generation_timestamp": "2026-03-27T05:07:00Z",
+  "sha256": "52956b77240e72e8003465195bf6019bc8c956f6ccdacc3862d759efbf91756d",
+  "collision_resolutions": [
+    {
+      "collision_id": "COLL-001",
+      "conflicting_patterns": [
+        "PAT-002 (Memory_Stasis: zero dynamic alloc)",
+        "PAT-006 (OTA_Dual_Bank: bootloader may need heap)"
+      ],
+      "conflict_description": "MCUboot / ESP-IDF OTA bootloader uses internal heap allocations during firmware verification (mbedTLS SHA-256 streaming). This appears to violate PAT-002.",
+      "resolution": "Scope PAT-002 to application firmware only (post-bootloader handoff). Bootloader heap use is bounded, single-phase, and not subject to long-running fragmentation. Document this as a PERMITTED_EXCEPTION with static buffer watermark assertion.",
+      "verdict": "ACCEPTED_WITH_SCOPE_RESTRICTION"
+    },
+    {
+      "collision_id": "COLL-002",
+      "conflicting_patterns": [
+        "PAT-001 (ISR_Constraint: no blocking in ISR)",
+        "PAT-005 (Volatile_Mandate: volatile for ISR-shared vars)"
+      ],
+      "conflict_description": "In Embedded Rust, volatile is not idiomatic. Using raw pointer volatile reads inside interrupt handlers conflicts with Rust's safe concurrency model (AtomicU32 preferred).",
+      "resolution": "Language-conditional rule: In C, enforce volatile. In Rust, enforce core::sync::atomic::{AtomicU32, AtomicBool} with Ordering::SeqCst or Ordering::Acquire/Release pair. Both satisfy the ISR determinism constraint.",
+      "verdict": "BIFURCATED_RULE_BY_LANGUAGE"
+    },
+    {
+      "collision_id": "COLL-003",
+      "conflicting_patterns": [
+        "PAT-003 (Concurrency_Lock: mutex all shared state)",
+        "PAT-001 (ISR_Constraint: no mutex from ISR)"
+      ],
+      "conflict_description": "Mutex cannot be acquired from ISR context. Using xSemaphoreTake from ISR causes undefined behavior in FreeRTOS.",
+      "resolution": "ISR-to-task communication must use xQueueSendFromISR or xSemaphoreGiveFromISR exclusively. Mutex is application-task-to-application-task only. ISR acts as a producer; task acts as consumer/mutex holder.",
+      "verdict": "ARCHITECTURAL_CONSTRAINT \u2014 ISR Communication Pattern enforced"
+    }
+  ]
+}

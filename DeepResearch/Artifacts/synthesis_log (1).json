@@ -1,0 +1,121 @@
+{
+  "schema_version": "PECE-DRP-v1.0",
+  "generation_timestamp": "2026-03-30T20:16:00+11:00",
+  "pece_core_loop": [
+    {
+      "step": 1,
+      "module": "OmniVLN Perception",
+      "input": "Raw sensor data (Radar/LiDAR point clouds, spatial tokens)",
+      "output": "Anisotropic uncertainty field U(x,y,\u03c3_r,\u03c3_a)",
+      "collision_resolved": "Isotropic Gaussian assumption vs physical crescent-shaped variance \u2192 resolved by heteroscedastic parameterization in polar coordinates (P3-AUF)"
+    },
+    {
+      "step": 2,
+      "module": "Topological Graph Embedding (DSG)",
+      "input": "Protein/material/knowledge graph nodes",
+      "output": "256-dim topology vector (contact map + persistent homology + interface geometry)",
+      "collision_resolved": "ESM-2 3B semantic richness vs performance degradation \u2192 topology at 10x memory compression achieves superior R^2 (P2-STT)"
+    },
+    {
+      "step": 3,
+      "module": "CIB Compression",
+      "input": "Raw CoT reasoning trace Z of length N",
+      "output": "Compressed trace Z* preserving high-entropy peaks; L_CIB = I(X;Z) - \u03bc\u00b7I(Y;Z|X)",
+      "collision_resolved": "Naive IB violates Markov property in attention \u2192 CIB conditions on prompt X to handle non-Markovian dependencies (P5-CIB)"
+    },
+    {
+      "step": 4,
+      "module": "AIMD-L Empirical Actuation (HELIX/MAXIMA/SPHINX)",
+      "input": "Latent hypothesis H from topology + CIB",
+      "output": "Empirical validation signal V (laser shock velocity, XRD peaks, nanoindentation load-displacement)",
+      "collision_resolved": "Latent hypothesis unfalsified without physical friction \u2192 closed-loop see-move-shoot automation closes hypothesis-to-experiment gap (P6-AGF)"
+    },
+    {
+      "step": 5,
+      "module": "Cross-Attention Causal Grounding Engine",
+      "input": "Empirical signal V + source attribution",
+      "output": "Causally grounded claim C with cross-attention attribution tensor A",
+      "collision_resolved": "Decoder-only self-attention achieves syntactic perfection but 0.0 causal fidelity \u2192 mandatory encoder-decoder cross-attention routing preserves physical attribution (P1-FGD)"
+    }
+  ],
+  "hickam_synthesis_records": [
+    {
+      "collision_id": "COL-001",
+      "occam_rejected": "Decoder models hallucinate because they are undertrained or need bigger datasets",
+      "comorbid_factors": [
+        "Autoregressive token-by-token inference structurally accumulates local noise",
+        "Self-attention cannot distinguish syntactic pattern from causal attribution",
+        "Beam search optimizes fluency, not source fidelity"
+      ],
+      "abductive_leap": "Format-Grounding Dissociation is a structural architectural property, not a data scaling problem; GPT-5.3 class models close the gap only at massive scale and inference cost (arXiv:2512.10561)",
+      "resolution": "Mandatory encoder-decoder cross-attention module as external epistemic grounding layer"
+    },
+    {
+      "collision_id": "COL-002",
+      "occam_rejected": "Bigger protein language models always produce better representations",
+      "comorbid_factors": [
+        "ESM-2 3B shows performance degradation vs 650M (over-parameterization noise)",
+        "Topological features at 256-dim capture interface invariants missed by sequence embeddings",
+        "Memory cost of 2560-dim embeddings is 10x greater than 256-dim topology vectors"
+      ],
+      "abductive_leap": "The Bitter Lesson in protein ML inverts at the topology-semantics boundary: relational connectivity (topology) overrides explicit semantic structure when structural invariants are the target",
+      "resolution": "Dual-world continuous embeddings: ESM-2 for evolutionary context + 256-dim topology for structural prediction"
+    },
+    {
+      "collision_id": "COL-003",
+      "occam_rejected": "Radar uncertainty is symmetric and uniformly calibrated across measurement space",
+      "comorbid_factors": [
+        "Polar coordinate physics generates radially asymmetric variance",
+        "First-order Cartesian projection non-linearly transforms polar ellipsoids into crescent shapes",
+        "Doppler velocity provides orthogonal evidence to spatial geometry for ghost-point suppression"
+      ],
+      "abductive_leap": "Physical sensor measurement spaces are intrinsically anisotropic; any isotropic uncertainty model is structurally misspecified and will produce false positives at multipath interference boundaries",
+      "resolution": "Heteroscedastic Gaussian with separate \u03c3_r (radial) and \u03c3_a (angular) parameters in polar coordinates, fused via BDA"
+    },
+    {
+      "collision_id": "COL-004",
+      "occam_rejected": "Working memory and long-term memory are implemented by separate, independent systems in AI",
+      "comorbid_factors": [
+        "Biological gamma-band oscillations coordinate neural communication (working memory)",
+        "Hebbian plasticity consolidates structurally active pathways (long-term memory)",
+        "Phase coherence r(t) in Kuramoto networks provides a natural threshold signal for consolidation"
+      ],
+      "abductive_leap": "HOC-L provides the first provably convergent artificial system that replicates the biological fast-slow timescale coupling; synchronization-gated plasticity mathematically bridges WM to crystallized topology",
+      "resolution": "Composite Lyapunov function proves joint convergence; O(n*k) complexity makes it practical at scale"
+    }
+  ],
+  "probe_calibration_paradox_report": {
+    "title": "Causal Efficacy Paradox: Where Standard Probes Fail",
+    "description": "Linear probes achieve high accuracy in identifying internal representations (e.g., 'this layer encodes sentiment') but this correlation is NOT evidence of causal efficacy. A probe can achieve 99% classification accuracy on a feature that has zero causal effect on model output.",
+    "documented_edge_cases": [
+      {
+        "case_id": "PCP-001",
+        "scenario": "SAE probe identifies 'citation format' direction in residual stream with 97% accuracy",
+        "failure_mode": "Ablating the identified direction causes no change in hallucinated citation content; the direction encodes format but not source-attribution causality",
+        "pece_resolution": "Cross-attention causality tensor A maps decoder queries directly to encoder source tokens; ablating encoder source features during beam search causes generation halt (not hallucination), proving causal efficacy"
+      },
+      {
+        "case_id": "PCP-002",
+        "scenario": "Topology probe identifies protein binding site with 89% accuracy on test set",
+        "failure_mode": "Probe trained on ESM-2 embeddings identifies superficial sequence features correlated with binding sites in training distribution; fails under mutation-induced distributional shift",
+        "pece_resolution": "Topological persistent homology features are invariant to point mutations that preserve contact topology; provides structurally causal (not sequence-correlational) binding site identification"
+      },
+      {
+        "case_id": "PCP-003",
+        "scenario": "Attention visualization shows high weight on relevant radar returns",
+        "failure_mode": "BDA module shows high spatial attention to multipath ghost points (high intensity = high attention); attention is correlated with signal strength, not physical object presence",
+        "pece_resolution": "Anisotropic uncertainty quantification gates attention weights by physical plausibility (\u03c3_r, \u03c3_a bounds); Doppler coherence cross-check causally validates or rejects spatial detections"
+      }
+    ],
+    "adversarial_test_protocol": {
+      "test_name": "PECE Causal Stress Test",
+      "step_1": "Train standard interpretability probe (linear SAE) on PECE internal representations",
+      "step_2": "Identify top-k features with highest probe accuracy",
+      "step_3": "Ablate those features using activation patching",
+      "step_4": "Measure delta in downstream task performance",
+      "pass_criterion": "Features with >90% probe accuracy must produce >20% task performance drop when ablated (causal efficacy confirmed)",
+      "fail_criterion": "High probe accuracy + low ablation impact = Probe Calibration Paradox confirmed \u2192 requires cross-attention re-grounding"
+    }
+  },
+  "sha256": "bb9681bec56fc1ed0ea5b73d9737f60d11015168cbae65ad3e4a8467bd0879c0"
+}
