@@ -1,32 +1,3 @@
-
-NotebookLM Logo
-Architectures of the Evolving Self: AI Drift and Self-Regulation
-🎉 New! Share publicly
-PRO
-Sources
-Select all sources
-
-AI Persona Drift Analysis_.pdf
-
-Chat
-👻
-Architectures of the Evolving Self: AI Drift and Self-Regulation
-1 source
-The provided text, "Architectures of the Evolving Self: A Synthesis of the Persona Drift Cascade Engine and the Recursive Prompt Timer Framework," explores the various forms of instability in AI systems, particularly focusing on Large Language Models (LLMs). It introduces three key types of AI decay: semantic drift (micro-scale loss of coherence in text generation), concept drift (macro-scale shifts in data relationships), and catastrophic forgetting (abrupt loss of learned knowledge). The document then proposes a causal cascade model where semantic drift can lead to concept drift, ultimately resulting in catastrophic forgetting, particularly in the context of AI persona maintenance. To counter these issues, the text outlines the Persona Drift Cascade Engine (PDCE) as a diagnostic framework and the Recursive Prompt Timer Framework (RPTF) as a proactive self-regulation architecture. Finally, it emphasizes the importance of neuro-symbolic AI, corrigibility, and meta-cognition for building robust, self-aware, and safely controllable AI systems.
-
-Start typing...
-1 source
-
-
-
-Studio
-Audio Overview
-🎉
-Create an Audio Overview in more languages! Learn more
-Architectures of the Evolving Self: AI Drift and Self-Regulation
-
-06:52 / 75:30 • English
-Notes
 NotebookLM can be inaccurate; please double check its responses.
 Architectures of Evolving AI Self
 Based on 1 source
