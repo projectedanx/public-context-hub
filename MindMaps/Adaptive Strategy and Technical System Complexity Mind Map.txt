@@ -1,0 +1,123 @@
+Adaptive Strategy and Technical System Complexity
+Complexity, Strategy, and Technical Systems
+<
+Complex Adaptive Systems (CAS)
+<
+Computational & System Complexity
+<
+Service-Dominant (S-D) Logic
+<
+Needs and Human-Centric Systems
+<
+Characteristics
+<
+Key Concepts
+<
+Application Domains
+<
+Computational Complexity Theory
+<
+Dynamic Systems Complexity
+<
+System Robustness
+<
+Core Concepts & Transitions
+<
+Ecosystem Focus
+<
+Impact (Innovation & Design)
+<
+Needs Assessment & Planning
+<
+Needs Classification (AI Context)
+<
+AI Systems and Bias
+<
+Vulnerability and Resilience (Climate Narratives)
+<
+Non-Linearity & Unpredictability
+Adaptive Behavior (Learning from experience)
+History Dependence
+Coevolution (Mutual cause and effect)
+Edge of Chaos
+<
+Emergence
+<
+Control
+<
+Organizations & Management
+<
+Economics and Finance
+Social Sciences (Crowds, networks)
+Classifies problems by inherent difficulty
+Time Complexity (Big O notation)
+Complexity Classes
+<
+Non-Linear Relationships
+Chaos (Sensitive dependence on initial conditions)
+Control Theory Concepts
+<
+Network Complexity (Driver nodes)
+CAS Perspective (Resilience)
+<
+Control Theory Perspective
+<
+Shifts from co-production to co-creation of value
+Actors are Resource Integrators
+Focus from dyads to networks/ecosystems
+Value through holistic experience
+5 Axioms (Reduced from 8-11 FPs)
+Service Ecosystem Definition
+<
+Coherence in Systems
+<
+Strategy Origin
+<
+Foundation for service science
+Explaining discontinuous innovations
+Design for Service (Interpreting user experience)
+Identify critical population health issues/needs
+Inform investment and shared strategies
+Characterizing needs in health care priority setting
+For AI (Understanding needs for system use)
+Through AI (Co-constructing needs-aware systems)
+By AI (Using AI to understand needs satisfaction, e.g., needs-mining)
+Stereotypical biases induced by socio-demographic personas
+Role-play increases harmful outputs
+Agree Bias (Tendency to agree with true/false content)
+Need for pluralist/inclusive approach
+Vulnerability: Susceptibility to climate-related harm
+Resilience: Capacity to absorb and recover from shocks
+Indicators Classified by LLMs: Exposure, Sensitivity, Adaptability, Temporal, Functional, Spatial
+Definition: Bounded instability
+Optimal for creativity, learning, and adaptation
+Balance: Limited structure + Extensive communication
+Spontaneous appearance of new patterns
+Cannot be predicted from individual components
+Self-Organization
+Distributed Control (Local knowledge/conditions)
+Strategy should be emergent/adaptive
+Planning shifts from fixed outcome to living plan
+Reconciles adaptation vs. population ecology
+P (Polynomial Time) - Tractable
+NP (Nondeterministic Polynomial Time) - Checkable in polynomial time
+EXP (Exponential Time) - Intractable
+NP-Complete (NP-C)
+Controllability (Steering system to desired state)
+Observability (Measuring system state)
+Dynamical Instability (e.g., bullwhip effect)
+Maintain fundamental characteristics despite perturbations
+Ability to Withstand Change
+Decoupled Structures (Flexibility)
+Homeostasis in Chaos (Bounded behavior)
+Reliable performance despite imperfect knowledge
+Tolerance to Uncertainty (Nominal model error)
+Handling Constraints (MPC, anti-wind-up)
+Adaptive Control (On-line identification)
+Self-contained, self-adjusting systems
+Resource-integrating actors
+Mutual value creation through service exchange
+Collaboration and Mediation
+Common Objectification (Transfer individual knowledge to material form)
+Institutional Work (Maintenance/Disruption of arrangements)
+Coevolution with Environment

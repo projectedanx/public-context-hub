@@ -1,0 +1,452 @@
+Mind map
+Advanced Image Generation and Visualisation Concepts
+Advanced Image Generation Concepts
+<
+Refurl.world Branding & Visual Metaphors
+<
+Microsoft Designer Prompting
+<
+Generative AI Models & Image Synthesis
+<
+Advanced Rendering Techniques
+<
+Image Enhancement & Super-Resolution
+<
+Photography Concepts & Equipment
+<
+Artistic Styles & Themes
+<
+Advanced Visual Effects & Simulation
+<
+Core Function
+<
+Visual Metaphors
+<
+Design Elements
+<
+Logo Design Prompts
+<
+Conceptual Designs
+<
+Core Principles
+<
+Prompt Structure
+<
+Advanced Techniques
+<
+Photography Principles
+<
+Key Models
+<
+Image Generation Tasks
+<
+Evaluation & Detection
+<
+Challenges & Limitations
+<
+Global Illumination (GI)
+<
+Ray Tracing
+<
+Volume Rendering
+<
+Procedural Rendering
+<
+Splat Rendering
+<
+Texture-Based Rendering
+<
+Wireframe Rendering
+<
+Distributed Rendering
+<
+Real-time Rendering
+<
+Deep Learning Rendering
+<
+Hybrid Models
+<
+Techniques
+<
+Models/Algorithms
+<
+Metrics
+<
+Camera Types
+<
+Lenses & Focal Lengths
+<
+Settings & Techniques
+<
+Lighting
+<
+Post-Processing Effects
+<
+Artistic Styles
+<
+Artistic Themes
+<
+Character Archetypes
+<
+Lighting & Reflection
+<
+Texture & Material
+<
+Motion & Dynamics
+<
+Depth & Volume
+<
+Advanced Physics & Simulation
+<
+Microscopy & Data Visualization
+<
+Spatial Data & Environments
+<
+Facilitator of Referrals
+Dynamic Network of Users
+Global Reach (Globe)
+Organic Growth (Tree)
+Complex Network/Data Flow
+Color Gradient
+Glowing Elements
+Arrow Icons (Direction/Flow)
+Target Icon (Goals/Precision)
+Compass-Globe Fusion
+Wireframe Globe
+Infinity Symbol
+Minimalist Compass Rose
+Geometric Low-Poly World Map
+Holographic Solar System
+Cyber Lotus
+Data Vortex
+Linked Chain (Strength/Unity)
+Specificity & Detail
+Clear Grammar
+Avoid Ambiguity
+Iterative Refinement
+Initial Context
+Subject Focus
+Environment & Background
+Perspective & Composition
+Rendering Details & Technical Aspects
+High Dynamic Range (HDR)
+CIELAB Color Space
+Adaptive Lighting
+Multi-pass Hyper-detailing
+Storyline-aware Rendering
+Prompt Suggestions & Auto-completion
+Style Presets & Quick Effects
+Post-Generation Editing Tools
+Camera Settings (ISO, Shutter, Aperture)
+Lens Types (Wide-Angle, Telephoto, Macro)
+Lighting (Natural, Artificial, Directional)
+Generative Adversarial Networks (GANs)
+Diffusion Models (DMs/DDPMs)
+Neural Radiance Fields (NeRFs)
+3D Gaussian Splatting (3DGS)
+StyleGAN
+PixArt-Σ
+Latent Diffusion Models (LDM)
+Face Synthesis
+3D Echocardiography Synthesis
+Defective Epoxy Drop Generation
+Story Visualization
+Zero-Shot Generative Model Adaptation
+Cloud Removal (Satellite Images)
+Food Quality Control (Apples)
+Image Inpainting
+Face Mask Removal
+Sketch-to-Face Translation
+Hyperspectral Image Super-Resolution
+Detecting AI-Generated Images
+Generalization Ability
+Robustness
+Frequency Domain Analysis
+Rarity Score Metric
+Human Visual Performance Comparison
+Generalization Across Models
+Mode Collapse
+Adapting to New Characters/Scenes
+Layout Revision Flexibility
+Privacy Issues (Medical Imaging)
+Data Scarcity (Medical Imaging)
+Radiosity
+Photon Mapping
+Realistic Reflections
+Indirect Lighting
+Clouds
+Fog
+Smoke
+Light Scattering
+Infinite Textures
+Fractal Geometry
+Point Cloud Visualization
+Abstract Art
+Mapping Textures onto Geometry
+Architectural Rendering
+Debugging 3D Models
+Stylized Graphics
+Multiple Machines for Load Sharing
+Anti-aliasing
+Super-resolution (DLSS, NSS)
+Rasterization
+DLSS
+NSS
+Neural Graphics Pipeline
+Combining Neural & Traditional Models
+Super-Resolution (SR)
+Upscaling (AI/8K)
+Denoising
+Image Restoration
+HDR Reconstruction
+Texture Reconstruction (NATR)
+Edge-Preserving Upscaling (EPAU)
+Subpixel Edge Refinement (SER)
+Motion Blur Correction (MBC)
+ESRGAN
+SwinIR
+DeeDSR
+HoloSR
+NeRF-DLSS-4
+PixArt-Σ
+DMV3D
+DiSR-NeRF
+PASTA Refinement
+Adaptive 3DNNR
+CMSR
+NeuroPictor
+Iterative Token Evaluation & Refinement (ITER)
+Partial Diffusion Model (PartDiff)
+SRFlow (Normalizing Flow)
+DualSR
+QuanTexSR
+DiffCR
+DMResNet
+PSRGAN
+HRFGAN
+EDSRGAN
+SingGAN
+PHDiffusion
+CoReGAN
+PSNR
+SSIM
+LPIPS
+UQI
+VIF
+FID
+DSLRs
+Mirrorless Cameras
+Medium Format Cameras
+Time-of-Flight (ToF) Sensors
+Dual-Lens Stereoscopic
+Hyperspectral Cameras
+Wide-Angle (14-35mm)
+Standard (35mm)
+Prime (50mm, 85mm)
+Telephoto (70-200mm, 300mm+)
+Macro Lenses (100mm+)
+Fisheye Lenses
+Laowa Probe Lens
+Anamorphic Lens
+Aperture (f-stop)
+Shutter Speed (Slow, Fast, Bulb Mode)
+ISO
+Depth of Field (Shallow, Deep)
+Selective Focus
+Motion Blur (Subject, Camera Movement)
+Long Exposure
+Time-Lapse
+HDR (High Dynamic Range)
+Focus Stacking
+Multi-Image Noise Reduction
+Panning
+Candid Photography
+Remote Camera Traps
+Silent Shooting
+Natural Light (Golden Hour, Moonlight)
+Artificial Light (Off-Camera Flash, Softbox)
+Directional Lighting
+Backlighting
+Chiaroscuro
+Polarized Light
+Fluorescence Filters
+Selective Color
+Split Toning
+Soft Focus
+Double Exposure
+Film Grain Simulation
+Color Grading
+Realism (Hyper-realism, Photorealism)
+Surrealism (Classic, Modern)
+Futurism
+Nanopunk
+Atompunk
+Steampunk
+Cyberpunk
+Gothic
+Art Deco
+Art Nouveau
+Cubism
+Impressionism
+Pointillism
+Watercolor
+Oil Painting
+Pencil Sketch/Graphite Drawing
+Ink Wash Flow
+Anime/Manga
+Cartoonish
+Abstract
+Glitch Art
+Op Art
+Fantasy (High Fantasy, Urban Fantasy)
+Sci-Fi Futurism
+Post-Apocalyptic/Dystopian
+Historical (Medieval, Renaissance)
+Mythical Creatures (Dragons, Phoenixes)
+Elemental (Earth, Wind, Water, Fire)
+Hybrid Creatures
+Robotics
+Nature & Wildlife
+Urban Landscapes
+Food Photography
+Fashion Editorial
+Abstract Concepts (Love, Modality)
+Sports/Action
+Deep Sea Halloween
+Stairway to Heaven
+Witchcraft
+Ballet
+Mystical Dream
+Savage in the Jungle (Humanoid Animals)
+Sleeping Animals (Unusual Pairings)
+Superhero/Villain
+Alien/Xenomorph
+Gods (Greek, Norse, Egyptian)
+Witch
+Clown
+Samurai/Warrior
+Noir Detective
+Cowboy/Gunslinger
+Ballerina
+Jester/Puppet
+Scarecrow
+Demons
+Goro (Mortal Kombat)
+Ray-Traced Cosmic Glow Diffusion (RTCGD)
+Luminous Particle Scattering (LPS)
+Specular Highlight Mapping (SHM)
+Anisotropic Surface Reflection Optimization (ASRO)
+Neural-Based Light Diffusion (NBLD)
+Quantum Surface Tension Simulation (QSTS)
+Adaptive Light Bending Algorithms (ALBA)
+Thermal Expansion Rendering (TER)
+Refraction Tracing Algorithms (RTA)
+Dynamic Caustics Rendering (DCR)
+Subsurface Scattering (SSS)
+Dynamic Emission Shaders (DES)
+Environmental HDR Lighting (EHL)
+Volumetric Light Scattering (VLS)
+Moonlight Scattering (MS)
+Caustic Wave Simulation (CWS)
+Specular Reflection Models (SRM)
+Caustic Light Reflection (CLR)
+Ray-Traced Holographic Projection (RTHP)
+Adaptive Glow Diffusion (AGD)
+Radiance Diffusion Layers (RDL)
+Harmonic Illumination Mapping (HIM)
+Photon Scatter Rendering (PSR)
+Electromagnetic Spectrum Colors
+Visible Light Hues (Warm, Cool, Neutral)
+Quantum Nebular Mapping (QNM)
+Gravitational Displacement Dynamics (GDD)
+Nano-Texture Reflection Mapping (NTRM)
+Subsurface Material Transparency (SMT)
+Anisotropic Texture Stretching (ATS)
+Micro-Tessellation Algorithms (MTA)
+Subpixel Displacement (SPD)
+Noise Reduction Algorithms (NRA)
+Volumetric Texture Modeling (VTM)
+Procedural Texture Mapping (PTM)
+Subpixel Detail Mapping (SDM)
+Microtexture Depth Rendering (MDR)
+Adaptive Reflection Rendering (ARR)
+Dynamic Nanobot Simulation (DNS)
+Surface Wave Simulation (SWS)
+SSIM (Structural Similarity Index Mapping)
+Procedural Fabric Physics
+Global Illumination Path Tracing
+Subpixel Starfield Rendering
+High-Resolution Denoising
+Fractal Noise Mapping
+Subpixel Thread Simulation (STS)
+Ray-Traced Material Synthesis (RTMS)
+Microfiber Dampness Detection (MDD)
+Organic Surface Mapping (AOSM)
+Chitin Armor
+Metallic Armor
+Liquid Textures
+Chroma Dimensions
+Hybrid Vortex Particle Dynamics (HVPD)
+Dynamic Tread Morphology (DTM)
+Volumetric Plasma Emission Synthesis (VPES)
+Spatiotemporal Tire Deformation Mapping (STDM)
+Dynamic Plasma Emission Simulation (DPES)
+Inverse Particle Physics (IPP)
+Cloth Simulation Algorithms (CSA)
+Strand-Based Physics Simulation (SBPS)
+Dynamic Hair Simulation (DHS)
+Motion Vector Field Interpolation (MVFI)
+Motion Blur Algorithms (MBA)
+Real-Time Physics Simulations (RTPS)
+Particle Motion Algorithms (PMA)
+Motion Blur
+Temporal Distortion Simulation (TDS)
+Dynamic Glass Fragment Rendering (DGFR)
+Rain Particle Suspension (RPS)
+Optical Flow Interpolation
+Adaptive Motion Interpolation (AMI)
+Wavelet Diffusion Models (Dynamic Water Spiral Detailing)
+Multi-Layered 5D Depth Mapping (ML5DDM)
+Depth-of-Field Rendering (DOFR)
+Dynamic Depth Layering (DDL)
+Displacement Mapping (DM)
+Volumetric Lighting (VL)
+Monochrome Depth Shading (MDS)
+Depth-Aware Super-Resolution (DASR)
+NeRF-guided Depth Fields Rendering
+3D Radiance Fields
+Volumetric Burst Rendering (VBR)
+Volumetric Fog Simulation (VFS)
+Depth Map Extraction
+Recrusive Depth Fields (RDF)
+Quantum Surface Tension Simulation (QSTS)
+Real-Time Aerodynamic Pressure Adaptation (RTAPA)
+Dynamic Tread Morphology (DTM)
+Hydrodynamic Particle Simulation (HPS)
+Soft-Body Physics Simulation (SBPS)
+Fluid Viscosity Algorithms (FVA)
+Real-Time Physics Simulations (RTPS)
+Inverse Particle Physics (IPP)
+Strand-Based Physics Simulation (SBPS)
+Dynamic Hair Simulation (DHS)
+Temporal Distortion Simulation (TDS)
+Dynamic Glass Fragment Rendering (DGFR)
+Rain Particle Suspension (RPS)
+Volumetric Fire & Smoke Diffusion (VFSD)
+Water-Based Light Warping (WBLW)
+Procedural Masquerade Silk Rendering (PMSR)
+Dynamic Rock Particle Simulation (DRPS)
+Polarized Light Microscopy
+X-Ray Crystallography
+Atomic Force Microscopy (AFM)
+Fluorescence Microscopy
+Super-Resolution Microscopy
+Stitched Panoramic Microscopy
+360-Degree HDR Panoramas
+HDR Texture Generation
+Drone Imagery (Aerial Photogrammetry, 3D Terrain Modeling)
+Virtual Production & LED Volume Technology
+Augmented Reality (AR) & Real-Time Compositing
+Stereoscopic 3D Imaging & VR Content
+NotebookLM can be inaccurate; please double-check its responses.
+Thinking…

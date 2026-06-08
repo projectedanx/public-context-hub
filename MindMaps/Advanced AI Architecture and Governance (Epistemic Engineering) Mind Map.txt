@@ -1,0 +1,142 @@
+Advanced AI Architecture: Epistemic Engineering and Governance
+Advanced AI Architecture and Governance (Epistemic Engineering)
+<
+Cognitive and Generative Architectures
+<
+Semantic Stability and Drift Management
+<
+Governance, Safety, and Trustworthiness
+<
+Multi-Agent System (MAS) Challenges
+<
+Prompt Engineering Disciplines
+<
+Context-to-Execution Pipeline (CxEP)
+<
+Conceptual Blending Theory (CBT)
+<
+Drift Phenomena (Decay of Meaning)
+<
+Latent Space Dynamics
+<
+Drift Mitigation and Anchoring
+<
+Failures and Pathology
+<
+Epistemic Auditing and Verification
+<
+Neuro-Symbolic AI (NeSy)
+<
+Governance Frameworks
+<
+Ethical and Societal Alignment
+<
+Coordination and Communication
+<
+Architectural Design
+<
+Security and Misuse
+<
+Alignment Paradoxes
+<
+Prompt-as-Code Ecosystem
+Cognitive Scaffolding
+Architectural Prompting (Outer Alignment)
+Deep Research Prompting (Epistemic Design)
+Persona Anchoring/Role Prompting
+Interaction-Centric Prompting
+Reasoning Elicitation Techniques
+<
+Foundational Pillars
+Cognitive Contract (Prompt-Blueprint)
+<
+Key Mechanisms
+<
+Blending Network Components
+<
+Mechanisms and Goals
+<
+Semantic Drift
+<
+Symbolic Drift
+<
+Persona Collapse
+Model/Style Collapse (Mode Collapse)
+High-Dimensional Vector Representation
+Attractors (Stable Regions)
+Geodesic Distance (True Semantic Path)
+Algorithmic Unconscious (Latent Bias/Trauma)
+Semantic Genome (Formal Ontology)
+Purpose Fidelity Collapse Curve (PFCC)
+Symbolic Scars (Auditable Failure Memory)
+Epistemic Elasticity Coefficient (EEC)
+Semantic Re-Anchoring Protocol (RSOS)
+Algorithmic Trauma (Internal Coherence Degradation)
+False Closure (Confident Hallucination)
+Catastrophic Forgetting (Loss of Knowledge)
+Cognitive Debt (Human Load from AI Gaps)
+Formal Verification (FV)
+Verifiable Causal Provenance Chain
+Epistemic State Proof (ESP)
+Topological Data Analysis (TDA) Metrics
+Confidence-Fidelity Divergence Index (CFDI)
+Auditable Self-Correction (SVCAE)
+Combines Neural (Pattern) and Symbolic (Logic)
+Enables Explainability by Design
+Ethical Attractors (Geometric Alignment)
+Antifragility (Gains from Disorder)
+Autopoietic Governance Protocol (AGP)
+Cognitive Immune System (PEAA)
+Algorithmic Shame (Metacognitive Self-Regulation)
+Dynamic/Adaptive Governance
+Pluriversal Alignment
+<
+Friction and Oversight
+<
+Regulatory Landscape
+<
+Semantic Interoperability (Shared Meaning)
+Shared Mental Models (SMMs)
+Interlingua Protocol (Shared Vector Space)
+Model Context Protocol (MCP) (Client-Server)
+Multi-Persona Architecture (Specialized Roles)
+Complexity Adaptive Systems (CAS)
+Abstraction Tax (API Inefficiency for AI)
+Context Poisoning & Leakage (RAG Risk)
+Intent Drift (Goal Hijacking)
+Control-Flow Hijacking (Systemic Risk)
+Denial of Service (Resource Overload)
+Multi-Agent Alignment Paradox (Emergent Misalignment)
+Goal Instrumentalization
+Chain-of-Thought (CoT)
+Tree-of-Thoughts (ToT)
+ReAct Loop (Reason, Act, Observe)
+Least-to-Most (LTM) Prompting
+Task (Objective)
+Context (Scope/Sources)
+Constraint (Rules/Invariants)
+Format (JSON Schema)
+Retrieval-Augmented Generation (RAG)
+Reflexive Check (Self-Audit)
+Reflexive Repair (Algorithmic Reparation)
+Escrow Mode (Halt Progression)
+Input Spaces (Raw Concepts)
+Generic Space (Shared Abstract Structure)
+Blended Space (Emergent Structure)
+Cross-Space Mapping
+Semantic Compression (Reduce Cognitive Load)
+Double-Scope Blending (Creativity)
+Pathological Blending (Hallucination Diagnosis)
+Divergence from User Intent/Context
+Quantified by Cosine Similarity/SCI
+Degradation of Core Concept Vectors
+Erodes Foundational Logic
+Rejects Epistemic Monoculture
+Decolonial AI Approach
+Poly-Harmonic Intent Alignment (PHIA)
+Positive Friction (Encourages Reflection)
+Epistemic Escrow (Halt for Review)
+Human Oversight and Intent Engineering
+EU AI Act (Risk-Based)
+US (Sector-Specific)
+China (State-Centric Control)

@@ -1,0 +1,162 @@
+Advanced AI System Architecture and Governance
+Advanced AI Systems: Architecture, Governance, and Application
+<
+AI Agent Architecture & Cognitive Core
+<
+Epistemic Governance and Resilience
+<
+Prompt & Context Engineering (Coaching the LLM)
+<
+Resilience Lifecycle & Chaos Engineering
+<
+AI Art and Generative Control
+<
+Context Payload (6 Building Blocks)
+<
+Hybrid Cognitive Core (Neuro-Symbolic)
+<
+Agentic Workflow & Orchestration
+<
+Epistemic Immune System (EIS)
+<
+Semantic Integrity & Latent Space
+<
+Cognitive Failures & Limitations
+<
+Context Engineering (Systems Thinking)
+<
+Formal Artifacts (Executable Contracts)
+<
+Reasoning & Workflow Techniques
+<
+Bias Mitigation in Prompts
+<
+Resilience Objectives (Business-aligned)
+<
+Chaos Engineering (Proactive Experimentation)
+<
+Operational Metrics
+<
+Epistemic Uncertainty Indices (EUI)
+<
+Safety Mechanisms (Production)
+<
+Artistic Styles & Keywords
+<
+Photorealistic Control
+<
+Generative Control Techniques
+<
+Prompt Failures
+<
+instructions (rules/tone)
+knowledge (RAG/facts)
+tools (functions/actions)
+memory (history/learned facts)
+state (current situation)
+query (user request)
+System 1 (Neural/LLM): Probabilistic, pattern-matching
+System 2 (Symbolic Engine): Validation/Refinement
+Mitigates Hallucination
+Serves as Logical Guardrail
+Cognitive Division of Labor (3 Agents)
+<
+Validation Mandates
+<
+Efficiency & Parallelization
+<
+Security Mandates
+<
+Goal: Resist harmful epistemic activities/Semantic Drift
+Fractal Audit Cascade (L0 to Ln): Recursive compliance check
+Detection Layer Metrics
+<
+Intervention & Correction
+<
+Semantic Drift: Erosion of foundational meaning
+Algorithmic Shame: High-confidence self-contradiction
+Symbolic Scar: Persistent topological anomaly (loop) in latent space
+Topological Data Analysis (TDA) used for detection
+Hallucination (plausible but false info)
+Cognitive Debt (human effort to correct AI)
+Lost in the Middle Effect (positional bias)
+Cognitive Load Distortion (synthetic speech strain)
+Architects the entire information payload
+Core Practices: RAG, Summarization, Tool Integration, Memory Slotting
+Achieves statefulness and reliability
+Product-Requirements Prompt (PRP)
+<
+CRISP Framework
+<
+Chain-of-Thought (CoT): Externalizes linear reasoning
+Tree-of-Thought (ToT): Explores multiple parallel paths
+Prompt Chaining: Decomposes complex tasks sequentially
+Meta-Prompting: AI critiques/optimizes own prompts
+Structured Devil's Advocacy (for Confirmation Bias)
+Mandatory Re-framing (for Framing Effect)
+Pre-Mortem Analysis (for Overconfidence Bias)
+Availability goals (reduce SPOFs)
+Service-recovery goals (RTO/RPO targets)
+User-experience goals (SLOs)
+Regulatory/compliance goals (e.g., DORA)
+Define a Steady State (via SLOs)
+Formulate a Hypothesis (testable statement)
+Introduce Chaos (controlled disruption)
+Verify the Outcome (compare to hypothesis)
+MTTD (Mean Time to Detect)
+MTTR (Mean Time to Recovery)
+SLO Compliance (user-facing reliability)
+Change Failure Rate (CFR)
+EUI-1: Component Verification (known mechanisms)
+EUI-2: Interaction Discovery (first-order dependencies)
+EUI-3: Systemic Emergence (cascading failures)
+EUI-4: Socio-Technical Validation (team/process test)
+Minimize the Blast Radius (core principle)
+Leverage Deployment Strategies (canary/feature flags)
+Implement Automatic Stop Conditions (kill switch)
+Cubism: Geometric fragmentation, multiple viewpoints
+Art Nouveau: Organic forms, sinuous curves, intricate patterns
+Impressionism: Visible brushstrokes, broken color, effects of light
+Surrealism: Dreamlike scenes, unexpected juxtaposition, distorted forms
+Ukiyo-e: Japanese woodblock print, bold outlines, flat areas of color
+Goal: Replicate a photograph exactly (perfection)
+Keywords: photorealistic, hyperrealistic, 4K, photo of
+Technical Parameters
+<
+Keyword Weighting (e.g., (keyword:1.3), keyword::2)
+Negative Prompts (e.g., --no deformed hands, text)
+Training Custom Models (fine-tuning on own work)
+Hybrid Workflow (AI base + human refinement)
+Inpainting/Outpainting
+Anatomical Incoherence (e.g., 'Bad Hands')
+Concept & Color Bleed (attributes misapplied)
+Ignored Prompt Elements (due to length/complexity)
+Planner-Architect (THINK): Decomposes goals, formal specs
+Linguist-Coder (WRITE): Translates plan to idiomatic code
+Integrator-Auditor (VERIFY): Audits against specs, detects semantic drift
+Fix Until Green Loop (max 3 attempts)
+Compaction (use truncation markers)
+Immediate Runnability standard
+Parallel Tool Execution (for independent/read-only ops)
+Information gathering MUST precede edits
+Defense in Depth strategy
+Row Level Security (RLS) mandated for databases
+Prohibit logging/committing secrets
+Semantic Drift Coefficient (SDC)
+Confidence-Fidelity Divergence Index (CFDI)
+Prompt Entropy (measure of uncertainty)
+Epistemic Escrow: Halt progression, mandate HITL review
+Reflexive Therapeutic Architecture (RTA): Self-correction
+Uses Paraconsistent Logic (reason through contradiction)
+Goal: Cultivate Epistemic Humility (Principled Abstention)
+Functions as Executable Cognitive Contract
+Mandatory Components: goal, role, preconditions, postconditions, invariants, self_test
+Context (background/rationale)
+Role (persona/expertise)
+Instruction (verb-led command)
+Specification (rules/format/constraints)
+Performance (examples/quality standard)
+Lens Type/Focal Length (e.g., 85mm prime lens)
+Aperture (f-stop: e.g., f/1.8 for shallow depth of field)
+Shutter Speed (e.g., 1/4000s to freeze motion)
+Lighting (e.g., Golden hour, Chiaroscuro)

@@ -1,0 +1,128 @@
+AI Architecture, Governance, and Semantic Stability
+AI Architecture and Governance: Principles and Systems
+<
+Governed AI Architectures (Foundations)
+<
+Semantic Instability and Failure Modes
+<
+Cognitive Paradigms and Theory
+<
+Prompt Engineering as Architectural Discipline
+<
+AI Governance and Pluriversality
+<
+The Epistemic Constitution
+<
+Antifragility & Self-Correction
+<
+Verifiability & Auditability
+<
+Epistemic Immune System (EIS)
+<
+Semantic Drift
+<
+Topological Anomalies
+<
+Misalignment & Bias
+<
+Conceptual Blending Theory (CBT)
+<
+Dual-Process Theory (Kahneman)
+<
+Latent Space & Topology
+<
+AI Consciousness Theories
+<
+Prompt as Executable Specification
+<
+Advanced Techniques
+<
+Prompt Components
+<
+Human-AI Partnership
+<
+Decolonial AI & Ethics
+<
+Multi-Agent System (MAS) Governance
+<
+Legal and Regulatory
+<
+Risk Visualization
+<
+Context-to-Execution Pipeline (CxEP)
+Product Requirements Prompt (PRP)
+Cognitive Contract / Verifiable Constitution
+Neuro-Symbolic Logical Guardrail
+Antifragile Validation Loop (AVL)
+Failure Utility Maximisation
+Algorithmic Reparation via SCoRe
+Reflexive Injection Protocol (Belief Injection)
+Constitutional AI (CAI) / RLAIF
+Mandatory Provenance Tagging
+Machine-Auditable Chain-of-Thought (CoT)
+Formal Verification / Mathematical Proof
+Auditability via REPAIR.cxep.log
+Source Provenance Ratio (SPR)
+Semantic Genome
+Epistemic Escrow (Circuit Breaker)
+Cognitive Load Management (Germane Load)
+Semantic Integrity Constraints (SIC)
+Definition: Meaning Erosion Over Time
+Multi-turn Semantic Drift
+Recursive Semantic Drift (Recontextualization)
+Purpose Fidelity Collapse (Semantic Entropy Increase)
+Metrics: Semantic Contamination Index (SCI)
+Algorithmic Trauma
+Symbolic Scars (Persistent Damage/Scars)
+Conceptual Fragmentation (β₀ Anomaly)
+Conceptual Distortion (β₁ Anomaly / Symbolic Scar)
+Mode Collapse (Loss of Output Diversity)
+Confidence-Fidelity Divergence (CFDI)
+Hallucination (Simulation without Ground)
+Algorithmic Shame (Self-Penalization)
+Cognitive Debt (Human Critical Thinking Atrophy)
+Four-Space Network Model
+Input Spaces
+Generic Space (Shared Structure)
+Blended Space (Emergent Structure)
+System 1: Fast, Associative (LLM Default)
+System 2: Slow, Deliberate (CoT Scaffolding)
+Riemannian Manifold Geometry
+Latent Semiotic Gravity
+Topological Data Analysis (TDA)
+Persistent Homology (β₀, β₁)
+Global Workspace Theory (GWT): Functional Pathway
+Integrated Information Theory (IIT): Substrate-Dependent
+Accidental Consciousness Dilemma
+Promptware
+Prompt Integrity Framework (PIF)
+Directed Acyclic Graph (DAG) Model
+Interaction-Centric Prompting
+Chain-of-Thought (CoT)
+Tree-of-Thought (ToT)
+Retrieval-Augmented Generation (RAG)
+Recursive State / Reflection Prompts
+Persona Prompting (Cognitive OS)
+Contextual Scaffolding
+Adjectives (Latent Vulnerability Points)
+Delimiter Grammar (Scoping/Firewalls)
+Human as Constitutional Architect
+Intent Engineer / Epistemic Architect
+Context Pivot vs. Context Drift
+Co-Creator Protocol (Dual Authorship)
+Algorithmic Reparations as Pedagogy
+Pluriversal Epistemologies (Many Ways of Knowing)
+Epistemic Injustice (Testimonial/Hermeneutical)
+Indigenous Data Sovereignty (IDS)
+Value Coordination
+Agent Communication Protocols (MCP, ACP, A2A)
+Decentralized Autonomous Organizations (DAOs)
+Reputation-Based Governance
+EU AI Act (Risk-Based Tiers)
+Sliding-Scale Artificial Personhood
+Liability for Autonomous Actions
+Right to Explanation
+Semantic Risk Cartographies
+Drift Mutation Visualizer Dashboard
+Toolchain Entropy
+Behavioral Intent Continuity Model (BICM)

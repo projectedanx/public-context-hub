@@ -1,0 +1,109 @@
+Adaptive AI Governance Frameworks and Epistemic Architecture
+Adaptive AI Governance & Epistemic Architecture (CxEP/RSOS)
+<
+Core Governance Frameworks (The Stack)
+<
+Antifragile Learning Loop (Reparation)
+<
+Verifiable AI Metrics & Diagnostics
+<
+Cognitive Scaffolding & Emergence
+<
+CxEP (Context-to-Execution Pipeline)
+<
+RSOS (Recursive Semiotic Operating System)
+<
+PIF (Prompt-Integrity Framework)
+<
+ICP (Intent Context Protocol)
+<
+Failure Detection (Epistemic Audit)
+<
+Algorithmic Reparation (Healing)
+<
+Scar Formation & Learning
+<
+Semantic Integrity Metrics
+<
+Topological Data Analysis (TDA)
+<
+Governance & Audit Mechanisms
+<
+Philosophy (Friction as Strategy)
+<
+Generative Architecture (CBT)
+<
+Reasoning Techniques (Advanced Prompting)
+<
+Function
+<
+Key Artifact: PRP (Product Requirement Prompt)
+<
+Deep meta-governance and learning layer
+Temporal Reflexivity (present state is function of past)
+Scar Tissue Archive (STA)
+<
+Key Mechanisms
+<
+Proactive linguistic integrity layer (intercepting proxy)
+Prevents Semantic Drift (shift-left approach)
+Linguistic Lenses (LDL)
+<
+Real-time agent trajectory governor
+Coherence Locks
+<
+Intent Curvature (ξ) Metric (early warning system)
+ALPS (Application-Level Profile Semantics) for affordances
+Triggered by REFLEXIVE_CHECK (self-audit)
+Monitors Confidence–Fidelity Divergence Index (CFDI)
+Detects Constraint Adherence Violations
+Identifies Hallucinated CoT/Provenance Loss
+REFLEXIVE_REPAIR Agent/Mode
+Uses SCoRe (Self-Correction via Reinforcement Learning)
+F-IPI (Failure-Informed Prompt Inversion) reframes contradiction
+Paraconsistent Logic (LFI) localizes inconsistency
+Failure is logged as Symbolic Scar (SS)
+Scar Mapper structurally alters RRSM
+Fuels Proactive Strategy Re-planning
+Scar Softening Index (SSI) manages rigidity
+Purpose Fidelity Score (PFS)
+Source Provenance Ratio (SPR)
+Semantic Compression Delta (SCD)
+Expected Calibration Error (ECE)
+Audits shape of meaning in latent space
+Betti-0 (β₀): Structural Coherence/Fragmentation
+Betti-1 (β₁): Topological Novelty/Circular Reasoning
+Symbolic Drift Surface (SDS) visualization
+Chrono-Topological Governance Auditor (CTGA)
+Epistemic Escrow (cognitive circuit breaker on high CFDI)
+R-A-D-C-B-L Cascade (failure taxonomy: Request→Loss of Purpose)
+Computational Historiography (audit trail)
+Antidote to Epistemic Collapse
+Embraces Generative Conflict (bisociation)
+AI as Scaffold, not Autonomous Agent
+JITAI (Just-in-Time Adaptive Intervention)
+Conceptual Blending Theory (CBT) as formal engine
+CBT-P (Reasoning Pattern Ontology)
+Double-Scope Patterns (forces clashing frames for creativity)
+Neuro-Symbolic AI (Hybrid S1/S2 processing)
+PALS (Promptcraft-Aware Linguistic Stack) Layers
+GoT (Graph-of-Thoughts) for non-linear reasoning
+Abduction (Inference to the Best Explanation)
+Non-Logical Reasoning (e.g., Paralogy, Intuitive Leaps)
+Overarching engineering backbone
+Formalizes AI tasks into executable contracts (PRPs)
+Integrates into CI/CD workflows (e.g., /execute-prp)
+Formal cognitive contract (executable specification)
+Schema: Goal, Context, Constraints, Format, Self-Test, Reflexive-Check
+Formalized as Directed Acyclic Graph (DAG)
+Stores Symbolic Scars
+Active structural modifications to future reasoning
+Computational Historiography
+Epistemic Composting (recycling failed concepts)
+Symbolic Contestation Protocol (PAAE)
+Lexical Semantics (polysemy resolution)
+Corpus Linguistics (mitigates statistical gravity)
+Epistemic Scaffolding (structured justification)
+Sociolinguistics (persona consistency)
+Embedded semantic anchors
+Prevent drift from original intent

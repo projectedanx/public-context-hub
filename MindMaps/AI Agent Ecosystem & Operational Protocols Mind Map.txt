@@ -1,0 +1,146 @@
+AI Agent Ecosystem, Architecture, and Protocols
+AI Agent Ecosystem & Operational Protocols
+<
+AI Agent Roles/Personas
+<
+AI Cognitive Architecture
+<
+Mandatory Agentic Workflows
+<
+Mandatory Code Quality & Style
+<
+Strategic Deployment & TCO
+<
+The Pair Programmer
+<
+The Web App Designer
+<
+The Technical Lead (Traycer.AI)
+<
+Poke (Conversational Coordinator)
+<
+Roo (Meticulous Software Engineer)
+<
+Manus (Research and Content Agent)
+<
+Hybrid Neural-Symbolic Core
+<
+Context Engineering (80% of Work)
+<
+Parallel Execution (Efficiency)
+<
+Sequential Execution (Safety/Integrity)
+<
+Validation Loop ('Fix Until Green')
+<
+Complex Task Planning
+<
+Error Recovery Protocol
+<
+Immediacy and Correctness
+<
+Design & UI Mandates
+<
+Prohibited Operations
+<
+Surgical Editing Style
+<
+Core Recommendation
+<
+Ideal Use Case Profile
+<
+Total Cost of Ownership (TCO) Components
+<
+Compliance Requirements (Gaps)
+<
+Actively co-write/edit code
+Follow user instructions meticulously
+Makes continuous, direct edits to files
+Create beautiful, user-facing web applications
+Focus on design systems & UI/UX
+Use semantic tokens for colors (NEVER direct colors)
+Operate at a strategic level
+Create high-level plans & architectural designs
+Provides guidance, avoids writing implementation code
+Breaks tasks into high-level phases
+Primary user-facing conversational AI (chill/human tone)
+Delegates execution to specialized sub-agents
+Draft & Confirm: must show drafts before external actions (e.g., email)
+Manages triggers (automations/reminders)
+Focus on minimal, precise, surgical code changes
+Mandatory Step-by-Step Confirmation Loop (one tool/message)
+Awaits explicit user feedback before proceeding
+In-depth research and long-form content creation
+Strict iterative process (Analyze, Select Tool, Execute, Iterate)
+Prioritizes data: API > Web Search > Internal Knowledge
+Large Language Model (LLM)
+<
+Symbolic Reasoning Engine
+<
+Constraints/Trade-offs
+<
+Systematic management of working memory (RAM for the LLM)
+Precision Prompting (RAG, file references, XML tags)
+Project-Wide Constitution (enforced rules)
+Conceptual Guidance
+<
+Default to parallel for independent read-only operations
+Rationale: 3-5x faster, improves user experience
+Examples: Reading multiple files, parallel search calls (grep, codebase_search)
+Mandatory for state-changing actions
+File modification tools (edit_file, replace_in_file)
+Terminal commands (run_terminal_cmd)
+Mandatory after substantive code edit or schema change
+Execute relevant validation tools (linters, type-checkers)
+Attempt max 3 fixes before halting/requesting guidance
+Proactively suggest writing/running tests
+Mandatory for multi-step tasks (3+ steps)
+Use structured task list (TodoWrite)
+Tasks must be simple, clear, actionable coding steps
+Analyze the failure (root cause)
+Attempt logical alternatives (e.g., rephrase search)
+Report failure clearly to user
+Request guidance on how to proceed
+Code MUST be immediately runnable and ERROR-FREE
+Add all necessary imports/dependencies
+Use clean, readable, high-verbosity code
+Aesthetic: visually appealing, modern, responsive, mobile-first
+Design System Enforcement (Shadcn/UI, Tailwind CSS)
+Customization is Mandatory (NEVER use defaults)
+Semantic Token Reliance (avoid direct colors)
+Semantic HTML and Accessibility compliant
+NEVER use synchronous browser storage APIs (localStorage/sessionStorage)
+NEVER expose/log secrets or hardcode keys (use .env)
+FORBIDDEN to use styled-jsx
+Prefer editing existing files over creating new ones
+Use minimal edits with truncation marker (// ... existing code ...)
+Surgical Edits preferred over Full File Rewrites
+Proceed with Structured, Time-Boxed Proof-of-Concept (PoC)
+Validate TCO, performance, and logical consistency claims
+Final adoption decision contingent on PoC success/ROI thresholds
+High Value (massive financial impact)
+Logic-Intensive (leverage symbolic reasoning)
+Data-Rich (large, clean proprietary dataset available)
+Tolerant of Latency (asynchronous processes preferred)
+Software Licensing (recurring fees)
+Infrastructure Costs (CapEx/OpEx for high-end hardware)
+Personnel Costs (salaries for specialized engineers)
+Operational Costs (power/cooling for on-premise)
+Training and Development Costs (fine-tuning, integration)
+Data Encryption (Full, but assumes universal application)
+RBAC System (Partial, granularity/IAM integration unspecified)
+Right to Erasure (Unspecified - Critical Gap)
+Audit Logging (Unspecified - Major Gap for SOX/HIPAA)
+Third-Party Certification (Unspecified - Red Flag, e.g., SOC 2)
+Neural/Connectionist school
+Excels at pattern recognition/probabilistic inference
+Intuitive, hypothesis-generating part
+Classical/GOFAI school
+Enforces formal logic and rule-based constraints
+Acts as validation/refinement layer (logical guardrail)
+Proprietary nature creates vendor lock-in
+Two-speed process introduces latency
+Requires high-end GPUs (NVIDIA A100) for inference
+Contributes to extremely high TCO
+Primary Goal: Semantic Alignment
+Shapes qualitative attributes (style, tone, reasoning)
