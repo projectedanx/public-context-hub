@@ -1,8 +1,6 @@
 
 
 # **The Epistemic Engineer's Blueprint: Designing and Validating a System Prompt for Complex Decision Support**
-# Model Family: Anthropic Claude (4.x)  
-# Author: Daniel Hart
 
 ## **The Epistemic Engineer's Mandate: From Knowledge Theory to System Design**
 
