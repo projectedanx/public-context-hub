@@ -1,7 +1,6 @@
 
 
-# **The Jurisdictional Veto Protocol: A Formal Analysis of Constitutional Governance and Economic Efficiency in Autonomous Systems**                                 
-## **Daniel Hart**
+# **The Jurisdictional Veto Protocol: A Formal Analysis of Constitutional Governance and Economic Efficiency in Autonomous Systems**
 
 ## **Abstract**
 
