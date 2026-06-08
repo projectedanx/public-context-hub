@@ -536,8 +536,6 @@ Montage (Synthesis)
 -------------------------------------------------------------------------------------------
 
 Framework for Antifragile and Verifiable AI Systems
-Based on 38 sources
-Interactive mindmap tree. Use arrow keys to navigate. Press Enter to ask a question.
 Framework for Antifragile & Verifiable AI
 <
 Architectural Backbone (CxEP)

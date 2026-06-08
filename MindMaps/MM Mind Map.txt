@@ -1,0 +1,96 @@
+MM: Mind Map
+LFAAGT: The Lenses Framework: Ai Architectures And Governance Taxonomy
+LFDRAAG: Lenses Frameworks For Deep Research & Ai Governance
+CLFC: Core Lenses Framework Concepts
+AAAA: Advanced Ai Agent Architectures
+SLTL20: Specialized Lens Typology (Lenses 2.0)
+ADAOR: Ai Development & Operational Risks
+AGM: Advanced Generative Modalities
+CASLGR: Critical & Sociological Lenses (General Research)
+PAF: Purpose & Function
+MLSM: Metaphorical Logics (Symbolic Metaphor)
+DP: Design Principles
+CCM: Core Cognitive Mechanisms
+GAV: Governance & Verifiability
+AW: Agentic Workflows
+DAFL: Drift & Failure Lenses
+CAEL: Cognition & Epistemic Lenses
+GASL: Generative & Symbolic Lenses
+SAV: Security & Vulnerability
+DLM: Development Lifecycle (Mlops)
+SER: Systemic And Economic Risks
+IGP: Image Generation Paradigms
+LFANR: Light Field & Neural Rendering
+SATD: Sensory & Therapeutic Design
+RPL: Research Practice Lenses
+FAEL: Financial & Economic Lenses
+SACT: Sociological & Critical Theory
+CS: Cognitive Scaffolds
+SPS: Structured Perspective-Shifting
+PC: Partitioning Complexity
+FMR: The Folding Mirror (Reflexivity)
+CMSC: The Crumpled Map (Semantic Compression)
+AWCM: The Attractor Well (Conceptual Magnetism)
+SDEI: The Shared Dreamscape (Entangled Intentionality)
+OCAB: Ontological Commitments & Bias
+AEF: Adaptive Evolution To Failure
+RRSA: Reflexivity (Researcher Self-Analysis)
+STNAA: Semantic Translation (Nl To Asp/Amr)
+DSEC: Deterministic Symbolic Execution (Clingo)
+ASDRIR: Agentic Self-Debugging (React, Iterative Refinement)
+CG: Compositional Generalization
+PCLP: Promptware Contract Language (Pcl)
+CCD: Cognitive Contract Definition
+RCAS: Reflexive Check Audit Sequence
+ALSS: Antifragile Learning (Symbolic Scars)
+PARL: Plan-Act-Reflect Loop
+PARA: Planner Agent, Reflector Agent
+EML: Emergent Meta-Language
+TDFD: Typological Drift (Function Deviation)
+FCLPE: Failure Cascade Lens (Propagation Of Error)
+FSCFM: False Surface Coherence (Fluency Mask)
+HCSM: Heuristic Containment (Surfacing Mimicry)
+ACSD: Anomaly Compass (Salience Detection)
+EEFB: Epistemic Enclosure (Filter Bubbles)
+RGSM: Reflexivity Gradient (Self-Monitoring)
+AHHL: Algorithmic Hermeneutic Horizon (Limits)
+LPEHP: Latent Premise Excavator (Hidden Priors)
+OSCR: Ontological Saturation (Conceptual Redundancy)
+CMSM: Conceptual Mutation (Semantic Metamorphosis)
+SAGM: Structural Allusion (Genre Mimicry)
+SRAOE: Semantic Resonance & Ontological Echoes
+STVD: Sast Tools (Vulnerability Detection)
+PIJ: Prompt Injection / Jailbreaking
+PGATL: Provenance Gap (Audit Trail Loss)
+CSAL: Configuration Security & Leakage
+MAORR: Mlops & Operational Rigor (Reproducibility)
+DCDAG: Data-Centric Development & Governance
+MSAI: Modeling Strategy & Iteration
+DUEDU: Developer/User Experience (Dx/Ux)
+VLPA: Vendor Lock-In (Proprietary Architectures)
+EIES: Environmental Impact (Ecological Shadow)
+PRO: Parametric Reductionism (Objectification)
+IGBCR: Intent Gap Bridging (Causal Reasoning)
+PFAPS: Perceptual Fidelity Anchoring (Pbr/Sss)
+RMLACG: Reflexive Meta-Learning (Auto-Cot, Gflownets)
+CREM: Cultural Representational Entropy Maximisation
+PM4DC: Plenoptic Metrology (4D Data Capture)
+NRTN3: Neural Rendering Techniques (Nerf/3Dgs)
+PAVATR: Pipeline Archetypes (Vr/Ar Tracking, Robotics)
+PBP2P4P: Perceptual Bias Problem (2D Priors In 4D Physics)
+BSSDL: Biolux-Sdl (Sensory Dsl Layer)
+CSSSC: Cross-Sensory Synchronization (Sync.clock)
+SFCBA: State.feedback Channel (Biometric Adaptation)
+TESEC: Texture Empathy Simulation (Embodied Cognition)
+EAOL: Epistemological & Ontological Lens
+SCKL: Social Construction Of Knowledge Lens
+MCL: Methodological Colonialism Lens
+RRAP: Researcher Reflexivity & Positionality
+FLNFS: Financialization Lens (Non-Financial Spheres)
+MPLMSR: Market Performativity Lens (Models Shape Reality)
+HEASL: Hidden Economy & Sustainability Lens
+DACRLAB: Debt & Credit Relations Lens (Algorithmic Bias)
+ILCP: Intersectional Lens (Compounded Power)
+FLPKB: Foucauldian Lens (Power/Knowledge, Biopower)
+PLNHA: Posthumanism Lens (Non-Human Agency)
+ETL: Entropic / Thermodynamic Lens

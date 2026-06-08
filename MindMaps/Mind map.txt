@@ -1,0 +1,92 @@
+Mind map
+Shape-Memory Transformer Architecture and Principles
+Shape-Memory Transformer (SMT) Architecture
+<
+Core Principles & Metaphor
+<
+The Six Architectural Components
+<
+Lifecycle & Governance
+<
+Market Fit (Mission Critical Intelligence)
+<
+Intelligence as Energy Minimization
+Phase Transition Theory
+<
+Boltzmann Veto (Thermodynamic Truth)
+<
+Body (Architecture)
+<
+Mind (Reasoning)
+<
+Shield (Defense)
+<
+Soul (Creativity)
+<
+Heart (Empathy)
+<
+Wisdom (Truth)
+<
+Training (The Forge)
+<
+Evolution (Re-Forging Protocol)
+<
+The Metric Problem (E(z))
+<
+The Epistemic Bottleneck
+<
+Liability Shield (Medical/Legal)
+<
+Unbreakable Interface (Security/Finance)
+<
+Socratic Tutor (Education)
+<
+Coherent World Engine (Gaming/Sim)
+<
+Austenite: Stable, Canonical Latent State
+Martensite: Contextual, Deformed Variant
+Transformation is Reversible (Superelasticity)
+Final Probability = P_likelihood × P_truth
+P_truth = exp(-E(z)/T)
+Suppresses high-energy (false/unsafe) outputs
+Dual-Stream Design
+Frozen Austenite Backbone (Truth, Long-term Memory)
+Dynamic Martensite Branch (Context, Adaptation)
+Superelastic Inference
+Langevin Loops for Hard Problems
+Cost of Thought: 4x-8x base compute
+Aifune Defense (Yield Strength Limits)
+Prevents Jailbreaks/Attacks
+Triaxial Death Test (Failure Modes)
+<
+Lucid Dreaming
+Fiction Bit (Allows safe hallucination)
+Maintains E_logic, Suppresses E_fact
+Virtual Martensite
+Temporary Forks to Model User Misconceptions
+Context-Addressable Memory (CAM)
+Hypernetworks Align Austenite to Context
+Heat Treatment Protocol
+Solutionizing -> Quenching -> Aging
+Work-Hardening (Adversarial Training)
+Controlled Phase Change
+Austenite Liquidus (T_melt)
+Cryptographic Catalyst (Digital Signature)
+Quenching Locks in New Truth
+Hybrid Symbolic-Neural Energy Function
+Product of Experts (PoE) Topology
+Trained with Contrastive Loss
+Pluralistic Austenite
+Contextual Superposition of Conflicting Truths
+Mathematical Guarantee Against Hallucination
+Malpractice-Proof Applications
+Aifune Defense Blocks Prompt Injection
+Safe for Write-Access to Databases
+Virtual Martensite Models Misconception
+Guides Student to Truth Basin
+Lucid Dreaming Ensures Lore Consistency
+Infinite, Consistent Storytelling
+Fracture (Jailbreak)
+Creep (Contextual Hallucination/Drift)
+Plasticity (Unauthorized Updates)
+NotebookLM can be inaccurate; please double-check its responses.

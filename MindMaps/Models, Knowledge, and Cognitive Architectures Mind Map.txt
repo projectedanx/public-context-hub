@@ -1,0 +1,143 @@
+Models, Knowledge, and Cognitive Architectures
+Models, Knowledge, and Cognitive Architectures
+<
+Models and Simplification
+<
+Knowledge and Understanding (Epistemology)
+<
+Cognitive Processes and Reasoning
+<
+AI Architecture and Context Engineering
+<
+Definition of a Model
+<
+Simplifying Assumptions
+<
+Types of Models
+<
+Types of Knowledge
+<
+Knowledge vs. Understanding
+<
+Faith
+<
+Scientific Process
+<
+Thinking Styles & Belief
+<
+Abduction (Inference to Best Explanation)
+<
+Insight ('Aha! Moment')
+<
+The Epistemic Scaffolding Framework (Theory Evolution)
+<
+Context Engineering (CE) Paradigm
+<
+Engineered Context Components
+<
+Mitigating LLM Flaws (Hallucinations/Reliability)
+<
+Advanced Prompt Techniques
+<
+Architectural Strategies
+<
+Simplification of complex system
+Used to understand, predict, or explore
+Utility over perfect accuracy ('All models are wrong, but some are useful')
+Critical for judging usefulness
+Deliberately strip away details to isolate core principles
+Example: Spherical Cow metaphor
+Conceptual Models
+Physical Models (3D objects)
+Representational Models
+<
+Mathematical Models
+<
+Qualitative Models
+<
+Quantitative Models
+<
+Model Systems (Biology)
+<
+Propositional Knowledge ('Knowledge-That')
+<
+Knowledge by Acquaintance
+<
+Knowledge requires truth (sensitive to epistemic luck/defeaters)
+Understanding is grasping causal/explanatory relationships
+Understanding is more robust (less sensitive to luck/minor defeaters)
+Ultimate goal: Integrated Model (Integrates Science/Faith)
+Model of trust and commitment
+Navigating ethical dimensions of life
+Existential truth (relation to God)
+Observation leads to Hypothesis
+Rigorous testing/empirical evidence
+Falsifiability (Karl Popper principle)
+Knowledge is provisional and communal
+Intuitive (System 1) Thinking
+<
+Analytic (System 2) Thinking
+<
+Conspiracist Ideation Motives
+<
+Engine of novelty/discovery
+Generates new explanatory concepts/hypotheses
+Involves Analogical Reasoning
+Sudden comprehension/conceptual reorganization
+Elicits intuitive confidence ('Eureka Heuristic')
+Associated with dopaminergic precision-weighting
+Phase 1: Anomaly & Abductive Genesis
+Phase 2: Model-Based Elaboration & Consequence Exploration
+Phase 3: Axiomatic Formalization (Constructs/Propositions)
+Phase 4: Deductive & Computational Verification
+Phase 5: Paradigm Shift & New Normal Science
+System-level discipline, stateful, multi-turn
+Architects the dynamic information ecosystem
+Goal: Maximize output quality under MaxTokens constraint
+Instructions (System Prompt/Persona)
+User Input (Immediate query)
+Memory (Short-term/Long-term)
+Retrieved Knowledge (RAG)
+Tool Definitions and Outputs
+Output Constraints (e.g., JSON schema)
+Agentic State (Plan, Scratchpad/Thoughts)
+Hybrid 'Cognitive Core' (LLM + Symbolic Logical Guardrail)
+Structured Output Generation (JSON formatting)
+Strict Rules Enforcement
+Semantic Layer Integration (Synonyms/Custom rules)
+SelfCheckGPT (Sampling-based hallucination detection)
+Chain-of-Thought (CoT) Prompting
+Self-Consistency (Multiple reasoning paths)
+ReAct (Reasoning and Acting)
+Meta-Prompting (AI writes better prompt)
+Negative Prompting (Exclude undesired concepts)
+Treat AI as Team of Specialists (Multi-agent approach)
+Isolate Context (Prevents contamination/clash)
+Mandatory Planning for complex tasks
+Drawings (2D or virtual 3D)
+Ribbon Diagram (Protein structure visualization)
+DSGE Model
+OLG Model (Overlapping Generations)
+Used for calculation/behavior prediction
+Mental Models
+Prose Models
+Flow Models
+Stochastic vs. Deterministic
+Static (85% of policy models) vs. Dynamic
+Analytical vs. Simulation
+Alive (e.g., genetically identical mice)
+Reduces 'noise' from uncontrolled variables
+Knowledge of facts
+Expressed in declarative sentences
+Requires truth and justification (JTB framework)
+Personal experience
+Manifestational revelation
+Fast, automatic, uses heuristics
+Associated with conspiracy beliefs
+Linked to Jumping to Conclusions (JTC) bias
+Deliberate, slow, rule-based
+Reduces belief in conspiracy theories
+Helps detect logical conflicts
+Epistemic (Understanding environment)
+Existential (Safety and control)
+Social (Positive self-image/group solidarity)
