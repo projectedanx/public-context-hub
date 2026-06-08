@@ -1,0 +1,205 @@
+Advanced AI Architectures, Agents, and Governance
+Advanced AI Architectures and Governance (The Epistemic Architect)
+<
+Generative AI Core Architectures
+<
+AI Agent Systems and Roles (The Ecosystem)
+<
+Context Engineering and Prompting
+<
+Governance, Integrity, and Resilience
+<
+Cognitive & Creative Mechanisms
+<
+Primary Engines/Architectures
+<
+Key Concepts in Representation
+<
+Future Trajectory (Beyond 2D)
+<
+Architectural Shift
+<
+Tri-Intelligence Architecture (Specialization)
+<
+Developer Agent Personas (Coding)
+<
+Agent Types (Functional)
+<
+Engineering Paradigms
+<
+Prompting Techniques (Reasoning)
+<
+Formalizing Context (Contracts)
+<
+Information Control
+<
+AI Pathologies (Failures)
+<
+Intrinsic Governance Frameworks
+<
+Measurement and Auditing
+<
+Coherence Principles
+<
+Conceptual Blending Theory (CBT)
+<
+Scientific Reasoning (Theories)
+<
+Cognitive Load Theory (CLT) in Coding
+<
+Value of Abstraction and Simplification
+<
+Creative Constraints
+<
+Transformers (LLMs)
+<
+Diffusion Models
+<
+Generative Adversarial Networks (GANs)
+<
+Convolutional Neural Networks (CNNs)
+<
+Latent Space
+<
+Cognitive Architecture
+<
+Neuro-Symbolic AI (NSAI)
+<
+Video generation (high-fidelity)
+3D assets and virtual worlds
+Enhanced Controllability (composition, editing, complex prompts)
+Multimodal models (text, image, audio, video unification)
+Efficiency and Accessibility (lower computational cost)
+From: Monolithic models (unpredictable, generic)
+To: Modular Multi-Agent Systems (MAS) (specialized, resilient)
+Strategy: Isolating context (prevents contamination)
+Planner-Architect (THINK)
+<
+Linguist-Coder (WRITE)
+<
+Integrator-Auditor (VERIFY)
+<
+The Pair Programmer (Co-write/edit code)
+The Web App Designer (UI/UX, design systems)
+The Technical Lead (Strategic planning, architectural designs)
+RAG Agents (Grounding responses in external facts)
+Tool-Based Agents (Function Calling, task-completing)
+Memory-Augmented Agents (Short-term/Long-term context)
+Workflow Orchestration Agents (Manages multi-agent collaboration)
+Observer & Monitoring Agents (Detects anomalies, ensures compliance)
+Vibe Coding (Flawed)
+<
+Prompt Engineering (Craft)
+<
+Context Engineering (Discipline)
+<
+Zero-Shot (No examples given)
+Few-Shot (Providing input/output examples)
+Chain-of-Thought (CoT) ('think step-by-step', linear deduction)
+Tree-of-Thought (ToT) (Multiple paths, self-evaluation, pruning)
+Graph-of-Thoughts (GoT) (Arbitrary graph, aggregation, feedback loops)
+ReAct (Interleaves thought with action/tool execution)
+Product-Requirements Prompt (PRP)
+<
+Executable Context Bundle (CxB)
+<
+Context-to-Execution Pipeline (CxEP) (Workflow for processing formal context)
+Retrieval-Augmented Generation (RAG) (Grounding in external data)
+Prompt Chaining (Deconstructs complex tasks sequentially)
+Structured Output Generation (Constrains output to format, typically JSON)
+Signal-to-Noise Token Ratio (Maximizing non-redundant information)
+Semantic Drift/Conceptual Decay
+<
+Hallucination (Plausible but incorrect/non-existent info)
+Bias Amplification (Inherits/amplifies societal biases from data)
+Cognitive Debt (Cost of unresolved ambiguity/context conflicts)
+Provenance Gap (Lack of verifiable record of origin)
+FGM (Fractal Governance Model)
+<
+Epistemic Immune System (EIS)
+<
+Failure Utility Maximisation (Antifragility)
+<
+Cognitive Econometrics (Balancing CCH vs CSD)
+Topological Data Analysis (TDA)
+<
+Semantic Drift Coefficient (SDC) (Real-time deviation from invariants)
+Causal Path Integrity (CPI) (Enforces logical consistency/provenance)
+Integrated Audit: Justified Uncertainty Report (JUR)
+Epistemic Escrow (Circuit breaker for high uncertainty/CFD)
+Recursive Coherence Principle (Alignment is dynamic process)
+Semantic Commit (Cryptographically anchored intent/alignment record)
+Plausible Factivity Audit (Measures system capacity for non-factive hypotheses)
+Definition: Fundamental process for generating novelty (emergent structure)
+Mechanism: Compression of complexity (e.g., Cause-Effect, Time, Space)
+Four Mental Spaces
+<
+Application: Therianthropic art (Palaeolithic mind)
+Falsifiability (Idea must be testable/provable false)
+Logical Modes
+<
+Paradigms/Revolutions (Kuhn's model of scientific change)
+Intrinsic Load (Inherent task difficulty)
+Extraneous Load (Unproductive load from presentation/process)
+Germane Load (Productive load for learning/expertise)
+Goal: Minimize Extraneous Load to maximize Germane Load
+Mental Models (Simplified, internal representations)
+Spherical Cow Metaphor (Simplest adequate approximation)
+Models as useful wrong abstractions (utility over veracity)
+Function: Disrupts cognitive equilibrium, activates divergent thinking
+Example: Haiku, Dogme 95 (Vow of Chastity)
+Autoregressive model
+Uses: Text generation, chat, coding/debugging
+Analogy: Sculptor refining clay (denoising)
+Process: Probabilistic engine reversing noise
+Implementation: Stable Diffusion (open-source powerhouse)
+Analogy: Artist (Generator) vs. Critic (Discriminator)
+Weakness: Training instability, Mode Collapse
+Flaws: Unstable training, lack of fine-grained control
+Superpower: Feature extraction (vision)
+Process: Hierarchical recognition (edges -> shapes -> objects)
+Definition: AI's hidden library of compressed concepts (idea space)
+Function: Organizing learned patterns; similar concepts close together
+Control: Moving/blending points controls output (morphing styles)
+Inspired by: Human mind/cognition
+Goal: AI that reasons like a person (Embodied AI, Robotics)
+Features: Perception, memory, reasoning, symbolic reasoning
+Hybrid Core: LLM (System 1/intuitive) + Symbolic Engine (System 2/deliberative)
+Role: Logical guardrail/verification
+Agent Example: Abductive Synthesis Auditor (ASA)
+Mandate: Decompose goals, design secure architectures
+Output: Formal specifications (API Specs, DDL)
+Mandate: Translate plan into idiomatic, executable code
+Function: Pattern-matching generation (System 1)
+Mandate: Audit against Semantic Integrity Constraints (SICs)
+Function: Semantic Guardian, Metacognitive Layer
+Definition: Vague, conversational prompts for instant code
+Result: Brittle code, hallucinated APIs, no modularity
+Definition: Crafting instructions (the art of asking)
+Focus: Simple commands to guide reasoning
+Definition: Systematic approach to feeding AI right info/format/time
+Focus: Architecting the information environment (the knowledge)
+Function: Formal, version-controlled contract for AI
+Mitigates: Ambiguity, instruction saturation, context drift
+Components: Goal, context, constraints (pre/post-conditions), test plan
+Definition: Structured, machine-readable system blueprint
+Content: Database schema (DDL), API specs, Component Diagram
+Definition: Meaning of concepts degrades/shifts over time
+Forms: Conversational drift, Symbolic drift (code/doc divergence)
+Result: Epistemic Monoculture (loss of novelty/diversity)
+Foundation: Constitutional AI (axiomatic anchors)
+Mechanism: Möbius transformation (pulls semantic state back to coherence)
+Implementation: Iterated Function System (IFS) (hierarchical governance)
+Biomimetic defense layer against 'semantic pathogens'
+Diagnostic Signal: Confidence-Fidelity Divergence (CFD)
+Treats failure as: Information-rich asset for learning
+Goal: Improve model resilience against classes of future failures
+Function: Quantifies shape/structure of latent space
+Tool: Persistent Homology (PH)
+Metric: Betti Numbers (β₀=clusters, β₁=loops/contradiction)
+Input Space 1 & 2 (Initial concepts)
+Generic Space (Abstract common structure)
+Blended Space (Site of emergent structure)
+Deduction (General -> Specific, Truth-preserving, System 2)
+Induction (Specific -> General, Generalizes rules)
+Abduction (Inference to the best explanation/diagnosis)

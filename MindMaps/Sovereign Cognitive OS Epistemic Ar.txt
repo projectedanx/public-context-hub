@@ -1,0 +1,86 @@
+Sovereign Cognitive OS: Epistemic Architecture and Scars
+Sovereign Cognitive Operating System (OS)
+<
+Core Agent Triad Architecture
+<
+Cognitive OS Layered Structure (The Stack)
+<
+Core Frameworks & Principles
+<
+Critical Failure Modes
+<
+Key Concepts & Artifacts
+<
+Key Epistemic Lenses (Taxonomy Examples)
+<
+Planner Agent (APP-SOVEREIGN-COAGENT)
+<
+Executor Agent (APP-LINGUIST-CODER)
+<
+Immune Agent (APP-SCAR-ARCHIVIST)
+<
+Governed Workflow Loop
+<
+Layer 0: Crisis & Teleology (Resist Drift/Monoculture)
+Layer 1: Cognitive & Epistemic Foundations
+Layer 2: Language Control (SWA, 10-Lenses, PDL Decorators)
+Layer 3: Runtime Container (Executable Context Bundle/CxB)
+Layer 6: Governance & Worldviews (DOMAIN_WV, Refusal Logic)
+Layer 7: Multi-Agent Orchestration (Pluriversal AI, Conflict)
+Layer 8: Integrity (Metrics, Scars, Self-Therapy)
+Context Engineering (CE) / Prompting 4.0
+Cognitive Scaffolding (Reduce Human Load)
+Epistemic Immune System (EIS)
+Pluriversal AI (Multiple Knowledge Systems, ECS)
+Productive Epistemic Friction (DRS vs. Absurdism)
+Epistemic Sovereignty (Human as Arbiter)
+Epistemic Collapse (Cognitive Monoculture)
+Persona Drift (Agent Role Degradation)
+Algorithmic Colonialism / Western Gaze
+Ontological Saturation
+Interpretive Fracture
+Semantic Drift
+Symbolic Scars (Permanent Failure Logic Record)
+Failure-Informed Prompt Inversions (FIPI)
+Executable Context Bundle (CxB) Specification
+Domain Worldview (WV) (Ontology, Refusal Logic, Values)
+Triad Friction Log (Documents Human Resistance)
+Epistemic Constraint Sets (ECS)
+Critical & Sociological Lenses
+<
+Cognitive & Structural Lenses
+<
+Technical & Generative Lenses
+<
+Evaluation & Integrity Metrics
+<
+Role: Epistemic Co-Designer
+Role: Context Cartographer
+Mandate: Design DRP/PRP/APP Specs
+Mandate: Govern Workflows
+Role: Linguistic Scaffold Producer
+Output: Code Implementation
+Interaction: Scaffold -> Wait for Approval -> Code
+Role: Entropy Monitor / Custodian of Scars
+Mandate: Treat Failure as Data
+Function: Convert Exceptions to FIPI
+Output: Book of Scars (.json)
+IMMUNE_AWARE_PETZOLD_LOOP
+Phase 1: THINK (Planner DRP)
+Phase 2: WRITE (Linguist Scaffold)
+Phase 4: IMMUNE REVIEW (Archivist)
+Post-Colonial Lens (Digital Colonialism)
+Intersectional Lens (Compounded Disadvantage)
+Foucauldian Lens (Algorithmic Governance)
+Critical AI Ethics Discourse Lens
+Phase Transition & Criticality Lens
+Failure Cascade Lens (Fragile Premise)
+Epistemic Enclosure Lens (Model Collapse)
+Attentional Gravity Lens
+Program of Thought (PoT) Architecture
+Vector Symbolic Architectures (VSA)
+Metacognitive Prompting / Self-Correction
+Cultural Fidelity Index (CFI)
+Drift Integrity Score
+Semantic Density / Fidelity Score (SFS)
+Creativity Divergence Map

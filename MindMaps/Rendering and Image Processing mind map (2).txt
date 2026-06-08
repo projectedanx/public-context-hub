@@ -1,0 +1,120 @@
+Rendering and Image Processing
+<
+Rendering Techniques
+<
+Image Processing
+<
+Cameras & Sensors
+<
+Composition in Photography
+<
+3D Rendering
+<
+Image-Based Rendering (IBR)
+<
+Real-time Rendering
+<
+Resolution
+<
+Image Scaling & Upscaling
+<
+Anti-Aliasing (AA)
+<
+Denoising
+<
+Color and Dynamic Range
+<
+Post-Production Workflow
+<
+High Resolution Capture (8K, 12K)
+Sensor Design (CMOS, 2-Layer Pixel)
+Color Filter Array (CFA) (RGBW)
+Dynamic Range
+Pixel Pitch
+Rolling Shutter vs. Global Shutter
+Blackmagic URSA Cine 12K LF
+Guidelines vs. Rules
+Main Elements
+Rule of Thirds
+Frame Within the Frame
+Rule of Odds
+Filling the Frame
+Golden Triangles
+Golden Ratio
+Balancing Elements
+3D Modeling vs. 3D Rendering
+Photorealism
+Lighting Models
+<
+Shading Models
+<
+Ray Tracing
+<
+Path Tracing
+<
+Subsurface Scattering (SSS)
+<
+Overview
+Techniques
+<
+Geometry Usage Classification
+Applications
+Pipeline Stages
+Optimizations
+GPU Memory
+Real-time Photorealism
+2K Resolution
+4K Resolution
+8K Resolution
+12K Resolution
+Pixel Density
+Human Perception Limits
+Super-resolution
+Downsampling
+Pixel Binning
+In-sensor Scaling / Subsampling
+AI Upscaling (DLSS, FSR, XeSS)
+Purpose
+Techniques
+<
+Temporal Denoising
+Self-Supervised Denoising
+AI Denoising
+CIE XYZ Color Space
+Chroma Subsampling
+High Dynamic Range (HDR)
+ARRI REVEAL Color Science
+Data Management
+Video Editing
+VFX Compositing
+Color Grading
+Sound Design
+Final Delivery
+Direct Lighting
+Indirect Lighting / Global Illumination
+Gouraud Shading
+Phong Shading
+Fundamentals
+Real-Time Ray Tracing (RTRT)
+GPU Acceleration
+Ray Reconstruction (NVIDIA DLSS)
+Monte Carlo Integration
+Real-time Path Tracing
+Mechanism
+Applications (Skin, Marble)
+Diffusion Profiles (Sum-of-Gaussians)
+V-Ray Implementation
+Light Field Rendering
+Lumigraph
+Concentric Mosaics
+View Morphing
+Layered-Depth Images (LDI)
+Relief Textures
+Virtualized Geometry (Nanite)
+Neural Radiance Fields (NeRF)
+3D Gaussian Splatting
+Supersampling AA (SSAA)
+Multisampling AA (MSAA)
+Fast Approximate AA (FXAA)
+Temporal AA (TAA / TXAA)
+Subpixel-Reconstruction AA (SRAA)

@@ -1,6 +1,4 @@
-Mind map
 Knowledge Systems, Urban Planning, and Workflow Optimization
-
 Wikipedia API and Related Knowledge Systems
 <
 Wikipedia API
