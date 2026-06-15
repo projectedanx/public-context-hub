@@ -1,0 +1,213 @@
+EduRP_ID: ARCH-AESTHETIC-001
+
+EduRP_NAME: Aesthetic Pattern Deconstruction & Structural Cloning
+
+DOMAINS: Frontend Engineering, UI/UX Design Systems, Prompt Engineering, Ethical Web Scraping
+
+GOAL
+
+The objective is to analyze a target URL's visual and structural "DNA" to extract a reusable, high-fidelity design system (CSS/Tailwind tokens, React/HTML structure) without infringing on proprietary assets (images/copy).
+
+Success Metric: The generated code must pass a "Visual Parity Test" (>90% structural resemblance) while maintaining 100% "Functional Autonomy" (zero external dependencies on the source's private assets).
+
+5. URL_CONTEXT_METADATA
+
+Standards: W3C Web Design Standards, WCAG 2.1 Accessibility, Atomic Design (Brad Frost).
+
+Exemplars: Tailwind UI, Radix UI, Shadcn/ui (for structural modularity).
+
+6. CONTEXT_ENGINEERING
+
+Persona: Lead Design Technologist & Systems Architect.
+
+Anchors: Design-to-Code mapping, Tokenization of CSS.
+
+Assumptions: The user has legal permission to view the source; the goal is structural learning and template creation, not identity theft.
+
+Threat Model: Avoidance of "Brittle Selectors" (code that breaks if the source updates) and "Asset Ghosting" (broken links to source images).
+
+PATTERN_MODEL
+
+Pattern Name
+
+Type
+
+Claim
+
+Mechanism
+
+Boundary Conditions
+
+Diagnostic Test
+
+Chromatophore
+
+Visual
+
+Color systems are derived from a finite primary/secondary/accent palette.
+
+Extract hex codes from computed styles; map to HSL scales.
+
+Ignore dynamic user-generated content colors.
+
+Does the palette maintain a consistent contrast ratio?
+
+Spatial Cadence
+
+Structural
+
+Layout logic follows a repeatable grid or flex rhythm (padding/margin scales).
+
+Calculate GCD (Greatest Common Divisor) of spacing values to find the base unit (e.g., 4px).
+
+Responsive breakpoints (sm/md/lg/xl).
+
+Does the layout collapse predictably on a 375px viewport?
+
+Typographic Hierarchy
+
+Semantic
+
+Text scaling follows a modular ratio (e.g., 1.250 Major Third).
+
+Identify font-family stacks, weight distributions, and line-height ratios.
+
+System font fallbacks must be specified.
+
+Is the H1-H6 hierarchy distinguishable via screen reader?
+
+Atomic Componentry
+
+Functional
+
+Complex UIs are compositions of discrete atoms (buttons, inputs, cards).
+
+Identify recursive HTML structures with identical class signatures.
+
+Unique ID attributes are excluded.
+
+Can a single "Card" component be rendered in isolation?
+
+EXECUTION_PLAN
+
+To execute this systematic deconstruction, I have a robust execution plan comprising 20 explicit Pattern Queries.
+
+Retrieval Plan (Pattern Queries)
+
+The following 20 operational queries will be executed against the target URL's DOM and CSSOM to extract verifiable patterns rather than subjective visual assumptions.
+
+Chromatophore (Visual & Color)
+
+Query 01: Extract all computed background-color values across node depths to establish the primary canvas and surface token distribution.
+
+Query 02: Map computed color on text nodes against their background-color to identify the data-driven foreground tokens and calculate WCAG contrast ratios.
+
+Query 03: Query border-color and outline values specifically on interactive nodes (<button>, <a>, <input>) to extract focus ring and active state tokens.
+
+Query 04: Deconstruct box-shadow values into blur-radius, spread, and RGBA alpha channels to mathematically derive the elevation token scale.
+
+Query 05: Correlate specific color hex codes with semantic ARIA states (aria-invalid="true", aria-expanded) to identify functional feedback palettes.
+
+Spatial Cadence (Structural Layout)
+
+Query 06: Aggregate all computed padding and margin values across the DOM to calculate the dataset's Greatest Common Divisor (GCD), establishing the operational base spacing unit.
+
+Query 07: Extract max-width properties from root container elements (<main>, <section>) to define the exact layout breakpoint boundaries.
+
+Query 08: Measure gap values within all display: flex and display: grid containers to isolate internal component rhythm tokens.
+
+Query 09: Query border-radius values across distinct semantic tags to map the geometry scale (e.g., sharp vs. rounded structural identities).
+
+Query 10: Extract the z-index stacking contexts to reconstruct the application's three-dimensional layer hierarchy.
+
+Typographic Hierarchy (Semantic)
+
+Query 11: Extract the computed font-family stack from the <body> and <code> elements to isolate primary sans-serif and monospace fallbacks.
+
+Query 12: Map font-size variables from <h1> through <h6> and <p> tags to calculate the mathematical modular scale ratio (e.g., Major Third, Perfect Fourth).
+
+Query 13: Identify the specific integer font-weight distributions (e.g., 400, 500, 600) actively rendered in the DOM.
+
+Query 14: Extract line-height and letter-spacing ratios relative to their computed font-size to build the leading and tracking matrices.
+
+Query 15: Analyze text-decoration and color transitions during simulated :hover states to define interactive typography rules.
+
+Atomic Componentry (Functional Integration)
+
+Query 16: Extract the recursive HTML node structure and class signatures of <button> elements to blueprint primary, secondary, and ghost variants.
+
+Query 17: Analyze the spatial and structural DOM pairings of <input> and <label> elements to map form field anatomy.
+
+Query 18: Query transition-property, transition-duration, and transition-timing-function values to formalize the motion design system.
+
+Query 19: Identify repeating HTML subtrees with identical class signatures (filtering out unique IDs) to fingerprint complex composite molecules like Cards and Navbars.
+
+Query 20: Extract role and aria-hidden attributes associated with <svg> elements to define the system's iconography insertion pattern.
+
+Synthesis Plan
+
+Tokenization: Convert raw pixel values into Tailwind-style tokens (e.g., 48px -> spacing-12).
+
+Blueprinting: Translate DOM structures into semantic HTML5 or React JSX.
+
+Abstraction: Replace hardcoded content with {children} or {{placeholder}}.
+
+Validation Plan
+
+Negative Control: Attempt to render the template with a high-contrast theme; if it breaks, the spatial cadence is too rigid.
+
+Calibration: Compare the "Empty State" of the clone against the "Empty State" of the original.
+
+SELF_TEST (Evaluation Rubric)
+
+Modularity (1-5): Are components decoupled?
+
+Responsiveness (1-5): Does the template adapt without horizontal scrolling?
+
+Semantic Fidelity (1-5): Does the code use <div> soup or meaningful tags (<nav>, <main>, <article>)?
+
+REFLEXIVE_CHECK
+
+Proxy Trap: Confusing a framework's default styles (e.g., Bootstrap) with the site's unique identity.
+
+Falsification: If the site uses a "Canvas" renderer (e.g., some heavy WebGL sites), this DRP's DOM-based approach will fail.
+
+INTEGRITY_ATTESTATION:
+
+For each requirement:
+
+Strongest case for NON-COMPLIANCE.
+
+Specific evidence pointer demonstrating compliance.
+
+Status: ATTESTED | PARTIAL | UNATTESTED | INDETERMINATE
+
+RELATIONAL_PREDICTABLE_INCLUSIONS
+
+Figma Bridge: Exporting these tokens to a .json format compatible with Token Studio for Figma.
+
+CMS Portability: Instructions for injecting these patterns into WordPress/Headless CMS.
+
+2. Validation & Quality Control
+To maximize semantic fidelity and prevent brittle code generation, the synthesis process relies on data-driven thresholds and rigorous failure testing.
+
+Operational Definitions & Baselines
+Spacing Baseline: Rather than assuming a standard 4px/8px grid, the base unit is strictly defined as the GCD of the 10 most frequent padding/margin values found in the DOM.
+
+Color Tolerance: Tokens will be clustered using HSL distance. Variations within a 2% lightness threshold will be merged into a single token to prevent CSS bloat.
+
+Diagnostic Tests & Failure Modes
+Negative Control (Spatial): The generated layout blueprint will be tested with all CSS padding and margins globally reset to 0. Failure Mode: If the content flow becomes entirely illegible or reorders unexpectedly, the original cadence relied on brittle, absolute positioning rather than robust flex/grid logic.
+
+Negative Control (Visual): Render the extracted design tokens using a forced high-contrast browser theme. Failure Mode: If functional boundaries (like input fields or button edges) disappear, the aesthetic pattern relies too heavily on subtle background shifts rather than semantic borders.
+
+Proxy Trap Check: Cross-reference extracted class naming conventions (e.g., col-md-6, flex-row) against known framework signatures. Failure Mode: Misidentifying a raw Bootstrap or Tailwind installation as a bespoke, proprietary design system.
+
+3. Expected Output Artifacts
+Upon execution against a target, the systematized data will be compiled into the following declarative formats:
+
+design_tokens.json: A structured catalog of the visual DNA (colors, typography scales, spacing GCDs) mapped without fixed thresholds.
+
+layout_blueprint.html: The semantic skeleton demonstrating atomic componentry, stripped of proprietary copy and external asset dependencies.
+
+theme_config.tailwind.js: The functional logic mapping the extracted JSON tokens into a Tailwind v4.2+ compliant configuration file.
