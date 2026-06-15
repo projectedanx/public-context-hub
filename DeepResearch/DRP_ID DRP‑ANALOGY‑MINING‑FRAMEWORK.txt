@@ -1,0 +1,206 @@
+DRP_ID DRP‑ANALOGY‑MINING‑FRAMEWORKS‑2026
+
+DRP_NAME
+
+Discovery of Historical Frameworks & Prompt Pattern Archetypes (CRISP, REACT, BANK, etc.)
+
+DOMAIN
+
+Prompt Engineering History
+Educational Cognitive Structures
+Agent Framework Taxonomies
+Knowledge Mining & Ontology Extraction
+NLP Corpus Archaeology
+
+Core Adjacent Domains (Highly Aligned)
+
+These are tightly coupled with prompting frameworks and symbolic cognitive design.
+
+Domain	Description
+Cognitive Task Modeling	How tasks are structured into thought-action loops
+Heuristic Scaffolding	Named shortcuts or strategies for reasoning
+Symbolic Control Structures	Use of symbolic tokens to manage workflows
+Instructional Design Patterns	Scaffolds for learning, tutoring, or training AI
+Agentic Planning Systems	Planning/acting loops (REPLAN, SEAGULL, etc.)
+Mental Model Ontologies	Structuring internal representations (5W1H, IDEAL)
+Pattern-Based Knowledge Systems
+
+Where named/structured patterns are common.
+
+Domain	Description
+Design Patterns in Software	Named reusables (Factory, Singleton, etc.)
+Decision Support Systems	Named frameworks for analysis (e.g. SWOT, RACI)
+Data Mining Methodologies	e.g., CRISP-DM, SEMMA
+UX Cognitive Frameworks	e.g. Fogg Model, Hook Model
+Educational Psychology	e.g. PQ4R, Bloom’s Taxonomy
+Military Doctrine Modeling	Named ops planning structures (OODA loop, SALUTE, METT-TC)
+
+Meta-Framework & Abstraction Domains
+
+Where frameworks explain or categorize other frameworks.
+
+Domain	Description
+Meta-Pattern Taxonomy	How patterns relate across domains
+Abductive Reasoning Models	Pattern extraction under uncertainty
+Prompt Grammar Formalization	Structured prompt syntaxes (e.g. PEG-style for LLM prompts)
+Ontological Frame Mining	Extracting reusable conceptual scaffolds
+
+Research & ML-Specific Framework Domains
+
+Domain	Description
+Few-Shot Prompt Libraries	Structures like FLAN, T-Few, etc.
+Agent Simulations / Narratives	Frameworks in multi-agent emergent behavior
+Toolformer & Plugin Frameworks	Named frameworks for tool-augmented LLMs
+Chain-of-Thought Variants	CoT, DiRe, CoR, Tree-of-Thoughts, etc.
+Evaluation Frameworks	PromptBench, HELM, RAGAs, etc.
+
+GOAL
+
+Design a repeatable methodology for discovering and extracting named analogy/prompting frameworks from historical corpora (technical papers, blogs, textbooks, codebases).
+Outputs should include:
+
+A named framework registry (name, expansion, domain, structure)
+Structural schematics (operator sequence, scaffold format)
+Pattern clusters by domain (agents, reasoning, planning, memory)
+Failure archetypes (dead acronyms or non-generalizing patterns)
+
+Stakeholders
+
+Prompt Engineers / Agent Architects
+Linguist / Epistemologist 
+Academia / Scientists
+LLM Trainers / Fine-tuners
+Framework Archivists / Educators
+
+Out-of-Scope
+General prompt optimization (not specific to named frameworks)
+Frameworks without symbolic structure (e.g. vibes-only prompting)
+
+URL_CONTEXT_METADATA
+
+Curated Sources:
+
+https://github.com/f/awesome-chatgpt-prompts
+https://inkyma.com/ai-consulting/ai-workflow-vs-ai-agent-vs-ai-prompt/
+https://arxiv.org/
+https://www.johndehavilland.com/posts/2025-07-01-from-prompts-to-agents/
+https://paperswithcode.com
+https://cloud.google.com/discover/what-is-agentic-ai
+https://promptingguide.ai/frameworks
+https://blog.promptlayer.com/what-are-the-top-agentic-frameworks-ai-agent-agentic-definition-explanation/
+https://www.promptingguide.ai/prompt-patterns
+https://orkes.io/blog/prompt-engineering-in-agentic-workflows/
+https://openai.com/research
+https://www.predli.com/post/agentic-workflows-and-prompt-optimization
+https://github.com/dsdanielpark/prompt-optimizer
+
+CONTEXT_ENGINEERING
+Persona
+
+You are a Framework Archaeologist Agent, tasked with recovering and structuring historical symbolic systems used in machine reasoning and prompting.
+
+Anchors
+
+Framework = Named, structured pattern with defined steps.
+
+Prompt Framework = Role + Stepwise Logic + Output Template
+
+Pattern = A repeatable input-output symbolic control flow.
+
+Dead Framework = Proposed but non-adopted.
+
+Threat Model
+
+Ambiguous acronyms (non-framework)
+
+Overfitted frameworks (single-use)
+
+AI hallucinated naming ("FLAIR" without citation)
+
+PATTERN_GENERATION
+Operator	Description
+Acronym Scanner	Regex for 3–6 letter capitalized phrases + expansions
+Step Extractor	Identify phase-like sequences (e.g. Observe → Act)
+Role Decomposer	Detect agent roles or subagent structure
+Structure Parser	Parse prompt templates or YAML/JSON prompt patterns
+Ontology Mapper	Group by cognitive function (reasoning, memory, etc.)
+
+CONSTRAINTS_AND_INVARIANTS
+
+Every framework entry must include:
+
+Name
+Expansion (if exists)
+Domain (e.g., agents, data mining)
+Structural Pattern
+Real Source (Sourced or marked [PLACEHOLDER])
+No framework is accepted without at least:
+
+2 independent mentions or
+1 documented application (paper, repo, blog)
+
+Discard framework proposals without step structure or reusable logic.
+
+EXECUTION_PLAN
+Inputs
+
+Curated corpora (PDFs, GitHub, arXiv scraping, prompt repos)
+Regex/acronym parser
+Structural pattern matcher
+Human validator loop
+Transforms
+
+Mine Corpus
+
+Use named entity + acronym detection
+Extract expansions via “X stands for…” patterns
+Structure Extraction
+
+Use NLP to detect:
+
+Sequences (Step 1 → Step 2)
+Roles or submodules
+Templates in code/prompt files
+Pattern Classification
+
+Group by:
+
+Functional domain (reasoning, agenting, memory)
+Scaffold type (linear, nested, cyclical)
+Registry Creation
+
+Store as:
+
+- name: REACT
+  expansion: Reasoning + Acting
+  domain: Agent Prompting
+  structure: [Thought, Action, Observation]
+  source: https://arxiv.org/abs/2210.03629
+
+Negative Controls
+
+Random acronyms with no structure
+Frameworks without clear reuse or citation
+Fictional/hallucinated frameworks
+
+Stop Conditions
+<10 unique frameworks in domain = abort extraction
+20% of entries missing structure = pipeline error
+
+SELF-TEST
+Condition	Expected Outcome	Failure Signal
+Acronym w/ 3–6 letters + expansion found	Framework candidate	No structure = discard
+Structure detected (phases or YAML)	Valid framework	None = reprocess or drop
+>2 citations for a name	Include in registry	Single citation = flag
+Dead acronym (no usage in 2 yrs)	Mark as deprecated	Unmarked = review required
+
+REFLEXIVE_CHECK
+
+Are we mistaking buzzwords for frameworks?
+Are structural patterns reusable, or are they frozen scripts?
+Do these patterns reflect cognitive scaffolds or LLM affordances?
+
+RELATIONAL_PREDICTABLE_INCLUSIONS
+Extend to DRP-MEM-PROMPT-ARCHIVE: Versioned prompt framework registry
+Integrate into LangGraph or AutoGen scaffolding
+Used as constraints in DRP-PROMPT-EVALUATION-STANDARDS
